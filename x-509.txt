@@ -1,0 +1,11 @@
+mongod --fork --auth --sslMode requireSSL --sslPEMKeyFile ./certs/server.pem --sslCAFile ./certs/ca.pem --dbpath /tmp/mongod/10/data/ --logpath /tmp/mongod/10/log/mongod10_log.txt --port 27010  
+
+openssl x509 -in ./certs/client.pem -inform PEM -subject -nameopt RFC2253 -noout
+
+C=US,ST=New York,L=New York City,O=MongoDB,OU=University2,CN=M310 Client
+
+db.getSiblingDB("$external").runCommand({createUser: "C=US,ST=New York,L=New York City,O=MongoDB,OU=University2,CN=M310 Client", roles: [{role:"root", db:"admin"}]  })
+
+db.getSiblingDB("$external").auth({user: "C=US,ST=New York,L=New York City,O=MongoDB,OU=University2,CN=M310 Client", mechanism: "MONGODB-X509"  })
+
+mongo localhost:27010/admin --ssl --sslPEMKeyFile ./certs/client.pem --sslCAFile ./certs/ca.pem
