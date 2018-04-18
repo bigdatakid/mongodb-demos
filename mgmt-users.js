@@ -63,3 +63,29 @@ db.grantRolesToUser({  "tina"
 	                       { "role": "userAdminAnyDatabase" , "db" : "admin"}
 	                     ]
 	           });
+
+var role={
+	"role" : "example_role"
+   ,"privileges" : [
+		{
+			"resource" : {
+				"db" : "test",
+				"collection" : "table1"
+			},
+			"actions" : [
+				"find",
+				"insert",
+				"update",
+				"remove"
+			]
+		}
+	]
+   ,"roles" : [
+		{
+			"role" : "read",
+			"db" : "test"
+		}
+	]
+}
+
+db.createRole(role)
