@@ -1,0 +1,25 @@
+{
+  "name": "mongodbdemos",
+  "version": "1.0.0",
+  "description": "Demos on how to start and configure a mongoDB replicaset",
+  "main": "config-rep.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigdatakid/mongodb-demos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigdatakid/mongodb-demos/issues"
+  },
+  "homepage": "https://github.com/bigdatakid/mongodb-demos#readme",
+  "dependencies": {
+    "mongodb": "^3.0.7"
+  }
+}
