@@ -1,0 +1,178 @@
+    1  su - mongod
+    2  whoami
+    3  exit
+    4  passwd mongod
+    5  su - mongod
+    6  exit
+    7  /etc/init.d/mongod start /etc/mongod1.conf 
+    8   ls -l /var/log/mongodb/
+    9  rm -rf mongod.log
+   10  rm -rf /var/log/mongodb/mongod.log
+   11  /etc/init.d/mongod start /etc/mongod1.conf 
+   12  ls -l /var/log/mongodb/
+   13  vim /etc/init.d/mongod
+   14   daemon --user mongod --check mongod  mongod -f /etc/mongod1.conf 
+   15  daemon --user mongod --check mongod  mongod -f /etc/mongod1.conf 
+   16  mongod  mongod -f /etc/mongod1.conf
+   17  cat /etc/mongod1.conf 
+   18  sudo vim /etc/mongod1.conf
+   19  mongod  -f /etc/mongod1.conf
+   20  mongod --help
+   21  vim /etc/mongod1.conf
+   22  vim /etc/mongod1.conf
+   23  vim /etc/mongod1.conf
+   24  vim /etc/mongod2.conf
+   25  mongod  -f /etc/mongod1.conf
+   26  vim /etc/mongod1.conf
+   27  vim /etc/mongod1.conf
+   28  mongod  -f /etc/mongod1.conf
+   29  vim /etc/mongod1.conf
+   30  mongod  -f /etc/mongod1.conf
+   31  vim /etc/mongod1.conf
+   32  mongod  -f /etc/mongod1.conf
+   33  ps -ef | grep mongo
+   34  kill 24895
+   35  history
+   36  ps -ef | grep mongo
+   37  /etc/init.d/mongod start /etc/mongod1.conf 
+   38  mongod  -f /etc/mongod1.conf
+   39  mongod  -f /etc/mongod2.conf
+   40  vim /etc/mongod2.conf
+   41  mongod  -f /etc/mongod2.conf
+   42  mongo localhost:27011/admin
+   43  mongo localhost:27012/admin
+   44  cat /etc/mongos.conf 
+   45  cat /etc/mongodcfg.conf 
+   46  vim  /etc/mongodcfg.conf 
+   47  vim  /etc/mongodcfg.conf 
+   48  mongod  -f /etc/mongodcfg.conf
+   49  vim /etc/mongos.conf 
+   50  mongo localhost:27011/admin
+   51  mongo localhost:27012/admin
+   52  clear
+   53  clear
+   54  cat /etc/mongos.conf 
+   55  clear
+   56  mongos -f /etc/mongos.conf 
+   57  mongos --help
+   58  vim /etc/mongos.conf 
+   59  mongos -f /etc/mongos.conf 
+   60  vim /etc/mongos.conf 
+   61  mongos -f /etc/mongos.conf 
+   62  mongo localhost:27017/admin
+   63  vim /etc/mongos.conf 
+   64  mongo localhost:27017/admin
+   65  ps -ef | grep mongo
+   66  mongos -f /etc/mongos.conf 
+   67  vim /etc/mongos.conf 
+   68  mongos -f /etc/mongos.conf 
+   69  kill 25147
+   70  vim /etc/mongodcfg.conf 
+   71  vim /etc/mongos.conf 
+   72  cat /etc/mongos.conf | grep -i cfg
+   73  cat /etc/mongodcfg.conf | grep -i cfg
+   74  mongod -f /etc/mongodcfg.conf 
+   75  vim  /etc/mongodcfg.conf 
+   76  mongod -f /etc/mongodcfg.conf 
+   77  vim  /etc/mongodcfg.conf 
+   78  mongod -f /etc/mongodcfg.conf 
+   79  mongod -f /etc/mongodcfg.conf 
+   80  vim  /etc/mongodcfg.conf 
+   81  mongod -f /etc/mongodcfg.conf 
+   82  vim  /etc/mongodcfg.conf 
+   83  mongod -f /etc/mongodcfg.conf 
+   84  vim  /etc/mongodcfg.conf 
+   85  mongod -f /etc/mongodcfg.conf 
+   86  vim  /etc/mongodcfg.conf 
+   87  mongod -f /etc/mongodcfg.conf 
+   88  mongod --config /etc/mongodcfg.conf 
+   89  vim  /etc/mongodcfg.conf 
+   90  mongod --config /etc/mongodcfg.conf 
+   91  ps -ef | grep mongo
+   92  mongos -f /etc/mongos.conf 
+   93  mongos -f /etc/mongos.conf 
+   94  clear
+   95  mongo localhost:27017/admin
+   96  mongo localhost:27011/admin
+   97  mongo localhost:27012/admin
+   98  cat /etc/mongodcfg.conf 
+   99  mongo localhost:27019/admin
+  100  ps -ef | grep mongo
+  101  kill 25531
+  102  ps -ef | grep mongo
+  103  kill 25533
+  104  kill 25606
+  105  ps -ef | grep mongo
+  106  mongos --config /etc/mongos.conf 
+  107  mongos --config /etc/mongos.conf 
+  108  mongos --config /etc/mongos.conf 
+  109  mongo localhost:27017/admin
+  110  mongo mongodba:data2012@localhost:27017/admin
+  111  mongo localhost:27017/admin
+  112  mongo localhost:27017/admin -u mongodba -password "data2012"
+  113  host
+  114  hostname
+  115  mongo localhost:27017/admin
+  116  mongo ip-172-31-15-0:27010
+  117  mongo localhost:27010
+  118  mongo localhost:27017/admin
+  119  ping ip-172-31-15-0
+  120  mongo localhost:27011/admin -u mongodba -password "data2012"
+  121  mongo localhost:27012/admin -u mongodba -password "data2012"
+  122  cat /etc/mongodcfg.conf | grep -i port
+  123  mongo localhost:27019/admin -u mongodba -password "data2012"
+  124  mongo localhost:27017/admin -u mongodba -password "data2012"
+  125  exit
+  126  history | grep '^mongos'
+  127  history
+  128  mongo localhost:27017/admin -u mongodba -password "data2012"
+  129  mongo localhost:27017/merk -u merkWrite -password "data2012"
+  130  exit
+  131  mkdir /tmp/config
+  132  cp /etc/mongo*  /tmp/config/
+  133  chmod -R 777 /tmp/config
+  134  exit
+  135  mongos localhost:27017/admin
+  136  mongo localhost:27017/admin
+  137  cat /etc/mongos.conf
+  138  vim /etc/mongos.conf 
+  139  mongos --port 27018  --keyFile /var/lib/mongo/keyfile --configdb replCfg/localhost:27010,localhost:27011
+  140  ps -ef | mongo
+  141  ps -ef | grep -i mongo
+  142  kill 25374
+  143  kill 25375
+  144  kill 25376
+  145  ps -ef | grep -i mongo
+  146  cat /etc/mongodcfg.conf | grep -i port
+  147  mongo localhost:27019/admin
+  148  vim /etc/mongos.conf 
+  149  ps -ef | grep -i mongo
+  150  mongos --config /etc/mongos.conf 
+  151  ls -l /var/log/
+  152  ls -l /var/log/mongodb/
+  153  cat  /var/log/mongodb/mongos
+  154  cat  /var/log/mongodb/mongos.log 
+  155  ps -ef | grep mongo
+  156  kill 25609
+  157  kill 25610
+  158  kill 25630
+  159  ps -ef | grep mongo
+  160  kill 25611
+  161  ps -ef | grep mongo
+  162  rm  /var/log/mongodb/mongos.log 
+  163  tail -f   /var/log/mongodb/mongos.log 
+  164  tail -f   /var/log/mongodb/mongos.log 
+  165  cat  /etc/mongos.conf 
+  166  vim  /etc/mongos.conf 
+  167  ps -ef | grep mongo
+  168  kill 25639
+  169  kill 25640
+  170  kill 25641
+  171  ps -ef | grep mongo
+  172  rm -rf /var/log/mongodb/mongos.log 
+  173  tail -f /var/log/mongodb/mongos.log 
+  174  exit
+  175  history | grep mongo
+  176  mongo localhost:27017/admin -u mongodba -password "data2012"
+  177  exit
+  178   history > /tmp/history/root-vault-history.txt

@@ -1,0 +1,190 @@
+    1  vim /etc/yum.repos.d/mongodb-enterprise.repo
+    2  sudo vim /etc/yum.repos.d/mongodb-enterprise.repo
+    3  sudo yum install -y mongodb-enterprise
+    4  ls -l /etc/mongod.conf
+    5  sudo vim /etc/mongd.conf
+    6  ls -l /etc/init.d/
+    7  sudo vim  /etc/init.d/mongod
+    8  sudo service mongod start
+    9  mongo admin
+   10  sudo vim /etc/mongd.conf
+   11  sudo service mongod restart
+   12  mongo localhost:27017/admin
+   13  sudo service mongod restart
+   14  mongo admin
+   15  exit
+   16  ps -ef | grep mongo
+   17  kill 25325
+   18  sudo kill 25325
+   19  sudo kill 25326
+   20  sudo kill 25327
+   21  ps -ef | grep mongo
+   22  mongo localhost:27017/admin
+   23  ps -ef | grep mongo
+   24  sudo cat /etc/mongos.conf | grep -i port
+   25  mongo 
+   26  sudo cat /etc/mongos.conf 
+   27  export VAULT_ADDR='http://127.0.0.1:8200'
+   28  vault kv put secret/hello foo=world
+   29  vault kv put secret/hello foo=world excited=yes
+   30  vault kv get secret/hello
+   31  vault secrets enable database
+   32  vault write database/config/my-mongodb-database     plugin_name=mongodb-database-plugin     allowed_roles="my-role"     connection_url="mongodb://{{username}}:{{password}}@localhost:27017/admin?"     username="mongodba"     password="data2012"
+   33  vault write database/roles/my-role     db_name=my-mongodb-database     creation_statements='{ "db": "admin", "roles": [{ "role": "readWrite" }, {"role": "read", "db": "foo"}] }'     default_ttl="1h"     max_ttl="24h"
+   34  vault read database/creds/my-role
+   35  mongo localhost:27017/admin 
+   36  history
+   37  vault delete database/config/my-mongodb-database
+   38  sudo service mongod stop
+   39  sudo cat /etc/mongod.conf
+   40  sudo rm -rf /var/lib/mongo/*
+   41  ls -la /var/lib/mongo
+   42  stat -c %a  /var/lib/mongo
+   43  sudo mkdir /var/lib/mongo/1/
+   44  sudo mkdir /var/lib/mongo/2/
+   45  sudo mkdir /var/lib/mongo/s/
+   46  sudo chmod 755 /var/lib/mongo/1/
+   47  sudo chmod 755 /var/lib/mongo/2/
+   48  sudo chmod 755 /var/lib/mongo/s/
+   49  sudo cp /etc/mongod.conf   /etc/mongod1.conf
+   50  sudo cp /etc/mongod.conf   /etc/mongod2.conf
+   51  sudo cp /etc/mongod.conf   /etc/mongos.conf
+   52  sudo mkdir /var/lib/mongo/cfg/
+   53  sudo chmod cfg /var/lib/mongo/cfg/
+   54  sudo chmod 755 /var/lib/mongo/cfg/
+   55  sudo cp /etc/mongod.conf   /etc/mongodcfg.conf
+   56  sudo vim mongod1.conf
+   57  sudo vim /etc/mongod1.conf
+   58  sudo cp /etc/mongod1.conf   /etc/mongod2.conf
+   59  sudo cp /etc/mongod1.conf   /etc/mongodcfg.conf
+   60  sudo vim /etc/mongod2.conf
+   61  sudo vim mongodcfg.conf
+   62  sudo vim /etc/mongodcfg.conf
+   63  sudo vim /etc/mongos.conf
+   64  for i in `ls /etc/mon*.conf` ; do echo ${i} ; cat /etc/${i} | grep -i port  ; done
+   65  for i in `ls /etc/mon*.conf` ; do echo ${i} ; cat ${i} | grep -i port  ; done
+   66  ls /etc/mon*.conf
+   67  sudo rm -rf mongd.conf
+   68  for i in `ls /etc/mon*.conf` ; do echo ${i} ; cat ${i} | grep -i port  ; done
+   69  sudo rm -rf mongd.conf
+   70  for i in `ls /etc/mon*.conf` ; do echo ${i} ; cat ${i} | grep -i port  ; done
+   71  sudo rm -rf /etc/mongd.conf
+   72  for i in `ls /etc/mon*.conf` ; do echo ${i} ; cat ${i} | grep -i port  ; done
+   73  for i in `ls /etc/mon*.conf` ; do echo ${i} ; cat ${i} | grep -i log  ; done
+   74  for i in `ls /etc/mon*.conf` ; do echo ${i} ; cat ${i} | grep -i pidfile  ; done
+   75  for i in `ls /etc/mon*.conf` ; do echo ${i} ; cat ${i} | grep -i keyfile  ; done
+   76  ps -ef | grep mongo
+   77  sudo service mongo start
+   78  sudo service mongod start
+   79  ps -ef | grep mongo
+   80  sudo service mongod stop
+   81  history | grep stat
+   82  openssl rand -base64 756 > /var/lib/mongo/keyfile
+   83  sudo openssl rand -base64 756 > /var/lib/mongo/keyfile
+   84  sudo openssl rand -base64 756 
+   85  sudo openssl rand -base64 756 | sudo tee /var/lib/mongo/keyfile
+   86  sudo chmod 400 /var/lib/mongo/keyfile 
+   87  sudo cat /etc/init.d/mongod 
+   88  cp /etc/init.d/mongod   /tmp/mongod-start.sh
+   89  sudo vim /etc/init.d/mongod 
+   90  /etc/init.d/mongod /etc/mongod1.conf 
+   91  sudo vim /etc/init.d/mongod 
+   92  /etc/init.d/mongod start /etc/mongod1.conf 
+   93  sudo /etc/init.d/mongod start /etc/mongod1.conf 
+   94  sudo ls -l /var/log/mo*
+   95  sudo cat /etc/mongod1.conf 
+   96  sudo vim  /etc/mongod1.conf 
+   97  sudo cat /var/log/mongodb/mongod1.log
+   98  sudo mkdir -p /var/log/mongodb/
+   99  sudo chmod 777 /var/log/mongodb/
+  100  sudo /etc/init.d/mongod start /etc/mongod1.conf 
+  101  sudo cat /var/log/mongodb/mongod1.log
+  102  sudo cat  /etc/mongod1.conf  | grep -i log
+  103  sudo cat  /etc/mongod1.conf 
+  104  :q
+  105  sudo cat  /etc/mongod1.conf  | grep -i log
+  106  sudo cat  /var/log/mongodb/mongod1.log
+  107  sudo ls -l /var/log/
+  108  sudo ls -l /var/log/mongodb/
+  109  sudo su
+  110  clear
+  111  export VAULT_ADDR='http://127.0.0.1:8200'
+  112  vault write database/config/my-mongodb-database     plugin_name=mongodb-database-plugin     allowed_roles="my-role"     connection_url="mongodb://{{username}}:{{password}}@localhost:27017/admin?"     username="mongodba"     password="data2012"
+  113  vault write database/roles/my-role     db_name=my-mongodb-database     creation_statements='{ "db": "admin", "roles": [{ "role": "readWrite" }, {"role": "read", "db": "foo"}] }'     default_ttl="1h"     max_ttl="24h"
+  114  vault read database/creds/my-role
+  115  history 
+  116  vault delete database/config/my-mongodb-database
+  117  vault write database/config/my-mongodb-database     plugin_name=mongodb-database-plugin     allowed_roles="my-role"     connection_url="mongodb://{{username}}:{{password}}@localhost:27017/admin?ssl=true"     username="mongodba"     password="data2012"
+  118  vault write database/config/my-mongodb-database     plugin_name=mongodb-database-plugin     allowed_roles="my-role"     connection_url="mongodb://{{username}}:{{password}}@localhost:27017/admin?ssl=false"     username="mongodba"     password="data2012"
+  119  history | grep '^mongos'
+  120  sudo su
+  121  vault write database/config/my-mongodb-database     plugin_name=mongodb-database-plugin     allowed_roles="my-role"     connection_url="mongodb://{{username}}:{{password}}@localhost:27017/merk"     username="merkWrite"     password="data2012"
+  122  vault read database/creds/my-role
+  123  sudo su
+  124  exit
+  125  sudo su
+  126  exit
+  127  sudo service mongod start
+  128  sudo service mongod stop
+  129  mongo admin
+  130  cat /etc/mongod.conf 
+  131  sudo vim /etc/mongod.conf 
+  132  sudo service mongod restart
+  133  cat /etc/mongod.conf 
+  134  tail /var/log/mongodb/mongod.log
+  135  sudo tail /var/log/mongodb/mongod.log
+  136  sudo tail -40 /var/log/mongodb/mongod.log
+  137  sudo rm /var/log/mongodb/mongod.log
+  138  sudo service mongod start
+  139  sudo vim /var/log/mongodb/mongod.log
+  140  sudo vim /etc/mongod.conf 
+  141  sudo su
+  142  su - mongod
+  143  whoami
+  144  sudo su
+  145  su - mongod
+  146  whoami
+  147  su - mongod
+  148  who ami
+  149  cat /etc/mongod.conf 
+  150  ls -l /var/lib
+  151  sudo service mongod start
+  152  sudo vim /etc/mongod.conf 
+  153  sudo service mongod start
+  154  sudo service mongod stop
+  155  sudo vim /etc/mongod.conf 
+  156  sudo service mongod restart
+  157  sudo vim /etc/mongod.conf 
+  158  sudo service mongod restart
+  159  mongo localhost:27010/admin
+  160  mongo localhost:27017/admin
+  161  mongo localhost:27017/admin -u mongodb -password mongodba
+  162  sudo service mongod stop
+  163  sudo cat /etc/mongod.conf | grep -i path
+  164  sudo rm  -rf /var/lib/mongo/*
+  165  sudo service mongod start
+  166  mongo localhost:27017/admin 
+  167  wget https://releases.hashicorp.com/vault/0.10.1/vault_0.10.1_linux_amd64.zip
+  168  unzip vault_0.10.1_linux_amd64.zip 
+  169  ls -l
+  170  echo ${PATH}
+  171  cp ./vault  /usr/bin/
+  172  sudo cp ./vault  /usr/bin/
+  173  which vault
+  174  vault
+  175  vault -autocomplete-install
+  176  vault server -dev
+  177  vault write database/config/my-mongodb-database     plugin_name=mongodb-database-plugin     allowed_roles="marcelo-test-role-vault"     connection_url="mongodb://{{username}}:{{password}}@localhost:27017/merk"     username="merkWrite"     password="data2012"
+  178  vault write database/config/my-mongodb-database     plugin_name=mongodb-database-plugin     allowed_roles="my-role"     connection_url="mongodb://{{username}}:{{password}}@localhost:27017/merk"     username="merkWrite"     password="data2012"
+  179  export VAULT_ADDR='http://127.0.0.1:8200'
+  180  vault write database/config/my-mongodb-database     plugin_name=mongodb-database-plugin     allowed_roles="marcelo-test-role-vault"     connection_url="mongodb://{{username}}:{{password}}@localhost:27017/merk"     username="merkWrite"     password="data2012"
+  181  vault write database/roles/my-role     db_name=my-mongodb-database     creation_statements='{ "db": "admin", "roles": [{ "role": "readWrite" }, {"role": "read", "db": "foo"}] }'     default_ttl="1h"     max_ttl="24h"
+  182  vault write database/roles/marcelo-test-role-vault     db_name=my-mongodb-database     creation_statements='{ "db": "admin", "roles": [{ "role": "readWrite" }, {"role": "read", "db": "foo"}] }'     default_ttl="1h"     max_ttl="24h"
+  183  vault read database/creds/marcelo-test-role-vault
+  184  vault delete  database/config/my-mongodb-database
+  185  vault write database/config/my-mongodb-database     plugin_name=mongodb-database-plugin     allowed_roles="my-role"     connection_url="mongodb://{{username}}:{{password}}@localhost:27017/merk"     username="merkWrite"     password="data2012"
+  186  sudo su
+  187  vault write database/config/my-mongodb-database     plugin_name=mongodb-database-plugin     allowed_roles="my-role"     connection_url="mongodb://{{username}}:{{password}}@localhost:27017/taco"     username="tacoread"     password="data2012"
+  188  exit
+  189  mkdir /tmp/history
+  190  history > /tmp/history/ec2-vault-history.txt
