@@ -7,9 +7,3 @@ var config={ "_id" : "replKey"
 
 rs.initiate(config);
 
-db.createUser({ "user" : "mongodba"
-	          , "pwd" :"data2012"
-	          , "roles": [
-	                       { "role": "root" , "db" : "admin"}
-	                     ]
-	           });
