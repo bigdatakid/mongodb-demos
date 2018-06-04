@@ -1,5 +1,4 @@
 # MongoDB High Availability Micro Demo
-<br>
 ## Description
 
 This MongoDB micro-demo is intentended to showcase MongoDB high availability features.
