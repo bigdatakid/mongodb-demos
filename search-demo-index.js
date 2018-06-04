@@ -2,6 +2,9 @@
 use retail_db
 db = db.getSiblingDB("retail_db");
 
+#Clean the collection
+db.stores.drop()
+
 #Insert documents
  db.stores.insert(
    [
@@ -12,7 +15,7 @@ db = db.getSiblingDB("retail_db");
      ,{ _id: 5, name: "Java Shopping", description: "Indonesian goods" }
      ,{ _id: 6, name: "Pizza Shop", description: "You get a restaurant" }
      ,{ _id: 7, name: "Java", description: "Great programming language" }
-     ,{ _id: 8, name: "Black drink", description: "Coffee negative -shop" }
+     ,{ _id: 8, name: "Black drink", description: "non-alcoholic stimulants" }
    ]
 )
 #Wrong Solution
@@ -44,14 +47,14 @@ db.stores.find( { $text: { $search: "java \"coffee shop\"" } } )
 #Term exclusion -- Search for documents that contain Java and the phrase "coffee shop"
 db.stores.find( { $text: { $search: "java shop -coffee" } } )
 
-
-
 ## Ranking and sorting
 db.stores.find(
    { $text: { $search: "java coffee shop" } },
    { score: { $meta: "textScore" } }
 ).sort( { score: { $meta: "textScore" } } )
-db.stores.find( { "name": { $regex: /java/ } } )
+
+
+
 
 ## How to future-proof a search Index
 ## Wildcard INDEXING
@@ -59,8 +62,11 @@ db.stores.find( { "name": { $regex: /java/ } } )
  db.stores.insert(
   { _id: 9, name: "Breakfast", description: "Drink wakes you up" , "category": "not coffee"  }
                  )
+## See the indexes on collection
+db.stores.getIndexes()
 
 ## DROP INDEX
+db.stores.dropIndex( "name_text_description_text")
 db.stores.dropIndex( { name: "text", description: "text" } )
 
 ## WILDCARD INDEXING

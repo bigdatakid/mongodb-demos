@@ -18,7 +18,7 @@ Here is the sequence of steps:
 9. Highlight the application keeps running
 
 
-##Commands
+## Commands
 
 ```bash
 $   kill `ps -ef | grep mongo  | head -3| awk '{print $2}'`
@@ -32,7 +32,7 @@ $  kill `ps -ef | grep mongo | grep 27010 | awk '{print $2}'`
 $  mongod --auth --keyFile ./mongodb-key-file  --replSet replKey --fork --dbpath /tmp/mongod/10/data/ --logpath /tmp/mongod/10/log/mongod10_log.txt --port 27010
 $ kill `ps -ef | grep mongo  | head -3| awk '{print $2}'`
 ```
-##Files
+## Files
  * ha-mdb.sh
  * key-replset-mongod.sh
  * key-rep.js
