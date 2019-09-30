@@ -12,16 +12,16 @@ Let's first create a schema that makes these two keys mandatory in any document 
 
 ```
 let mySchema= {
-bsonType: "object"
-, required: ["firstName","lastName"]
-}
+	bsonType: "object"
+	,required: ["firstName","lastName"]
+};
 ```
 
 Now let's create a collection that enforces the rules that we defined above, namely that both firstName and lastName are always required.
 
 ```
 use testdb;
-db.createCollection("customers", { validator:{ $jsonSchema: mySchema} })
+db.createCollection("customers", { validator:{ $jsonSchema: mySchema} });
 ```
 
 We can now see the new collection created:
@@ -29,4 +29,22 @@ We can now see the new collection created:
 ```
 show collections;
 ```
-db.
+![](images/docValidation-image01.png)
+
+db.getCollectionInfos()
+
+
+```
+let mySchema02= {
+    bsonType: "object"
+    ,required: ["firstName","lastName"]
+    ,properties : {
+    	firstName: {bsonType: "string"}
+    }
+};
+
+use testdb;
+db.runCommand( { collMod: customers, validator:{ $jsonSchema: mySchema02 } } )
+
+
+```
