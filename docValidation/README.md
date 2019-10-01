@@ -30,15 +30,18 @@ Let's first create a schema that makes these two keys mandatory in any document 
 
 ```
 let mySchema= {
-      required: ["firstName","lastName"]
+  $jsonSchema: {
+    required: [ 'firstName', 'lastName']
+               }
 };
+
 ```
 
 Now let's create a collection that enforces the rules that we defined above, namely that both firstName and lastName are always required.
 
 ```
 use testdb;
-db.createCollection("customers", { validator:{ $jsonSchema: mySchema} });
+db.createCollection("customers", { validator: mySchema });
 ```
 
 We can now see the new collection created:
@@ -46,7 +49,44 @@ We can now see the new collection created:
 ```
 show collections;
 ```
+The next image shows creating the schema and creating a new collection with the above referred schema.
+
 ![](images/docValidation-terminal-image-01.png)
+
+You could do the same thing with MongoDB Compass. The next image shows the initial screen of MongoDB Compass as we connect to a free tier MongoDB instance hosted on MongoDB Atlas. The arrows call attention to the authentication method, authentication database, and the button to add this cluster as a "favorite" inside of the Compass app.
+
+XXXXX-Hello-XXXXX
+![](images/docValidation-compass-image-01.jpg)
+
+XXXXX-Hello-XXXXX
+![](images/docValidation-compass-image-02.jpg)
+
+XXXXX-Hello-XXXXX
+![](images/docValidation-compass-image-03.jpg)
+
+XXXXX-Hello-XXXXX
+![](images/docValidation-compass-image-04.jpg)
+
+XXXXX-Hello-XXXXX
+![](images/docValidation-compass-image-05.jpg)
+
+XXXXX-Hello-XXXXX
+![](images/docValidation-compass-image-06.jpg)
+XXXXX-Hello-XXXXX
+
+![](images/docValidation-compass-image-07.jpg)
+
+XXXXX-Hello-XXXXX
+![](images/docValidation-compass-image-08.jpg)
+
+XXXXX-Hello-XXXXX
+![](images/docValidation-compass-image-09.jpg)
+
+XXXXX-Hello-XXXXX
+![](images/docValidation-compass-image-10.jpg)
+
+
+
 
 db.getCollectionInfos()
 
