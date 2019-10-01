@@ -1,10 +1,28 @@
 # MongoDB Document Validation Tutorial
+# How to enforce data types and mandatory fields on your MongoDB Data
 
-This tutorial will demonstrate how to use schema validation on MongoDB. Schema validation gives developers and DBAs the ability to enforce data rules for data quality purposes. So if we want a particular field to be mandatory, or we ant a field to have a certain data type or a certain size
+This tutorial will demonstrate how to use schema validation on MongoDB. Schema validation gives developers and DBAs the ability to enforce data rules for data quality purposes. So if we want a particular field to be mandatory, or we ant a field to have a certain data type or a certain size. 
+
+The types of rules that can be enforced by MongoDB can be very sophisticated, and it provides greater level of control to DBAs and data architects, when compared to current capabilities of legacy RDBMS(s).
 
 Throughout this demo we are going to work on a collection containing customer data for a magazine publisher.
 
-## Required fields
+## Required Prerequisites
+To successfully complete this tutorial, the following software should be installed:
+
+* Access to a MongoDB instance.  You can either download [MongoDB](https://www.mongodb.com/download-center/enterprise)
+and set it up on a workstation/server.  Or, the *recommended* way to complete the workshop, is by using [MongoDB
+Atlas](https://www.mongodb.com/cloud/atlas), the fully managed service from MongoDB.  To access, simply create an account
+at [https://cloud.mongodb.com](https://cloud.mongodb.com) or login to an existing account you may have previously
+created.
+
+* [MongoDB Compass](https://www.mongodb.com/download-center/compass) -- Version 1.19 or above- Download links below- This is a GUI to MongoDB that will be used to 
+write queries.
+
+* [MongoDB mongo shell](https://www.mongodb.com/download-center/enterprise) -- Version 4.2 or above
+*
+
+## Demo - 01 - Required fields
 
 To keep our initial example extremely simple, initially we are going to create a customer collection and  requires the fields firstName and lastName.
 
@@ -12,8 +30,7 @@ Let's first create a schema that makes these two keys mandatory in any document 
 
 ```
 let mySchema= {
-	bsonType: "object"
-	,required: ["firstName","lastName"]
+      required: ["firstName","lastName"]
 };
 ```
 
@@ -29,7 +46,7 @@ We can now see the new collection created:
 ```
 show collections;
 ```
-![](images/docValidation-image01.png)
+![](images/docValidation-terminal-image-01.png)
 
 db.getCollectionInfos()
 
