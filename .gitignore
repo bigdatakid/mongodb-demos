@@ -1,8 +1,8 @@
 .DS_Store
 certs/
 private/
-./conntest/node_modules
-./security/node_modules
+./conntest/node_modules/
+./security/node_modules/
 ./security/keyfilemarcelo   
 ./security/mongodb-keyfile
 ./security/mongodb-key-file
