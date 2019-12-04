@@ -24,9 +24,49 @@ write queries.
 
 ## Demo - 01 - Required fields
 
-To keep our initial example extremely simple, initially we are going to create a customer collection and  requires the fields firstName and lastName.
+To keep our initial example simple and easy to understand, initially we are going to create a customers collection and require the fields firstName and lastName.
 
-Let's first create a schema that makes these two keys mandatory in any document that is inserted or updated in the collection.
+I am going to demonstrate how to create document validation rules using both MongoDB Compass and the MongoDB mongo shell.
+
+If you have already met the requirements above, first step is to start MongoDB Compass
+
+First, let's do it using MongoDB Compass.
+
+The first step is to 
+
+The next image shows the initial screen of MongoDB Compass as we connect to a free tier MongoDB instance hosted on MongoDB Atlas. The arrows call attention to the authentication method, authentication database, and the button to add this cluster as a "favorite" inside of the Compass app.
+
+XXXXX-Hello-XXXXX01
+![](images/image001.jpg)
+
+XXXXX-Hello-XXXXX02
+![](images/image002.jpg)
+
+XXXXX-Hello-XXXXX03
+![](images/image003.jpg)
+
+XXXXX-Hello-XXXXX04
+![](images/image004.jpg)
+
+XXXXX-Hello-XXXXX05
+![](images/image005.jpg)
+
+XXXXX-Hello-XXXXX06
+![](images/image006.jpg)
+
+XXXXX-Hello-XXXXX07
+![](images/image007.jpg)
+
+XXXXX-Hello-XXXXX08
+![](images/image008.jpg)
+
+XXXXX-Hello-XXXXX09
+![](images/image009.jpg)
+
+XXXXX-Hello-XXXXX10
+![](images/image010.jpg)
+
+Let's first create a JSONSchema that makes these two keys mandatory in any document that is inserted or updated in the collection.
 
 ```
 let mySchema= {
@@ -53,37 +93,11 @@ The next image shows creating the schema and creating a new collection with the 
 
 ![](images/docValidation-terminal-image-01.png)
 
-You could do the same thing with MongoDB Compass. The next image shows the initial screen of MongoDB Compass as we connect to a free tier MongoDB instance hosted on MongoDB Atlas. The arrows call attention to the authentication method, authentication database, and the button to add this cluster as a "favorite" inside of the Compass app.
+You could do the same thing with MongoDB Compass. 
 
-XXXXX-Hello-XXXXX
-![](images/docValidation-compass-image-01.jpg)
 
-XXXXX-Hello-XXXXX
-![](images/docValidation-compass-image-02.jpg)
 
-XXXXX-Hello-XXXXX
-![](images/docValidation-compass-image-03.jpg)
 
-XXXXX-Hello-XXXXX
-![](images/docValidation-compass-image-04.jpg)
-
-XXXXX-Hello-XXXXX
-![](images/docValidation-compass-image-05.jpg)
-
-XXXXX-Hello-XXXXX
-![](images/docValidation-compass-image-06.jpg)
-XXXXX-Hello-XXXXX
-
-![](images/docValidation-compass-image-07.jpg)
-
-XXXXX-Hello-XXXXX
-![](images/docValidation-compass-image-08.jpg)
-
-XXXXX-Hello-XXXXX
-![](images/docValidation-compass-image-09.jpg)
-
-XXXXX-Hello-XXXXX
-![](images/docValidation-compass-image-10.jpg)
 
 
 
