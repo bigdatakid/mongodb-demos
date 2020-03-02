@@ -1,6 +1,7 @@
 .DS_Store
 certs/
 private/
+dataLake/secret/
 conntest/node_modules/
 security/node_modules/
 security/keyfilemarcelo   
