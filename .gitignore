@@ -7,3 +7,5 @@ security/node_modules/
 security/keyfilemarcelo   
 security/mongodb-keyfile
 security/mongodb-key-file
+field-level-encryption/node_modules/
+field-level-encryption/sec/
