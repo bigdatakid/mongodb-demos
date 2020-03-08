@@ -1,0 +1,100 @@
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fc3"
+  },
+  "name": "The Ritz-carlton Orlando, Grande Lakes",
+  "categories": ["Hotels \u0026 Motels", "Family-Friendly Hotels", "Tourist Hotels", "Spas", "Hanukkah Events", "Budget Hotels", "Driving Ranges", "Lodging", "Business Hotels", "Conference \u0026 Convention Centers", "Golf Courses"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Orlando",
+    "postalCode": "32837",
+    "address": "4012 Orida Pkwy Centralfl",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-81.404647, 28.407331]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "No Brazillian!!! not sure why but this spa does not offer a brazillian wax. VERY inconvenient. maybe it's a geography thing-i don't know but i find it odd. so just make sure to make time for your wax prior to checking into this hotel! (",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-01-24T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Spa Pedi/Mani I was a guest at the Ritz-Grande Lakes in Orlando during Oct 2010. During that time I visited the Spa and had a facial which was WONDERFUL and I highly recommend. However, I also had a mani/pedi treatment. I noticed that the utensils and tools were just laying on a white towel and when given the pedicure she did not clean the foot tub. I thought maybe it had already been clean. Once I returned home I noticed a few weeks later I had toe fungus. I have never had fungus before and where I go in the Dallas area all tools come out of a bag that they are stored in once sterilized. I am confident I picked up the fungs at the Ritz. I have been fighting this fungus for months and its not fun. I called the Ritz and complained. I was told I would hear back what they are doing to correct their procedures in the Spa, but never heard a word back. While visting the Spa they were short handed and I have a feeling, the sterilizing of tools was not taken care of. They told me they always run with just a few employees so that they have work but the customer is the one suffering.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2005-04-20T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "A nice and relaxing visit. You pay a little more, but very relaxing. The atmosphere is nice and cozy, you are able to get fresh fruit, and tiny snacks while you wait for the massage. I would recommend this spa to anyone. I give it a 10.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "beautiful hotel and spa My husband and I have been to this resort a few times and we love it. We live in Tampa and it's a great getaway. The service is exceptional and the staff are really nice and knowledgeable and really friendly. They will do anything to make your stay memorable. The spa is fantastic. The best spa in Fl. I read that the spa was voted 1 in N. America by Travel and Leisure magazine. They do not dissapoint. I had a body treatment with a vichy shower and it was incredible! I will be back. Normans was ok. We ordered room service and that was perfect for us. Overall the best resort in central Fl. Don't waste your time or money anywhere else.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2004-12-09T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Editorial Review by Citysearch Editors Luxury hotel including 584 total guestrooms, a 40,000-square-foot spa, an 18-hole Greg Norman-designed championship golf course and six dining options.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2004-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Luxurious accommodations and lavish pampering can be found at the glamorous Ritz. In ShortArchitecturally inspired by the grand palazzos of Italy, this property boasts elegance and sophistication at every turn. Luxuries include a full-service spa, an 18-hole championship golf course, a Ritz Kids Club and six dining options. Every guest room features a five-foot private balcony with panoramic views of the lakes, pool, and gardens. Evening turndown and technology butler services are just a few of the special touches.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2006-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Great Romantic Getaway! After spending our anniversary here once, we vowed to make a tradition. This is year 3! If you want to be pampered, the Ritz-Carlton is the place to go. The staff is outstanding friendly and helpful. They immediately make you feel welcome and it never stops throughout your stay. The rooms are beautiful and comfortable - very relaxing. We can't think of a better place to celebrate any event, but in particular a wedding or anniversary. It is romantic and classy and just the best place we have ever stayed. We can't say enough great things about it!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-12-01T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I am happy to write a recommendation for the Ritz-Carlton Grande Lakes. My family (husband and 2 kids - 4 and 9 years of age) stayed here in February '08 for about 1-1/2 weeks. We made extensive use of their swimming pool facilities, and of their Concierge Club Level amenities. In the daytime, we did all the usual Orlando tourist activities. At night, we were absolutely thankful to have such a relaxing refuge, away from the theme park hustle and bustle. My in-laws who live nearby also visited us while we were there and they were especially psyched to spot John Travolta, reading a newspaper at the lobby. Thankfully, they didn't harass the poor person for photographs :) My children also enjoyed the Ritz Kids Club, while I took full advantage of their spa facilities. We are all very happy to have stayed here and we will definitely come back next year. Oh no, just remembering our experience makes me want to go back sooner, heehee!!!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2006-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Almost Perfect! The Ritz Carlton is spectacular. It has everything going for it. The service and rooms are spectacular. Everyone is friendly and remembers your name (and this is the largest Ritz Carlton I've ever stayed in...It's much bigger than most). The bar is wonderful and no request is too small or too great. The only thing that is lacking is the fine dining restaurant Normans. Normans is okay at best, but you'll do much better at the casual restaurant at the JW Marriott that is attached!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]

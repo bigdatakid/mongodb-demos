@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2015-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Place to Stay",
+    "reviewText": "We travel to Dublin and stayed at this hotel because of its convenience to the interstate and proximity to amenities. We had a choice to walk to Crackelbarrel and Long Horns, amongst other eateries (yum). The hotel staff was friendly and very helpful in answering our questions, since we were new to the area. The room was clean and well... More",
+    "reviewerCity": "Bluffton",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent hotel!",
+    "reviewText": "This is my second time staying at this hotel and I have to say that the quality of service was great in both visits. My room was clean and the staff was friendly and very helpful. This time around I actually did get breakfast and I was surprised at the variety. The lady that works in the breakfast area greeted... More",
+    "reviewerCity": "Bluffton",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Warm and welcoming",
+    "reviewText": "Great value. Very clean. Folks are friendly and efficient. Employees are also very helpful. They are also pet friendly. And you can't tell that pets have been there before you!! Food choices within walking distance. Well lit parking lot.",
+    "reviewerCity": "Bluffton",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Clean and Efficient",
+    "reviewText": "The rooms are well maintained. The breakfast had a nice variety and was fresh. Very convenient location adjacent to interstate and several good restaurants. I would recommend this establishment to anyone looking for a clean comfortable room at a very reasonable price.",
+    "reviewerCity": "Charlotte",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "A great hotel in a good location",
+    "reviewText": "I have been spending 2-3 nights per month in Dublin. Wanted to try a different hotel this time and I was well pleased with this hotel. Convenient to Zaxby's and Cracker Barrell, the home is relatively new and in very good shape. An indoor pool and hot tub make it complete. Breakfast was the standard fare. Staff very attentive. Reasonable... More",
+    "reviewerCity": "covington",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Used to be a nicer hotel",
+    "reviewText": "We use this hotel as our go-to hotel when traveling to Dublin. Our company is located there. it used to be a really well kept hotel with consitant quality. now it is just mediocre. i will look at other hotels next time i visit.",
+    "reviewerCity": "kennesaw",
+    "reviewerState": "SC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "clean",
+    "reviewText": "Very nice and clean. staff was nice. Could not go in pool because of the smell of chlorine. stay in same hotel every year I go and visit my grandparents graves. Eat at Tumpies for the best steak in town.",
+    "reviewerCity": "LAKE WORTH",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great For Rest",
+    "reviewText": "I stayed at La Quinta Inn in Dublin, GA seven times over about a year (6/2015-4/2016). Each time they were kind, helpful, and accommodating. They put me into a quite area of the hotel when requested. The beds are comfy and firm. The rooms are fresh and smell great. The breakfast is hot and basic and good and free! The... More",
+    "reviewerCity": "LAKE WORTH",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-06-30T18:51:02.000Z"
+    },
+    "reviewTitle": "Great For Rest",
+    "reviewText": "Great hotel! Held a business meeting there the last few days. The staff was friendly, extremely helpful, and went out of their way to accomodate us. The suites were outstanding, very comfortable and clean. The location is awesome too, 1 minute walk to 2 restaurants, Longhorn Steak House and Cracker Barrel in addition to a gas station and convenience store. The breakfast was complimentary and very good, both hot and cold food. This will be my choice whenever I visit Dublin in the future. Thanks La Quinta!",
+    "reviewerCity": "LAKE WORTH",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful Experience",
+    "reviewText": "One of the nicest LaQuinta's we have stayed in. Staff was very friendly. Room was very clean and comfortable. Mattress was great. Full continental breakfast was excellent. Much better than expected. Would definitely recommend this hotel over others.",
+    "reviewerCity": "LAKE WORTH",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

@@ -1,0 +1,1000 @@
+    "reviewDate": {
+      "$date": "2016-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Crazy courteous staff!!!",
+    "reviewText": "A three day stay with my wife. Room was clean and the hotel well kept. My biggest paraise The staff! Everyone was so kind and pleasant!! In today's day and age, their kindness is unheard of!! Props to themake all! From the counter to the servers....supreme nice!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to the person we were visiting",
+    "reviewText": "It's amazing how one negative thing affects the whole experience. I left my phone charger in the room. I called in the afternoon and was told that the housekeeping staff had not reported finding it, but that the head of housekeeping would check. The desk person (Emily ) would call me back. I'm still waiting. A little thing, but it's frustrating.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay in Austin",
+    "reviewText": "We stay here for football games. The staff has always been great. The rates are are a plus, especially if you stay there frequently. We have tried different hotels in the area but always like Hilton Garden Inn the best",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent stay for the area",
+    "reviewText": "The room was nice and clean, the front desk was very helpful and courteous both in the evening and the morning.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, comfortable, cost friendly",
+    "reviewText": "Clean, Comfortable, cost friendly... Hotel modern interior design, very comfortable bed, spacious bathroom, clean hotel, good neighborhood, very convenient to Highway 183",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and clean",
+    "reviewText": "Amazing! Perfect location. Front desk clerk very pleasant. House keeping respond promptly to request. Was provided playpen for my 1 yr old niece. Overall exceptional experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice Staff!",
+    "reviewText": "This was our second stay at this hotel and the staff and facilities are very nice. We will stay here again for sure.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fe9"
+  },
+  "name": "Quality Inn Gulfport",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "MS",
+    "city": "Gulfport",
+    "postalCode": "39503",
+    "address": "9435 Highway 49",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-89.09263, 30.42519]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Mississippi Cost",
+    "reviewText": "I paid the value of the hotel. It is close the outlet mall and water park. The beach is terrible, casino are very nice, but I don't like gamble there some clubs and store are nice, like Shaggie's",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Mississippi Cost",
+    "reviewText": "Room smelled and looked clean, beds comfortable, linens and bathroom clean. Breakfast plentiful and hot. Remote batteries dead but TV worked. Will stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great customer services",
+    "reviewText": "There was four of us ,It was great!We will stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great customer services",
+    "reviewText": "Breakfast good, room clean - decent for price. Noticed peeling walls in lobby with mold, had small leak in hotel room. Staff was friendly, rooms clean..for one night, price ok for longer stay would not recommend. During peak summer time rooms go fast in this town. Book early.. Plan your trip.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great customer services",
+    "reviewText": "Good stay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Very disappointing and gross...",
+    "reviewText": "The hotel is nasty there is dead roaches in the light fixture, a dead roach in the coner, the bathroom is filthy and smells like urine and the carpet needs cleaning. The beds are very small in the rooms with the double bed. Two people can't sleep comfortable in it and not to mention the bed had no coverlet. I... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Rundown",
+    "reviewText": "Rooms very run down. Had to get a change of room. Still rundown. Ran out of food at breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "\"Quality\" stay",
+    "reviewText": "Nice breakfast. Friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-27T00:00:00.000Z"
+    },
+    "reviewTitle": "\"Quality\" stay",
+    "reviewText": "My wife and I enjoyed the friendly service and comfortable bed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "\"Quality\" stay",
+    "reviewText": "Good overall experience! Will definitely go back.recommended!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay",
+    "reviewText": "Casey, at the front dest was great when we checked in. easy check out",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly staff, easy to find, close to everything",
+    "reviewText": "Excellent stay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Fine for the price",
+    "reviewText": "Reasonably up to date furnishings for the price point. Rate not cheap but less than many others in the area. Strong smell of carpet deodorizer in room. Bathroom showing its age. Staff was very courteous.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Vacation",
+    "reviewText": "Old facilities...no pool...air conditioner noisy and leaking water into room...sounded like a waterfall...toilet was loose and rattled when sitting on it...no other rooms available.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible stay in Biloxi",
+    "reviewText": "We had a double Queen, non smoking room. What we got was a double room with 2 full beds filed with the smell of smoke. Not sure if the smoke was coming from another room but it was so thick or eyes burn all night it was very hard to breath. We stay on the coast several times a year never had this type of experience with a Choice Hotel. But I will not be recommending this one.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel is close to shopping, restaurants, airport",
+    "reviewText": "The staff was very helpful and courtious. Our complaint is the women incharge of the breakfast does not keep the coffee and food up. have to ask her to get more she is to busy talking to hotel people instead of watching so the guests can get breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel is close to shopping, restaurants, airport",
+    "reviewText": "The hotel was ok to stay just had minor things wrong such as the microwave was not something I would use to warm my food in and I had two bugs in the room which was creepy because I'm scared of bugs and also I'm a germaphobic so the toilet wasn't the worse just could have been cleaned better but all around I rate my stay a 3.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay away",
+    "reviewText": "I stop by for a night while traveling from Fl to TX. The place needs a lot of maintenance. The room had mold on the walls, the t.v. cabinet and dresser were broken. I tried to plug in my phone into the power outlet and I was not able cause the wall behind it was so rotted that when I push the charger the wall behind it will move back. I almost ended in the room next to me. At least the hotel staff was helpful. In the future I much rather sleep in my car than in this place. Quality Inn should be ashamed of these facilities and Hotels.com should check out hotels before they list them to ensure they are at least somewhat in decent condition. This was my first time staying at a Quality Inn and using Hotels.com and due to this experience I don't think I'll ever use either one of these companies.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "ok",
+    "reviewText": "it was OK",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "ok",
+    "reviewText": "Good location clean room , quality front desk people.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Not very clean",
+    "reviewText": "The staff was great, very friendly and helpful. The room on the other hand, not so great. It smelled horrific, lacked cleanliness and we even found a roach roaming our room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "reunion weekend",
+    "reviewText": "stayed over weekend for family reunion. room clean. it survived katrina. in deep south you have issues with mold, mildew, there was none of that. beds comfortable, sheets clean. air worked. carpet a little older so it had a stain or two but i walked around in my white socks and they did not get dirty. breakfast was buffet and was great.lots of choices for a free breakfast. My only complaint is the lemon cleaner was a little strong when we entered the room and it lingered the rest of the day.fridge, microwave, tv all working great. plenty of channels. walking distance to places to eat, across the street from wal mart and gas station, great location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "reunion weekend",
+    "reviewText": "The tub was broken and soaked all our shoes and clothes by the sink and clothes rack outside the bathroom. Made for a LOUSY long trip back to Alabama. The room was close to Jones park and 10 so it was the perfect location following our concert. Think I would probably look for a different motel next time I'm that way..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel right off the interstate.",
+    "reviewText": "The room was nice, clean, and comfortable. The only negative of the stay was the free breakfast, not much to speak of.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel right off the interstate.",
+    "reviewText": "Good experience, big comfortable King size bed! Close to shopping areas, and my wife loved how close it was to Starbucks, about a ten minute drive to the beach. Overall good experience, nice shower, good water pressure.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-14T00:00:00.000Z"
+    },
+    "reviewTitle": "nice.",
+    "reviewText": "Great room for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyed stay",
+    "reviewText": "No issues. Pleasant stay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "People nice- room nasty",
+    "reviewText": "There was mold on the curtains-the carpet was wet.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't stay. Won't stay again",
+    "reviewText": "Dirty, dirty, dirty. First room had hairs and dirt in tub from previous user and stank. 2nd room was clean in the tub, but nowhere else. Carpet dirty and stained, bathroom floor greasy. Blood stains on bedding. Breakfast was mediocre,",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality Inn",
+    "reviewText": "The staff was friendly and helpful. The room was clean and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Could be better",
+    "reviewText": "Conveniently located close to the airport. Disappointed in the daily room service in that coffee packets and drinking cups were not replaced when consumed. The urn marked Hot Water at breakfast is not hot. Cold oatmeal on day one meant that I had to nuke all further water to ensure it was hot. Overall, not bad, just could have been a lot better if customer service was taken more seriously.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Could be better",
+    "reviewText": "Pillows were really tiny.. only 4 on king size bed for 2 people. Asked for 2 more and received them. But they go flat longer you lay on them. They must be trying to save using those little pillows but comfort is not something that should be cut back on in a hotel. That is what customer is paying for. Should at least go back to standard size. Thank you.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for clean room.",
+    "reviewText": "Good clean place to stay. Breakfast was fairly slim.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Kids love the planes going over",
+    "reviewText": "Was close to main restaurants and wal-mart staff was helpful and fix the problem right away.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Quite noisy...",
+    "reviewText": "Although the room was clean as any standard hotel room usually is, sleep was uterly deprived due to airport traffic and people yelling in the parking lot. Either drink yourself to sleep, take a pill or sleep with earplugs if you want a good nights rest for the the expensive price you will pay. Standard 'Continental' breakfast comparable with any Hampton Inn. Seriously though The stay was not worth the price. I would have paid an extra 15 for a more quite hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Accused of stealing",
+    "reviewText": "About 5 hours after checking out, I checked my account. 30 charged. I called and they said we took a towel, face rag, hand towel and bath mat. We explained our check out routine and how we go about making sure we have everything of ours (which includes putting all towels used in a pile by the door). We even... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible Experience!",
+    "reviewText": "After a wonderful day at the beach and excellent dinner my family returned to the hotel room and was completed and utterly disgusted. First, my family arrived at the hotel at 4:30pm and we were informed that the room was not ready. We would have to wait 15 to 20 minutes so we decided we did not want to wait and headed straight to the beach. Second, when we returned to the hotel at 10pm, I was putting my 1 year old child to sleep when black bugs started to jump on us. My husband and I later agreed that it had to be fleas. We immediately informed staff and requested our money back. After, such a wonderful day me and my family decided that it would be best for us to return home (mind you it was 11:30pm) and we had a 3 hour drive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the money",
+    "reviewText": "The hotel is run down, the rest rooms are tiny and dirty and the beds were the smallest and hardest we've been on in years. It also didn't seem like it was in the nicest area of town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Car show",
+    "reviewText": "Overall, the hotel was nice and staff was very helpful and friendly. The upside: room were very clean and cozy after a long trip down and after view the different car shows. Air was great, bathroom was stock with all the towels, and no issues with bugs, hair, etc. The downside: wifi did not reach the room upstairs, which we... More",
+    "reviewerCity": "Ackerman",
+    "reviewerState": "MS",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to rest",
+    "reviewText": "Cool, clean and comfortable room good breakfast friendly/caring employees. Easy to get to from interstate also. Recommend.",
+    "reviewerCity": "Ackerman",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend Trip",
+    "reviewText": "Room was fresh, clean and nice room decor. Only thing was security hook on door was broken. Very close to outlet mall and restaurants. Staff was very friendly (housekeep and front desk).",
+    "reviewerCity": "Ackerman",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible",
+    "reviewText": "Bad house keeping, we didn't get either dat that we stayed",
+    "reviewerCity": "Ackerman",
+    "reviewerState": "MS",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible",
+    "reviewText": "no frills but clean and comfortable, reasonable accomodations for the cost",
+    "reviewerCity": "Ackerman",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Some trouble with the tub",
+    "reviewText": "The tub, whirlpool, feature didn't work and I could not get the tub to drain.",
+    "reviewerCity": "Ackerman",
+    "reviewerState": "MS",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Motel accomadations",
+    "reviewText": "On trip to Disney world We stopped and I booked two rooms , Room rates were higher than I have paid at other quality inns. but it was late and we needed to get some sleep. Rooms were average in size the floors were dingy and did not look too clean, Breakfast was average.The coffee cups were very tiny but... More",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, good breakfast, close to freeway.",
+    "reviewText": "Great hotel for the price. The room was a basic hotel room. Everything was clean. The bed were comfortable.",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, good breakfast, close to freeway.",
+    "reviewText": "Good place to stay the night...clean",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, good breakfast, close to freeway.",
+    "reviewText": "This was a quick weekend getaway and the room was very comfortable and clean. Great place for the price.",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Musty and not Clean",
+    "reviewText": "The Hotel room was 85 Degrees and VERY musty. The Desk chair had a film on it and the carpet was dirty and stained. If there was any other hotels with rooms I would have left.",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "It ok need remodel",
+    "reviewText": "The bed r not comfortable and the doors wont lock right carpet had lots of stain",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "It ok need remodel",
+    "reviewText": "Air conditioner did not work properly, door stuck making it hard to open.",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Displeased Guest",
+    "reviewText": "It was storming that day April 28, 2015 and the television service was horrible, If I didn't have my phone I wouldn't have had any source of comfortability regarding entertainment or updates on weather status for safety in the area. The tub drainage was horrible While taking a shower the water did not drain out of the tub and was up past my ankle. It was totally ridiculous. The room had a faint smoke smell and I requested a non smoking room. I asked for another type of room but they couldn't accommodate that recommendation.",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Displeased Guest",
+    "reviewText": "This hotel was disappointing for being a part of the Choice chain. Room was outdated and so was facility. Carpet was stained.....bad. Tank lid on the toilet was cracked across the entire top of it. Dust was thick on some items of furniture. However, the bed and pillows were comfortable and clean. Housekeeping staff I did run into were friendly. Even had a homeless person situated on the stairwell outside my room. And for you sports minded folks.......no ESPN at this hotel as they use Dish network.",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "comfortable rest",
+    "reviewText": "I stopped here on my way to Florida. I made a reservation over the phone to insure I had a room waiting for me as I was arriving late. When I drove down the highway late at night, looking up at all the motel signs in front of the establishments that were 30 feet in the air I missed this... More",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Disappointed",
+    "reviewText": "We stayed at this hotel 3 nights. Trip was booked for our group through a travel agent. I was very disappointed that room was not clean, had bad odor and carpet was severely stained. There was mole in bathroom. Door lock was very loose. There was no security and people who appeared to be non-guest roamed parking lot. I did... More",
+    "reviewerCity": "Jackson",
+    "reviewerState": "MS",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Everything was Grrreat!!!",
+    "reviewText": "Just wasn't able to pick up my wifi but other than that it was Grrreat!!!",
+    "reviewerCity": "Jackson",
+    "reviewerState": "MS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Passing through",
+    "reviewText": "Not spectacular but clean. Bed was comfy and we got a good nights rest. For those who don't like planes this is not the place for you to stay for the airport landing flight line is right overhead. If you are AF you will love the sound of freedom overhead. The hotel staff was courteous. Enjoyed our overnight and would... More",
+    "reviewerCity": "Jackson",
+    "reviewerState": "MS",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Quite noisy...",
+    "reviewText": "Although the room was clean as any standard hotel room usually is, sleep was uterly deprived due to airport traffic and people yelling in the parking lot. Either drink yourself to sleep, take a pill or sleep with earplugs if you want a good nights rest for the the expensive price you will pay. Standard 'Continental' breakfast comparable with any Hampton Inn. Seriously though The stay was not worth the price. I would have paid an extra 15 for a more quite hotel.",
+    "reviewerCity": "Jackson",
+    "reviewerState": "MS",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Quite noisy...",
+    "reviewText": "The room was clean and the staff were friendly.",
+    "reviewerCity": "Jackson",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Good deal from Trivago",
+    "reviewText": "We were looking to make a quick trip down to the gulf for 1 night and 1 day and wanted a cheap place to stay the night. Trivago was sporting a room with a king bed, fridge and microwave for 70. I read the reviews on this website and looked at all the pictures I could find because I'm usually... More",
+    "reviewerCity": "Ponchatoula",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnight visit on way home",
+    "reviewText": "I actually love the two story older hotels because the walls are not paper thin like the newer ones. Was pleased with our one night stay. Rooms were nice and clean. Stocked well. Ac was already on, bed was comfortable and area was quiet. Pillows were small but there were plenty. Would stay there again. Check in was flawless.!!!",
+    "reviewerCity": "Ponchatoula",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "another QUALITY inn",
+    "reviewText": "we had a coupon from a travel center, and am never sure if there will be rooms available, but we checked in and got the coupons savings...location is good, room was great, what we expect from a quality inn. Breakfast was very good and ample, clerks were friendly..all in all, a quality experience",
+    "reviewerCity": "Westbrook",
+    "reviewerState": "MN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "another QUALITY inn",
+    "reviewText": "Rooms weren't that clean. There was trash under the beds.",
+    "reviewerCity": "Westbrook",
+    "reviewerState": "MN",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fea"
+  },
+  "name": "Calloway Inn",
+  "categories": ["Bed \u0026 Breakfast \u0026 Inns", "Hotels", "Motels", "Lodging", "Banquet Halls \u0026 Reception Facilities"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Baton Rouge",
+    "postalCode": "70816",
+    "address": "10920 Mead Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-91.06002, 30.42881]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3feb"
+  },
+  "name": "Jacksonville Plaza Hotel and Suites",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Jacksonville",
+    "postalCode": "32218",
+    "address": "14585 Duval Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-81.648827, 30.479833]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Cute and clean",
+    "reviewText": "Very cute clean and inexpensive! Convenient to restaurants and shopping! Stayed the night before our cruise! I would definitely recommend staying here staff friendly and water was hot and had good pressure.",
+    "reviewerCity": "Gray Court",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Experience!",
+    "reviewText": "My family and I recently moved to Jacksonville and experienced some unforseen costs along the way. We needed a place to stay and let me tell you, this was the best choice we made! They have free continental breakfast, clean rooms, safe and friendly. Amber, the General Manager, was the best. She really took out a lot of the stress... More",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Family sad time equals a great hotel stay.",
+    "reviewText": "My stay was pretty good, for a sad time with the passing of my favorite Uncle Jr on 4/22/16. I only have two complaints...the first is the a/c did not work too good in my room but it was cool at night and in the mornings. The second one is that there is not a pool at this hotel. Other than that the room, the hotel and the staff was good. I will be staying here when I come back to bury my uncle at the Veteran's cemetery.",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Fern 2",
+    "reviewText": "not my favorite place",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "It was a nice hotel and the environment was fine. It was close to the airport so that was convenient.",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Basic Accomodations",
+    "reviewText": "The hotel was fine for budget accommodations- rooms are clean and offer a microwave/fridge setup- but don't expect anything fancy. The room was good sized but smelled oddly swampy when we arrived, breakfast was rather lacking, and the fitness space consists of two treadmills and an elliptical. Staff was not particularly attentive.",
+    "reviewerCity": "Hartford",
+    "reviewerState": "CT",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel - terrible bed",
+    "reviewText": "Nice clean hotel with good amenities. The hotel is older and has been maintained fairly well, it is starting to show it's age around the edges. Everything was clean and in good working condition. The one big negative about the room was the matteress, it was old, wore down and needs to be replaced. Very uncomfortable.",
+    "reviewerCity": "Florence",
+    "reviewerState": "KY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient",
+    "reviewText": "We stayed at this hotel for one night before flying home after a cruise. The room was comfortable, but had a musty smell, and there was a strong odor.... maybe from some kind of cleaning agent.... in the hallway. Nonetheless, it was very convenient to the airport, and the price was hard to beat. We didn't eat breakfast, but had... More",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value",
+    "reviewText": "The hotel was great for the price! Appeared to be somewhat recently renovated, the room was clean if maybe just a little small. It did the trick, and was fairly close to a nice shopping/dining district. Free airport shuttle service as well",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrific!!!",
+    "reviewText": "Booked the place 5 months ago for cruise so we could stay and have shuttle for cruise port in morning. First of all we checked in and the sheets and the Ottoman is seaman stained. Then we paid extra for cruise faster to the fun and the hotel lied to us and said they don't start boarding until 1230(false). The... More",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Spend $20 more",
+    "reviewText": "This hotel was adequate. It had 2 queen beds and a tv. It was relatively cheap. The lobby is small and crowded feeling, it has no pool, the wall paper was peeling off the walls in the room, and the complimentary breakfast was bare bones. There was no where to really eat it either. Pick a hotel with a customer rating over 4 for 20 more if you can find one, it is worth the few extra bucks.",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Spend $20 more",
+    "reviewText": "Very clean and nice hotel. The Staff very helpful.",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Little Room",
+    "reviewText": "The service was great. The room size was small based on what we are used to.",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nicer then most",
+    "reviewText": "Decent worth the price",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay!",
+    "reviewText": "As always the staff were very friendly and accommodating. Hotel was convient to shopping mall and places to eat. Room was comfortable and clean. Outside landscape was nice. Lighting in parking lot was adequate. Check in and check out was very easy. Only thing that didn't like with stay, was I got stuck in the elevator. But the maintenance staff... More",
+    "reviewerCity": "Graceville",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to recharge your mind",
+    "reviewText": "I relocated to Jacksonville in Nov to buy some land and build a place for me and my classic car lifestyle and stayed in hotels all around town and when I discovered this property, I was relieved. This is a smoke free hotel which is great for non smokers. While still traveling and settling on some land to buy, I... More",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value",
+    "reviewText": "Spent three nights in this hotel. Even though the rooms were small, it was an excellent stay with clean rooms and relatively quiet. Parking was excellent and easily accessible. My only complaint was the inconsistency of the free wifi service. Would definitely consider staying again.",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Bare Minimum",
+    "reviewText": "The front desk did not acknowledge us even when we wanted to check in, and did not acknowledge us for the entirety of our stay, the only time they even bothered to look up from their phones or laptops was when my boyfriend walked in with his Navy Uniform, they thanked him for his service and continued whatever they were doing. The woman who cleaned our room was very friendly, and our room was cleaned every day of our stay, regardless of what time we left the hotel. The tub had a hard time draining, but all other appliances worked well. The room only smelled strange when the AC was left off for too long. The area is next to a couple of small shopping centers. Over all, it was not a terrible stay but I will probably not be returning.",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for.",
+    "reviewText": "I stayed over Valentine's day weekend with my fiance. We got the airplane ticket/hotel package last minute so we weren't picky about where we chose to stay. We had read the reviews (some good, some bad) and we had just decided to see for ourselves. To start, the rooms are small. Don't expect them to be big. And we saw... More",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Really excellent value for money",
+    "reviewText": "This was a really nice hotel for the price paid, he rooms are clean and large with microwave, TV etc. The location was easy to find - about 3 minutes of the interstare. Although they offer a breakfast within the price, we choose to walk over to Denn'y which was about 5 minute walk away. Even though the airport is... More",
+    "reviewerCity": "Bournemouth",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel Review",
+    "reviewText": "This is a very nice hotel, located in a quiet area. It is very close to the airport, and also offers rides to the cruise terminal, at extra cost. Our room was well furnished and very quiet. The continental breakfast area was crowded, but adequate. We would definitely stay at this hotel again.",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Last minute reservation.",
+    "reviewText": "Surprise trip to see my son for Fathers Day and his birthday the next day. Needed something inexpensive and nice in a nice area. This was perfect.",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Last minute reservation.",
+    "reviewText": "good",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "It's a good low budget hotel",
+    "reviewText": "The bathroom had a horrible smell",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {

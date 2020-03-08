@@ -1,0 +1,100 @@
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ffd"
+  },
+  "name": "Texan Inn",
+  "categories": ["Budget Hotels", "Hotels \u0026 Motels", "Hotel"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Monahans",
+    "postalCode": "79756",
+    "address": "806 W Interstate 20",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-102.901798, 31.592329]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "A well-known, mid-priced national and international hotel chain where kids always stay free. In ShortHoward Johnson's story began in 1925, with an ice cream stand that soon became a chain of orange-roofed restaurants, and eventually motor lodges. Today, the hotels offer quality accommodations at value prices for families and business travelers. Comforts of Home amenities include in-room coffeemakers, complimentary weekday newspapers and more. Most locations offer Home Office rooms, with work desks and chairs, and Crayola Kids Rooms, with Crayola easels and accessories, plus a mini-fridge and microwave.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ffe"
+  },
+  "name": "Lakeview Lodge",
+  "categories": ["Hotels", "Resorts", "Travel Tours \u0026 Guide Services"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Ferriday",
+    "postalCode": "71334",
+    "address": "1424 Fisherman Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-91.52781, 31.61563]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very reasonable rates. Nice lake. Exceptional service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyment",
+    "reviewText": "Me and my wife had the best time staying here. We can from alabama for the fishing, but didn't catch much, but the hospitality and the at home feel made us forget about the fishing. Very nice and the location on the lake is great. The owners felt like friends and we're very nice to hang out with on the... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fff"
+  },
+  "name": "Ramada",
+  "categories": ["Banquet Halls \u0026 Reception Facilities", "Meeting \u0026 Event Planning Services", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "MS",
+    "city": "Laurel",
+    "postalCode": "39440",
+    "address": "1105 Sawmill Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-89.13289, 31.693611]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4000"
+  },
+  "name": "Intown Suites El Paso",
+  "categories": ["Hotels", "Hotel"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "El Paso",
+    "postalCode": "79907",

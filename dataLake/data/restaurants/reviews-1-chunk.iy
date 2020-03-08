@@ -1,0 +1,1000 @@
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Elisabeth",
+    "reviewText": "Elizabeth checked me in when u arrived at homewood. She's awesome. Beyond friendly . She needs to be a trainer on how guests are greeted and taken care of. Room was very clean . Property is well maintained",
+    "reviewerCity": "Mooresville",
+    "reviewerState": "IN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-11T06:00:00.000Z"
+    },
+    "reviewTitle": "Elisabeth",
+    "reviewText": "The hotel was clean, comfortable and professional. I have absolutely nothing even",
+    "reviewerCity": "Mooresville",
+    "reviewerState": "IN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-05T06:00:00.000Z"
+    },
+    "reviewTitle": "Elisabeth",
+    "reviewText": "Service was great, hotel room were a little older but just fine",
+    "reviewerCity": "Mooresville",
+    "reviewerState": "IN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-30T06:00:00.000Z"
+    },
+    "reviewTitle": "Elisabeth",
+    "reviewText": "We came in late just to sleep and head out in the morning while road tripping. Having the",
+    "reviewerCity": "Mooresville",
+    "reviewerState": "IN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-28T05:00:00.000Z"
+    },
+    "reviewTitle": "Elisabeth",
+    "reviewText": "Hotel's side entrance/exit was completely full of bug, dead and alive, which had been",
+    "reviewerCity": "Mooresville",
+    "reviewerState": "IN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-27T06:00:00.000Z"
+    },
+    "reviewTitle": "Elisabeth",
+    "reviewText": "Hotel was nice. I was told that hot tub was working and it wasn't. When I asked the front",
+    "reviewerCity": "Mooresville",
+    "reviewerState": "IN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-27T06:00:00.000Z"
+    },
+    "reviewTitle": "Elisabeth",
+    "reviewText": "Enjoyed staying in a room that my kids felt like we were living there. customer service",
+    "reviewerCity": "Mooresville",
+    "reviewerState": "IN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-02T06:00:00.000Z"
+    },
+    "reviewTitle": "Elisabeth",
+    "reviewText": "Very nice hotel. Loved the separate room for sofa and tv watching. Very nice staff. Nice",
+    "reviewerCity": "Mooresville",
+    "reviewerState": "IN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-03T06:00:00.000Z"
+    },
+    "reviewTitle": "Elisabeth",
+    "reviewText": "Very clean hotel and room. Easy access to the interstate.",
+    "reviewerCity": "Mooresville",
+    "reviewerState": "IN"
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de41b1"
+  },
+  "name": "Arcola Inn",
+  "categories": ["Travel \u0026 Transport", "Hotels \u0026 Motels", "solrjson:\\\\Illinois"],
+  "location": {
+    "country": "US",
+    "state": "IL",
+    "city": "Arcola",
+    "postalCode": "61910",
+    "address": "236 S Jacques St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-88.297515, 39.681672]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't Stay at the Arcola Inn",
+    "reviewText": "Our rooms were terrible. Both smelled like mildew. Wallpaper peeling off the walls. Floor sunk in several places. It wasvery obvious there had been water damage in both rooms and nothingt nothing had been done to repair the damage. The curtains had holes in them. I will never stay here again.",
+    "reviewerCity": "Belleville",
+    "reviewerState": "IL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible horrible horrible!!",
+    "reviewText": "Don't stay here rooms stink to high Heaven!! The service sucked... Way over priced!! Wall paper falling off and holes in walls.. Beds and pillows hard as a rock! Towels were stained!! Worst experience ever!",
+    "reviewerCity": "Belleville",
+    "reviewerState": "IL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good if you need a good mattress and little more",
+    "reviewText": "We stayed here because I forgot to make a reservation for our daughter's college graduation in advance (bad momma!) and we needed three rooms. It is close to the highway, and our rooms were clean, but many of the outlets didn't work, the internet was spotty, and the peeling wallpaper and poorly patched holes in the walls were offputting. Cheap... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de41b2"
+  },
+  "name": "Knights Inn New Castle/wilmington",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "VA",
+    "city": "New Castle",
+    "postalCode": "19720",
+    "address": "1200 West Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-75.55117, 39.698486]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst place ever. Stay Away",
+    "reviewText": "We had to walk through the facility with employee to find a CLEAN room. 5 different rooms before we found a clean one. The drawers were broken, the pillowcases were yellow and there was mold on the ceiling in the bathroom. This place is not worth the time or money. The only worth talking about at this place is was... More",
+    "reviewerCity": "Wilmington",
+    "reviewerState": "DE",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "BUGS and horrible service!",
+    "reviewText": "My 11-hour stay in this hotel has left me with a horror story like nothing I've ever experienced before, and I consider myself to have more than the average amount of experience staying in cheap hotels. I am not going to go into TOO much detail, because if I did, it would end up reading like a movie script, and... More",
+    "reviewerCity": "Port Washington",
+    "reviewerState": "NY",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "what a hell hole",
+    "reviewText": "i'mm not as kind as randy was with his review.this place,in plain ENGLISH stinks.from the screw up with my reservation,to the arrogant attitude of the moron behind the desk who obviously didn't understand English,this was a fiasco.the room was as friggen cold as a meat locker(no there was no heat)to the rug actually coming apart as we walked on it,to... More",
+    "reviewerCity": "mastic beach",
+    "reviewerState": "ny",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de41b3"
+  },
+  "name": "Super 8 Indianapolis",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "IN",
+    "city": "Indianapolis",
+    "postalCode": "46203",
+    "address": "4530 S Emerson Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-86.083857, 39.70131]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay",
+    "reviewText": "The hotel was great,the only thing missing was a small microwave in the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Low expectation with good outcome",
+    "reviewText": "I booked this hotel as I just needed a bed to sleep in for one night during a conference. For the price I paid, I expected the room to be sub-par. The check in was fast and I was directed to a room that was described as facing the WalMart parking lot. My first thought was this night won't go well. The room was pleasantly clean and surprisingly very quiet. I had an excellent night's sleep and did not hear a peep. There was a hot breakfast however I did not utilize it as my conference provided food. All in all, I would say that this hotel did its job!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Low expectation with good outcome",
+    "reviewText": "Stayed two nice while traveling for business, friendly staff. Breakfast was usual for a cold continental. Walls were pretty thin but I only noticed it during the day when the people next door had their tv on loud. Right next to expressway and businesses.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Low expectation with good outcome",
+    "reviewText": "The hotel was a good accommodation for my wife and I for our weekend retreat. The price was very affordable with a decent breakfast (the breakfast room was a little small). Our beds were well made with fresh sheets in a clean room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad for the price.",
+    "reviewText": "What was expected for the price. The room was clean, had a nice tv and refrigerator. Right off of freeway, easy to get to. Many restaurants in the area. Walmart being right next store was convenient.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad for the price.",
+    "reviewText": "The breakfast buffet was a joke. There are maybe 4 tables in the dining area. This is a budget hotel and yet I paid over 100 per night. Ridiculous! The room was mostly clean but the AC didn't have a thermostat and the whole hotel is a bit run down and drab. Not the kind of place I would want to stay. I was in a pinch for a hotel on a busy weekend so I ended up here. Would not want to be here for more than an overnight stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant surprise",
+    "reviewText": "Needed a night and this super 8 was very surprisingly close to perfect for us. Wasn't rated high by hotels.com but a lot higher by customers and we found out why. Very nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Last minute stay for HS competition",
+    "reviewText": "Decent morning breakfast starts at 6am",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel for price.",
+    "reviewText": "Nice clean room. Reasonably priced. Good location. Good breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable, Convenient, and Clean",
+    "reviewText": "My room was very comfortable for a reasonable price. Everything was clean and looked cared for. The TV seemed new and of adequate size. Internet was available and the room had several electrical outlets. The motel is easily accessible from I-465 and is in a convenient location to downtown Indy and the airport",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Delivers the essentials, at a great proce",
+    "reviewText": "This was my third trip to Indianapolis for a convention. The first two times, I stayed at another chain hotel, just across the street from this Super 8. However, this year, the hotel offered a slightly lower nightly rate and I thought I'd give it a try. This is not a high-end hotel, but delivers good quality for the cost. The hotel itself was well-maintained, clean and well-lit. The reception desk was attended around the clock, and the receptionists I interacted with were all pleasant. The room was sufficient for my needs, with the furnishings you would expect. Free Wi-Fi, and a small fridge made my stay more pleasant. The hotel is located close to the Interstate, with lots of restaurants, gas stations and retail nearby. I had plenty of dining options within easy walking distance. The parking lot struck me as small, but the hotel was not fully booked. I never had trouble finding a nearby spot. The only inconvenience I noticed was that power outlets were few, and generally not located conveniently. This would not have been a problem a few years ago, but now that many of us travel with phones, tablets and assorted devices, the hotel would do well to make it easier for visitors to recharge their toys. All in all, I would happily stay here again on a future visit.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "No breakfast",
+    "reviewText": "We were disappointed in our stay as free breakfast was advertised from 6-9am. We got down at 8am and it was already cleaned up. There was nobody at the front desk to ask either. I will choose another chain in the future as there were many more options with free breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "No breakfast",
+    "reviewText": "The parking look like the long term parking for a truck stop. There were semi's that looked like they had been there for a long time. We just needed a place to sleep after working 14 hours at the Indianapolis Motor Speedway on Friday and Saturday.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "OK",
+    "reviewText": "It was a nice place to get some sleep. No bright and shining stars but no problems either.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick Stop",
+    "reviewText": "Great price and conveniently located as a one-night stop in the middle of a long drive. The room looked great and was very comfortable. The continental breakfast left a little to be desired.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't say here",
+    "reviewText": "I was charged 75 on my card before I was even given my room number or key. I was told it was to cover incidentals. There where no incidentals, yet my 75 has not been put back on my card.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't say here",
+    "reviewText": "We have stayed there on several occasions the time be for they we in the middle of a remodel the remodel is done and wow what a change and I must say they have the most cofortable bed and pillows I've slept on in a hotel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-24T00:00:00.000Z"
+    },
+    "reviewTitle": "GREAT HOTEL!!!",
+    "reviewText": "Now first of all when I travel I would rather have more money for the things to do outside my hotel rather than the hotel stay. So I stay at 1, 2, or 3 star places. This place was GREAT! The location couldn't have been better. Basically in the same parking lot you have the hotel, White Castle, Walmart and Lowes and right across the street there is Steak n Shake and Pizza Hut. I-465 is right there. The only real negative I found was the front desk staff could be more friendly. The rest of the staff was great and very helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't let the price fool you",
+    "reviewText": "good room, good hotel at a great rate! Room was clean, staff was friendly, neighborhood seemed fine just in a weird business location but its conveniently located right next to walmart, starbucks, mcdonalds and right off the freeway, high recommend you get more for what you pay for",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "An enjoyable, Quick Trip",
+    "reviewText": "traveling to a wedding.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad, inexpensive and close to downtown",
+    "reviewText": "We chose to stay here at the last minute, so we wouldn't have to make the two hour trek home following the comedy show we were seeing at bankers life field house. We picked this hotel because of the price and not entirely negative reviews. It pretty much lived up to its reviews. Not a great location, tucked between a wal mart and a lowes, with limited parking and a dimly lit parking lot. our room was fine and the bed was relatively comfortable. I didn't sleep well, but I blame myself for not bringing my own pillow. I can't sleep without a pillow, but I need it to be pretty flat, which hotel pillows are notoriously fluffy. My husband didn't sleep well because of the air conditioner. It was incredibly loud, which we both liked, because it drowned out the other noises in the hotel. Unfortunately, whenever the AC shut off, it was jarring and woke him up repeatedly. My only other complaints would be the room doors, which slam no matter how you shut them and the breakfast buffet, which is a healthy eaters worst nightmare (unless you can be sustained on mealy apples alone). To summarize, you get what you pay for. But this was by no means a terrible experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-08T00:00:00.000Z"
+    },
+    "reviewTitle": "good times",
+    "reviewText": "I had a great time with my fiance",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Thank you for our amazing stay!",
+    "reviewText": "We have been staying due to some moving circumstances. Its been a week, and we have had nothing but friendly service from most everyone here, polite and kind. Very nice rooms and beds, room service offered everyday. I would gladly stay here again and again. Thank you to all the staff and owners!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Super clean rooms",
+    "reviewText": "The room was very clean and the staff was very friendly and helpful. Great little hotel, I will stay there again when in Indianapolis.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Wish we would have stayed somewhere else",
+    "reviewText": "Groups of loud talking smokers gather outside the front and back doors, some talking loudly until 1 a.m. Questionable behavior was going on in the parking lot. The rooms smelled musty and linens were damp from humidity. The bed wasn't supportive, and sank in the middle.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value for price",
+    "reviewText": "For the price, we got a good value. The only drawback was the bathtub - it was extremely narrow. Room was very clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Functional and clean and quiet",
+    "reviewText": "It was exactly what I needed. Clean quiet and good location",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value for the budget minded",
+    "reviewText": "I stay here several times a year for events in Indianapolis, you can't beat this location for value. Very reasonably priced, clean and updated rooms, staff has always been pleasant, plenty of dinning options near by and super close to downtown, Indianapolis Motor Speedway, Lucas Oil Stadium, etc. This is my go to lodging in Indy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "State Fair Trip",
+    "reviewText": "Good location to what we needed. Many eating places very close by. Rate was affordable! Room had new carpet-- everything was clean. Quiet. Breakfast fine for the room price. Would return.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay for the price.",
+    "reviewText": "Room was actually pretty decent. A/C worked well. Water pressure was pretty low on the toilet and sink. Free waffles, cinnamon roll, yogurt, fruit, juice, cereal, and toast for breakfast. Check out was easy. Had 1 issue with the key and the front desk issued a new one. Location was close to the freeway and there were plenty of places to eat. Walmart was within walking distance if we needed anything. Overall, I was satisfied with the stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Unusual bed ornament.",
+    "reviewText": "I neglected to note there was no elevator and my arthritic hip was challenged to make the stairs. Also unusual room ambiance with a large comfort chair place on the top of the rooms second bed. I was also disappointed in breakfast done at nine. My 1:30 am arrival made that too difficult to be up and take advantage of.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Just ok",
+    "reviewText": "Nothing too great, but ok if you just need a place to stay for one night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Easy off highway. Outdated d��cor. Poor internet.",
+    "reviewText": "Poor internet connection! Need to remodel. Seemed like a trucker hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "No privacy",
+    "reviewText": "The room was adequate. Small but it fit our needs for the stay we had planned. The bedding was ok, the towels were a little dingy and didn't seem super clean. The stay was fine until the guy working the desk barged into our room even though there was a do not disturb sign. After me yelling at him he said oops sorry I made a mistake. Not a mistake at all, there was no knock or anything. We left a day early due to this intrusion. I'm still very upset about it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "Came in for Big 10 Champion game. Easy access to interstate. Friendly service. Hotel was booked. Only downside was parking. Three semi's took up a lot of parking.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Management",
+    "reviewText": "The staff was always available and always polite and helpful. We stayed there for six days in a row and my impression was this hotel is very well managed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Good price, clean, but small",
+    "reviewText": "The room was small, so it was a little crowded with three people. The breakfast area was pretty small as well, with only a few tables. There was not much variety for breakfast. However, it was clean, and the staff seemed friendly and helpful. We stayed for 6 days. Overall, it was a good value.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good price, clean, but small",
+    "reviewText": "Great hotel for the price, everything was clean",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Just okay",
+    "reviewText": "Not very comfy but okay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value, interesting staff",
+    "reviewText": "Given the proximity to a Wal-Mart this hotel is pretty great to set off on any trip around the Indianapolis area. Overall a great value but the hotel staff did not meet my expectations. Even though the front desk says '24 Hour Service,' we had to wake up the guy working asleep in the back office in order to check out!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and comfortable",
+    "reviewText": "We just needed a place to sleep for the night before continuing our trip. This was a fine hotel for that purpose - very easy to get on and off the interstate, clean and comfortable. Breakfast was nothing fancy, but adequate. Biggest problem was they wouldn't let us have three kids in a room with us, so we had to get two rooms.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Upset",
+    "reviewText": "The hotel charged over what was quoted on hotels.Com and stated it was done until they knew no one smoked in the room. Was not told of this charge being added on check in. As of today the charge has still not been reversed on my checking account.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Upset",
+    "reviewText": "HOTEL LOCATION WAS GOOD.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value for the $, but beware of hidden fees.",
+    "reviewText": "This hotel was a bit on the older side but was clean and comfortable and a decent value for the price I paid. It's located along a decently-sized and safe shopping/dining corridor, and I was pleasantly surprised that Starbucks is right across the street. Note: I reserved and paid in full through hotels.com but was asked for my credit card upon check-in, and an additional 75 hold was applied to my account and remained for one week...which seemed a little excessive to me, given that I was there for barely 12 hours. Maybe a week-long hold of 150 of the nightly room rate is standard for most hotels, and I've just never noticed before, but budget-conscious visitors might want to be aware of this. I was also charged a 10 pet fee, which wasn't advertised here, but that wasn't a huge deal. (The hold, by the way, was NOT pet-related, it was a general damage deposit that they charge to ALL guests.)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Worth it",
+    "reviewText": "To my surprise AMAZING! Everything was brand new and spotless. Great BED too. Definitely worth the nightly rate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Surprised",
+    "reviewText": "Pleasant atmosphere. Very clean with friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Surprised",
+    "reviewText": "The room was clean, and the bed was decently comfortable. My only real grievance was that if I was out of my room all day (which I was every day) the air conditioning shuts off. I had to wait for it to cool down every night before I could sleep.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and good value",
+    "reviewText": "Very basic hotel, but I did think the beds were comfortable. I had asked for a refrigerator and to be on the first floor since this hotel did not have an elevator and both requests were made. We arrived quite late in the evening and our room was still available, no problems at all. The location was convenient, right off the interstate. The breakfast was very basic but it was ok as it matched to the description provided on the hotel website. This was ok for a short stay, overnight only.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "A Great Experience",
+    "reviewText": "The staff was extremely friendly and the bed was ridiculously comfortable! It made it hard to want to leave. I'll definitely be back!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "A Great Experience",
+    "reviewText": "Friendly staff. Room was clean and comfortable. Nothing extravagant, but as expected for price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "A Great Experience",
+    "reviewText": "I've never been treated so bad ever at a hotel. The manager was very unprofessional and disrespectful..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality and Thrift",
+    "reviewText": "Good location for food and shopping. Adequate breakfast. Quiet. Quick service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Bad Hotel. Served it's purpose",
+    "reviewText": "The hotel was not bad, not great. Room was clean bathroom was clean and well stocked except for soap/shampoo. If you just need to spend a night for not a lot of cash this is the place to stay. late in evening the guests became a little sketchy and there was a couple I the parking area having in their car. If this doesn't bother you I would recommend this site.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "DO NOT STAY HERE",
+    "reviewText": "The staff was extremely rude! Was very uneasy to leave our room unoccupied as they watched us with every move and constantly asked us if our room needed service. We were awaken one morning by a minimum of 7 knocks to see if we needed extra towels. The staff is extremely creepy and made us feel very uncomfortable. Room is very outdated and not clean. I would not stay here again and highly recommend you don't either!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "DO NOT STAY HERE",
+    "reviewText": "We booked for one night on our way to South Carolina. The hotel staff was nice. The seating area for breakfast was very small and made it difficult to eat breakfast when it was crowded. Didn't get much sleep as I heard what seemed like every hotel room door slam each time they were opened. But for the length of time we were there, it was a good stay. Beds were comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "DO NOT STAY HERE",
+    "reviewText": "I called the 1800 to complain about the man front desk one morning that evening he approached us as we were walking in. Very unprofessional, rude and accusing to me. he was was rude and a complete Butt. Not cool all!! Check out was 11:00 am and 8:24 am we were awoken by a knock on our door and the sound of the card being slide to unlock the door. Thank god we had the door chain and slide bar locked into place. So much for sleeping in we had a long weekend with select volleyball and we were all looking forward to sleeping in Til 10:20 and ck out to drive home. Not cool! For some reason the wifi didn't work in our room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place, great price!",
+    "reviewText": "For this price, it was a home run! Booked it because of all the positive comments. Now I too am leaving one! It was quite as well.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Some like it hot....",
+    "reviewText": "Air conditioner putting out very little air. Room was still hot and stuffy 5 hours after check in. Maintenance came to room, told us that we needed to turn off lights to make room cool. Really For 135 a night Needless to say, I fired Super 8.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean \u0026 quiet",
+    "reviewText": "It was good. Overall clean quiet. Service was very good. The hotel was suitable affordable for my family.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great motel.",
+    "reviewText": "Great Motel. Very clean room with a comfortable bed. Only a warning -- if you pay via Paypal their system is going to hate you and you'll have to give all your info again plus a credit card at check-in.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Getting the most for your money.",
+    "reviewText": "For the price, it's a very well maintained facility. I felt it was well kept/clean and TV (42) and Fridge (Large Dorm size) are kept current.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "3 legged chair",
+    "reviewText": "The room was clean but very musty like it had been unused for a long time, commode also had a ring like it hadn't been used in a long time. We had to air the room out. The chair in the room only had 3 legs. I sat a bag on it and it fell over. It was a good thing we didn't sit in it. We had our pet with us and we assumed that is why they changed us from the room we reserved to this room. They moved us to a corner room on the second floor. If they were worried about our pet keeping people up they need not have worried because the loud people walking the halls during the night took care of that.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Basic but clean and comfy",
+    "reviewText": "The beds and pillows were quite comfy, and there was a nice fairly large flat screen TV. The air conditioner was strong and cooled our room very quickly. The man at the counter was helpful and friendly. We just stayed one night but all in all it was a good value and comfortable. It is right off I-465 so convenient access to the freeway, and there is a Walmart and several restaurants nearby. The hotel also has free wifi.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Safe and clean hotel close to everything",
+    "reviewText": "Comfortable stay. Staff is friendly and helpful. Would definitely come back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Safe and clean hotel close to everything",
+    "reviewText": "Many of the lights did not work. Very thin walls. Toilet stopped working.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice hotel, close to shopping and restaurant.",
+    "reviewText": "We really enjoyed our experience at the super 8, we needed a room at the last minute and they were fast, friendly and convenient. Next time we visit Indy we will definitely stay at the super 8!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de41b4"
+  },
+  "name": "Americas Best Value Inn",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Chico",
+    "postalCode": "95928",
+    "address": "740 Broadway St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-121.83713, 39.72602]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "disappointing",
+    "reviewText": "lobby was locked, clerk was rude, room was old and in need of repair and it was very noisy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "disappointing",
+    "reviewText": "Stayed for one night. The room we got was a non smoking room walked in it smelled like smoke. Crack heads walking up and down the place talking to them selfs or other crack heads. The bath room was dirty. The breakfast sucked. Don't recommend this place at all.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Not again!",
+    "reviewText": "We had the room facing the street, and above the lobby at the top of the stairs. It was noisy, and our room smelled like it had not been used in many years, and like smoke. Twice during the night someone was using their card to try to get in to our room. The one guy said that he had been using the same room for a long time and then we resorted to telling him we were calling the police. Then he left us alone. The continental breakfast was a danish and an apple..I would not stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Over priced, broken down, bug infested.",
+    "reviewText": "Our complaints were met with an offer to move us to another room.....for 100.00 more. We were provided one towel for four people. We were disgusted.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Very dirty and dangerous",
+    "reviewText": "There were people screaming until 4:00am. The door frame was coming apart from the wall. There were holes in the shower. There were people living in the hotel and digging through the trash in the morning. There was a smell of mildew in the room. People were smoking everywhere so i couldn't keep the window open for fresh air. This place is not safe for children or the elderly. They have to have armed security guards patrol regularly and they tell you so on a sticker in the window of the office. I would avoid this place at all costs.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Won't be back for a second visit.",
+    "reviewText": "You should not advertise cites like this. That is a cheap motel. Also your rate is extremely high for this type of places. While I was checking in. their standard rates is 40. I would not pay 25 for places like this. it is terrible!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible",
+    "reviewText": "The room was dirty and outdated for 100 per night. Neighbors played loud music. The staff was rude.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Disgusting",
+    "reviewText": "Well now where do I start It wasn't the hypodermic needle in the parking lot, or the trash everywhere, or the disgusting trash cans with no liners, the phone not working at all, the boogers all over the bathroom ceiling, the broken showerhead, or the bloody sheets. It was the cops being there all night trying to get rid of the fighting permanent residents beating the walls, but hey at least we got to watch the cockroach races all night since we couldn't sleep. At least we had entertainment for the evening.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Couldn't even stay.",
+    "reviewText": "My son needed a room for his class reunion, so I booked this at the last minute. He ended up sleeping on a friends lawn chair instead because he couldn't tolerate the smell of the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible Ghetto Experience",
+    "reviewText": "No heat in the room. Scary gangster looking people hanging around. Torn sheets. Desk clerk acted surprise there was no heat in the room and gave us a space heater. How nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Disgusting!",
+    "reviewText": "It was the worst stay I have ever had, lot of weird people on drugs hanging outside in parking lot. Hotel front staff was rude and unprofessional.front hotel restroom had number 2 stains in and on toilet,wouldn't recommend to anyone. Just disgusting!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again!!!",
+    "reviewText": "Horrible!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "bad gold cup stay",
+    "reviewText": "Floors soaked rude service twackers everywhere wont stay again",
+    "reviewerCity": "",

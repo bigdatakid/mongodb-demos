@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2016-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly Staff, Disappointing Stay",
+    "reviewText": "The staff were very nice and friendly. The courtyard was lovely but smoking was allowed so we could not enjoy it. The pool needs a good cleaning and smoking was allowed. Very noisy nights in courtyard",
+    "reviewerCity": "Lomita",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value for money",
+    "reviewText": "One of the best run Mirazur Hotels we've stayed at. Extremely well run. Very pleasant staff. Lovely pool/courtyard area. Good breakfast (but no grits!). Convenient to French Quarter, On/Off Bus Depot, Louis Armstrong Park, Rampart trolley line. We've stayed here twice and have been happy all around both times. Will stay here again on our next visit to NOLA.",
+    "reviewerCity": "mount vernon",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "grow up",
+    "reviewText": "willing to remove table broken by housekeeping rather than having housekeeping make work orders for each rooms maintence, smokers standing outside nonsmoking rooms with ac on blew smoke straight in room and too hot to go without AC",
+    "reviewerCity": "Oxford",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-04T00:00:00.000Z"
+    },
+    "reviewTitle": "This was a perfect place for my vacation!",
+    "reviewText": "A group of my friends and I wanted to be in New Orleans for New years eve! We wanted to see the French quarter etc. This hotel was in the perfect place. The French quarter was right behind this hotel. It took less than 5 minutes to walk to the French quarter. It was far enough though that it wasn't... More",
+    "reviewerCity": "Salt Lake City",
+    "reviewerState": "UT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Just outside the crazy...a nice spot.",
+    "reviewText": "A good hotel, we were made to feel welcome by the reception staff. Pool could have done with a bit of a clean, and the bar could have stayed open a but later, but the rest of the hotel was comfy and clean.",
+    "reviewerCity": "Stoke-on-Trent",
+    "reviewerState": "UT",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointing service",
+    "reviewText": "The hotel itself is fine but two times the housekeeping staff left our door open so when we came back after long days out we found the room wide open. The safe was not accessible so our passports and valuables were left unsecured. Having left the door open we would have thought they would have been in there replacing towels... More",
+    "reviewerCity": "Chilliwack",
+    "reviewerState": "UT",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Mirazur French quarter",
+    "reviewText": "Location is good in the day wouldn't walk alone at night It's a cute looking hotel Free breakfast Free wifi Had a courtyard facing room which was nice to look out Most staff were friend, but some were not. My issue is the walls are paper thin. You can hear through them These ladies kept having drama talks out my... More",
+    "reviewerCity": "Vancouver",
+    "reviewerState": "UT",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Staff Clean Hotel Nice Location",
+    "reviewText": "This budget-friendly hotel is located on the outskirts of the French Quarter. It only took a short walk through a quiet residential neighborhood to get to the heart of the French Quarter. I found the hotel very clean and the complimentary breakfast completely adequate. It was surprisingly quiet although you would hear an occasional group come in after a fun... More",
+    "reviewerCity": "Vancouver",
+    "reviewerState": "UT",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Property good location",
+    "reviewText": "I really enjoyed my 4 nights at this property, room was lovely, had quite a 'new orleans' feel, loved the central courtyard with pool (too cold to use though) lovely trees and a real French feel. Breakfast is included and is very good - was supposed to be just continental, but scrambled eggs, bacon or hamburgers were provided every day,... More",
+    "reviewerCity": "Melbourne",
+    "reviewerState": "UT",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect!",
+    "reviewText": "Hubby chose this hotel for our wedding anniversary and our first ever visit to New Orleans - he made a great choice! The hotel is perfectly situated in the most northern part of the French Quarter, across the road from Armstrong park, in a quiet location away from the noise and craziness that is Bourbon Street. We walked everywhere from... More",
+    "reviewerCity": "Syracuse",
+    "reviewerState": "UT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

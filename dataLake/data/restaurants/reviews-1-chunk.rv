@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Not so happy",
+    "reviewText": "Room service is on point but I do not recommend the steak n eggs for breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Not so happy",
+    "reviewText": "Try the Chill lounge, nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Not so happy",
+    "reviewText": "Room was not properly cleaned we had another person's shoe in room and broken glass in room and bathroom. Housekeeping never showed up to clean room after we complained.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Not so happy",
+    "reviewText": "ac units in the room suck.   you can turn it all the way down, but 74, maybe 72 is the best you'll be getting.  enjoy",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Not so happy",
+    "reviewText": "Very nice People People look like they are enjoying there job all the time and all ways willing to help and willing to get you anything you need",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice People",
+    "reviewText": "People look like they are enjoying there job all the time and all ways willing to help and willing to get you anything you need",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice People",
+    "reviewText": "I like spending money and this is a casino. I'm pretty happy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "5",
+    "reviewText": "It wad very comfortable, we felt safe",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay",
+    "reviewText": "This was our first stay at the IP and it definitely did not disappoint. The room was nice, great AC, and the blackout curtains were amazing!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay",
+    "reviewText": "The staff was a little rude while checking in, other than that it was great.",

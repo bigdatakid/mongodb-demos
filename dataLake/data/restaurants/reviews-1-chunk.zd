@@ -1,0 +1,100 @@
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "The hotel was located next to the Outback restaura",
+    "reviewText": "Everyone was friendly and very helpful. Computers were on the blink and they kept on working manualy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Luv it",
+    "reviewText": "I really enjoy my stay the room was so nice the beds was nice I slept like a baby the sheets was fresh and clean I will be staying there again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Mixed",
+    "reviewText": "faucets were loose in the bathroom. The battery went dead in the door lock it took almost an hour before anyone showed up who was able to get us back into our room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Mixed",
+    "reviewText": "The receptionist was not very personnable. It was like I was intruding on her day to ask questions of her, she never smiled or gave the impression that she was interested in our stay. The hotel was nice and close to the things we were involved in, but I am not sure we will be back at this particular motel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Mixed",
+    "reviewText": "OK, they shut down the breakfast service too early, though.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-16T00:00:00.000Z"
+    },
+    "reviewTitle": "good",
+    "reviewText": "it was good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Laura's stay",
+    "reviewText": "Great",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Worth it for the price and short visit.",
+    "reviewText": "Great stop over. Buffet breakfast, pool, gym and free wifi are our requirements and they were all great. But it is right next to the train tracks and it is loud and shakes the building. I slept with earplugs and was fine. The staff was super friendly!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Valentines stay away from home!",
+    "reviewText": "Room was comfortable, breakfast was lousy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay away - too much crime!",
+    "reviewText": "I had a brief overnight stay here on the way back home. The hotel itself was fine, but somebody tried to break into my room the next morning around 10am while I was still sleeping! Is the area really that bad that somebody would try to do that in broad daylight",
+    "reviewerCity": "",

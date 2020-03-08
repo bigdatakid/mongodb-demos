@@ -1,0 +1,1000 @@
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Unbelievable Value for the Dollar",
+    "reviewText": "Great location, room and staff. Will definitely be back in the future. Wasn't able to make it into the casino but nice that it is available. Fitness and business centers were exceptional. Wonderful view of the arch and the river and easy to walk to a number of downtown locations.",
+    "reviewerCity": "Richmond",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "This was the best hotel experience I have had in my life...and I travel at least 100 days a year.",
+    "reviewText": "Everyone remembers your name (how do they do that)! Turndown service, bath salts for my tired feet great gym with well kept equipment overall wonderful! IF you are ever looking for a wonderful luxury hotel experience the Four Seasons is the place for you. And the pillows on the bed are fantastic!",
+    "reviewerCity": "Indialantic",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location! Service on point!",
+    "reviewText": "This hotel is a five minute walk(indoors thanks to the Lumiere Link) to the Edward Jones Dome. The food in room and at the restaurant was great. The room was spacious and clean. The bed was comfortable and the room was quiet even though there seemed to be a lot of guests at the hotel that weekend. We felt welcomed... More",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Good but not Excellent",
+    "reviewText": "I planned a one day stay at the the Four Season for Valentines Day back in November, I spoke with the concierge on several occasions regarding my stay because I wanted to make it special for my lady. (massage, rosees, rose petals. breakfast the next morning, and arriving early) To my understanding everything was taken care of, I even called... More",
+    "reviewerCity": "Saint Peters",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful request a room overlooking the Arch!",
+    "reviewText": "The hotel is beautiful, the staff is very professional AND friendly I loved the room and the ambiance. Just a few more trash cans needed in the meeting spaces is my only complaint everything else was perfect.",
+    "reviewerCity": "Saint Peters",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Review of Four Seasons",
+    "reviewText": "Excellent business trip with excellent meeting accommodations and provided by a friendly, courteous staff with a service mentality. I honestly do not have any complaints regarding the service or property",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Complete satisfaction.",
+    "reviewText": "I had a business trip to St Louis and someone else made my reservation. I was totally satisfied with every experience from the time I arrived to the time I left. Thanks for making my stay a great pleasure.",
+    "reviewerCity": "SIOUX FALLS",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4167"
+  },
+  "name": "Olde Bridge Inn",
+  "categories": ["Travel \u0026 Transport", "Bars \u0026 Clubs", "Hotels \u0026 Motels", "Food \u0026 Entertainment"],
+  "location": {
+    "country": "US",
+    "state": "IL",
+    "city": "Caseyville",
+    "postalCode": "62232",
+    "address": "519 N Main St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.019974, 38.641903]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4168"
+  },
+  "name": "Cadillac Motel",
+  "categories": ["Motels", "Hotels", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "MT",
+    "city": "Brandywine",
+    "postalCode": "20613",
+    "address": "16101 Crain Hwy",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-76.87629, 38.66893]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-22T00:00:00.000Z"
+    },
+    "reviewTitle": "murder at motel",
+    "reviewText": "Did you know on 2-20-15 a man was found in room 18 murdered Boxes of wine found! Pills and drugs. Everywhere what is PG going to do this is mot the first time kids in room 31 where drugs are being sold prostitution and drugs everywhere and they are building a new motel for what more drugs and killings!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4169"
+  },
+  "name": "Kit Carson Lodge Restaurant",
+  "categories": ["Bed \u0026 Breakfast \u0026 Inns", "Hotels", "Resorts"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Pioneer",
+    "postalCode": "95666",
+    "address": "32161 Kit Carson Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-120.11612, 38.67073]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 6
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de416a"
+  },
+  "name": "Holiday Inn Express Hotel Suites Sedalia",
+  "categories": ["Travel and Tourism", "Wedding Guests", "Hotels", "Wedding Guest Accommodations", "Resorts", "Motels", "Hotels and Lodging"],
+  "location": {
+    "country": "US",
+    "state": "MO",
+    "city": "Sedalia",
+    "postalCode": "65301",
+    "address": "4001 W Broadway",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-93.279755, 38.71274]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Just what you'd expect from a HIE",
+    "reviewText": "I was a little worried about the trip to Sedalia, assuming it was going to be a tiny little town in the middle of nowhere with hotels to match, but this was a very nice Holiday Inn Express. It felt fairly new, had nice rooms, a fitness center and pool, and the standard HIE breakfast with those wonderful cinnamon rolls.... More",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Broken down Bike",
+    "reviewText": "Bike broke down on way back from Sturgis, SD. This town had the closest HD shop. We spent the night here. Very nice, very friendly and would recommend to anyone. The State fair grounds is not far from hotel",
+    "reviewerCity": "Richmond",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Short and Sweet",
+    "reviewText": "I only stayed 3 nights instead of the original 6 I was supposed to stay. Great as usual but what I didn't care for was being in a Handicapped Equipped room. Don't know why I was put in one and I've stayed in them before but this one was diffult to negotiate the doors (close one to open another), shower... More",
+    "reviewerCity": "Milton",
+    "reviewerState": "VA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice way to say goodbye",
+    "reviewText": "I stayed here for two nights as I was moving to a new job in a new state. The atmosphere was relaxing. The location was decent as it was close to a Walmart, but far enough away too, especially since I stayed over a weekend. I like that since I good buy little snacks and nicknacks should I need them.... More",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for a wedding",
+    "reviewText": "We stayed here overnight October 2015 for a wedding in Sedalia. It was very clean and nicely decorated, and the staff was nice. You can't beat the hot and cold breakfast bar when you are in a hurry. The only problem was that the thicker curtain didn't close all the way, so the bright parking lot light was shining in... More",
+    "reviewerCity": "Leawood",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice!",
+    "reviewText": "Stayed here with my family of 6 in a suite. It was nicely appointed, looks to be relatively new. They were completely booked, but the staff seemed to handle it all with grace. The breakfast was meh but it filled us up. The kids enjoyed the pool and my husband enjoyed the big screen TV. I would definitely stay here... More",
+    "reviewerCity": "Leawood",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice and Clean Over Priced",
+    "reviewText": "This is a nice and clean hotel. Complimentary breakfast was average. The pool was warm, old, and small. The hot tub is very small. Rooms modern and clean. Bathrooms are older and refurbished. This hotel is overpriced by about 30 dollars. Will try another hotel next time.",
+    "reviewerCity": "Leawood",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "5stars",
+    "reviewText": "What a great hotel. Reasonably priced. The beds are amazing. So soft and comfortable. We had the best nights sleep. Rooms very clean. Bathroom spotless. Breakfast was wonderful. Scrambled eggs sausage patties. Sausage links and bacon. Biscuits and gravy. Pancakes and of course the delish cinnamon rolls. And then the usual oatmeal cereal and etc Would not hesitate to stay... More",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice accommodations super friendly staff",
+    "reviewText": "Like most Holiday Inns and other hotels of this class, the walls and the floors are very thin. The staff was friendly, room was clean, and my stay was uneventful (exactly what I want). Fruit was fresh and they have chocolate milk ... So that makes me and my girls super happy.",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel - Friendly staff - Clean",
+    "reviewText": "Will stay here next year when we travel back to Sedalia. The lobby was clean, the staff was friendly and the room was clean. We stayed on the third floor and it was quiet. Accommodations met expectations.",
+    "reviewerCity": "Sioux Falls",
+    "reviewerState": "SD",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de416b"
+  },
+  "name": "Happy Tails Hotel \u0026 Playland",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "MO",
+    "city": "Saint Ann",
+    "postalCode": "63074",
+    "address": "2920 N Lindbergh Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.408154, 38.714704]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Poor Customer Service Resolving a problem has proven very difficult as no one will call me back. After calling weekly and getting the run around from managers stating they need to talk to the owner, but no return call from manager nor owner inspite of weekly calls. Avoiding a problem never solves anything.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "HORRIBLE!!!!!!!!!!!!!!!!! HORRIBLE!!!!!!! REMEMBER YOUR PETS ARE DEFENSELESS AGAINST CRUELTY AND NEGLECT. My 8 month 6 pound puppy got bit on her NECK. I received a phone call where the man made it sound like it wasn't a big deal but since it was a puncture wound and she was bleeding they were going to take her to the hospital but for me not to bother to come because it wasn't a big deal. I met the worker who drove my pup at the animal hospital to find that my dog needed 5 stitches. Not a big deal FURTHERMORE, when i asked what happened NO ONE KNEW HOW IT HAPPENED. I demanded to see the surveilance tape but surprise surprise, their internet was down and they couldn't pull anything up. i went there twice to see this tape and both times, the internet was down. I know one of the women there personally and she told me when my dog got bit, she pooped on the spot and one of the high school workers spent more time cleaning her shoe than taking care of my dog. this adolescent girl didn't even know my dog was bleeding until my friend saw her and scooped her up a few minutes after the incident because there was pool of blood and it was attracting all the other dogs. I ABSOLUTELY HATE THIS PLACE AND WOULD LOVE TO SEE IT SHUT DOWN. this was the second incident. first, THEY LOST MY DOG. i sat there for 2 hours crying because they couldn't find her. apparentley there was a hole in the wall (in the Kitchen Area for small dogs) and my dog fit right in and NO ONE KNEW she was missing until I got there looking for her. RIDICULOUS. PLEASE DO NOT BRING YOUR DOGS THERE, AGAIN, THEY ARE DEFENSELESS AGAINST CRUELTY NEGLECT. Liked: Disliked:",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very Happy with Services I have used Happy Tails many times for my dog, and have never had a problem. Staff is always very nice and caring.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "This review is in response to the review HORRIBLE!!!!!!!!! This happened six months ago so, we are confused about why the review has just been posted. Happy Tails is an open environment and some dogs play harder than others. In this case her six pound puppy instigated an altercation that unfortunately could not be prevented, but was handled appropriately. We called the owner immediately and a trained veterinary technician took her dog to the clinic as a precaution. NO stitches were given and an antibiotic was prescribed. We were very sorry this happened and we apologized and paid the medical expenses. Our internet was not down but the video recorder was malfunctioning. Later upon review, there was nothing to see. We tried to let the owner know but she had moved away. The story about her dog defecating on the spot and the employee cleaning her shoe was nonsense and fabricated. There was no blood on the floor and we considered the incident minor. In the second case we did not lose her dog, the dog crawled under a feeding cage. In an effort to provide the best care possible for this dog, the dog was placed in the small dogs kitchen at the end of the night as a safety precaution. There was no hole in the wall that the dog crawled through. Dogs do not normally crawl under these crates and that was why the dog was not located immediately. Again we apologized, did not charge her for daycare, and the two hour wait was embellished. Come see for yourself. We are not cruel and pets are not neglected.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "AWESOME Trainers, poor mgmt The trainers that work there Karie Shane are WONDERFUL!!!!! You couldn't ask for better dog trainers/dog behaviorists! They did worked wonders with my dog!!! However....Happy Tails managment is NOT as pleasant to work with! No returned phone calls! I bought a daycare package which mean discounts the daycare rates. Due to unforseen circumstances, I needed a refund they refused to give me my full refund!!!!! Since I didn't use all the days I purchased, they refunded the days using the full priced 35 a day rather than the discounted rate I had purchased, cutting my refund in HALF! Since I only used 1/2 the days....that was a LOT!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I have used Happy Tails for Day care and boarding several times, and have always been pleased. I love that I can drop off / pick up any time of day or night. I also like that they will let my larger dog run with the big boys, but put him with his smaller siblings at bed time.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "My family went on vacation for a week and our two 7 month old shep/lab mixes were entrusted to Happy Tails. This was the first time they were away from home. Happy Tails provided care as requested in writing and our puppies were torn when we came to pick them up...they seemed to want to stay at Happy Tails and they wanted to go with us. No matter what time of day (24/7) that we called, we spoke with a live person and they gave updates and answered all of our questions for each pup (each time we called) - they even had special names for the pups - this let us know that the staff regarded them in a special and individualized way. Happy Tails is the place we recommend for anyone that has dogs or pups that they love and need a second option of care - the same level of care and freedom that they would receive at home....daycare and boarding.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I definitely will not be going back there. It's very difficult to watch teenagers take care of a dog. I totally agree with trueanimal lover... they do show you around and don't take you to the downstairs. I actually saw the trainer put the dogs in a sitting position and went to talk to the manager about their personal life. How Nice! I bet my dog would learn a lot there. The grooming... do they listen I had a horrible experience the very first time I took my dog to get groomed there- but decided to give it a second chance- never again! Pros: Location, Prices Cons: What you pay for is what you get, unprofessional rude teenagers, I can go on and on and on. You know it's bad, when you'd rather go to Petsmart or Petco.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-11-04T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Come and see us Please! Response to, Not so Happy at Happy Tails I am a manager at Happy Tails and of course biased. But let me address Not so Happy at Happy Tails. Our daycare is very competitive and not the most expensive. Daycare begins the moment your dog is dropped off and runs until midnight. No other facility in St. Louis offers this flexibility for the price! We do kennel the medium to large dogs overnight, otherwise they would never go to sleep. Your pet needs 8-9 hours of rest just like you. This offers a respite from the long day of playing with the other dogs. We never force the dogs outside. They go outside naturally because they want to. They have a choice to play inside or outside unless we are cleaning inside which occurs every morning and evening. In the summer, we also provide the dogs kiddie pools to cool off! We have an open door policy here and everyone is invited to view the dogs in the yard. We also have a monitor in the lobby. If the dogs were miserable and scared, we would not allow the public to view this. Unlike a regular dog park, we make sure all the pets play fairly. This means that at times dogs are not allowed to run around in a crazed state and we monitor activity levels. We encourage our employees to play with and touch the dogs so there is plenty of affection spread around. We have turf that was specifically designed for dog play yards. It has 20 holes per square foot to allow proper drainage and is dusted with antimicrobial sand as needed. The turf is also sanitized daily. I often tell our employees to never allow feces to hit the ground. Happy Tails spends tens of thousands of dollars each year on specialized cleaning products and equipment for every surface of the facility and has employees whose entire shifts are dedicated to nothing but cleaning. Obviously the ex-employee was not doing her job properly. We take sanitation very seriously! So go ahead, come to Happy Tails, and we will gladly show you our facility including downstairs. I would have preferred the above employee would have addressed with management their issues but this never happened. We encourage employee involvement and are always striving to improve our facility.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Best Kennel In Town Happy Tails is by far the best place you could ever bring your dog. It is like dog heaven. They are not crated or caged at all. It is a completely open environment. Me and my dog LOVE happy tails",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Great place for dogs My dog and I love Happy Tails! I take her to the Doggy Daycare, a safe, yet cageless place for her to play all day long... plus if she needs grooming, obedience training, or boarding, it's all under one roof.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I am writing mainly because I noticed that the comments seem to be either really fabulous or really horrible. How can this be for the same place It seems odd to me. How about the universal truth that nothing is perfect I've had my dog there for day care, boarding and grooming. It was not perfect for ME. And granted my dog can't talk, it seems that SHE has never been worse for the wear and since it really is about HER, that is good enough for me. Even if she had gotten into a scuffle with another dog I would hope I would remember that she is a dog after all. One reviewer said her dog slept for two days and was depressed. Really My dog slept for 24 hours and I thought it was because she had such a good time she was exhausted! And even when I picked her up one time and no one had any idea who she was and there was an awkward exchange over the walkie talkie, I am guessing HER feelings weren't hurt even tho mine were. The point is, no one is going to care for my beloved dog like I do, because no one is me. It may be true that some dogs are just not temperamentally right for day care or boarding in any case. May I suggest having someone stay at your home with your dog, which is what I usually do anyway. As for grooming, when I picked her up, she was hanging around the grooming area waiting for me and she looked so happy when I spied on her. She smelled good, too.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-12-15T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Happy with Happy Tails I have been taking my little baby to Happy Tails since she was just a small baby. The staff has always treated her as if she were theirs. I have been there when others have brought their dogs in to drop them off. They treat all of the 'kids' just like they treat mine. I have taken my pets to other daycares in St Louis, but have never had my dogs treated the way they treat them at Happy Tails. I will never take my dogs anywhere else.....ever again.....",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Not so happy tales at I use to work at Happy Tails and I would NEVER take my dog there to stay! And definately not for the overpriced daycare they provide. Medium and Large dogs are kenneled for 8-9 hours without water. During the day, are forced to stay outside in the scorching heat, pouring rain, or fridgit cold for up to 5 hours at a time - even though you can tell most of them are miserable and some are so scared due to the fact that they are in a mid sized yard with up to 100 other dogs (some of whom are aggressive! and have a biting record). The staff is not trained on how to manage the dogs so they can't keep your dog safe from a fight should it occur. Almost a daily occurance there. Dogs are not allowed to play or run in the yard ..they are forced to just stand there and pretty much do nothing. Oh...they can choose to lay on the astroturf which is covered in dog feces and urine (it doesn't drain properly) Go ahead...ask them if you can see the downstairs for yourself and tell them that you want to walk on the area outside that your dogs are suppose to think is the playground...IT WILL NEVER HAPPEN! They don't want you to see it for yourself. The place is a dump inside. They make it look all pretty but trust me ...dogs get sick and hurt there all the time. I couldn't take the stress of it. I love animals and this place is BAD!! About 2/3 of the dogs have diarreaha due to stress.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Terrible experience. This is the first time we tried Happy Tails, the only thing I can be sure of was that my dog came out a Sad Tail. He got two visible wounds (missing hair and bloody spots) on his upper lip, and this was not mentioned at all on their report. I found the wounds when we got home. My dog has been very tired and inactive/sad/depressed for two days after being home. I don't know what they did to him during the three days I boarded the dog. Regret regret regret!! Never again!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de416c"
+  },
+  "name": "Breakers Hotel",
+  "categories": ["Hotels", "Motels", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "VA",
+    "city": "Rehoboth Beach",
+    "postalCode": "19971",
+    "address": "105 2nd St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-75.082115, 38.71738]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I would not stay here if you gave me a free room ! They quote you one thing then they change it when you reserve a room or get there. Then they tell you they never said what they say ! The place has not been the same Since The Manager Kelly left, They do not care at all even if your a returning guest of 10 years. Do yourself a favor DON'T GO...... I am only giving 1 start cause I have to",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "After booking a room over the phone, we were told upon arrival that the charge for our dogs would be an additional 100.00 per night over what we had been quoted. We were told that the GM was the only person who was authorized to deal with this discrepancy and that she would be in the next day. Our dealings with Courtney Lankford (the GM) were nothing short of astonishing. When we told her what we were quoted over the phone she claimed that her employees never make a mistake in lig...view moreht of the fact that our deposit (as a percentage of the quoted amount) clearly reflected the lower figure. After presenting her with numerous facts to back up our claim it was apparent from the start that she had no intention of correcting the charges. Later while disputing the charges with our credit card provider she resorted to falsely accusing me of threatening the employees. (in fact, everyone else we had dealings with at the front desk were nothing short of pleasant) To top it all off, the maids refused to clean our room because we had dogs (in crates) in the room, forcing us to procure our own supplies from the maid carts (toilet paper, clean towels, soap etc.) as well as staying in a dirty room for the next three days. Our dealings with The Breakers and especially Courtney were without a doubt the worst experience we have ever had within the hospitality industry.view less",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de416d"
+  },
+  "name": "Red Roof Inn St Louis - Troy",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "IL",
+    "city": "Troy",
+    "postalCode": "62294",
+    "address": "2030 Formosa Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-89.913938, 38.734557]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "family trip",
+    "reviewText": "Staff was very friendly and accomadating...love the floors..no carpeting !!! Great value for the money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "family trip",
+    "reviewText": "Decent enough for the price",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Peaceful",
+    "reviewText": "Need salt and pepper that's only complaint but overall great thanks",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Peaceful",
+    "reviewText": "Great place. Staff was very helpful. It was clean and good looking. Check in and out was easy and fast. Good food close. The breakfast needed to be improve. Just muffins, bread, jucis beagel, you get it. I would not stop me from staying there again. Cracker barrel across the street.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Red Roof",
+    "reviewText": "Got in late, room was clean and neat and the price was right.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Red Roof",
+    "reviewText": "Nice stay. Very pleasant.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Red Roof",
+    "reviewText": "Nice two day stay. Hotel was good. I thought my price was pretty good. Area is good. Travel to surrounding areas is easy and quick. Only downside was bedspread looked like stain on it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Red Roof",
+    "reviewText": "Convenient location",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Red Roof",
+    "reviewText": "I haven't stayed in a Red Roof Inn before. I will definitely look for a Red Roof on my next trip",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Red Roof",
+    "reviewText": "pleasant",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Reliable",
+    "reviewText": "We stay here often, since we have family in the area. It's reliable, comfortable, dog friendly and a great value. This time around we were pleasantly surprised to see home baked peanut butter cookies on the coffee table in the morning. I don't give out 5 stars to economy hotels. If I did, this place would get them.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "cross country trip",
+    "reviewText": "trip across the country. was perfect for the night. quiet, clean and my 2 dogs were comfortable.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place!",
+    "reviewText": "Was great!",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place!",
+    "reviewText": "The room was not clean. The first room the window did not close and we were on the first floor. We were then moved to the third floor. That room was not very clean. The next morning at around 8:30 the cleaning people were vaccumm. With checkout at 11:00 i can't believe they start vacuuming that early.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stop along the highway",
+    "reviewText": "Driving across country, was able to easily locate and book a hotel online through Hotels.com. This hotel had a special tonight only rate. Easy to find, easy on and off the highway, nice and safe hotel, room was clean, minimal, the bed was very comfortable.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient",
+    "reviewText": "Nice and clean hotel and would give a good recommendation if the hotel was not so close to the interstate that we heard cars and trucks all night. And our room was right off the lobby and next to the ice machine. So it was kinda hard to get much sleep.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Dogs allowed",
+    "reviewText": "I chose this hotel because I needed a place that allowed dogs, unlike my brother's house. I found a great deal and wasn't expecting much for the price. I was pleasantly surprised at the size of the room and the cleanliness. I did not spend much time exploring or dealing with staff, but what I saw was fine. I am definitely considering staying here in the future, if my brother continues to refuse to allow pets.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Ref roof getaway",
+    "reviewText": "The motel was very clean and the rooms were nice. I would stay here again. They asked for a second charge card to cover incidentals. Have never had to do that with a different credit card. Strange to say the least.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall satisfied but...",
+    "reviewText": "The hotel staff was very friendly amd accommodating. The rooms were clean and comfortable. The only issue was a toilet that wouldn't flush and they were unable to fix. Made the second morning was not very pleasant. The staff tried, but couldnt get it fixed. Disappointing but not so much that I wouldn't stay there again.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-16T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for",
+    "reviewText": "Decent stay. Although smoke free, the room had a smell to it whenever you enter it. Stained mattress sheet. Poor sink water pressure. Safe hotel and area. Not a five star but maybe a solid 3. Average place",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to crash for the night",
+    "reviewText": "The hotel was clean and the room was affordable. It's a great place to stay if you are passing through.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and comfortable bed.",
+    "reviewText": "I stayed at this hotel august 5th 2015, The room was really clean, great customer service. Friendly staff. The complimentary breakfast was good. Refrigerator and microwave in every room.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay!",
+    "reviewText": "We stayed 3 nights and really enjoyed everything. It well maintained and quiet. My 3 year old loved the pool and the popcorn. It was a great place and we will stay again.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "nice stay",
+    "reviewText": "One night stay while traveling.clean large room friendly hotel would stay again",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend Trip",
+    "reviewText": "We wanted a weekend getaway with the girls. So we rented the hotel close to St Louis so we could still travel to the zoo the next day. The girls enjoyed swimming in the pool. We would definitely come back and stay.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Good and bad with this hotel",
+    "reviewText": "- Good hotel with bigger than average rooms. - Convenient location off Highway 55 with many food options close. - Unfriendly staff with my interactions with multiple people (as if I was bugging them) - No hot tub as pictured on hotels.com. Asked staff abo",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Motel SUCKS",
+    "reviewText": "Let's see, toilets backed up, not only in our room but my mothers room across the hall. Pretty disgusting",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "poor accommodations",
+    "reviewText": "Linens were badly worn and bed was made with wrinkles in it. Room not very clean. Barely adequate.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Consistency in a night's sleep",
+    "reviewText": "For the money, Red Roof Inns is one of our favorite places to stay. I fact as I write this review I am staying in a Red Roof Inn. Comfortable and good staff. The price is fair and take care of our needs. It's not 5 star hotel but you are not paying a 5 star price.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Consistency in a night's sleep",
+    "reviewText": "We booked two rooms, one of them was very clean, the other one had a lot of dust and the hair dryer did not work in that room.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Very comfortable, great staff",
+    "reviewText": "The hotel is well lit, very clean and quite comfortable.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Dirty bed",
+    "reviewText": "Found wood chips in the bed. Obviously the sheets weren't washed.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly staff, nice room, shallow pool",
+    "reviewText": "My family and I went down to St. Louis for the weekend and thought that Troy would be a great place to stay. I'm not a fan of staying in the city. The staff was very friendly and helped me with whatever we needed. We picked The Red Roof in mainly because of the indoor pool and my girls love to swim. However even though the pool room was nice and clean, the pool was only 3'6 at its deepest. In the morning when we woke up while getting ready to leave I went to pick up a cup and it was covered with ants. As I moved around the room picking more up I noticed there were ants and serveral areas of the room. Could of been alot worse a little ant doesn't scare me away.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful !!!!!",
+    "reviewText": "I wish all my hotels I stayed at was as great as the Red Roof in Troy,MO. The pros: 1.Indoor, heated pool 2. Over a hundred premium movie channels(Hbo,showtime,etc). I counted them all 3. Huge rooms. 4. Great shower pressure and very large bathrooms. 5. The price The only bad thing I could say was the mattress was kind of old. Could feel the spring in mattress a little bit, like in an older firm mattress. But I think they in end of making a renovation on the place but nothing bothersome at all. I rate this hotel a 5 out of 5, A perfect score in my book.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful !!!!!",
+    "reviewText": "Not very clean. The hotel is very close to the freeway and you hear all the traffic. Wasn't asked about our stay when I checked out.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful !!!!!",
+    "reviewText": "There was very little parking and there was bugs! Never again!",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Price, Great Customer Service",
+    "reviewText": "The Red Roof Inn Troy-St. Louis was excellent! We stayed in a double queen room on the third floor and it was exceptionally clean. Customer service was delightful and incredibly helpful. If you're headed to St. Louis.it is about a 20 minute drive and well worth saving money to stay here instead of in or around the city. We stayed... More",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Price, Great Customer Service",
+    "reviewText": "Nice and clean, would stay there again",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Just an OK stay",
+    "reviewText": "The place was quiet, but it looked old and worn. I appreciated an early check-in. The breakfast was practically non-existent -- boiled eggs and toast. Why bother",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great rooms at good price!",
+    "reviewText": "We arrived very late at night in a heavy rainfall. We were so grateful for the elevator at this property. The rooms were great beds very comfortable. We were also happy with bathroom amenities...towels, etc.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "a short stay but most pleasant",
+    "reviewText": "enjoyable for the brief overnight stay which was very comfortable and accomodating",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Really three and a half stars",
+    "reviewText": "We stayed here on our way to Branson. We did not have a reservation but they were able to accommodate us. We had an AARP discount. The charge for two in a room, with tax, was 87.90. There was a 2.00 surcharge fee that was not explained. By the time I noticed it, I just wanted to be on our... More",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great budget hotel",
+    "reviewText": "Needed a place to stay at last minute for a reasonable price. Hotel was very clean. Halls and room had been updated, but bed needed to be updated. Staff was friendly and made popcorn every afternoon and there was always fresh apples and oranges and lemon (and lime) water available. There was a decent continental breakfast as well. The pool area was very small (and strangely carpeted in red) with no hot tub. If you are looking for a budget hotel that is clean, this is good. I would stay again.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place - great price",
+    "reviewText": "Just passing through on our way xcountry...with our dog. Staff was very friendly and the facility was super clean. Not to mention the lemon and lime water in the lobby was very refreshing. Would stay here again, for sure.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Do yourself a favor, stay here.",
+    "reviewText": "I was impressed with the cleanliness, the personnel was helpful and friendly. The room was very nice and the bed was comfortable.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Easy on the budget",
+    "reviewText": "Hotel was easy access and close to eateries. Room was large and nice but the mattress on the bed was not the best. For the price and the indoor pool access t was fine for a one night stay.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value, great location, great service!",
+    "reviewText": "Was perfectly located for our purposes. 10 minutes from my friend's home. A little noisy since located next to a major highway, but felt safe. Desk personnel suggested we park on the south side of the building so our car would start better. Temps were near or at 0 degrees! Very friendly and helpful staff. Very good value!",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay",
+    "reviewText": "Stayed after a Cardinals game",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "It's a clean room",
+    "reviewText": "Stayed 5 nights for business Hotel is modern 3 story with elevator Clean . Staff are friendly. Rooms are large , flat screen tv , fridge and microwave Indoor pool Typical low end breakfast Easy access from interstate It's a red roof inn not the Marriott",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Not great, not bad",
+    "reviewText": "Hotel staff was friendly along highway very small breakfast spread outside door broken",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Not great, not bad",
+    "reviewText": "Very cozy and we love that pets stay free!!!",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Not great, not bad",
+    "reviewText": "We stayed here for a convention in Collinsville, the drive was short and easy. The room itself was a good size but it wasn't vacuumed well. My son went swimming and there was a clump of hair in the pool. I don't think the cleanliness issue was just us either, when we checked in a lady complained that her room wasn't cleaned before she checked in. We probably will never stay here again.",
+    "reviewerCity": "Michigan",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {

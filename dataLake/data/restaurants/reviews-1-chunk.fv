@@ -1,0 +1,1000 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great!",
+    "reviewText": "Stayed here before, will always stay here!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de40f7"
+  },
+  "name": "Marriott Springhill Marina",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Marina",
+    "postalCode": "93933",
+    "address": "215 10th St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-121.80524, 36.66457]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 6
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de40f8"
+  },
+  "name": "Ramada",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Marina",
+    "postalCode": "93933",
+    "address": "323 Reservation Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-121.791551, 36.683665]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel very close to the beach :)",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 6
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Dirtiest room I ever stayed at",
+    "reviewText": "Room looked like it was never cleaned before we arrived , hair brush was left behind it from previous stayers and was full of hair grossed me out , hair and dirt in bathroom corners beds were very hard husband and I did not sleep well we both woke up with achy backs and stiff necks I will never retur to this hotel !!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-27T00:00:00.000Z"
+    },
+    "reviewTitle": "BAD SERVICE",
+    "reviewText": "The service provided by the staff and management at this hotel is horrible. We were there on February 20th with a late night check in and the manager on duty was short, rude and showed no interest in providing any level of service at all.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and Comfortable",
+    "reviewText": "The hotel facility is old and there is a bad smell in the room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and Comfortable",
+    "reviewText": "Serves a great continental breakfast and offers free Wi-Fi.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Not impressed!",
+    "reviewText": "I GOT BAD EXPERIENCE ON CHRISTMAS DAY !!! TI'S A TERRIBLE ROOM.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "White spots",
+    "reviewText": "Room was spacious and quiet. What bothered me was mysterious white spots all over the comforter. Per front desk, it must be dried detergents .. I had to spell out what I think those white spots were. Then, there were many, many cigarette burn marks on the blanket. I thought, this was smoke free room ! After 2 complaints with photos, comforter and blanket were changed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for overnight, access to regional attractions",
+    "reviewText": "Convenient location for day-trips in Monterey-Ft. Ord area. Larger than average rooms, and in decent condition, but all the carpets reeked of cleaner, in the hallways, the stairway, and the room. The staff was very friendly (a big plus!), but there were a few small maintenance issues. This was entirely acceptable (except the smell) for our mountain-bike racing overnight, but would probably have disappointed us when the kids were little and we came to Monterey for the Aquarium.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Was expecting more for the price I paid",
+    "reviewText": "Had to switch rooms because sink was plugged",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Completely disappointed",
+    "reviewText": "I recently stayed here for work l. I typically stay at a cheaper motel because of the cost but decided it get myself a nice room for once. The main thing that attracted me to this place is the fact that it said it had a spa tub. Well to my disappointment the thing didn't work. It also says that the room has premiun cable and that was also a disappointment its basic cable and no HD...heck even motel 6 has HDTV. All around its a decent room but definitely not for the price ive stayed at bettermotels here in the area for less money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Reservation not in order",
+    "reviewText": "I got a different room, nor what I reserve ,I pay 40 dolls extra.....very very un happy :-(",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Not impressed!",
+    "reviewText": "The room was big, which was nice. The carpets were not vacuumed properly, the bathtub was dirty I had to clean it myself before getting in it, there was something smeared on a wall(looked like male bodily fluids), it looked like someone threw up on the bedskirt and the blankets all had holes in them. Its safe to say that I am very surprised this hotel received such great ratings. It was dirty...I wanted to scrub the lobby floors myself! The two male employees we dealt with at the front desk were pleasant and friendly. But, I won't be staying here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Just okay",
+    "reviewText": "Hotel staff was very nice, but there weren't many large chain restaurants too fine in more Asian cuisine than anything else. Probably won't stay there again, but ok for a last minute or a one night stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel, but extremely hard beds!",
+    "reviewText": "Overall the hotel was fine. However the bed was hard as a rock. It was beyond firm, downright uncomfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Rare double King room was great!",
+    "reviewText": "Double King fit our family great. Room smelled a little funny like burnt rubber, breakfast left something to be desired, but they had waffles and that was a plus! But overall for the value we are super pleased.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly hotel",
+    "reviewText": "Adequate hotel in a smaller town. The only problem we found was lack of dining options",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel without all the frills and excitement",
+    "reviewText": "Friendly hotel staff. Bed was hard as a rock and staying there 2 days really upset my back. Breakfast is bread, juice, cereal and hard boiled egg. Wasn't in the mood for bread. Quite a distance from good restaurants. Because cars get to park on the street in front of the hotel, hard time getting into the street from the parking lot without getting hit.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Cleanliness of the room and/hotel",
+    "reviewText": "Great hotel to stay at. They were finishing a re-model so the hallways smelled a little of drying paint and our rooms didn't have pictures on the walls. Other then that the rooms were comfortable and nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Monterey getaway weekend",
+    "reviewText": "Nice place to stay. Good sized room. No neighbor noises. Had issues with plumbing in sink but were moved to a better room quickly. Spotty WIFI. Breakfast was adequate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay for us girls",
+    "reviewText": "Great service at the front desk, took care of our needs towels, mattress with a smile. Thanks guys. Its about 8 mins away from monterey town. Parking is scarce at this hotel, for you late nighters, bar hoping tourists.beds are large, bathrooms are also wheelchair accessible.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Was expecting more for the price I paid",
+    "reviewText": "This was a pleasant surprise. Though we have been to Monterey many times, we had never visited Marina. It was a convenient and affordable place to stay for the Big Sur Marathon.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant stay",
+    "reviewText": "The hotel was going through some remodeling by the stacks of sofa beds outside. Breakfast was good, waffles, hard boiled eggs, yogurt fruit, pastries. The bed was comfy and the room was very spacious. Short walk to stores and food. Short drive to beach 5 minutes tops.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Ramada Marina",
+    "reviewText": "We were in the area for a wedding. Nice location. Good pricing. Friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "Spacious in the room. Kids loved they could make and eat waffles.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Modern and Clean",
+    "reviewText": "Excellent base for exploring Monterey Bay area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel in San Bruno, Ca",
+    "reviewText": "Overall experience was wonderful, friendly staff, basic free breakfast (not complaining), in San Bruno, Ca, however, the pillows are so uncomfortable other than that I would recommend it, free parking!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Same Hotel, Two Different Rooms",
+    "reviewText": "My husband and I booked a one-night stay here because our daughter was having a baby, but we had to stay a second night. Fortunately the hotel had a room for the second night, just not the same room. The first night our room faced the street, so there was traffic noise with the window open. The next night we faced the parking lot. The bed in the first room was like sleeping on a rock. We like a firm mattress, but this was ridiculous. The second night, the bed was much better, firm without being rock-hard. That room was huge with two king beds and a sofa bed. It could have very comfortably slept 6 people without feeling crowded. Both rooms had a microwave, refrigerator, and coffee maker. The bathrooms were also large, and the second room had a spa tub. During the stay I interacted with four different employees--all very pleasant. Breakfast was good, the usual cereals, yogurt, fruit, waffles, muffins, juice, coffee. The first day they had hard-boiled eggs, but the second day they were out. I missed the protein. There were several restaurants nearby, but we didn't go to any of them so I don't have a recommendation. The parking lot is fairly small, so if you have a large vehicle I would suggest parking in a place where you'll be able to get out easily. Our only complaint was the very poor internet service. The desk clerk gave us an Ethernet cord, but that didn't help. We were here midweek, and the price was reasonable. We would definitely stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Veryfriendly",
+    "reviewText": "Very friendly staff, had a hardl time understanding them with the language barrier.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Veryfriendly",
+    "reviewText": "Comfortable hotel in good location and reasonable price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to Monterey but much cheaper",
+    "reviewText": "We ordered a room with two queen beds and got a room with two king size beds, but set for people with limited accessibility. thus, the beds were great, but the room and specifically the bathroom was organised in a wired way, including a shower hose that lines over you when you take the sower. But overall our experience was positive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Near California 1",
+    "reviewText": "Very nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Traveler",
+    "reviewText": "Stay 2 night with my family during our getaway to Monterey. Great location: local restaurants and supermarkets are only 5-15 mins away. Room is clean and friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice room",
+    "reviewText": "we had a great time and we were able to relax in a quite place",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Pretty good",
+    "reviewText": "Night customer service okay. Spacious room...we stayed in the family room with 6 total. 2 kings and sofa pull out. Adequate breakfast. Better than most low priced hotels. Would stay again :)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay, great value",
+    "reviewText": "Great for visiting area, shopping center, gas, etc all right across the street. Very nice room, especially for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value",
+    "reviewText": "Family of 5 traveling to Monterey but hotels were way too expensive and when you enter 5 guests they want you to get 2 rooms. This hotel had 2 king beds that we could easily sleep comfortably in. Room was comfortable, also had a desk with office chair and a table with 2 chairs to snack at. Parking was fine and free. They have a free breakfast they was great,,,bagels, bread, English, muffins, Danish, waffles, juice, coffee, cereal, and fruit. For a family of 5 breakfast is at least 45-50 at a restaurant. Only slightly negative is caulking at the bathtub floor was not clean looking. But no reason to touch it anyways. Would definitely return here",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Fair hotel",
+    "reviewText": "A good hotel for the value. They can improve the cleaning and the service is just ok. The rooms are comfy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet and clean hotel",
+    "reviewText": "We had a all the kids with us and it was a large suite with new carpet and fresh paint. Comfortable beds and rooms. Bathrooms needed to be updated but it was still nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Very good",
+    "reviewText": "Hotel is good, as well as staff n cleanliness. I'll go back again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "Nice and relaxing",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "Really friendly helpful service at night ! Early morning help was not friendly ! When we checked out the front desk was very friendly",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay.",
+    "reviewText": "Friendly helpful staff. Good basic breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel very close to the beach :)",
+    "reviewText": "This is a good hotel for people who just want to spend a couple days. It's clean/safe it's located close to beaches like Monterey Carmel. Lots of stores w/in walking/driving distance including fast foods restaurant. Nothing fancy about this hotel but our room is quite spacious for a 2 King Beds (all rooms non-smoking). It has a fridge microwave + coffee maker + a safe. The continental breakfast is pretty simple: bagels, make your own waffles, orange juices, apple juices, yogurt, cold boiled eggs etc. No hot scramble eggs/sausages/bacon.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel very close to the beach :)",
+    "reviewText": "I had a nice stay. Clean, comfortable, and helpful staff. I will stay there again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet and safe.",
+    "reviewText": "I slept well and I appreciated the breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "OK for one night.",
+    "reviewText": "OK for one night . But hotel staff is not friendly in the morning to guests.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Large rooms, luxurious bedding, and lovely staff",
+    "reviewText": "I arrived 3 hours earlier than check-in and was grateful for the courteous staff who arranged for my room to be ready right away! The rooms were spacious with large beds and comfortable, luxurious bedding. Large bathroom too. The free breakfast had a waffle-maker with batter, toaster-oven for bagels, etc., and various cereals, coffee, and juice. The hotel is in Marina, about a ten minute drive to Monterey hotspots. I enjoyed my stay and appreciated the hospitality.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Cleanliness of the room and/hotel",
+    "reviewText": "We really enjoyed our stay at Ramada. The place is clean and the room is spacious and I love the shower. The staffs are friendly. We will definitely stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Was expecting more for the price I paid",
+    "reviewText": "Was good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel, but extremely hard beds!",
+    "reviewText": "Very nice stay - room was quiet, clean and comfortable. Staff was friendly and helpful. Very much appreciated that there were no chemical deodorizers/perfumes in the laundry soap used on linens or elsewhere in the room (which is often a problem that gives me headaches). Overall a very comfortable stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel, but extremely hard beds!",
+    "reviewText": "Quiet, clean, we really liked it!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Marina",
+    "reviewText": "We spent 4 days at hotel, very comfortable, convenient to areas we planned to visit.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Marina",
+    "reviewText": "serves a great continental breakfast and offers free wi-fi.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Surprise king sized beds",
+    "reviewText": "I was expecting two queen beds, but to my surprise and delight we had two king sized beds. Not much else to say, we knew going in there was no pool, but the beds were great, what we needed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "clean, convenient,  safe",
+    "reviewText": "The Manager was very friendly and accommodating. Felt safe. Breakfast was convenient too. Had begin my day very early.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Near California 1",
+    "reviewText": "Cars parked on the street caused some dangerous situations while leaving parking lot. Currently being remodeled so was unable to use gym.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Family get-together",
+    "reviewText": "Hotel accommodations and staff were wonderful!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great experience",
+    "reviewText": "Comfortable beds, quiet at night, breakfast free,great shower, overall will definitely be returning when we visit the area!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful breakfast perfect for a quick get away",
+    "reviewText": "We stayed two night to enjoy Monterey it was a short distance to the activities we wanted to enjoy...and because we had the kids...four...it was great to have the breakfast it saves a lot of time and money...and it was good many things to choose and hot waffles",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "The room was very big which was really nice and I really like the fact that there wasn't a lot of outside noise that interrupted our sleep. That is a plus! Breakfast was good. We were able to check in early! I would stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value",
+    "reviewText": "The hotel is in newer condition. Everything was clean. Staff were great. Price was reasonable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Bill from Sacramento,Ca",
+    "reviewText": "I enjoyed the stay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Spacious room!",
+    "reviewText": "We had a very spacious two bedroom suite for a great price! We loved staying here!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Spacious room!",
+    "reviewText": "The gentleman at the counter was super friendly and welcoming. The room was so spacious and comfortable. It was just me and my three children and they loved it! My four year old got sick while there but thankfully there was a Walgreens down the street so I was able to get him medicine late at night. Too much vacation was catching up to him! I would definitely recommend this hotel to anyone.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful, nuff said.",
+    "reviewText": "Wonderful! Child attending CSUMB for the next 4 years and I've found my spot when I come to visit. Located near campus, restaurants, shopping easy access to the main road back to the 101. Comfortable beds and most of all the rooms are spacious.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and Comfortable",
+    "reviewText": "Clean comfortable room, friendly staff, easy access to Monterey (with a car).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and Comfortable",
+    "reviewText": "wonderful. My children were really like to stay here.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome weekend at an awesome hotel by the beach!",
+    "reviewText": "I spent MLK weekend at the hotel and it was wonderful. The room was huge for the price. I've spent more at smaller places. We had a deluxe King and it was bigger than a studio. Very nice and clean. Wish the tv would have been a bit bigger considering how big the space was. It was a bit hard to see from the couch. There was some remodeling upgrades being done so my only complaints were the strong stench of paint paint thinner in the halls, However, a slight oversight considering it's for repairs. Also the ice machine on our floor was out of service so we had to go all the way to the lobby every time. Both the day and evening clerk were very nice. We had food delivered to the room because it was storming but there were tons of places to chose from. Less than 10 minutes from the beach. Wish there were places near home as nice because I stay in hotels often between work and travel. I would absolutely stay there again. I slept almost a whole day it was so peaceful. I have family in Monterey who stay about 5 minutes from the hotel so this place will definitely be my go to when I'm in town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de40f9"
+  },
+  "name": "Savaii Roberts Motels",
+  "categories": ["Resorts", "Hotels and Motels"],
+  "location": {
+    "country": "US",
+    "state": "OK",
+    "city": "Guymon",
+    "postalCode": "73942",
+    "address": "716 N E 12th St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-101.473816, 36.689533]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de40fa"
+  },
+  "name": "Monterey Beach Dunes Inn",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Marina",
+    "postalCode": "93933",
+    "address": "3280 Dunes Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-121.805553, 36.69925]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Absolutely awful . . .",
+    "reviewText": "This was the second WORST hotel experience ever. Nothing positive to say in any way. Dirty, shabby condition of room, piles of trash with flies left for days in hallway, noise from semi truck parked on road, quality breakfast dismal, surly staff. You name it, it was awful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't bother",
+    "reviewText": "Super unfriendly staff, we were there right at check in time, and they had already given away the room we requested, which cost more than the room we were given but they wouldn't adjust the price. Room had holes in the walls, bed was sinking in the middle, there were hairs all over the room and we found what looked like dog poop on the side of the bed. We stayed here years ago and loved how close to the beach it was but I wish we would have done some research and stayed elsewhere this trip.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't Bother",
+    "reviewText": "We stayed in this room because it was just across the street from The Sanctuary Resort (our final destination) but there's no way I would make that mistake again. We checked in even though initially they couldn't find our reservation, we were handed two key cards and sent away without directions or anything. The room itself was fine, nothing impressive but that was expected. Headed down to the spa and were promptly kicked out of there, back in the room we found cold showers awaiting us. I don't know about you but that's pretty high on my list of reasons to stay in a hotel.... The next morning, still no hot water and discovered the power was out, lovely. We went downstairs to the breakfast room to find that we were locked out even though its included in the price of your stay. We ran into another lady trying to figure it out and all headed to the lobby together. She was walking a small dog who got attacked by another small dog as we approached the office. She mentioned they were leash laws and the man working in the office only offered that it was private property and doesn't apply. Such manners! They shared no details with us about the power outage, (we had no idea it was the whole coastline that had been knocked out.) And even though they couldn't find even a bagel to spare, there was still terrible coffee available in the lobby, and we tried to put it all behind us.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Too Happy",
+    "reviewText": "I was disappointed with this Quality Inn location. I have stayed at Quality Inn in other locations that's why I chose this hotel thinking I would get the same service and quality. Our first room smelled and was not very clean. The shower curtain had a nasty rip and the bedding looked dirty. Fortunately we were allowed to change rooms without much grief. The second room was not much better. The fire suppressors were corroded which made me wonder if they worked, the bathroom door knob was hanging off the door. I had to get a screwdriver to tighten the screws. Again, we were not sure if the bed spread was clean because there were stains on it. There was no fridge in this room even though we had one in the previous room. We had an early start our last morning there and Complimentary breakfast was from 7a.m. to 10a.m. The sign in the lobby clearly stated there was complimentary coffee from 4a.m. to 7a.m. When my wife asked the clerk on duty just to make sure, she was told that there was no coffee before the 7a.m. brunch and that the sign was clearly wrong. There were two other couples in our group that stayed at this hotel and they were not impressed with the hotel either. On the bright side, WiFi service was free and the signal was great. Complimentary breakfast was good and well stocked throughout our stay and the price was reasonable. I've stayed at other Quality Inn's and I would probably do it again but not at this location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "go somewhere else!",
+    "reviewText": "terrible stay, countless problems: *reservation was made months in advance but needs were not met *showers in both rooms go from scalding to cold and back again impossible to set it on one temperature *outdoor trash bins were spilling onto the ground *room was not cleaned and the maid service showed up at 4 pm after we had returned to our rooms (after running a marathon!) so I phoned the office to say this was unacceptable. I spoke with the manager who clearly was not concerned about our comfort or satisfaction She said the hotel was busy and there were only 4 maids I was told they could clean until 5 pm and then they leave the room needed vacuuming and everything done but the weather was freezing and blustery so we could not stand outside while they clean and I told them to forget it. If check in is 3 pm I feel rooms should all be cleaned and ready by that time also....but the manager told me to go ahead and write a review online and hung up. *after outdoor trash was finally emptied on my third day there, feces was left on the ground near the bin right outside a guest room The bin had diapers in it and wind spilled everything everywhere.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "unpleasant",
+    "reviewText": "we had an unpleasant experience here, we found an opened needle in our room, we were moved out of the room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "An overnight on the way to Laguna Seca.",
+    "reviewText": "Less than 1 star",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality Inn Dunes, a Disservice with a Capital D!",
+    "reviewText": "We stayed there this time last year with an adequate room with a view, and so wanted to stay there again on our same business trip. This time only thing of quality we got from the Monterey Dunes Quality Inn was it's same location: it proved to be an overpriced dump. We made the reservation more than a week ahead of time since it was a business trip, but got stuck with what must be the most undesirable room in the house, room 109, next to furnace, laundry room, and ice machine, which was also the view. Here we are in the gorgeous Monterey Dunes in a basement setting. The circumstances were special, the fire fighters from the Big Sur wild fire were staying there, and the hotel was sold out. But a reduction in room rate should have been offered to compensate for all the inconveniences. I spoke up during check out, and the employee did was apologize, but was closed-lipped when I brought up the monetary issue, that a room of such low quality should reflect a discounted price. By that's okay, I intend to take my case to the higher ups in the Quality Inn food chain. Oh, and did I mention housekeeping yells up and down the stories, and floors to each other in the morning when you're trying to sleep",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Keep looking, pay a few extra dollars elsewhere!",
+    "reviewText": "You get what you pay for doesn't work here, you get less. The rooms are very small (step outside to change your mind). Barely any room to open a suitcase in the room, extremely challenging when there are two suitcases. The wifi was pathetic beyond pathetic, I felt I was back on 56k dial-up for those of you who remember that! We really didn't enjoy the place at all, it was close to Monterey and that's about it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "utter disappointment",
+    "reviewText": "I am highly disappointed by the staff and the manager. I and my daughter spent one night at this hotel and found a dirty pair of men's underwear in the room. Thinking it was something of ours she picked it up. I went to the office and told the manager and she seemed to have no care. I called hotel.com and they called the hotel to confirm everything and he came back on the phone said yes, they don't seem to care hotel.com gave us a 25.00 gift card. Thank you hotel.com for making thing right.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Blah.",
+    "reviewText": "Room fixture were old. Shower head was coming out of the wall old floors. Carpet looked dirty",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "worse hotel ever. never again!!!!!",
+    "reviewText": "It was not a good experience. A lot of things not working in room from sink, toilet, old box tv, that would not change channels, or turn off. No extra blanket, no refrigerator, or microwave. You have to pay 10.00 to use room phone. Just horrible place.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "ants",
+    "reviewText": "ants",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Dirty, run down hotel",
+    "reviewText": "Our room was dirty, mildew in the tub and shower curtain pole and when I left there was nothing the manager could do because reservation was made through Hotels.com. I called them, they attempted to call the manager once and said sorry, cannot contact her and that was it. Why would I use Hotels.com again when I can't even get them to help me!!!!! Why would i pay full price when i couldn't even shower!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality Inn? Not so much.",
+    "reviewText": "Pluses: It was quiet. The room was clean, the staff were helpful. Minuses: bed cover was tattered,the room small,the bedside chair so soiled that i wouldn't sit in it, the tub faucet dripped, a light wad out, breakfast minimal. Overall, would i stay again No.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Walking distance to Marina State beach!",
+    "reviewText": "Older hotel but clean except for the AC/ heater filters and exhaust fans , needs major cleaning . Beds are getting lumpy . If rooms are updated it can compete with the resort across the street . Still has the old tube television otherwise ok to sleep in . Very close to Carmel and Monterey Aquarium. Outside is clean. Breakfast room turned to be an old room concerted to a breakfast area. The old bathroom became their kitchen . Not a very appetizing sight !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Book elsewhere",
+    "reviewText": "We were given a room on the 1st floor by the spa area. It was very loud. There were people up late talking. The beds were uncomfortable and each bed only had 3 little square pillows. Around 8:30pm a whole bus of people came took up what seemed to be the whole second floor. They were very loud. Then around 6am that whole bus of people all left and once again were loud inconsiderate of the people sleeping. We were also next to stairs so you could hear them trying to roll/drop their suitcase all the way down the stairs talking loud. I would pay to stay at a better place next time. The only thing that gave this hotel edge over others was it is walking distance from the Marina Dunes State Beach we watched the sunset into the ocean with our family.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Would not recommend this place!",
+    "reviewText": "Thin towels, high price",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointed",
+    "reviewText": "This room was very out of date. The room Was overpriced for the quality of the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "It'll do for a few nights.",
+    "reviewText": "The room was small and old and the bed was uncomfortable. But the receptionist was nice enough to give us a room that was on the first floor instead of the 3rd floor after learning that we had two toddlers passed out in the car that we needed to carry. There's no elevator. Breakfast was their redeeming quality.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Good price for the area",
+    "reviewText": "Room was not clean bed sheets were dirty",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": ".  not so great, but ok and a reasonable price. ok",
+    "reviewText": "Shower would come on warm, not even hot. Would then turn ice cold.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-09T00:00:00.000Z"

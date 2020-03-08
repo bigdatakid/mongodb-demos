@@ -1,0 +1,1000 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay at Days Inn",
+    "reviewText": "We were very pleased with our stay at Days Inn. We travel to and from Florida twice per year and we always stay here. Would recommend it to anyone who wants a good place to stay. The breakfast could be expanded a little. We have stayed in other Days Inns that have a much better breakfast choice.",
+    "reviewerCity": "Bridgeville",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4074"
+  },
+  "name": "The Merritt Center and Lodge",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AZ",
+    "city": "Payson",
+    "postalCode": "85547",
+    "address": "121 Haught Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-111.27377, 34.25475]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Spirit Recovery!",
+    "reviewText": "The Merritt Center is frequently used by groups as a retreat center. Its peace and rustic charms contribute to this. It can also serve as a personal retreat by those who can use some personal peace. Ten acres of woods desert hill trails. Wonderful!",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4075"
+  },
+  "name": "Econo Lodge",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "GA",
+    "city": "Canton",
+    "postalCode": "30114",
+    "address": "138 Keith Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.46426, 34.255254]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Budget-conscious travelers enjoy a free, daily continental breakfast and newspaper at this worldwide chain famous for comfort. In ShortSince 1981, leisure and business travelers have enjoyed gracious service and comfortable accommodations at budget-friendly prices. Standing behind its 100 percent guest satisfaction guarantee, the property offers customers a full refund if any problem cannot be resolved. Rooms include a 25-inch TV with premium channels, in-room coffee and comfortable work space. Guests looking for an exercise fix can get their adrenaline pumping in the pool or exercise room (select locations feature both).",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4076"
+  },
+  "name": "Americas Best Value Inn",
+  "categories": ["Hotels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "DE",
+    "city": "Florence",
+    "postalCode": "29501-0710",
+    "address": "3024 Tv Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-79.73134, 34.26574]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad Service",
+    "reviewText": "Americas Best Value Inn has poor service. They screwed me over twice with their Indian Manager. The first time they took my food and put me through a hard time getting it back. The manager Anil P. Motwani was hard to find, I didn't get in contact with him once. When I finally got my food back they kept my chicken. The second time I got screwed over, I check into the hotel around 2 a.m. Saturday morning, the lady at the front desk was not there I had to stand there and wait by tha...view moret time I got tired and went to see if she was in the bar (The Edge) and there she was. She checked me in and I ask her what time did I have to check out she said Sunday Morning at 11 a.m. so Saturday around 2 p.m. they came and told me I had to check out the room and the manager also stated then We never let people stay over 24 hours. Notice it has only been twelve hours but no worrys because I will discuss this issue with my lawyer.view less",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "nice staff",
+    "reviewText": "This establishment is under new management. I found them here online as I travel back and forth from New York to Florida regularly. Its a nice stop, clean, fun little bar to shot pool. The staff is always friendly and helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "ihad previously read reviews a...",
+    "reviewText": "ihad previously read reviews about the shady people that hang around this motel.i had also read about the putrid smell.all of this was exactly as warned.the smell in the room indeed smelled of wet diapers and hot garbage. aafter i thought about it i realized this must be what a methlab smells like it was so strong.we burned candles and went through a bottle of febreeze to kill the smell but it was baked in. at one in the morning there was so much yelling outside it woke...view more me out of sleep and when i looked at the peephole i witnessed a fight.the guy even fell on my door as i was looking out of it. one of the first things i did when we went in the room was pick up the alarm clock,why dont know.but half a dozen roaches swarmed from under it.and the alarm clock was right by the head of the bed. this place could make some people sick.and if that smell was the smell of a meth lab,then it is a huge public safety issue. however if you just want to buy dope and/or prostitutes, go here.seems like the mecca for such activitiesview less",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "1 night stop",
+    "reviewText": "Just a stop while traveling to Florida. It was just a stop for sleep on the way. Hotel semmed like what you would expect fot the price. Many fights broke out during the night and again in the morning soo I will avoid in the future.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for the price!",
+    "reviewText": "I read the reviews for this hotel...but in all honesty people are complaining but are not mentioning they are only paying between 40 to 50 a night. I stayed because we need something for a week cheap during a family emergency and paid 38 a night! Yes one of my 3 rooms had a cigarette smell but that was easily... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Because of the short time we had we indured it",
+    "reviewText": "The furniture was old, that could be tolerated. The bed was okay.The tub was so bad that there was no way to take a shower. The towels 2 small towels 2 small wash cloths. They were thread worn. There was a small wobbly table but no chairs.Went to the desk to have at least a couple of chairs and was informed that we would get them the next day. A lady overhearing our conversation brought us a chair from the restaurant. We never got another chair.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "would not stay here again.",
+    "reviewText": "we picked this out over the internet and some of the interest was the location and the other was price. We arrived after dark which was the first mistake and the second was choosing it to begin with. It was very dirty and worn looking, glad I was only spending the night and left before it was sun up so I could not see hoe bad it really was.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "would not stay here again.",
+    "reviewText": "I didn't have any issues with my stay. I had my dog with me and the pet fee was reasonably. I would stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for!",
+    "reviewText": "The hotel was only 43 a night and it was worth half that. Disgusting! It smelled, guest were noisey throughout the night, and dirty. I only chose it because the hotels.com rep said it was a great hotel. Will NEVER take their word again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place, easy access to interstate",
+    "reviewText": "Staff very friendly. The hotel is being updated and served our needs.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Good \u0026 Bad",
+    "reviewText": "The place wasn't bad for the price but the room stunk to high heaven. It smelled like the carpet had been wet and never cleaned. Beds were comfortable and there was a mini fridge and microwave in the room. A huge spider was on the outside door molding which was pretty scary. Hotel staff were very nice abs helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Poor",
+    "reviewText": "Dirty rooms. Dated. Do not believe the pictures. Staff were very nice and attentive. If it were for more than one night I would have kept on going.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Nothing located around it.",
+    "reviewText": "It was ok for a weekend stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Americas best hotel",
+    "reviewText": "Staff was very friendly and helpful and the price and location were perfect The hotel could use minor repairs but overall I would and will be a repeat quest",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Unsafe and Unclean, Temporary Shelter and Bar",
+    "reviewText": "It was a horrible experience, we paid in advance and arrived at night, the police patrolled the area and the people we probably shelter there were out and it smelt terrible. My mother was not well and could not go any farther so i had to let her rest or else paid or not I would have kept on driving. On the keycard envelope it instructed you to put on your dead bolt once you enter the room and do not open your door for anyone. The room smelt awful and I used towels to cover the unclean chairs. This was the first time i have ever chose this brand and it will be the last.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel right by the I 95",
+    "reviewText": "Very clean and nice rooms. Rate is pretty reasonable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice friendly staff",
+    "reviewText": "stained carpets,hot water out of the cold facets,dirty and stained shower curtain,hot water in the toilet,and large black cockroaches running around outside.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok to stay while on your way somewhere",
+    "reviewText": "Reservation was never put in to there computer. It was a good thing I had a printed receipt from expedia or I fear I may have had some trouble checking in. Room was musty but not real bad. Old spider web in the corner by the door.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad odor.",
+    "reviewText": "The room has a bad smell which cause a lot of flies !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad odor.",
+    "reviewText": "The room has a bad smell which cause a lot of flies !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Would not go overe there again",
+    "reviewText": "We book 3 rooms . We were told thatat the arrival that will be charged for six rooms Expedia took care of that but that was not necessary stress situation, one of the rooms was stinking so badly that we had to ask for different one. When we wanted to relate Our problems to the manager at the time of checkout turned out that he was not available until afternoon I repeat never again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Abysmal",
+    "reviewText": "Just wanted an inexpensive stopover off I95 on the way to Florida. You get what you pay for, and sometimes you don't even get that. The room was filthy, the towels were stained, there was an attached bar/ night club which added to the late night noise levels. Many tractor trailer rigs were parked out back outside my room, and some idled their engines all night long. Thie room was way overpriced. The staff were very friendly though.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "WORST EVER!!!!!!!",
+    "reviewText": "WAS TO LATE TO GO ANYWHERE ELSE.... WE ACTUALLY SLEPT IN OUR CLOTHES, BECAUSE SHEETS WERE DIRTY, SINK, BATHROOM FLOOR AND BOWL DIRTY!!!!! IT DID NOT DESERVE THE RATING IT GOT!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "WORST EVER!!!!!!!",
+    "reviewText": "WAS TO LATE TO GO ANYWHERE ELSE.... WE ACTUALLY SLEPT IN OUR CLOTHES, BECAUSE SHEETS WERE DIRTY, SINK, BATHROOM FLOOR AND BOWL DIRTY!!!!! IT DID NOT DESERVE THE RATING IT GOT!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "wouldn't stay there again",
+    "reviewText": "Once we checked in the front desk told us our room was clean and ready we would just be waiting on towels once we got to the room the door was wide open so we just went and the cleaning lady opened the door and said can I clean this room or what Very rude and disrespectful, the room stunk and the location is kind of sketchy something that reminded me of a scary movie. Don't get me wrong it's cheap and you can't expect much but there was tons of shady people and we only left the room once to go get dinner. I would have much rather slept in my car",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Not very good experience",
+    "reviewText": "First they couldn't find our hotels.com reservation, but eventually did.They assigned us a smoking room that had been truly smoked in, and it was very uncomfortable there all night. We think the hotel has quite a few weeklies living there, and throughout the night they were in front of our room smoking and talking that prevented us from any restful sleep. I would NOT recommend this to anyone, and we are surprised that Hotels.com recommends it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Awful",
+    "reviewText": "The room smelled,the air didn't work and the front desk called our room late that night accusing us of being on the roof with another group of people that we didn't even know that we're staying in a totally different room. Wish I could get my money back. It was not worth the money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent",
+    "reviewText": "Hotel was good. Friendly service and the room wasn't bad, but had minimal flaws. Found a couple bugs in the room, nothing horrible. Had a faint smell to it, and a few of the outlets didnt work. Overall stay was good though. Hotel had a full bar, and a resteraunt. Only thing i didnt like, and i know all hotels are like this but this one seemed like it was worse, was that you can hear everything outside the room. People kept walking by the room threw the night talking and can hear everything they were talking about.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "I have never seen so many roaches in one place...",
+    "reviewText": "They were all kinds of sizes, it was unbearable. Dirty dirty dirty. One was already smashed against the wall before I got there, and nobody cared to actually clean it up. I don't understand how this can be legal and I thought Expedia had some kind of minimum standard on their places - apparently not. I arrived late and the receptionist insisted that I did not have a reservation. I pulled it up on my phone and was eventually assigned this disgusting room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Pay more...go someplace else.",
+    "reviewText": "Grabbed this hotel as an escape from an ice storm further north. Registered via Internet so we were unable to check out conditions. Should have paid 20-30 more elsewhere and would have been happier. Hotel was old. Many of the AC/heating units were hanging loose on the outside sidewalks leading to rooms. Our room had a bad smell, dirty carpets and stained ceiling. Walls were thin and conversations/ TV from next room could be heard. Phone in room was filthy...and totally useless as an attempt to call front desk ended with front desk not being able to hear my end of conversation. Had to walk down to office to get wifi password as it was posted nowhere in the room. Bathroom was old and needed a complete remodel. Bed was clean...only redeeming quality of room. No breakfast offered, but would have never eaten any food prepared there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Pay more...go someplace else.",
+    "reviewText": "The room was nice but the smell was horrible, it gave me a headache, it smelled like roach spray",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "A dump but clean and cheap",
+    "reviewText": "When we travel we almost always stay at a Marriot or a I prefer hotel. However when every thing is full this place is not bad, it was fully booked . THE ROOMS WERE CLEAN AND HAD EVERY EXCEPT A HAIR DRYER AND COFFEE MAKER. Would I reserve a room and go with my wife NO. Strangely enough they... More",
+    "reviewerCity": "Port Saint Lucie",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "A dump but clean and cheap",
+    "reviewText": "Good hotel. Good everything. It is clean. Cheap price.",
+    "reviewerCity": "Port Saint Lucie",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Noisy",
+    "reviewText": "Awoken by a 1 am phone call for someone Trouble going back to sleep. Nosiy people coming and going. I would not recommend this motel. However, The desk attendant was very pleasant and gave me a downstairs room with a well lighted parking space. She went out of her way to provide a nice accomodation.",
+    "reviewerCity": "Port Saint Lucie",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Saving a few bucks isn't always worth it",
+    "reviewText": "Having stayed at other locations operated by this chain, I knew not to expect 4 or 5 star lodging, but I did expect more than what we experienced. The hotel ( more like a motor inn), for its part, seems to be trying to improve, but, it still needs a lot of work. The easiest way for me to do this is to list all of the issues we had, so, here goes: 1. Non-smoking room next to a smoking room a room that still reeks of stale cigarette smoke. 2. There was daylight coming through gaps at the top and bottom of the door frame, thus allowing the cool air to escape and the heat and humidity in. 3. Climate control! The ac was set at 76 degrees and we couldn't override the temp to try to make the room more comfortable. 4. Loud and unruly guests and there children hanging in the parking lot very late making tons of noise. 5. Being awakened at 5:30 am on a Saturday to the screams of a woman fighting with her boyfriend right outside our door! 6. After finally getting back to sleep after the incident mentioned in 5, being re-awakened at 9 am on the same Saturday by the sounds of the building being power washed. (refer to 2 and, yup, you guessed it, water coming in under the crack)",
+    "reviewerCity": "Port Saint Lucie",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean room, rough neighbourhood.",
+    "reviewText": "Room was nice as were hotel staff. However area seemed dangerous with shady residents who seemed to be arguing very often. One night there was a bar brawl below our room with broken glass and shouting. Overall an unpleasant stay because of the environment.",
+    "reviewerCity": "Port Saint Lucie",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "I'm a Certified Travel Agent",
+    "reviewText": "I had to book a room at the last minute, I use these websites, too! :) Went online, read the reviews, had a couple of concerns and called the hotel, directly. Listen. I've stayed in the best 5 Star Hotels all over the world. Would I give this hotel a TRULY 5 Star review, no. However, I will say this. NEVER, at any time did I see, drug dealings,hookers, loud noices, etc. I'm still trying to figure out the one about the Apartment ComplexPeople, it's clean, bed's are comfy, Front Desk, AWESOME.. A SPECIAL THANKS TO CHARLES. I, honestly don't know what I would have done without his help. :) Housekeeping, ur the best. Thank you, for all the clean towels .Would, I stay here again Absolutely My reasons for going were medical. At the Clinic, people were talking about places they were staying, I'm not here to trash Major Hotel Chains. They all had complaints, didn't have Microwave, Mini fridge, Flat Screen, etc. We, had all these :) Thank you all .V.Kearns Great Adventure Travel, Miami, Florida",
+    "reviewerCity": "Port Saint Lucie",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay away",
+    "reviewText": "As soon as we entered the office we should have turned around and left. The stench of cigarette smoke filled the air and there were cats laying on the floor. When we went in the room after a long trip the room smelled terrible and the non-smoking room had cigarette burns on the sink and dressers. The sink wouldn't drain... More",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "No way!",
+    "reviewText": "I was on the property for 10 minutes max. Exhausted after driving 10 hours, my son and I had made a reservation here. Failed to mention there was a bar attached to the hotel, in one of the sketchiest hidden places around. We opened the hotel door, my son screamed because he was scared and it smelled moldy, we left. Do not bring your kids/yourself here!",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Never Again!",
+    "reviewText": "The representative at Hotels.com said, This is a great hotel for the price. The hotel is old, smelly, falling apart, noisey, and just plain disgusting. What's worse, there were SEVERAL nicer, cleaner, and better hotels at the next exit off of the highway. Not only will I NEVER stay there again, but I WILL NOT take the advice of a hotels.com representative anymore.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "ihad previously read reviews a...",
+    "reviewText": "ihad previously read reviews about the shady people that hang around this motel.i had also read about the putrid smell.all of this was exactly as warned.the smell in the room indeed smelled of wet diapers and hot garbage. aafter i thought about it i realized this must be what a methlab smells like it was so strong.we burned candles and went through a bottle of febreeze to kill the smell but it was baked in. at one in the morning there was so much yelling outside it woke me out of sleep and when i looked at the peephole i witnessed a fight.the guy even fell on my door as i was looking out of it. one of the first things i did when we went in the room was pick up the alarm clock,why dont know.but half a dozen roaches swarmed from under it.and the alarm clock was right by the head of the bed. this place could make some people sick.and if that smell was the smell of a meth lab,then it is a huge public safety issue. however if you just want to buy dope and/or prostitutes, go here.seems like the mecca for such activities",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "HORRIBLE!!!",
+    "reviewText": "We arrived for our rooms that afternoon to a man in the lobby arguing with an attendant. They could not find our reservations that was made the night before for 2 nights. When they found them, the room was in the back and the very end and on the top. Went under balcony to go upstairs and there was people hanging around outside like they lived there. Going up the stairs there was spots on them that looked as if it could have been blood and when we got in the room the water wouldn't work in the shower. The location is out in the middle of nowhere. I will NEVER stay here again. Needless to say I cancelled the second night and went to stay at the Suburban Extended Stay!",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "Nice place to stay on a budget.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible. Roach Invested Drug and Prostation",
+    "reviewText": "Pictures speak for it all. Pic all over. Need to be shut down",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible. Roach Invested Drug and Prostation",
+    "reviewText": "I liked that the owner likes cats. They had 3 who meet you at the reservation desk. I saw a bar with pool tables. Small dining area with fast food ( music from the bar a little loud to sit with family ). They need to build on the menu. pool had some algae on the bottom ( safety locks for the pool area I liked )pool area needs tables chairs with umbrella:s.A playground for kids, had no swings. Across the street is a truck stop.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay at Americas Best Value Inn.",
+    "reviewText": "I reserved the room through Expedia and found everything to be just like I was told it would be. I arrived and got checked into the room and found it to be a little warm. But aside from that I always sleep under a ceiling fan and a stationary oscillating fan. One of the guest went to the front counter and spoke to the clerk there and the clerk gave him a fan for me to use. It was only suppose to be for 1 night so the next morning we checked out and went to complete our business in Florence. We ended up not being able to conclude our business so we came back and got another room for that night and used the fan again. We also decided on the second night to pick up supper from the kitchen and eat in the room. We had the Hamburger Steak with Baked Potato and House Salad. It was absolutely delicious. Very Good Job!!!!",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for Emergency Stay",
+    "reviewText": "Finding the location at first was a little difficult because the website says its on a different road than it actually is. Once we found it, we were put in a really smelly room (smelled like mold, was actually bug spray...) The staff, however, was really understanding and literally walked me all over the hotel to find a room I was comfortable with. Apparently, they have just renovated and the bug spray smell is very strong in some rooms. We found a room that smelled fine and enjoyed our stay. So, beginning of trip was a little rocky but the staff made the stay much better. Not sure if they had a complimentary breakfast because we left so early. Overall, if you need a quick, one night stay, this place is just fine.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Will avoid this hotel in the future.",
+    "reviewText": "I appreciate that I was able to walk in without a reservation at the last minute and get a room but the towels were very thin and scratchy, the bed was lumpy and the linens were dirty and uncomfortable.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Will not stop here on my way back for sure",
+    "reviewText": "Hotel is pet friendly but the rooms have a terrible ordor. Had to request a room change because the odor was so bad. My second room had no less than 20 flies in the window behind the drapes. They have a bar/grill on site... when I went to get a drink, another patron asked me did I fool around . I dont know if this is a pick-up spot or what.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay here if you don't mind dirt and bad smells",
+    "reviewText": "The only plus was that it was right off the interstate if you're traveling through. The hotel itself was pretty bad. The room was dirty, the beds uncomfortable and there was such a bad smell in the room we could barely sleep. It was noisy too, and the bright lights from the parking lot lit up our room all night, even through the curtain. Pretty horrible place.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointed",
+    "reviewText": "We never got to stay at the hotel cause they gave our rooms away and still charged my card without my consent and refused to give me a refund I had to go through my bank to be refunded.the hotel staff was very rude I wouldn't never recommend or stay at a hotel like this glad that we found a much better hotel.,.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-10T00:00:00.000Z"
+    },
+    "reviewTitle": "not a good place to stay",
+    "reviewText": "The first thing I noticed when I stepped into the room was the very strong oder. When I left next morning, my cloth was soaked with the bad smell. The toilet seat was stickey. The towel was like sandpaper.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "The pits",
+    "reviewText": "The room had a bad odor and the blankets had holes",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "close to the hwy",
+    "reviewText": "it was so nice",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice motel",
+    "reviewText": "A nice clean hotel close to the highway. The place is well kept.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Need a room for business.",
+    "reviewText": "Floors has never been cleaned and the corners looked like they had never been cleaned. Over all, you get what you pay for.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Need a room for business.",
+    "reviewText": "Floors has never been cleaned and the corners looked like they had never been cleaned. Over all, you get what you pay for.",
+    "reviewerCity": "Waterloo",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Sub standard for this chain!",
+    "reviewText": "This is a tough review for me to write! In recent years, my wife and I have taken excellent advantage of this hotel chain and found nice rooms at reasonable prices. We found they offer simple safe rooms that are perfect for overnight stays while we are on the road. This hotel was an exception. We checked in late evening,... More",
+    "reviewerCity": "North Fort Myers",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place for a fair price",
+    "reviewText": "We stayed here for one evening on way to Florida. Room had a jacuzzi. Pet friendly. We were charged an additional 5.00 US for the dog. Not the greatest of locations, but right off exit on I-95. Free Wi-FI.",
+    "reviewerCity": "Shediac",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Avoid this one",
+    "reviewText": "This was a terrible, awful hotel. The first room they put me in, the strike plate was missing on the door. The faucets were ancient, wrong for the sink, and they turned the wrong way. The spindle was missing on the toilet paper holder. Someone had left hairclips to hold the curtains together. And when I turned the sheets back, it was clear that they were not clean. I went back to the desk and found out that while I'd paid 50 for the room, it was a 30 room (this is a very cheap hotel). They put me in a 50 room, which was slightly better, but had a distinct, bad smell that stopped when I shut the A/C off. This is a terrible hotel. The only good thing about it is the two cats who live there.",
+    "reviewerCity": "Shediac",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-14T00:00:00.000Z"
+    },
+    "reviewTitle": "I'd rather sleep in my truck",
+    "reviewText": "First let me say that I am not a picky or hard to please traveler by any means. I am not a clean freak by any definition. I often stay in 30 - 40/night places that leave plenty to be desired, and I've never once left a bad review or complained to the staff. I fully realize that you get what you pay for. However, this place is the worst I've ever stayed, bar none. The outside of the hotel was filthy. Feral cats and trash everywhere. The lobby was filthy. The room was filthy. Looking behind the bed for an outlet to plug my phone in, it was clear that no one had vacuumed under the bed in a very long time....it wasn't just dusty, it was gross. The carpet, bed skirt, and couch were all badly stained. The couch stunk like a combination of mold, cigarette smoke (even though this was a nonsmoking room), and sweat, making the whole room stink. The counter outside the bathroom was damaged. The bathtub had small hairs in it.",
+    "reviewerCity": "Shediac",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Reasonable price",
+    "reviewText": "After a long day on the road, this place was a welcome find. Rooms were quiet and dark, with a nice night light for the bathroom. Room had a Jacuzzi which was a nice treat for a 75 room. The problem was it was so high the wife didn't want to risk it. The clean up crew missed a couple... More",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice staff, poor facilities",
+    "reviewText": "The staff was warm and inviting, even around the midnight hour when I checked in. However, the room was a different story. The pillows smelled very stale, leading me to pick the one that was the least offensive to sleep on. The floor was dirty and the shower was dirty enough to cause me to skip it. I really wanted... More",
+    "reviewerCity": "Dundas",
+    "reviewerState": "MN",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Family Trip",
+    "reviewText": "The hotel was more than I thought it would be there were several places in walking distance to eat at. every thing was wonderful access on and off the interstate was perfect I defenitly will stay there again",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "A clean reasonably priced motel",
+    "reviewText": "On a ten day trip this was the second hotel we stayed in. It was a pleasant surprise how clean the hotel was. The bathroom was sparkling. There was no odor of smoke, which is always a treat in a non smoking room. The price was reasonable and if we find ourselves staying in Florence again, it would be our... More",
+    "reviewerCity": "Cambridge",
+    "reviewerState": "ON",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "A clean reasonably priced motel",
+    "reviewText": "On a ten day trip this was the second hotel we stayed in. It was a pleasant surprise how clean the hotel was. The bathroom was sparkling. There was no odor of smoke, which is always a treat in a non smoking room. The price was reasonable and if we find ourselves staying in Florence again, it would be our... More",
+    "reviewerCity": "Cambridge",
+    "reviewerState": "ON",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "A clean reasonably priced motel",
+    "reviewText": "On a ten day trip this was the second hotel we stayed in. It was a pleasant surprise how clean the hotel was. The bathroom was sparkling. There was no odor of smoke, which is always a treat in a non smoking room. The price was reasonable and if we find ourselves staying in Florence again, it would be our... More",
+    "reviewerCity": "Cambridge",
+    "reviewerState": "ON",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay if You Like Living in the Ghetto",
+    "reviewText": "Not sure where to start...so I'll start on the good. Friendly evening and night staff. The bar has reasonable prices. The restaurant has decent food. The WiFi works flawlessly. Some rooms have 42inch lcd tv's. It's cheap. Also, housekeeping must be trained by an elite corps cleaning sect that leaves no room untouched. No for the bad. As the title... More",
+    "reviewerCity": "Valdosta",
+    "reviewerState": "GA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad Service",
+    "reviewText": "Americas Best Value Inn has poor service. They screwed me over twice with their Indian Manager. The first time they took my food and put me through a hard time getting it back. The manager Anil P. Motwani was hard to find, I didn't get in contact with him once. When I finally got my food back they kept my chicken. The second time I got screwed over, I check into the hotel around 2 a.m. Saturday morning, the lady at the front desk was not there I had to stand there and wait by that time I got tired and went to see if she was in the bar (The Edge) and there she was. She checked me in and I ask her what time did I have to check out she said Sunday Morning at 11 a.m. so Saturday around 2 p.m. they came and told me I had to check out the room and the manager also stated then We never let people stay over 24 hours. Notice it has only been twelve hours but no worrys because I will discuss this issue with my lawyer.",
+    "reviewerCity": "Valdosta",
+    "reviewerState": "GA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "poor",
+    "reviewText": "My toilet leaked in my room .maintence was poor. Acouple bartenders should not of been bartending.cause they weren't friendly.and didn't know how to make drinks.would not recommend for a family with kids.Lots of drugs there.",
+    "reviewerCity": "Florence",
+    "reviewerState": "SC",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "poor",
+    "reviewText": "My toilet leaked in my room .maintence was poor. Acouple bartenders should not of been bartending.cause they weren't friendly.and didn't know how to make drinks.would not recommend for a family with kids.Lots of drugs there.",
+    "reviewerCity": "Florence",
+    "reviewerState": "SC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Alright hotel",
+    "reviewText": "I requested a smoking room and received a non smoking room. There was too many flies in the room. Couldn't find a snack machine.",
+    "reviewerCity": "Florence",
+    "reviewerState": "SC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Only in desperation would I stay here again",
+    "reviewText": "The best part was a comfy bed and great Wi-Fi. Other than that...walls were filthy, we requested a non -smoking room and the room REEKED of cigarettes. No cold water in the sink, the rubber mat they gave us to use inside the tub was moldy on one side and black with dirt on the other YUCK! They smoke in... More",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "SC",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4077"
+  },
+  "name": "Jvd Hotels",
+  "categories": ["Hotels", "Family-Friendly Hotels", "Budget Hotels", "Hotels \u0026 Motels", "Business Hotels", "Tourist Hotels"],
+  "location": {
+    "country": "US",
+    "state": "MS",
+    "city": "Batesville",
+    "postalCode": "38606",
+    "address": "280 Power Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-89.922673, 34.30856]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Last minute stay with no other options.",
+    "reviewText": "This hotel was the last choice available. Our expectations were already set low from having read previous reviews. The bathroom sink still had toothpaste and other scum dried on the vanity and bowl. The shower still had the soap bars from the previous guest(s) sitting in the niche. Overall, the room was dirty. We were very surprised that the Days Inn logo was allowed to be associated with this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for an overnight stay.",
+    "reviewText": "Stayed 2 nights, in the area on business. Older motel, needs some tlc. Not very clean, felt yucky. Light bulbs out. Desk and arm chair tacky and sticky. Sheets and pillows appeared clean however, I'd give the bed a 4 of 5 rating. Firm mattress.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Just OK.",
+    "reviewText": "It was ok. The staff was amazing but the hotel could use a remodel. The bedspread had been patch together with an old bedspread and the coffee was HORRIBLE!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Just OK.",
+    "reviewText": "Overpriced because of a football game. Holes in the blanket and linens. Bathroom dirty carpet dirty .. Leftover trash in can from previous guest. My son found a bottle top and chewed up straw by the bed side. This hotel is definatly a 40 a night not 200 a night .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Just OK.",
+    "reviewText": "Service and check in were fine. Room needed to be renovated. Dangerous wiring with the TV, coffee maker, microwave, and refrigerator all plugged into a cheap household extension cord. The ground prongs had been cut of the plug in wires of the appliances. Disaster waiting to happen.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Outdated",
+    "reviewText": "The hotel is very old and outdated. All the windows are filthy. Towels are paper thin. Really needs a renovation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Outdated",
+    "reviewText": "It needs some updating. Refrigeator was running constantly and the toilet was running. Hard to sleep for some much noise with things being wrong in the room. I had to leave earlier than expected due to an emergency at home. I was suppose to be there for two nights.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Carpet was ripped \u0026 soaking wet in several places",
+    "reviewText": "Was there for business. Was hoping to have a decent place to stay at.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Last resort",
+    "reviewText": "Old motel in bad shape",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Avoid if you have other options",
+    "reviewText": "Duct tape repair on bottom (inside) of tub. Wash cloth frayed and had holes. Bed sheet, while seemingly laundered, did have a blood stain on it. Fiber blanket felt extremely dirty. Broken toilet base repaired with caulk (instead of replacing the toilet). Shower curtain rod hanging loose. Tile floor dirty - Carpet unknown. Crack between door jamb big enough for ANY bug/rodent to come in. HVAC unit created a urine-like smell in the room. Bedside phone did not work. Clearly no actual cleaning ever took place in this room (202) - just changing towels and linens.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "It was a dump.",
+    "reviewText": "Obviously all these owners want to due is save a buck. Got to room after check in and had to go back and ask for it to be turned on. Night two had to go to office to have hotel card turned back on to be used. No new towels for day two. No notice by management that you had to ask for anything. Found curlers on floor from previous users. There was mold in refrigerator.. I know it was fair big football weekend but what I paid and the service I received these people should be ashamed of themselves.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean but bad breakfast",
+    "reviewText": "It was clean but sheets had wear spots on them which disturbed me. Bath floor mat was worn out with near holes in it. Breakfast was TERRIBLE. No selection whatsoever, coffee weak poor taste. Paid all that still had to go elsewhere for breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst Hotel Stay EVER!!!",
+    "reviewText": "My boyfriend and I were in town for the Egg Bowl and stayed at this hotel. While the front desk clerk was extremely friendly that's where the good part of the stay ends. The room was ok and seemed clean (although the linens were a bit hard) initially but after coming back in from a night out, I walked into the bathroom only to see that there were roaches. The hotel needs a SERIOUS renovation and pest control it is NOT worth the 80! If you are planning a trip to the Batesville/Oxford area I would suggest that you find another hotel. I would not recommend this hotel to my worst enemy!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst Hotel Stay EVER!!!",
+    "reviewText": "Hotel and rooms were good. .. breakfast not that good. Over r alla good stay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Beer budget hotel charging champaign prices.",
+    "reviewText": "We booked 2 nights at this hotel because it was the only place that had an opening near Oxford. The rate was three times the going rate for the quality of the hotel. We arrived about midnight to find that the A/C blew hot air all night and we were dripping with no sleep by morning. When we went to use the toilet, the seat fell off. We called the front desk and they did send a repair man right over. It was so hot in the bathroom because there was no fan that I had to blow my hair dry three times because I kept sweating from the heat. We put a tip on the bed and left for the day at about 10AM. We returned at about midnight and found the money gone but the room was not touched. We had only dirty linens and an unmade bed and coffee cups around the room. The breakfast was not worth having and the fruit was not fresh. After complaining to the manager she did apologize and gave me a credit amounting to less than 1/8 of the bill. WOW a credit on a bill for all my troubles. Oh, by the way the pool was emerald green from filters not working. Hope you have a better experience than I did at this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "good for a motel",
+    "reviewText": "Staff was excellent, bathroom was tiny with dirt in corner. Great location. Some of the pillows were lumpy. Air conditioner worked well and the room was comfortable. Plenty of channel choices. My biggest problem was just the fact that it is a motel so you have noisy guests with cars coming and going outside of the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "good for a motel",
+    "reviewText": "everything was good. The front desk employees were very courtious. The only complaint is have is the rooms need to be upgrated pretty bad. Tub had a hole in it and was covered with duct tape. The celing fan blades had a thick layer of dust on them. All else was good.",
+    "reviewerCity": "",
+    "reviewerState": "",

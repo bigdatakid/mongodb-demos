@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2016-01-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Get stay in New Orleans",
+    "reviewText": "We were down in New Orleans for several days last week. We stayed at this hotel. Exceptional service. Front desk people were very helpful and friendly. Breakfast that was included was hot and fresh. Room was well looked after. Bartender very friendly. Short walk to everything in the French Quarter. We would highly recommend this hotel to anyone deciding to... More",
+    "reviewerCity": "Thornhill",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great little hotel",
+    "reviewText": "Great location... A few blocks to Bourbon, which makes it a lot quieter at night!! The staff are amazing...so friendly and helpful, and nothing was too much trouble. Full hot breakfast, which was a great way to start the day. All the tours pick up from here, and it's easy walking distance to anywhere. Highly recommend",
+    "reviewerCity": "Vancouver",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "situation very goog",
+    "reviewText": "We like the situation of this hotel. We can walk from the hotel to Bourbon street. The room we clean, but we have to go to the front desk to have coffee in the room. No desk to write, and only 1 chair in the room",
+    "reviewerCity": "Blainville",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautifull hotel.",
+    "reviewText": "We had the best time in this hotel. Very nice rooms, and a nice space to sit outside in the evening. Breakfast was amazing with hot and cold buffet. At walking distance from Bourbon Street and all the other nice things in New Orleans!",
+    "reviewerCity": "Simpelveld",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "great place to stay",
+    "reviewText": "On the edge of the French Quarter and Louis Armstrong park, this location is my favorite to go in New Orleans. hospitable staff, great rooms, quite and walking distance from lots of great places. A nice courtyard rounds off the experience.",
+    "reviewerCity": "Peterborough",
+    "reviewerState": "ON",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-18T00:00:00.000Z"
+    },
+    "reviewTitle": "NIce place, great staff, great breakfast amd soon to be a good location.",
+    "reviewText": "Yes you read my title and say.....soon to be a good location Well they are bringing the trolley rail system literally across the street from this hotel soon! This will make the hotel a gem because you will be able to reach all of Nawlins within 50 steps of the front door! THis place is only a short three block... More",
+    "reviewerCity": "Glen Ellyn",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "nice hotel in good location",
+    "reviewText": "my wife I checked into the hotel in the morning, we were warmly greeted by Tracy the receptionist who quickly checked us in, on entering the room we were pleasantly surprised, it appeared very clean modern, a very big bed, nice air conditioning which is essential, the room was spacious had a nice bathroom. there is a... More",
+    "reviewerCity": "manchester",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay. Lovely breakfast",
+    "reviewText": "We stayed here for 2 nights after our cruise. We arrived early. The staff was very kind and stored our luggage so we could go eat before we checked in. The hotel has nice character and rooms. The staff were very helpful and friendly. Would definitely stay here again.",
+    "reviewerCity": "manchester",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't believe the hype!!!!",
+    "reviewText": "Pictures on website are deceiving. Driving on the street where the hotel is located was horrible due to massive road construction projects. Rooms are small and dated. Wifi connection was horrible in the rooms. Every time the AC unit turned on and off it sounded like a lawnmower. Very noisy. Television went out several times. We were scared to turn... More",
+    "reviewerCity": "Birmingham",
+    "reviewerState": "AL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "LOCATION LOCATION LOCATION!",
+    "reviewText": "This hotel was perfect! The staff was very friendly, the complimentary hot breakfast was the best I have ever had, and the location is great. You are minutes walk from Bourbon Street without having to hear all the craziness once you decide you want to sleep. Its across from Armstrong Park if you want to take a stroll. Canal street... More",
+    "reviewerCity": "Alabama",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

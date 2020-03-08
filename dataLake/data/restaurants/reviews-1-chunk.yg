@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2016-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice LaQuinta",
+    "reviewText": "Stayed 2 nights. Nice, Clean and comfortable rooms - Convenient walking distance to restaurants. Indoor pool and spa. Great breakfast including hot items. Beds were comfortable and rooms smelled nice.",
+    "reviewerCity": "United States",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Romantic Get Away",
+    "reviewText": "My husband and I got the O'Conner Suite with Jacuzzi for a little over 100 on St. Patrick's Day. It was especially nice to be able to take out Cocker Spaniel Teddy. The room was very nice and clean. The Jaccuzi was surrounded by very pretty tile with a stone feel and big white columns. All of the bed linens... More",
+    "reviewerCity": "Aiken",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great experience!",
+    "reviewText": "Very nice place! The flooring in our room was just replaced 2 weeks ago. Everything was very clean. The only problem that I had was the top of the mattress being so high. The breakfast was a complete meal- Fruit, danish, waffles, scrambled eggs, bacon, sausage, gravy, etc, etc. There is an indoor pool and hot tub open until midnight.... More",
+    "reviewerCity": "Aiken",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay",
+    "reviewText": "The room I stayed in was very clean. Plenty of bathroom condiments. It was nice to have the microwave, refrigerator, and coffee in the room. Work out room was adequate. I did not use the pool or business facilities. Breakfast was nice and breakfast attendant very cheerful. Easy access to interstate. Would stay here again",
+    "reviewerCity": "Aiken",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Hotel in Georgia",
+    "reviewText": "I stay at a lot of hotels in Georgia as I travel for business. This was, by far, the nicest. The beds were extremely comfortable. Everything was perfect. I was so pleased with my experience there. I will look forward to my next visit to Dublin, GA so that I can stay in this hotel again.",
+    "reviewerCity": "Aiken",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Fabulous hotel",
+    "reviewText": "We absolutely loved La Quinta !!! This was our first experience staying at a La Quinta, although my brother uses them frequently. Very clean ! Quiet ! Comfortable beds ! Staff very friendly !! All amenities were very nice. We have began staying at La Quinta when we travel.",
+    "reviewerCity": "Bushnell",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay, great value",
+    "reviewText": "I have a regular business meeting that brings me to this area every year and there have been times when I have use another hotel. La Quinta has always provided a consistent quality experience. A great value.",
+    "reviewerCity": "Dalton",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy traveler",
+    "reviewText": "What a find! After staying at other Dublin area hotels, I discover this well taken care of hotel on the other side of the interstate but at the same exit! Indoor pool jacuzzi, beautiful spacious room with the fluffiest dream sleep beds I've EVER seen! It was even dog friendly without all the crazy extra deposits fees hotels... More",
+    "reviewerCity": "Dalton",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Extended Stay",
+    "reviewText": "My stay at the LaQuinta has been a very comfortable experience. The staff is so pleasant. All staff. I have not seen a sad face for the 14 days I have been there. The breakfast is awesome, the room quality is top rated and the front desk staff from morning to night were all very pleasant and willing to help... More",
+    "reviewerCity": "Charleston",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Best La Quinta I've stayed in",
+    "reviewText": "First thing I noticed was the friendliness of the staff. Then I noticed how fresh the room smelled, how nice the beds were, how clean it was. We stay in a lot of mid-priced hotels during travel ball season, and they are usually the opposite of this experience. I made it a point to let the staff know how much... More",
+    "reviewerCity": "Johns Creek",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

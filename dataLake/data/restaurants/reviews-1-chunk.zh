@@ -1,0 +1,100 @@
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Cleanliness Issues",
+    "reviewText": "I consider this a low to medium priced hotel. No matter what the cost, I always expect cleanliness. Black mold around the tub is not acceptable. A shower head that leaks significantly when running bath water is not acceptable. We had to change rooms because our water heater was not functioning properly. The staff was very accommodating on this issue. In the end, however, I cannot say my visit was anywhere near satisfactory because of the issues in the bathroom of the room we did stay in.",
+    "reviewerCity": "Harrogate",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "Friendly, clean, conveinant. Only complains: arrived in town around noon... Couldn't check in til 3:45, And noisy train close by.",
+    "reviewerCity": "Harrogate",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "week-end entertainment trip.",
+    "reviewText": "only overnight but very nice and I would recommend it to friends and I would stay there again.",
+    "reviewerCity": "Harrogate",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Waste of money",
+    "reviewText": "The first room had a noxious smell, the carpet was wet, so we change it. The second room had a din loud sound, the AC unit fan was not working, so we change it again. The third room was little stinky but we decided to stay, we were tired of the trip and from moving. The price was pretty high around 75, I could pay that for much better hotel.",
+    "reviewerCity": "Harrogate",
+    "reviewerState": "TN",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality stay and a great price",
+    "reviewText": "My wife and I have stayed at this hotel several times over the past two or three years. It is a clean, well-kept property that is conveniently located. The staff is always helpful and accommodating. It is a good value for the price, too.",
+    "reviewerCity": "Louisiana",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "No extra towels",
+    "reviewText": "Hair in the shower and when ask for extra towels the clerk said they were completely out",
+    "reviewerCity": "Louisiana",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Wifi snafu",
+    "reviewText": "The only real problem encountered was the wifi would not stay up and useable. It was very erratic.",
+    "reviewerCity": "Louisiana",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "great room",
+    "reviewText": "very comfortable, huge bed, quiet, and a big tv!",
+    "reviewerCity": "Louisiana",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to shopping",
+    "reviewText": "Great location. Beds could have been better. But overall a good stay",
+    "reviewerCity": "Louisiana",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "nice but sorry!!!",
+    "reviewText": "Lady at desk nice but had to apologize that the hotel had no more clean towels and hair was left in shower",
+    "reviewerCity": "Louisiana",

@@ -1,0 +1,100 @@
+  "categories": ["Hotels \u0026 Motels", "Wedding Sites", "Meeting Facilities", "Banquet Rooms", "Restaurants", "Wedding Planners", "Coffeehouses", "Mexican"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "postalCode": "77010",
+    "address": "1600 Lamar",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.36045909, 29.75143553]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-03-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "GORGEOUS HOTEL!!!!!!!!!! I must say, wow!!! I stayed a few extra days in Houston, and decided I wanted to spend some time downtown. I stayed at the Hilton Post Oak earlier in the week, but decided to change hotels to be closer to everything downtown. What can I say besides, FABULOUS! Everything was FABULOUS!!!!!! I WILL BE BACK....",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-03-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Reception in the Skyline room was perfect. Claudia Behring, catering manager, kept in touch the weeks before the wedding. She met with us to set up a table with linens and the decorations two weeks prior. We both work and she accommodated her schedule to allow for ours. When we added a table at the last minute, she didn't flinch. Consistently kind, efficient and unruffled. I didn't feel the least bit stressed because she was so confident. On the day of the weeding, one of her assistants (so sorry to forget his name). Called with suggestions to improve the room setup and enlarge the dance floor. I was busts getting ready but he was so knowledgable, I left the updates to him. I was overwhelmed by the beauty of the room and the easy flow of the crowd. I was enormously grateful for the bigger dance floor which remained full all night. The sparkle of the candles added to the sparkle of the city lights were enchanting. The service was spectacular. A waiter looked after us all night and kept a cold glass of sparkling water in my hand all night and offered to refill our plates at dinner. I felt like a Queen. Several guests, including my sins, commented that the bartender was friendly and funny. When i made a trip to the bar to thank him, he offered to get me something - could he make something special? What a nice young man!!I would recommend the Hilton team to anyone.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2005-07-03T01:01:44.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "My husband and our two small kids decided it would be fun to stay at the Hilton one weekend to swim, eat, and relax.  We were quite surprised to see how much they do NOT cater to families!  It is very much geared toward convention goers.  There was not even any kids meal items on the menu for room service.  The pool area floor was incredibly slippery and wet.  If you are travelling without kids, it may be OK, but not for families.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-08-03T13:26:44.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "wow, this place is great. beautiful , nice rooms and the staff were great. this hotel is not good for families instead is good for people attending conferences,conventions or any other big events. they know how to accommodate those types of events. My school does their galas here and I must say, great food, great staff and what a luxurious hotel. They have a great bar so if you want to chill or hang out in downtown without dealing with downtown crowds this is a great bar to relax and have few drinks among friends. is an awesome and gorgeous hotel. I had wonderful experiences and I will go back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-08-03T00:05:44.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "wow, this place is great. beautiful , nice rooms and the staff were great. this hotel is not good for families instead is good for people at...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "Used a suite to get ready and stayed the night. Rooms are ok, nothing fancy. but service and restaurant downstairs where very good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-06-01T22:06:30.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "Stopped in a couple weeks ago after a day at Discovery Green.  What a wonderful bar staff!  Drinks were great!  Service was great!  A great place to go if you are looking to have a couple drinks without messing with the \"\"downtown crowd\"\".",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-02-28T04:20:25.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "Awesome view and wonderful place to stay!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-06-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "This business-friendly convention center hotel is also ideal for sports fans. In ShortTowering over the George R. Brown convention center, the 24-story Hilton Americas Houston hotel has 1,200 rooms, including 66 one- and two-bedroom suites. Units feature contemporary decor with a large work desk and armchair with ottoman, plus amazing city views. Guests on the concierge floor enjoy continental breakfast and happy-hour hors d'oeuvres in an executive lounge. The hotel's 91,500 square feet of meeting space makes it the city's largest convention hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",

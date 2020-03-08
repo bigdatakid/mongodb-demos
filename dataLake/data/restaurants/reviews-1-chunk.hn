@@ -1,0 +1,1000 @@
+    "country": "US",
+    "state": "MO",
+    "city": "Saint Louis",
+    "postalCode": "63102",
+    "address": "999 N Second St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.184037, 38.633021]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-02T06:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Condition, service, and amenities continue to be outstanding!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-28T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "This is the first time me and my significant other had stayed at the Four Seasons. We",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-02T06:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The hotel was clean and very comforting.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-27T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very good very nice berkfas bt hotel is price see bt is oky",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-23T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Our service, from the beginning to the end, was exemplary. From Sarah at the front desk",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-07T06:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "It was much nicer than the last one.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-05T06:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Didn't leave the property - top notch food, service, spa- nice room view of the arch",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-26T06:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Always a very nice experience! Service is unsurpassed!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Business meeting for group of 20",
+    "reviewText": "The only problem I had was with the check in process, when the clerk volunteered to change my room from the pre-assigned room to one with a better view (good deal). This process took an additional 15 minutes (not so good). The staff explained it was due to some problems with computer system.",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful view for our Anniversary Getaway",
+    "reviewText": "Thanks so much to the entire staff of this Four Seasons property. Michelle at the desk for all that she did including the surprise she had delivered to our room and taking care of our special request. Jim who did an excellent job reconditioning my neglected dress shoes and delivering them back to the room. I also had 20 minutes... More",
+    "reviewerCity": "Knoxville",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Mr",
+    "reviewText": "Very wonderful serviceand prepare a extra little bed for my daughterand a good guide for us. Especially the valet is very professional I ever seen. We have a sweetie tour in Four Seasonsthanks for all of that",
+    "reviewerCity": "Springfield",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Paradise in St. Louis",
+    "reviewText": "My two best friends and I recently stayed at The Four Seasons for a girs' weekend. We had a fabulous time! From check in to check out, we were impressed! We had pedicures in the spa and we all agreed that they were the best we have had in a long time. We brought champagne and had the nail area... More",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Thanksgiving weekend getaway with family - Priceless!",
+    "reviewText": "Our family enjoyed the wonderful accommodations at the Four Seasons in St. Louis after a whirlwind Thanksgiving celebration. The serene surroundings, outstanding rooms and view, stellar food and service all helped to make it a perfect weekend getaway. The spa and workout facilities are top notch. And the staff help to make it a memorable stay. We will be back... More",
+    "reviewerCity": "Naples",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Outstanding!",
+    "reviewText": "Fantastic experience. From check in to departure. Super and enthusiastic staff and a great room with a BIG bed. Super views of the city from the terrace bar area. The ONLY complaint I would have is the Casino. Went down and did not stay long....it was rough and felt very white trash. A real shame.",
+    "reviewerCity": "New York City",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Elegant and courteous",
+    "reviewText": "First time in St. Louis visiting our son attending SLU, we loved our stay at Four Seasons. Very spacious corner room, great amenities, we had a fantastic view for the 50th anniversary Arch firework display. Front desk Semir was extremely courteous and concierge Dareen and his team reccomended great places to eat and visit. My special thanks for Rachelle for... More",
+    "reviewerCity": "Sao Paulo",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Lived up to the 4 Seasons Reputation",
+    "reviewText": "My stay was excellent..The room was spacious, well appointed and equipped with all amenities. Just as important, the staff was courteous, knowledgeable, and professional. I would recommend this hotel without any reservation.",
+    "reviewerCity": "Los Angeles",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great facilities, above average service, below average location",
+    "reviewText": "Excellent spa and nice rooms. The hotel on a standalone basis is a luxury property, but it's hard to ignore it's association with the casino. Each time I saw the massive billboard from my arch view room I was reminded of it. Nothing that can be done about this, so I'm not docking a point for that, but it's just... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Best hotel experience in Saint Louis!",
+    "reviewText": "Our family experience at the Four Seasons Saint Louis was simply fabulous. My family has stayed in some of the finest hotels and our visit to the Four Seasons Saint Louis exceeded our expectations at every turn from the beginning to the end of our visit, the service was unparalleled. Our rooms were ready for our early check in both... More",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-10T00:00:00.000Z"
+    },
+    "reviewTitle": "A Short but Nice Stay",
+    "reviewText": "This is a beautiful hotel. It has excellent service. The rooms are spacious. The bathroom is huge. It had both a shower and tub.The wow factor is the TV in the bathroom mirror, with remote control. The room had a 60 inch flat TV. I had a beautiful view from the 16th floor of the Arch and Mississippi River. Wish... More",
+    "reviewerCity": "Green Harbor",
+    "reviewerState": "MA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Valentine's weekend",
+    "reviewText": "Great Hotel, would definitely stay here again!!! Valentine's weekend for me and my husband we really enjoyed ourselves and the cielo food was awesome! I would recommend this hotel to anyone. I really loved the customer service as well!!!!",
+    "reviewerCity": "Belleville",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-02T00:00:00.000Z"
+    },
+    "reviewTitle": "STL Review",
+    "reviewText": "Exceptional service as usual at Four Seasons in STL. I was upgraded upon my arrival to the executive suite and was a fantastic experience. Spa is fantastic / Restaurant is as well. Overall 5 star service and will be back again.",
+    "reviewerCity": "New York City",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-02T00:00:00.000Z"
+    },
+    "reviewTitle": "DISAPPOINTED",
+    "reviewText": "I was very disappointed at the Four Seasons. Our suite was just not tidy. the bathroom floors were dirty. the counter in the bathroom looked dirty. and the minibar was locked. we couldn't even get in to it to buy anything.",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "St. Louis Business Meeting",
+    "reviewText": "A group of us went to St. Louis for a meeting and stayed at the 4 Seasons. The hotel is beautiful, the rooms are very nice with Big comfy pillows and the shower has that Rain Forrest effect, very cool. The hotel bar is also very nice. If you like to gamble there is a Casino attached to it, BUT... More",
+    "reviewerCity": "New York City",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Glamping",
+    "reviewText": "I decided to stay at the Four Season's in my home town of St. Louis for the Thanksgiving weekend. I loved every min of it - my idea was to pack all the necessities to work out every day and go to the spa every night. (glamping) it was awesome - the fitness room is open 24/7 with fresh fruit... More",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Came for business, hated to leave",
+    "reviewText": "Four Seasons is always about service, and the service here was excellent. I had an ankle injury, and the hotel was swift with ice packs every evening. The pool deck was beautiful (I only wish that the weather cooperated more), but I had to settle for the lovely hot tubs in the spa. Beautiful vistas: when your room overlooks the... More",
+    "reviewerCity": "Texas",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-18T00:00:00.000Z"
+    },
+    "reviewTitle": "One word Perfection!",
+    "reviewText": "There for business conference, accommodations were top notch. Spent Friday to Sunday, all staff was extremely helpful, spa services were wonderful. Room was excellent condition and very comfortable. Only negative, is that room service came late in day to make up room, but there were quite busy that weekend.",
+    "reviewerCity": "Kansas City",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "You never have to leave the hotel!",
+    "reviewText": "My room overlooked the Arch, pool and outdoor lounge area. Concierge and housekeeping were excellent!!! Front desk greets you by name and offers assistance as you come and go. Walking distance from a variety of activities restaurants if you care to venture out of the hotel.",
+    "reviewerCity": "Kansas City",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing rooms, amazing amenities and unbeatable service!",
+    "reviewText": "Fantastic hotel, would definitely stay again. The service was simply amazing, the views were breathtaking, Cielo was fantastic for breakfast, lunch and dinner and the lounge area was very comfortable and inviting. This place can't be beat.",
+    "reviewerCity": "Durango",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-29T00:00:00.000Z"
+    },
+    "reviewTitle": "World class venue in downtown St. Louis",
+    "reviewText": "The hotel and staff more than fulfilled our very high expectations. Friendly, professional, attentive staff experienced at each point. The room was simply perfect in all respects. Superb view of the Mississippi River from both sides of the tower. Wonderful security, however, changing elevators to get above the 8th floor is a bit of a hassle. The event staff in... More",
+    "reviewerCity": "St. Louis",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-16T00:00:00.000Z"
+    },
+    "reviewTitle": "If I Could Give It Ten Stars, I Would",
+    "reviewText": "This was the first time at stayed at this property, and just like other Four Seasons, it does not disappoint. Everything about our visit was fantastic. We were in town for a cheer competition at the Convention Center (which is connected to the Jones Dome where the Rams play). We stayed in an Arch View Suite that had views of... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Review",
+    "reviewText": "Excellent experience. Super service. Especially since you guys came thru where the local Hyatt failed miserably. I'm a platinum member of the Hyatt chain. I had reservations for two nights there. When I checked in they had no rooms for my reservation. They sent me to you.",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Exceptional hotel",
+    "reviewText": "This is a brilliant hotel. Large rooms with excellent decor and amenities. Super friendly staff and delicious food. Located right in the heart of town. There's a certain old-world charm that is juxtaposed by the beautifully modern appliances and design. 5/5.",
+    "reviewerCity": "Sydney",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful hotel!",
+    "reviewText": "I snagged an amazing price, and we were due for a bit of a pamper, so we were very happy to stay here for a couple of nights while we were in town. We are traveling full time, so we are in different hotels every week or so, and it was a nice change of pace to stay at a... More",
+    "reviewerCity": "Corona del Mar",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "AMAZING HOTEL!!!!",
+    "reviewText": "From the minute I called to make the reservation from pulling out from the concierge leaving the hotel, I could NOT have DREAMED of better service!! Absolutely AMAZING!!! My family had the best time staying at this hotel. The Spa was awesome! We went to the crazy awesome fitness center and over to the spa each morning. I/m usually ready... More",
+    "reviewerCity": "Poteau",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Fun evening",
+    "reviewText": "Room was nice and clean not much different than a room at Lumiere. Many different elevators to get to our room, must go up to 4 floors turn to the left turn left again and take that elevator to your room. Dark hallway leading to the casino, wouldn't walk it alone. Drinks are expensive, no breakfast included.",
+    "reviewerCity": "Poteau",
+    "reviewerState": "OK",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Spa in Town",
+    "reviewText": "I stayed here for a mom's weekend away, and it was lovely. The spa is amazing, with a great lounge area and view of the river. The staff very attentive, and the food at Cielo was delicious. I am already looking forward to next year.",
+    "reviewerCity": "Poteau",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Best hotel in town",
+    "reviewText": "Typical of a Four Seasons, this place is awesome. The rooms are new and huge, with amazing views of the Arch or river. This is the best deal you are going to get at this high end hotel chain and it's well worth it. I recommend parking at the casino next door and taking the elevator down to the lobby.",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-25T00:00:00.000Z"
+    },
+    "reviewTitle": "A very nice overnight get away",
+    "reviewText": "We had an excellent stay, the room was superb as was the service in general. We had great service at the front desk and in the bar in the afternoon. The late night evening meal was not as good as I might have hoped and the service was substandard. The next morning at Sunday brunch the waiter on the other... More",
+    "reviewerCity": "Springfield",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnight Stay",
+    "reviewText": "The Four Seasons is always a delightful retreat away from everyday life - they never disappoint. This stay was no exception. Wonderful staff, wonderful room! We went out to dinner downtown and the doorman arranged for the house car to take us instead of having to take a cab. That's the kind of service that keeps us coming back!",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-09T00:00:00.000Z"
+    },
+    "reviewTitle": "A safe harbor of good service, food and drink with a privileged location.",
+    "reviewText": "Very solid and high end experience. Good location and a staff that will make your stay a pleasure. Concierge was especially helpful and helped us organize a super weekend. Many of the better bars and restaurants a short walk or ride.",
+    "reviewerCity": "Toronto",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend getaway",
+    "reviewText": "We live in St. Louis County, but wanted a short vacation. We have stayed at Four Seasons Hotels before, so we thought that would be a great place to stay. The service was good, bu not exceptional, which is what you expect from a Four Seasons. In the bar I ordered a signature drink, but the waitress could not find... More",
+    "reviewerCity": "Chesterfield",
+    "reviewerState": "MO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely!",
+    "reviewText": "We stayed here on our cross country drive across America while we were moving from one end of the country to the other. We loved this hotel, particularly the fact that they did not charge for our dog to stay here. And they treated him and us so well! The staff were all lovely- front desk, room service, valetyou name... More",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Arch",
+    "reviewText": "Not worth the price. We had a grand city view of a parking lot. It was attached to a Casino that brought in some questionable clientele. Every thing was way overpriced. The road noise was so bad it sounded like a Nascar race. Definitely not worth 900 for two nights but I got a free newspaper. No one offered to... More",
+    "reviewerCity": "Columbia",
+    "reviewerState": "MO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Fun Weekend",
+    "reviewText": "Great for overnight stay, super event venue, and nice location for activities in downtown St. Louis. We were fortunate to view a fabulous firework display in honor of 50th anniversary of Gateway Arch.",
+    "reviewerCity": "Granite City",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend Getaway",
+    "reviewText": "The staff was exceptional, Chris at the front desk did a great job. Concierge was a little slow at getting back to us on a question, had to go back to the front desk to get the answer. But overall, great stay. will be back soon!!",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonder staff and property in St Louis MO",
+    "reviewText": "This was my first time at a Four Season hotel property. The staff was amazing, the service and friendliness was very genuine and down to earth. You literally felt right at home away from home! I would come back again and most assuredly tell friends about my experience.",
+    "reviewerCity": "MEMPHIS",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Royal treatment",
+    "reviewText": "I've never before stayed at such a fine property or been treated with such care. From arrival to departure, our every wish was preemptively granted. Turn down service was amazing, from the book mark placed in my novel to the chocolate on the pillow. The TV in the mirror was cool, and the tub was the deepest, most comfortable I've... More",
+    "reviewerCity": "Lake Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautifully appointed room",
+    "reviewText": "The Four Seasons in downtown St. Louis was lovely. The location was a bit unusual and difficult to get to (basically through a casino), but the hotel did not disappoint. The rooms were gorgeous with every detail thought through and spacious as well. The bed was extremely comfortable and the bathroom was amazing! Their customer service (especially the front desk)... More",
+    "reviewerCity": "Urbana",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Fabulous hotel, fabulous staff",
+    "reviewText": "The St Louis Four Seasons is a fabulous hotel in a convenient location. The staff are all first-rate, whether it's check in, bell stand, the restaurants or cleaning staff. By far the nicest hotel in downtown St Louis.",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Relaxing retreat in St. Louis!",
+    "reviewText": "We enjoyed our weekend stay at the property while in town for a wedding. The hotel has moved the check-in desk to the first floor in response to guest feedback and I thought the new location was convenient when arriving at the hotel. The guest rooms (view of arch is awesome), room service (breakfast), private brunch (part of the wedding... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-21T00:00:00.000Z"
+    },
+    "reviewTitle": "AWESOME!!!",
+    "reviewText": "I can only say it's worth every !! Amazing service. Amazing rooms. Amazing spa area. Try and request an Arch View. Casino is a 3 min walk. Great Resturants near by. And the hotel will shuttle you to the ballgame if that's what you're in town for.",
+    "reviewerCity": "Murray",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Be pamperd along the Mississippi",
+    "reviewText": "This is a top notch casino hotel you will feel it from the moment your walk in, having doors opened by attentive doormen. It is a part of the Luminere casino in St. Louis. The rooms have great views of the city and the Mississippi river, There is a heated outdoor pool and whirlpool also a great spa. It is... More",
+    "reviewerCity": "Murray",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable and great service!",
+    "reviewText": "Comfortable and great service! The bed was one of the most comfortable hotel beds I have slept in. The bathroom was perfect with the TV built into the mirror , A deep bathtub, and a separate shower all done and classy marble. A Keurig coffee maker and an outstanding view of the arch and the Mississippi started my mornings. The... More",
+    "reviewerCity": "Centennial",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-25T00:00:00.000Z"
+    },
+    "reviewTitle": "long weekend for wedding",
+    "reviewText": "Hotel is exquisite with service to match. Staff is friendly and aims to please. We ate breakfast at the restaurant and it was very good, only moderately expensive considering the general atmosphere at the hotel. Our hostess provided a small group of us with kosher dinners from an outside caterer on Friday night . The hotel set it up in... More",
+    "reviewerCity": "Savannah",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Modern next to the Casino Downtown Shops",
+    "reviewText": "The Four Seasons St. Louis has all the usual amenities you'll find in this brand. Nice rooms, modern furniture, clean bathrooms, etc. The hotel is very elegant and slick - one strange thing is that you take an elevator up to the lobby from the ground floor. There is a huge deck overlooking the St. Louis Arch and the River.... More",
+    "reviewerCity": "Greenwich",
+    "reviewerState": "CT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Business travel",
+    "reviewText": "Solid Hotel, great location and views of the Arch. The check in process was great the staff was professional and this was a great experience all around. My room was clean and comfortable. This was one of the first rooms that I had a TV that actually fits the size of the room. Very spacious and beautiful. All amenities at... More",
+    "reviewerCity": "Minneapolis",
+    "reviewerState": "MN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Thank you for another amazing experience!!!",
+    "reviewText": "Top notch service and amenities. Great location in St Louis. Room service was quick, courteous and the food was delicious. Everything was really clean and staff was always available and helpful. I will be back.",
+    "reviewerCity": "Miami",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Very good",
+    "reviewText": "First time at a Four Seasons property. Extremely nice and clean. Funny thing that a rays with me was the very pleasant smell. I also appreciated the friendly and helpful staff. I will definitely stay again.",
+    "reviewerCity": "Howell",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay, great staff",
+    "reviewText": "5 night stay for business and enjoyed excellent customer service, Premier room and Cielo food. Room was excellent, large and all mod cons. L'Occitaine toiletries a nice touch. Hotel spa was fantastic, great for winding down. Also enjoyed the Cielo bar with a good selection of local beers, Zeke's Pale Ale and Urban Chestnut IPA a must, and authentic Italian... More",
+    "reviewerCity": "Birmingham",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Best place to stay in downtown Saint Louis!",
+    "reviewText": "Thanks to Elizabeth Hays, my girlfriend and I were able to have a fantastic evening in the city with a arch view king suite! Without asking she had a birthday surprise waiting for us upon our arrival!",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Valentine's Day weekend getaway",
+    "reviewText": "My husband and I stayed over this Valentine's Day weekend with our 4 year old son and another family with a son the same age. From the moment we walked into the lobby with the most amazing scent, we knew it would be a great weekend. The staff are absolutely on par with what we expect at The Four Seasons.... More",
+    "reviewerCity": "Kansas City",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Parking",
+    "reviewText": "For the money you spend on these rooms. Parking should be included. I got a room where parking was included but at a different lot. One which you had to park separately (pay for this) and then had to check in... Then go back to your car and move it to the given lot. The paying parking lot was full... More",
+    "reviewerCity": "St. Louis",
+    "reviewerState": "MO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "The planned stress free weekend that added so much more stress that still hasn't ended!",
+    "reviewText": "The hotel employees for the most part was great. Room was very very unsanitary! And we were on the opposite side of the hotel then I had requested. I booked the room several weeks out and asked that we stay on a lower floor with a view of the arch. My wife is scared of heights and that was clearly... More",
+    "reviewerCity": "Pittsfield",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel in St Louis",
+    "reviewText": "The Four Seasons hotel in St Louis that is convenient to everything downtown St Louis, and to gaming. The room was very nice and staff was super..The hotel bar had great drinks and the food was amazing!",
+    "reviewerCity": "Springfield",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel!",
+    "reviewText": "The staff are super friendly and professional. Great location with a great view and casino access! Guys at valet parking took us places and came and got us many times - they were very helpful. Stayed 3 nights in a beautiful room with a view of the river and arch. Would definitely stay here if I visit St. Louis again!",
+    "reviewerCity": "Chattanooga",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend stay",
+    "reviewText": "Great accommodations, nice dcor, roomy and clean. The hotel's restaurant and breakfast were great. The food was delicious. The only thing regarding the service that I was expecting but didn't happen was a more friendly reception at the restaurant at night and in the morning for breakfast too. On both occasions the receptionist did not make eye contact and didn't... More",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay at the Four Seasons St. Louis",
+    "reviewText": "I didn't know what to expect other than Four Seasons hotels are nice. This hotel had superseded my expectations. From the simple elegant lobby to size and cleanliness of the room, not to forget the amazing beautiful view from the room. Food is much better than traditional hotel food. Meeting room was pretty large with plenty of natural light. I... More",
+    "reviewerCity": "Long Beach",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-24T00:00:00.000Z"
+    },
+    "reviewTitle": "1st Class All the Way",
+    "reviewText": "Wife and I live in St. Louis and have stayed here on numerous occasions for weekend staycations. Most recently in September 2015, but just now getting around to reviewing. To keep it short and simple... This hotel is beautiful, spa and pool are ridiculous, service is excellent the only hotel I would drop a grand on for a weekend when... More",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great time at a great place.",
+    "reviewText": "Our stay was made so pleasant by the friendliness, cheerfulness and helpfulness of all the staff. From housekeeping to the front desk everyone did everything possible to make our stay a good one. We especially appreciated the doorman, Armend and the parking staff and limo staff. My husband became ill and a limo was made available to carry me to... More",
+    "reviewerCity": "Florence",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "My husband and I would like to thank Mr. Oztok, GM, and his staff at the Four Seasons for their great hospitality.",
+    "reviewText": "We will definitely return to this hotel in the future. The staff was amazing and our rooms was very clean and spacious with a beautiful view of the river and the Arch. The restaurant Cielo is a cool place to sit and have a drink or dinner. My husband had the calzone and I had a filet both of which... More",
+    "reviewerCity": "Springfield",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for weddings, etc",
+    "reviewText": "The hotel is located in an older part of St. Louis and connected to a casino and another hotel. The staff was fantastic and very helpful from arrival to departure. However, they seemed overwhelmed at times with weddings(including the one we attended).. The restaurant was also busy and the service was slow although the wait staff were appologetic and friendly.... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Another stay...and it was PERFECT",
+    "reviewText": "Our previous stay was not as expected, and I let property management know of my disappointment, and they promised my next visit would be much better....and it was (even though we were in town for a funeral). Our room was super-clean (well done housekeeping, as always), and Raquel at the front desk was very accommodating to ensure we could have... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Opinion of the 4 Seasons and the Valet",
+    "reviewText": "The Hotel itself was very nice and the staff of the 4 seasons very professional. The rooms are very nice as well and the views are really good. But whatever you do, do not Valet your vehicle. My vehicle was left in the care of their Valet Service overnight and now I have a 3,000 bill to have the vehicle... More",
+    "reviewerCity": "Caseyville",
+    "reviewerState": "IL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Best of the best!",
+    "reviewText": "Best staff, experience and comfort. First Class everything! I must find out what linens, pillows and mattress the rooms have as I need these in my own home! The staff is the best and they take pride in what they do. It shows!",
+    "reviewerCity": "Omaha",
+    "reviewerState": "NE",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfection",
+    "reviewText": "This is my 4th time staying here. It's consistently a great place to stay. We have a larger corner room and just love the view. The rooms are immaculate as well as very quiet. I always look forward to my stay here. The restaurant and bar is very nice too.",
+    "reviewerCity": "Omaha",
+    "reviewerState": "NE",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "A new favourite...",
+    "reviewText": "We were recently stranded in St. Louis due to weather in our destination city. So we did as one does and looked for the nearest luxury hotel :) Actually I had sort of given up on Four Seasons and Ritz's with the rise of boutique design hotels. However, the Four Seasons St. Louis reminded me how uniquely wonderful big-name hotels... More",
+    "reviewerCity": "London",
+    "reviewerState": "NE",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great as always!",
+    "reviewText": "I stay here a couple times per year and absolutely love it. The location can't be beat and the service is excellent. The food is great, the bar (especially the outside with the views) is spectacular and the rooms are absolutely amazing!",
+    "reviewerCity": "Riva",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Weekend",
+    "reviewText": "Went on a last minute trip to STL for a birthday on 4/16. Staff was very friendly and courteous during the duration of our stay. The bartender at the bar was especially helpful and welcoming. It was unseasonably warm and sunny outside and we were going to the cardinals game. The bartender gave us some sunscreen to put on and... More",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful View and patio",
+    "reviewText": "I had a stunning view of the river and the patio at Cielo is a great spot for a reception. Room was spacious and well appointed. I did not explore the casino. Getting to the room is a little confusing at first. I did not use the gym and or see the pool. The service was excellent.",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "The Four Seasons has an excellent staff on board. The restaurant and spa were wonderful and the rooms were very comfortable. The room rates are high but if you can get a specail package rate it makes more affordable. One of the only hotels in downtown area that has a spa.",
+    "reviewerCity": "Erie",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Personal attention",
+    "reviewText": "All of the staff was extremely friendly and helpful. The Valet service was one of the most professional I have ever witnessed. My hats off the the training personel. The view of the Arch outside my window was the icing on the cake. All of the Amenities in the room were second to none. The only difficulty were that the... More",
+    "reviewerCity": "Evansville",
+    "reviewerState": "IN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Spa Experience",
+    "reviewText": "Visited the Four Season's Spa with a Groupon, which was an experience like no other. The staff went above and beyond to make my experience relaxing and exceptional. I can't imagine a better self-care experience than visiting the Four Season's Spa.",
+    "reviewerCity": "Louisville",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect, As Always",
+    "reviewText": "I took my family to St. Louis during what was a busy weekend. Our first two hotel choices were sold out, but we were fortunate enough to reserve a room at the Four Seasons. The room, which was upgraded to the 19th floor, was spacious and we had an amazing view of the Arch, Downtown St. Louis and the river.... More",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-13T00:00:00.000Z"
+    },
+    "reviewTitle": "The Four Seasons deserves Five Stars!",
+    "reviewText": "I must say, I was a bit 'put off' by having to change elevators on the 8th floor to get to the higher floors . . . BUT when I got to my room, I no longer cared! The rooms are large with amazing floor to ceiling windows (view of the Arch was amazing) and the bathroom was spa worthy.... More",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-09T00:00:00.000Z"
+    },
+    "reviewTitle": "HAPPY TO STAY THERE",
+    "reviewText": "The Four Seasons St. Louis is a very, very nice physical property, but it is the attentive nature of the abundant staff that makes it special - from the parking staff to the front desk to housekeeping, always great service with a smile.",
+    "reviewerCity": "Tampa",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Four Seasons: worth the extra",
+    "reviewText": "If Service and a great room are important to you, here is where to stay!! No better place in Downtown St. Louis, the food and service was top notch. Very Welcoming!!!! I would check for availability early.",
+    "reviewerCity": "Minnetonka",
+    "reviewerState": "MN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful View",
+    "reviewText": "Located on the river front, this hotel has great views, walking distance to many attractions and reasonably priced. Crisp, clean rooms with shower/ DEEP tub combo and friendly staff make your stay very enjoyable. Spa and Casino on site to relax and have fun!",
+    "reviewerCity": "Springfield",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Relax and be pampered",
+    "reviewText": "My husband and I stayed over Thanksgiving break. We expected a high level of service but the hotel managed to exceed it! If you need a some alone time to decompress from the frenzy of family and the holidays, the Four Seasons is your destination.",
+    "reviewerCity": "Springfield",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Average",
+    "reviewText": "Average for the money. I was up all night listening to my neighbor (connecting doors between rooms) coughing and talking on the phone. They did not sleep all night and neither did I. Accommodations were very good and personnel excellent. Food, beverage and room very pricey for the area.",
+    "reviewerCity": "Orange Beach",
+    "reviewerState": "AL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Modern, spacious and clean",
+    "reviewText": "Probably the location is not the best but finding room for the complex must have been a trial. No fault with our room save for the small niggles about insufficient space for two large suitcases. Great bathroom. Biggest issue for us was dining options. For a civilised country,we find it strange that smoking is tolerated indoors, let alone near eateries.... More",
+    "reviewerCity": "Bli Bli",
+    "reviewerState": "AL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Christmas Brunch and hotel stay",
+    "reviewText": "Had Christmas 2015 Brunch here and food fantastic, along with variety offered, but a bit overpriced. Having said that, the prime rib along with omelette bar were terrific. Servers pleasant and amiable, risotto bar fabulous! Free mimosas and bloody mary's to taste. Overall, couldn't be happier but for the cost (already adding 20 gratuity to our bill and there were... More",
+    "reviewerCity": "San Antonio",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "We stayed at the Four Seasons for the first time on Dec 23, 2015. Cameron did a nice job checking us in, he was very personable and made a pleasant first impression. My husband enjoyed the personal touch in the health club, when he was offered a water with a lid a straw while on the treadmill ( unique... More",
+    "reviewerCity": "Winfield",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "I would stay here again",
+    "reviewText": "Beautiful Hotel and staff and room accomodations were excellent. The pool area is nice and the view of the Arch is amazing. Especially at night. The bar area is centally located and everything was new and clean.",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Business Stay",
+    "reviewText": "Staff and Hotel were very professional, great atmosphere and grounds to hold several meetings. Rooms were fantastic and clean. Restaurant and bar area was ample to entertain clients with great view of the arch.",
+    "reviewerCity": "Indiana",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Spa Critic Gives Four Seasons St. Louis Spa a 5 Star+",
+    "reviewText": "I travel all over the world (but live local in STL )and hit many amazing spas (have had hundreds of massages) and my masseuse today was in my top three EVER - Nancy Humbrecht. She had magical hands that put in the deepest relaxation without putting me to sleep so I could enjoy every minute. The Four Seasons spa itself... More",
+    "reviewerCity": "Wentzville",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Relaxing stay",
+    "reviewText": "This is our third stay at the Four Seasons in St Louis. Every time has been an exceptional experience and this time was no difference. The quality of service is top notch, staff was always helpful, courteous and accommodating. We especially enjoyed our visit to the spa, where we enjoyed friendly therapists, excellent assistants and a wonderful breakfast. Looking forward... More",
+    "reviewerCity": "Salt Lake City",
+    "reviewerState": "UT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Exceptional and elegant from start to finish! They set the bar high!",
+    "reviewText": "Gluten free was no problem! Check in and check out was stressless. Concierge was magnificent. The dining both in room and in the hotel restaurant exceptional. The hotel was beautiful and the room spotless.",
+    "reviewerCity": "Salt Lake City",
+    "reviewerState": "UT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel",
+    "reviewText": "Hands the best hotel in the St Louis area. The hotel room was beautiful with floor to ceiling windows, very large, and had all up-to-date room ammenities. The staff were very helpful, extremely polite, and truely made the experience special. This is exactly what a top-tier hotel should be like.",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-28T00:00:00.000Z"
+    },
+    "reviewTitle": "This hotel makes business a pleasure",
+    "reviewText": "By far, the most comfortable bed I've ever slept in. The bathroom soaps are my absolute favorite scent - lemon verbena, and the staff was super friendly. The in room dining was also quite good, and fitness center was clean and well-equiped",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Incredible service. Great food. Great location",
+    "reviewText": "First visit to the hotel and definitely will be back. Staff went out of their way to ensure all of our needs to attended to. The location of this hotel is perfect for doing business in and around St. Louis.",
+    "reviewerCity": "Dallas",

@@ -1,0 +1,1000 @@
+    "reviewerCity": "Redmond",
+    "reviewerState": "OR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay",
+    "reviewText": "We enjoyed our stay and appreciate them for letting us use their printer behind the counter. We weren't looking for a 5 star place, just somewhere to stay for the night as we continued along our journey.",
+    "reviewerCity": "Berkeley",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay",
+    "reviewText": "it was nice.",
+    "reviewerCity": "Berkeley",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay near the airport",
+    "reviewText": "The Gardena Terrace inn is only a 15 min drive to the airport and is ideal if you want to stay nearby. The rooms and bathrooms are comfy and clean. We were visiting relatives late on a Friday night and did not arrive until 3am. We had to ring the bell but someone was there to check us in. Free... More",
+    "reviewerCity": "Rayleigh",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Love this Hotel",
+    "reviewText": "Ali and Kathyrn made my stay comfortable and welcoming. Both staff took time to help me and listen to my every need. I loved the area for it was very convenient to all my needs as well. The housekeeping did an amazing job with my room with keeping it clean during my stay Oct 1st-5th . I will be back and recommend this hotel 100",
+    "reviewerCity": "Rayleigh",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4060"
+  },
+  "name": "Atlanta Marriott Northwest At Galleria",
+  "categories": ["Lodging", "Motels", "Banquet Halls \u0026 Reception Facilities", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "GA",
+    "city": "Atlanta",
+    "postalCode": "30339",
+    "address": "200 N Interstate Pkwy Se",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.46652, 33.89723]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4061"
+  },
+  "name": "Fairfield Inn \u0026 Suites Atlanta Perimeter Center",
+  "categories": ["Hotels", "Hotel"],
+  "location": {
+    "country": "US",
+    "state": "GA",
+    "city": "Atlanta",
+    "postalCode": "30328",
+    "address": "1145 Hammond Dr N E",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.3485, 33.918756]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "enjoyed it",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location for seeing the city.",
+    "reviewText": "Location is in the middle of everything. We were within 15-20 minutes from all the hot spots. I wasn't happy about how small the room was and the toilet had a permanent scratch on it that didn't sit well with me, but it was ok. I'm just very finicky about those things. I tried to switch rooms but it was all booked. The front desk seemed to be willing to help. Also, I didn't like breakfast selections at all and it's only 7am - 9am. With one waffle make and such a short time frame really didn't make sense to me. Over all the bed and shower was nice so it worked out.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Pretty good",
+    "reviewText": "A little dated but pretty convenient, close to MARTA so we did not need to drive, excellent service, comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnight in Atlanta",
+    "reviewText": "Very nice place to stay. No negatives to comment.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to the Mall",
+    "reviewText": "It was a great stay except for the construction going on in the hotel lobby and having to come in the side door. Overall it was a good stay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "30-Oct",
+    "reviewText": "The front desk clerk was grate can't recall he name the tall afire American man was very helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "30-Oct",
+    "reviewText": "The front desk and kitchen staff were all very friendly and welcoming. BUT the housekeeping was very loud in the hallways and they didn't clean our room during our stay. The walls are very thin and you can hear everything through the walls and doors.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "My interview stay",
+    "reviewText": "Hotel was good. Very close to public transportation (1 block away) MARTA train and buses. Service was good, accommodations good. Pool Exercise room was fine. Front desk and housekeeping was good. Free breakfast was excellent, and the woman that cooked the food was tremendous. I came down to exercise when breakfast was ending. She offered to cook me some eggs. HOWEVER, there was one employee, a woman at front desk when I checked in that was unprofessional and rude. I asked her what was the charges amount, she said she didn't know, because I booked thru third party. I get auto notification on my card thru my phone, and saw that it didn't match. I immediately went to question it, and she gave me attitude. I told her that she should have mentioned that they take a little extra for incidentals. THAT wasn't a problem, BUT, she should have mentioned that when I checked in AND asked about what amount is being taken off the card. When I called after my stay, I got her on phone, and inquired to ensure that the money was being put back on my card,,,she started explaining how long it might take to show on my card. I said I'm not asking how long, I want to ensure that it was simply put back. SHE SHOULD'NT be allowed people, her posture and unprofessionalism is horrendous",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "My interview stay",
+    "reviewText": "There was a huge roach crawling around our rooom so we had to switch rooms. When we moved rooms we saw another roach.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Very disappointed Marriott guest...",
+    "reviewText": "Arrived late with young child to find out the hotel was under construction. Had to enter building thru a side door which was located in a dark area near large disposal area, fencing, and under trees (a little scary). The check-in/lobby was in a room, where the attendant just checked me in but didn't greet me properly. Further, we didn't make any mention of the hotel being under construction, offer any advance apology for the inconvenience, or direct me to how to find the elevator to get to my room. On the way to room, it literally looked like we were in a construction zone - walls were unfinished, taping everywhere, floors undone... it really looked like the hotel or that area at least should have been closed. The room itself was much smaller than I imagined and the bathroom/shower was not 100 clean. I've stayed at a lot of Marriott's and this was my worst experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Very disappointed Marriott guest...",
+    "reviewText": "It was a really nice hotel, the front desk was really friendly and understanding. They gave us a really fast check in. This will become our hotel we go to from now on.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable stay",
+    "reviewText": "Excellent perimeter location near the mall and stores. The hotel room itself is small. There is hardly any counter space. The decor and furnishings seem outdated. The sheets were really soft. It's an average stay for sleep but don't expect any bells or whistles here.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable stay",
+    "reviewText": "Great hotel. I have stayed here before, hotel was undergoing renovations. Staff was great. Pool was dirty though.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful days in Altanta",
+    "reviewText": "We stayed in Atlanta just for three days, but really enjoyed our time there! The service tried to make our stay as comfortable as possible and the breakfast was also very good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "We stayed here for our trip to DragonCon. We specifically picked this hotel because of the great rate on Hotels.com, and the close proximity to the MARTA station. when we arrived, we were given a king bedroom, but it didn't include a sofa bed, which is what we specifically booked since there were three of us sharing. The staff quickly remedied the situation and got us in the correct style of room. The room was very clean and comfy. The shower is a bit strange in that the glass only goes halfway across, so water spills out and soaks the floor/bathmat. Also, there's not much space to put your shampoo, etc. The continental breakfast was pretty standard, but our one complaint is that they didn't always have everything set up by the time breakfast started. The area around is pretty quiet, and you are within walking distance to the Perimeter mall and another shopping center with a grocery store and restaurants. All in all, it was a great hotel and we would definitely consider staying there again in the future.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "Everything was great but the elevators were tempramental at times.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome weekend!",
+    "reviewText": "Fun weekend. Service was great! Room was spacious. I had a step in shower which was pretty nice. Breakfast could have been better but it's free. Overall I had a great experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome weekend!",
+    "reviewText": "I had booked a room suite with 2 double beds and sofa bed for 3 adults. hotel no longer has these rooms available. Hotel has be renovated and now only has roll away beds. Entire first floor is under construction, pool not available. Breakfast was moderate, everything had to be heated in a microwave.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to Perimeter Mall, Marta and highways",
+    "reviewText": "Have not stayed in a FAirfield Inn in years. I suppose it is adequate given the low rate. The room was small but clean and the temperature control did not work. Very warm even with AC on. I was told at check in that as a Marriott Platinum member they would normally give me a gift bag (water and snack) but they didn't have any. the breakfast food was below par and I would recommend eating out. Good location, clean rooms but lacking a lot.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great deal",
+    "reviewText": "Great free breakfast.They are remodeling so a little noise but not to early. Hotel is discounted for this I think. Only 69 per night. Free shuttle and professional service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great deal",
+    "reviewText": "staff is amazing, place is clean, and beds are comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-01T00:00:00.000Z"
+    },
+    "reviewTitle": "If you need a place to just sleep...do it here",
+    "reviewText": "The room was extremely small. My room was placed next to the elevator which is annoying. However, I was there for one night which was the reason why I booked the room. The customer service guy was not pleasing. However, the young lady in the morning did assist me. Overall, 3/5.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "If you need a place to just sleep...do it here",
+    "reviewText": "Overall nice people and clean. Pool was small and no hot tub.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable",
+    "reviewText": "The breakfast was nothing to write at home about.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-25T00:00:00.000Z"
+    },
+    "reviewTitle": "The Dog died later",
+    "reviewText": "For the great location, this hotel felt more Motel like. It's old and while they kept the hallway brimming with lavender happiness, the rooms smelled like a nursing home. On fire. My first room smelled like pure urine. Concentrated, hot and freshly brewed urine. After being moved, the second room smelled like the Great Georgian outdoors. While the night receptionist tried to help, there was no night housekeeping. So she sprayed and went back to work. I found out it was the heater and told them. They sprayed the filter, but to no avail. As they were sold out, I was stuck. Then the key cards kept malfunctioning. They weren't near my phone either. Going blank and reading red. I had to beat on the window at 2 am for three minutes to get in one night. Finally, although I booked and PAID thru a third party, the new girl at the desk at the time of my check-in charged my card over 200 in incidentals, rather than the required 60. That took 5 days to return to my account. Also no one made any documentation of anything, so when I complained to management and hotels.com, it was made to look as if none of this ever happened or was reported. NEVER, NEVER stay here. There's another Fairfield up the street that, at least, looks a million times better. Please, take heed and don't chance it. Oh, but they did have some nice beds. My stay was a country song. The saddest, broken down pickup, lost my job, won't stop raining, she left with everything but the dog country song ever.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Not what it is advertised  to be.",
+    "reviewText": "Let me start out by saying I rarely complain about anything, however This hotel is not what it is advertised to be. The in room description says it has a sofa-bed in addition to the 2 double beds. This is not the case. Upon arrival and realising this I promptly complained to the front desk. I was told they only have the small room with 2 double beds or a room with a king bed and a sofa-bed. I booked the room for 5 people and there is no way for 5 people to sleep comfortably in either room. This room should not show up in a search for 5 people. I requested a rollaway which was also advertised to be available and was told it was not available in the room I booked. If you are booking this hotel for the indoor pool don't bother. It is a 3' kiddy pool not a full size pool. If you do visit the pool you'd better bring a towel from your room as they are not available in the pool area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel in Northern Atlanta",
+    "reviewText": "The stay was good, the room was excellent and the elevator walls in the remodeling stage and that kind throws people out of whack.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel in Northern Atlanta",
+    "reviewText": "Just needed a place to stay over father's day weekend with my family. We enjoyed our day at the Atlanta Botanical Garden, nice meal and some shopping near the hotel (mall nearby), and the following day at the Georgia Aquarium. The location was good, area was safe, staff was friendly, and the price was right. Hotels.com made the process super simple too.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Beware of window-cleaning day!!",
+    "reviewText": "We've stayed here before and had a good experience, but not this time. The main issue was with window cleaning that began at approximately 10 a.m. on a Saturday. Really Window cleaning before checkout time on a weekend Imagine my surprise when, having just gotten out of the shower, I saw a pair of legs dangling in front of my 4th-story window!! I didn't feel that the hotel gave adequate (read: any) notice about this, and they really should have. Second, luggage carts were not available both when we arrived and when we checked out. The latter was especially frustrating because I was trying to wrangle luggage and a 2-year-old. The woman at the desk asked another employee to go look for carts, but I never saw any. It might have been helpful if they had offered to help with the luggage instead, since they had seen me struggling in that department. I get that other people use the carts! That is not the issue. Rather, I think it would be helpful if they either had more carts or made it a point to have employees do regular/frequent cart checks in the hallways so that there is always at least one in the lobby. Finally (and this is minor, but still frustrating), there are plants growing near some of the parking spaces that have sticker heads on them that latch onto clothes. I inadvertently brushed up against them and was itching for hours afterward from the encounter. :(",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "New, clean hotel...",
+    "reviewText": "We had a pleasant trip and this hotel was new and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "We were there to see kids had 90+ grandpa with us they were able to give us side by side rooms with handicap bath great plus great stay we were aware of remodel going on it did not bother us staff was as good as it gets",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "hotel was close to where my meetings were...",
+    "reviewText": "Found the room to be small and crowded with OLD furniture and bed...The TV system was antique and kept loosing the signal which made it really frustrating when trying to watch the baseball playoffs!!! They were painting the exterior of the building while there...they should be working on what actually matters to the customer...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "room was nice",
+    "reviewText": "I booked thru expedia with the only requirement being an indoor pool. When we arrived, we discovered they were under construction and pool was closed. This led us to changing hotels.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Really?",
+    "reviewText": "The hotel was going under renovation while we were there. The spa was not available. During our two night stay there was someone smoking on the second floor where we were staying. Reported it to the front desk both days and they did a courtesy spray that did nothing to resolve the problem. The breakfast was a total joke. No eggs or meat either day. Renovations or not, this hotel lacks leadership.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable Stay",
+    "reviewText": "Comfortable Stay - Except some renovation sounds",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value",
+    "reviewText": "Great location, nice room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value",
+    "reviewText": "I really enjoyed my stay and the staff was so nice and friendly they answered all your questions they were very polite",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value",
+    "reviewText": "Hotel was under renovation. This should have been noted in the hotel description. There was no lobby and check in was in a first floor guest room. Hotel rooms were fine. Just the first floor was a mess.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and reasonably priced",
+    "reviewText": "It provides it purpose. A reasonably priced and very clean place to stay. Good breakfast in the mornings. Clean room. Hot showers.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay!",
+    "reviewText": "Room was quite comfortable. Location was excellent. Close to shopping, markets,dinning, and there was very little area noise.Have stayed before, and will stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay!",
+    "reviewText": "Awesome hotel. Will definitely stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "My least favorite stay at a hotel",
+    "reviewText": "From the outside , this hotel looks good, but the inside looks old.The furnitures in the room were ancient.The carpet looks dirty.There were many patches on the wall.The bathroom was small.The breakfast was free but cold. Overall , next time I would definitely not stay here.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "My least favorite stay at a hotel",
+    "reviewText": "Not bad but breakfast needs improve .not enough food. Not fresh",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "My least favorite stay at a hotel",
+    "reviewText": "nice rooms, clean... thats all",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "My least favorite stay at a hotel",
+    "reviewText": "I love this hotel, it's very clean and the staff was great!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "No spa even though website said there was",
+    "reviewText": "Employees are very kind and respectful, breakfast was average, no complaints. The pool area is compact. Website shows pics of pool+spa, once you arrive u will notice that there is no spa. My wife and I don't really enjoy pool action anymore. So no spa was big bummer",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "No spa even though website said there was",
+    "reviewText": "Are you lkiddong me? For room rate you can't afford to air condition the hallway! Look at pic of thermometer 95 degrees F!!! Guess that's why you only get 200 PTA for platin check in",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible stay",
+    "reviewText": "Hotel was under renovations that was not mentioned. The front door was not operational with no signage telling you where to come in at. We booked at this hotel specifically because we were traveling with our children and needed the fridge, microwave, and pool in which the website said this hotel had all 3. Room had a fridge no microwave and due to the renovation the pool was closed. Worse stay I've ever had only thing that was ok was the beds were comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay near Sandy Spring for Youth Soccer Tournament",
+    "reviewText": "Hotel was well located for us. Quiet road, with not to much traffic. Overall the hotel was fine and safe. Our room had a distinct odor, which wasn't great and could use updating. I think it may have been a smoking room at sometime and although it had probably been painted to odor was still there. :/ Breakfast was great and bed was really comfy. Price was good too. Would probably stay again but would ask for a different room because of the odor!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Not too happy",
+    "reviewText": "Not happy. The tub drainer was broken, mattresses were worn out, the free breakfast wasn't a good selection. Didn't like the soap, shampoo n conditioner and the pool was not available.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Happy at all",
+    "reviewText": "The Hotel was under construction, it didn't say so on their web page, noise was terrible, front desk, dinning and gym were so bad!! They should put on their web page they are under construction I I new, I wouldn't have stay there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Happy at all",
+    "reviewText": "I would like to say that my stay there was very memorable. When I return to Atlanta, I will book with Fairfield Marriott Hotel DT. The customer service there was awesome. I really love the Front desk person Mr. Lloyd, he was very kind helpful and wore a special warm smile that made you feel comfortable. I was ill for a day there and needed milk and he was nice enough to tell me that I did not have to go to the store sick, that he would give me a carton of milk. I feel that he went out of his way to make sure that I was okay and for that I felt comfortable for leaving him a tip for his great pleasing hospitality. Good job Mr. Lloyd.... The breakfast is better than Ihop. Jacqueline Jefferson",
+    "reviewerCity": "",
+    "reviewerState": "http://www.hotels.com/ho136288/?locale=en_US\u0026pos=HCOM_US",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome stay",
+    "reviewText": "Front desk was so nice and the room was clean and fresh. King size bed was comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome stay",
+    "reviewText": "The stay was great, the only problem that we had was housekeeping threw away all of our snacks that we had in a bag on the dresser!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "everything was good other than the lift pretty old style. other thank that had a great experience and great location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "The Bed was very very comfortable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "are you lkiddong me? for room rate you can't afford to air condition the hallway! look at pic of thermometer 95 degrees f!!! guess that's why you only get 200 pta for platin check in",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, convenient, friendly staff, good value",
+    "reviewText": "Please be aware that as of May 2016 the hotel was undergoing a renovation and the pictures and description of the room in Hotels.com no longer matched the new rooms. Description said microwave in all rooms, now only in the suites. Pictures show large counter-height refrigerator, now it's very small 18 inch square refrigerators with no freezer section. Pictures show a nice roomy easy chair in room. The reality is a small dining-room size chair. I've stayed in this hotel before and I personally liked the old style better, but the hotel is still fine and a good value, but not completely as expected. Otherwise, the location is convenient to Ga400 and I285,public transportation, shopping, many offices. Clean room, very helpful staff. No tub, but nice new shower. Small sink area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, convenient, friendly staff, good value",
+    "reviewText": "The hotel is under MAJOR renovation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, convenient, friendly staff, good value",
+    "reviewText": "lots of apartment construction surrounding the hotel, but the hotel is clean and comfortable. staff is amazing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel in construction turmoil",
+    "reviewText": "This hotel should NOT be taking guests at this time...no lobby to check in, no breakfast room and who knows where the food is coming from. The entire hotel smells like fresh paint and you can't crack the window in the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay",
+    "reviewText": "They were renovating. Thats fine but to have the elevator incomplete with wood boards hanging made me feel extremely uncomfortable. I just started taking the stairs. The rooms we're supposedly non smoking but smelled like smoke. The first room the fridge didn't work so they decided to upgrade us to a king on a higher level. We get there and fridge doesn't work either. We call to get a replacement but they couldn't. Typically we wouldn't have cared to much but we traveled 600 miles and just didn't want our food going bad. Which it did. It was a decent neighborhood. Great for shopping.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "The best bang for your buck",
+    "reviewText": "Clean and super cheap! So glad I stayed here instead of downtown",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay except for parking",
+    "reviewText": "Only thing bad about this hotel is the parking. There are not enough spots available when the hotel is full. It shares a parking lot with an apartment complex. We went out to dinner Saturday night and came back to no spots available. Had to park in front of the dumpster at the request of the front desk employee and was told we may be awaken at an unknown time to move it",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "30 years Anniversary",
+    "reviewText": "The breakfast was good, for my 2 days I enjoyed it. But the light on top of the sink in the bathroom was not too bright, it was hard for me to see my face when I used the sink",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "30 years Anniversary",
+    "reviewText": "Bathroom shower did not have a shower curtain",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs update",
+    "reviewText": "This hotel needs an update",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs update",
+    "reviewText": "Staff was friendly customer service was great",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs update",
+    "reviewText": "great service and awesome breakfast bar. loved my stay here!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "DragonCon Weekend Atlanta",
+    "reviewText": "Family trip to Atlanta. We really appreciated the size of the room and bathroom after staying at a nearby high-rise hotel that was more expensive for a smaller room. The only downside was the small indoor pool.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean \u0026 Comfortable",
+    "reviewText": "Front desk staff was very attentive. My kids enjoyed the breakfast buffet. It was in the center of a lot of things and allowed us to walk to get food from publix and some of the nearby restaurants.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean \u0026 Comfortable",
+    "reviewText": "Great stay. Mall and restaurants nearby. No issues at the hotel. Hotel was very clean and staff was nice. A+ stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyed my stay",
+    "reviewText": "Very comfortable, well kept hotel in a great area. Would definitely stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyed my stay",
+    "reviewText": "great staff and a nice spread for breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyed my stay",
+    "reviewText": "Nice rooms, clean... Thats all",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "No roll away beds or sofa in the room",
+    "reviewText": "The sofa wasn't in the room as the picture stated and they didn't have a luggage rack or additional roll away bed. I had 5 people in the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Good, clean place to stay",
+    "reviewText": "The room was nice and the staff was very friendly. The only complaint was the breakfast was not very good. The included free breakfast was so bad, we opted to go out for breakfast the second day.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Good, clean place to stay",
+    "reviewText": "Great staff and a nice spread for breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Good, clean place to stay",
+    "reviewText": "Staff is amazing, place is clean, and beds are comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "Very comfortable and clean. Location very nice area. Parking is a little tight, the hotel is located in close proximity of upscale apartment complex.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "This hotel was very good for the price. Clean and new, excellent interior design and dcor. Breakfast was outstanding. Pool was nice but its not a very large pool, only 3' deep. Overall a very good stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "Lots of apartment construction surrounding the hotel, but the hotel is clean and comfortable. Staff is amazing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "Great service and awesome breakfast bar. Loved my stay here!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4062"
+  },
+  "name": "Homestead Studio Suites",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "GA",
+    "city": "Duluth",
+    "postalCode": "30096",
+    "address": "3525 Breckinridge Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.125047, 33.951254]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2005-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Extended-stay hotel provides home-like accommodations at affordable prices. In ShortBusiness travelers, families and those seeking longer-term housing enjoy many convenient and comfortable amenities. Studio-size suites are equipped with a queen-size bed, work space with data port, iron, kitchen with refrigerator and stovetop, coffeemaker, microwave, and cooking and dining utensils. A 24-hour laundry facility, dry-cleaning services and access to a fitness gym are also available.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4063"
+  },
+  "name": "Comfort Suites Southport",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "NC",
+    "city": "Southport",
+    "postalCode": "28461",
+    "address": "4963 Southport Supply Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-78.0521, 33.9534]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Not happy!!",
+    "reviewText": "We got there and our room wasn't ready for us yet. We were switched to another room and upon inspection of that room we found hair and stains all over the bed. We were then switched to another room that was set for someone with handicap accessibility which is fine but after inquiring about our original room we find out that that room has now been given to someone else. After all the inconvenience there're was no compensation what so ever. Would not give his a recommendation for anyone.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Hampton Inn is a better choice in this area.",
+    "reviewText": "they ran out of shampoo, and their door key maker was busted. they didnt offer any concessions for the inconvenience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Seaside getaway.",
+    "reviewText": "Clean front and side entryways. I loved the room size with a couch!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "The key machine wasn't working-- irritating",
+    "reviewText": "The only problem we had was that the key machine wasn't working so every time we wanted to go back to our room we had to escorted and wait for someone to do so or which was very irritating while on our honeymoon!!!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",

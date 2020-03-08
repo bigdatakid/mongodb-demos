@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasantly surprised .  Nice Hotel",
+    "reviewText": "This is a lovely hotel. Clean and Modern. I would stay here again. Attractive lobby, friendly staff. I especially liked the fridge and microwave in the room (made good use of it).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Skip this hotel...",
+    "reviewText": "The hotel was beautiful when we walked thru the door. Sheets had black stains on them, mattress was extremely uncomfortable and the A/C was too small to cool the entire room down. The bathroom was stuffy, no ventilation or A/C air flow!!! I spoke to the front desk and they said the A/Cs were new, no apologizes, no room switch. I then mentioned that the mattress was extremely hard, they told me to change the dial on the side of the mattress, no change and very uncomfortable. They did not switch me rooms as they said they had none to move us too.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Suppar for a Hilton",
+    "reviewText": "Poor location behind a busy restaurant. There is no breakfast included just a 9 buffet, which is adequate but subpar compared to the nearby Hyatt. There are better hotels for less in the nearby area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Relaxing",
+    "reviewText": "We had a very relaxing stay. We were there off season so the hotel and surrounding shops were not quite up to speed. But the beach was beautiful and the hotel staff were very nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant stay",
+    "reviewText": "Very nice and quiet. Close to great stores.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great",
+    "reviewText": "It was a awesome stay. The beds were great and comfortable. Thank you",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Save your money, go elsewhere, anywhere.",
+    "reviewText": "The best part of the stay was the single serve Kuerig machine and a fully functional A/C system. Otherwise, we will never stay there again. The room fridge froze everything, even at its lowest setting and despite our complaint, was not changed. Breakfast was NOT included and cost 10 for a cheaply set buffet.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "It was just Okay.",
+    "reviewText": "It was a good price but not quite up to Hilton standards. Door to pool didn't work and they didn't seem to care. Closed pool early. Sometimes no one at the desk. Needed some paint here and there and price of the room changed three times online.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible customer service, would never recommend.",
+    "reviewText": "If it could go wrong, it did. I understand things happen, but the way a company responds is what makes it breaks it. The staff could care less about any issues we had during our stay. I have tried to contact a manger multiple times, and have yet to get any response. They tried to charge us for an extra room. 3 different times the key card on our door would not work taking nearly 30 minutes each time to get into our room. They gave keys to our room to people not authorized to be in their. Cops were banging on our door at midnight, threatening to kick us out because the hotel mess up on the room number that had a noise complaint. Again things happen, but every time we would go to the front desk for issues the girl working the front desk would just look at us, and tell us she had other people to help. I would not recommend this hotel to anyone that is wanting a relaxing, worry free place to stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Small problem",
+    "reviewText": "Very nice hotel. Nice location. Plenty of restaurants located nearby. Room seemed very clean. We had ants, specifically, in the bed closest to the window. Freaked out for a second thinking the worst, then saw they were all small sugar ants. Only a few but still you don't want ANY bugs! Other than that, the short stay was nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",

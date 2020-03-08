@@ -1,0 +1,1000 @@
+    "reviewDate": {
+      "$date": "2013-11-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value",
+    "reviewText": "Work for this Super 8, Was supported by local churches. Pushed and shoved off the property, experienced wired things while working, sick, blood beds, and dirt under the beds. Never Received last paycheck.",
+    "reviewerCity": "Salt Lake City",
+    "reviewerState": "UT",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Second time was a charm!",
+    "reviewText": "This was my second time staying at the Super 8 in Alamosa, Colorado, and it was a charm. No need to wait for a third time. I was met, helped, and sent of by friendly staff and my room was clean and in good shape.",
+    "reviewerCity": "El Paso",
+    "reviewerState": "UT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Second time was a charm!",
+    "reviewText": "Friendly staff, dog-friendly, clean, and a good value. Beds and pillows so comfy I had to look and see what brands they were! Menus were in the lobby and the motel was close to good restaurants. Breakfast was much better than the usual fare, and offered sausage, eggs and hash browns along with waffles, cereal, yogurt, fruit and baked goods. We would definitely stay here again.",
+    "reviewerCity": "El Paso",
+    "reviewerState": "UT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and quiet.",
+    "reviewText": "Clean room and good breakfast. Stayed for 3 nights and have no complaints. Good location and easy access to downtown. Would give 5 stars but a/c needs a thermostat instead of the old fashioned knob with red and blue(this is 2016). Plenty of hot water for a long shower.",
+    "reviewerCity": "El Paso",
+    "reviewerState": "UT",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable. We had king suite room - very roomy, good for...",
+    "reviewText": "Comfortable. We had king suite room - very roomy, good for kids We stayed night before went to Sand Dunes. Next morning had nice breakfast and ready to go. Staff very friendly and helpful. Great value for price.",
+    "reviewerCity": "Denver",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean hotel for a great price",
+    "reviewText": "Very clean hotel right off the main highway. Heated pool and small hot tub. Free breakfast in the morning. Quiet room but in the morning I did walk past a room with yipping dogs. Great location to the sand dunes. I would stay here again.",
+    "reviewerCity": "Burnsville",
+    "reviewerState": "MN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Very friendly and professional staff.",
+    "reviewText": "Managed to give us a room on a very busy evening when the Rodeo was in town. Found the staff to be very helpful and professional (printing off a map of the venue for the Rodeo). Great touch was laying out cool drinks and biscuits in the evening after a very hot day. Easy parking and breakfast was fine. Parking... More",
+    "reviewerCity": "Southampton",
+    "reviewerState": "MN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for the price",
+    "reviewText": "Durango hotels are very expensive, so this was a budget-ish option. The room looked like it had a bit of a recent update (paint, new linens, etc) but is clearly a bit older. That said almost everything was in fine shape. My bathroom wall did have steaks down it (maybe urine) when I arrived (ew) but as soon as I... More",
+    "reviewerCity": "Fort Collins",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good motel!",
+    "reviewText": "We had never stayed in a Super 8 motel before this one exceeded our expectations for service, comfort, and cleanliness",
+    "reviewerCity": "Silver City",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "One of the Best Super 8 I have stayed",
+    "reviewText": "Excellent stay. Check in great and fresh baked cookies at 4:30 PM. Staff very friendly and accommodating. Rooms clean with large rooms complete with refrig and microwave. Hot breakfast selection was good.",
+    "reviewerCity": "Green Valley",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean hotel",
+    "reviewText": "We stayed for just one night over the July 4th weekend. It was clean and comfortable and the choices for breakfast were fairly good. I don't believe that it was worth 148 for the one night. I am sure the price was increased for the holiday travelers, which I hope was the case, because I have had much more for... More",
+    "reviewerCity": "Scott City",
+    "reviewerState": "KS",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent value",
+    "reviewText": "We stayed there on the way through. Clean, has a small pool ( great for families with kids or if you enjoy taking a dip), good facility overall. Free breakfast includes ( a version of ) orange juice, scrambled eggs ( essentially ), other goodies: nice! We first looked at a slightly cheaper hotel and then at a more expensive... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "This was a fantastic experience",
+    "reviewText": "I had a great time at this Super8. The rooms were clean and neat. Staff was polite and helpful. Food in the morning was good as well. I would definitely recommend this location.",
+    "reviewerCity": "Dallas",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Value and Clean Room",
+    "reviewText": "This was our first stay at a Super 8 and were a bit apprehensive. However, the room was very clean and the bed was firm. The bed linens were very nice and above standard. Breakfast was very basic. They did have 1 washer and 1 driver, which was convenient. Overall, a good value for the price.",
+    "reviewerCity": "Stuttgart",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Just one night while waiting on family member",
+    "reviewText": "This place is absolutely horrible in customer service and all round politeness. First I checked in with out my dog and about 15 min after decided to change rooms so my dog could sleep inside. I went and paid everts for this because I'm honest. Then after arriving at the other room much later we are now ready to check... More",
+    "reviewerCity": "Stuttgart",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall a good stay",
+    "reviewText": "It was very small and run down. We had to ask for a privacy hanger, conditioner, and more shampoo. The bathtub was chipping and not enough pillows. The pool was tiny. With all this though, everything was clean and breakfast was wonderful. I think for the size and comfort of the place, it should be cheaper otherwise needs to have... More",
+    "reviewerCity": "Oklahoma City",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room double king suite",
+    "reviewText": "Our room was clean, the beds were firm and the pillows soft. We had a refrigerator, microwave, and coffee maker. There were 2 king beds, a dining table and a recliner. We were very pleased with the room. WiFi is available at no charge.",
+    "reviewerCity": "Oklahoma City",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "One of the Nicest Super 8's",
+    "reviewText": "Excellent motel value. Staff was very helpful and it was evident that they were proud of their motel too. Noticed that when the desk person was not with a customer, she was busy tidying up the sitting area and arranging tourist information materials. Also same person helped look up weather conditions for the road on to Durango.",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "NE",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "One of the Nicest Super 8's",
+    "reviewText": "Free coffee refills and budget rates make this motel tops with highway travelers. In ShortThe first Super 8 opened in Aberdeen, S.D., in 1974, charging 8.88 a night. Today, the national franchise, with its familiar red-and-yellow sign, still stands for dependable rooms at wallet-friendly prices. A staple for road-tripping families, truck drivers and tour groups, the motel offers complimentary morning coffee and continental breakfasts. Another perk for travelers: Super 8 travel cups may be refilled for free at any of the motel's locations.",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "NE",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for after visiting Great Sand Dunes",
+    "reviewText": "Since we had a bad experience stayed at Supe 8 last year in Wyomin, my daughter is not really happy when she find out we are going to spend a night at Alamosa after visiting Great Sand Dune. Upon checked in and settled down for the night, we were out after a long day of hiking. Overall the motel facility... More",
+    "reviewerCity": "Highlands Ranch",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good service",
+    "reviewText": "The service here was wonderful!! The workers went out of their way to make sure any problems were dealt with in a quick and timely manner. I loved the service and plan to stay here anytime we visit Alamosa.",
+    "reviewerCity": "Denver",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Comfortable",
+    "reviewText": "Our room was very comfortable and clean. I especially liked the little touches-a hook by the bathtub to hang your towel, refrigerator in room and coffee maker. Iron and ironing board was available as well. The hot breakfast items are the only thing that left something to be desired-hash browns were leathery and scrambled eggs not so good. Other breakfast... More",
+    "reviewerCity": "Broomfield",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "The only negative things was at night there was a lack of...",
+    "reviewText": "The only negative things was at night there was a lack of parking spaces. I had to park off the premise and hope my car would still be there in the morning. Other than that issue my stay was very good.",
+    "reviewerCity": "Briggsdale",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Referred by Stella schimpf",
+    "reviewText": "Lots of rud people staying in the rooms by me other than that it was OK I will stay there again any time I'm in Alamosa the rooms are clean and beds are big enough to fit a couple of people on in a single room",
+    "reviewerCity": "Briggsdale",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Okay",
+    "reviewText": "I was to stay the entire week but checked out early due to the beds being hard as a rock. Shower had no pressure and shower head was not working 100",
+    "reviewerCity": "Pueblo",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great sand dunes",
+    "reviewText": "The hotel was a good location ,clean rooms and good staff. Not sure it was worth the 144.00 dollars a night.",
+    "reviewerCity": "Milliken",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Cut above Super 8",
+    "reviewText": "Not all Super 8 motels are created equal, and this one is a cut above. Rooms have microwaves and fridge, beds are comfortable and rooms are quiet. Breakfast is basic cereal, coffee and wide tea selection. Good value compared to other Alamosa lodging.",
+    "reviewerCity": "Milliken",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great breakfast, clean room and great front desk help",
+    "reviewText": "We ended up at the Super 8 because their owner's partner hotel did not have a usable parking lot. We were pleasantly surprised at the great service and excellent breakfast choices. We got a reduced price because we were moved from the owner's other property, and the room was clean and quiet and the desk clerks were extremely nice and... More",
+    "reviewerCity": "Shoreview",
+    "reviewerState": "MN",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4127"
+  },
+  "name": "Hampton Inn",
+  "categories": ["Hotels", "Lodging", "Corporate Lodging"],
+  "location": {
+    "country": "US",
+    "state": "CO",
+    "city": "Alamosa",
+    "postalCode": "81101",
+    "address": "710 Mariposa St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-105.90579, 37.48132]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4128"
+  },
+  "name": "Monarch Inn",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Mariposa",
+    "postalCode": "95338",
+    "address": "5059 Highway 140",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-119.967114, 37.486574]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't get close to this place",
+    "reviewText": "Torn bathroom curtain. TV didn't turn off. Fridge didn't turn on. A/C and phone made too much noise over night. Towel was dirty. Hotel hallways smelled the food the rude owner cooked. Worst hotel experience I ever had. Quality is half of Mirazur but more expensive.. Mistake I made I stayed there!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "It was newly renovated and staff was excellent.",
+    "reviewText": "Hotel clerk is unkind. Breakfast was terrible. Never want to go back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrid place to stay",
+    "reviewText": "Horrid - the tv didn't work. despite the unique directions given by the staff. More importantly, the water valves in the sink and bath did not operate properly. I had to climb under the sink to shut off the water (CA drought conditions!). Staff seemed indefferant on the morning, saying Why didn't you call us at 10:30 pm. No adjustment on the bill, of course. Miserable experience and we will never stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Mean people",
+    "reviewText": "Bad the people are so mean never lm stay in this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Not here next time !",
+    "reviewText": "Lots of amenities , not enough sockets for them all. Cable TV didnt work right. The Manager lounges around the lobby like he's in his living room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Window's inside curtain",
+    "reviewText": "The inside curtain on the window could not be closed, it looked like the inside curtain had not even been completely and properly installed. This resulted the room becoming very bright even at 6am, therefore it was impossible to sleep after 6am.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "The outside has just been repainted",
+    "reviewText": "Service shouldn't be all about . ddddsdsddddddddddddd",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Greedy, petty people with customer service",
+    "reviewText": "The clerk was really rude to start. The hotel is pet friendly, but I forgot to mention our pet at check in and was barely in the room when I returned to inform them and the lady gasped loudly and then lectured and threatened me for ten minutes because she had to redo the paperwork and send me to another room. She said she had to pay the maid to clean the room again. I said that we didn't mess anything up in the few minutes we were there and offered to tip the maid. Then she followed me to the room continuing to berate me for not knowing better and when she found out I tipped 5 she demanded I at least double that for the maid and also tip her for her trouble. I refused. My new room was also dirty and there was a stuffed animal from a previous guest. On my bill, they added an extra 270 for my dog, which is what she threatened me with because I didn't declare. Stay anywhere else. The Indian couple who run this place have nothing but terrible reviews on Yelp.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Pass this hotel",
+    "reviewText": "Keep going to next hotel and avoid this hotel. Very bad service, unfriendly staff (owner). Bad breakfast in no space area, poor Internet, TV and coffeemaker did not work. Dirty and very dark room. Missing towels. We will newer stay her again, rather drive 30miles for a better hotel. Not wert the money, too expensive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Yosemite Trip",
+    "reviewText": "We needed a place close to Yosemite, however I would not stay there again :( the hotel staff were very pleasant, but not very organized! The rooms are really outdated! The bed mattress was crooked (one side was higher than the other) very uncomfortable! One bed was made the other was not! The bathroom walls had paint missing and the shower head was falling out of the wall! The continental breakfast was not worth it, the choices were minimal! We went to a local coffee shop instead, Pony Espresso, (awesome)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok if no other choice",
+    "reviewText": "Appears it is under renovation and that's a good thing. The room we were in was on 1st floor and window faced a wall so there was very limited natural light. The bathroom felt dirty and rooms are outdated but seem to be recently painted. Continental breakfast was very limited and warm milk. I was questioned quite a bit about who was staying with me because they charge by adults in room and although I booked 2 adults, 2 kids through Expedia (Expedia asks ages) I was told the reservation went through as 1 adult, 3 kids and my 16 year old is also considered an adult. Outside building looks very nice but in the back there is a lot of trash overflowing the bins. Also, my daughters were uncomfortable walking through lobby as one of the employees walked out from behind desk without a shirt on.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Monarch",
+    "reviewText": "terrible breakfast and poor hotel staff and service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "okay accommodation",
+    "reviewText": "Avoid it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the cost",
+    "reviewText": "No customer service, elevator was very old, bed was not comfortable, and definitely not worth what I paid for 1 night. O",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "TERRIBLE customer service",
+    "reviewText": "Their address will lead you to the middle of a spooky dirt road in the middle of nowhere 10 miles from the hotel. After telling the front desk they don't seem surprised and didn't even offer us a later check out for inconvenience. When my fianc went to warm up her oatmeal in the lobby front desk said we couldn't use the microwave because we already checked out. TERRIBLE customer service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "It's ok :/",
+    "reviewText": "The key to the room needs to be reactivate every single day (if you booked and paid for more than 1 night). Breakfast is just cereal, coffe, juice, bread. You're gonna have to buy something to eat. Other than that I'd say it's fine.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "The outside has just been repainted",
+    "reviewText": "I wouldn't stay here again. It's ran by Foreigners that have an attitude and are not very nice. Place felt dirty.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall not too bad",
+    "reviewText": "I felt their rates were excessive, but you are trapped. they charged extra for 3 people and did not know until we were there. Place is clean, but not great on breakfast and hard to understand staff. If you can find better go for it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Two star rating lives",
+    "reviewText": "Pretty much what I expected for a 2 star. Quite small breakfast. Several room items were inoperative. Bright spot -- one of the pillows was way better than the standard foam bricks.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Prima hotel voor bezoek yosemite.",
+    "reviewText": "Im Zimmer hat es gemffelt, Bad ist dringend renovierungsbedrftig, Frhstck war enttuschend, generell sollte mal um das Hotel herum aufgerumt werden. Einzig gut ist Lage (1h zum Yosemite Natl. Park)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly Staff",
+    "reviewText": "From the looks of the outside, I thought this would be a good choice. The check in staff was very friendly. When we got to our room the tv was on. Which was weird. We stayed 2 nights, so housekeeping came by, took our towels, but didn't leave any new ones. And again left the tv on. We were on the second floor, which is right below the lobby. So there was a lot of noise throughout the entire night. But... the staff was nice...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a Boutique Hotel",
+    "reviewText": "We stayed here while visiting Yosemite. We used the hotel rooms simply for showering and sleeping and the rooms met those needs. Just barely. This is a minimalist experience at best. It is NOT a boutique hotel, as the sign says. There is nothing unique or interesting at this hotel. First, the good things: It is clean. The bed is comfortable. It is quiet. Now, the not so good: Lighting in the rooms is abysmal. If I wanted to see anything in my suitcase I needed to move it directly to the window area or under a lamp. It was almost impossible to read in bed at night because the lamp was so weak. Housekeeping is erratic. Sometimes we had 2 towels, sometimes we had 4. Sometimes we had 3 bars of soap, sometimes we had 1. When we called the front desk for more towels, we were told we had to come get them, they wouldn't bring them to us because there was not enough staff on duty. Not the end of the world, but kind of a pain. Breakfast was sparse and almost insufficient. Cereal, danishes, and waffles in plastic bags were our choices. We were there in July and the breakfast room was packed with people and not enough seating. We went to Subway down the street. WiFi was very weak. There were no hooks or rods in the bathrooms forget about re-using towels, which is weird in a state with a water shortage. Our phone cord was frayed and didn't work unless we held it in place. The phones in the rooms all had Mirazur logos on them. Not a boutique experience. More like Mom and Pop motel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Far away from Yosemite",
+    "reviewText": "It was the cheapest we could find for our Yosemite trip but the drive between the park and hotel is to far.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for a place to sleep.",
+    "reviewText": "No frills hotel that met our needs for a trip to Yosemite. Conveniently located in Main Street of mariposa. Breakfast items were enough to get the morning going (bagels, Danish, cereal, frozen waffles, toast, coffee and juice). Customer service in front desk was non existent, but I don't care since I was only there for a night and needed a place to rest. Beds were comfy, ax was semi loud when on. Can't speak for shower pressure or tv. Wifi worked well. Room was comfy for 4 ppl but definitely not spacious either. Would stay here again for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for a place to sleep.",
+    "reviewText": "Hair in the bathroom. Given our room at 3pm, but not ready until 4pm. Overpriced by 30 for what it is. Staff have strong accents, but were friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Monarch",
+    "reviewText": "Newer Condition for the area. Odor a little off, not sure what it was. Overall OK. Breakfast was very under whelming.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "okay accommodation",
+    "reviewText": "Good location, interesting town, although an hours drive to the centre of the Yosemite NP. Reasonably priced accommodation, although a bit dated. Management appear disinterested. Younger desk staff more helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "great location",
+    "reviewText": "comfortable stay - updated but bathroom tile work coming off the wall by tub",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnight stay in Mariposa...nothing special.",
+    "reviewText": "Decided to stay in Mariposa after leaving from the West Entrance of Yosemite. Checked into the hotel which was alright overall, but nothing special. It was in a good location just a couple blocks from the historic downtown area, which made it easy to walk there and do some window shopping. We were also able to walk to 1850 Restaurant, which I would definitely recommend checking out when in town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "OK value for proximity to Yosemite.",
+    "reviewText": "Overall the hotel was clean. The beds were alright for comfort but the pillows absolutely needed to be replaced as there was nothing to them. The swimming pool advertised was closed and had debri in it.. I might have to reassess location next time and pay more money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "convenient",
+    "reviewText": "Not a bad place to stay when visiting Yosemite. Easy to walk to places to eat. Breakfast was fine, plenty of choices for everyone to find something to eat. Staff was friendly. Only issue I didn't like.....when off at Yosemite room was cleaned and when we returned the window had been opened and left open while all our belongings were in the room. Yes we were on the first floor. When closing window then realized there was no latch to lock window.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Deutlich zu teuer, ist aber Angebot und Nachfrage",
+    "reviewText": "Zimmer Ok, einigermaen sauber, aber in die Jahre gekommen, Riss mitten im Badezimmer Spiel, Fn fiel von der Wand und war nur mit einer Hand zu benutzen, da die zweite Hand den ON Knopf drcken msste - ehrlich! Deutlich berteuert, das macht wohl die Nhe zu Yosemite.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "clean hotel shame about the rest",
+    "reviewText": "The manager/owner was a bit unwelcoming. not the normal hi abd welcome how are you can I help you check in type of welcome You get to expect in the USA.breakfast was a bit bland and low standard coffee cereal and pastries.very low average.wouldn't want to stay longer than a night or two",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Few options in Mariposa",
+    "reviewText": "The premises are ok. Nothing too old or in bad condition, the bathroom is clean and well maintained. But... The smell. When you enter the reception desk you have that poorly maintained air conditioning filters smell in the air. Then it gets worse in the rooms. You get used to that, but everytime you come back from the street you are reminded. The bed sheets are terrible, too. But the hotel was full late July. Even at that price!!! So they are doing something right. I could not find anywhere INSIDE Yosemite to stay, so I ended up in Monarch. I could live with that for 2 nights. Being very tired after miles of trekking helped...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Few options in Mariposa",
+    "reviewText": "Helpful staff and moderately close to the Yosemite park entrance, which may account for the premium price, but in serious need of an upgrade.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Few options in Mariposa",
+    "reviewText": "Just average. We just used it for overnight stays outside Yosemite. Everything in the town is overpriced.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Place to stay and going hiking next day",
+    "reviewText": "Place is really clean. Staff is helpful. Breakfast is just cereal, bread, juice and coffee or tea. Waffle We are not sure if we can call that waffle. It will be good if the hotel add little more to the breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Great location for exploring Yosemite NP. Lovely town, plenty of restaurants within walking distance. Comfortable room. Very basic breakfast in hotel foyer. Cereal pastries and toast. For this price at least expected fruit with breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "A little disappointed....",
+    "reviewText": "The hotel was dated, but clean. The gentleman at the front desk who checked us in was extremely helpful with directions and itinerary planning. The a/c in the room was not effective at all and none of us slept well because the room was at least 85 degrees. Not impressed with the complementary breakfast. It was the most expensive room during our 2-week vacation, and by far, our least favorite. It is in a great setting, however, with easy access to shops and restaurants. Very short drive into Yosemite National Park.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "ac noisy",
+    "reviewText": "Air conditioner was so noisy",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Monarch Hotel",
+    "reviewText": "This is a pretty regular, average hotel. Not bad. Quiet. The free breakfast was pretty minimal, but adequate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Mysig liten stad",
+    "reviewText": "Fint hotell med trevlig personal. Bekvmt med hiss. Enkel frukost som ingick i priset. Trevligt och gstvnligt samhlle.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Just \"Ok\"",
+    "reviewText": "Expedia asks if I would recommend this hotel to a friend I suppose that depends upon what friend. I'm on the fence about this hotel it was just OK. The right manager/owner could easily improve the rating from 3.1 up to about 3.8 with better eye for detail and management. Room was not clean enough for me, and I'm not picky. Having said that I personally would stay here again if I needed a place to sleep and other options weren't available.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "ok for the cost",
+    "reviewText": "It was what we expected for the price. Picky people will hate it but regular guests will think it is fine. Clean overall but a few small broken items (like the toilet paper holder). is walking distance to places to eat and shops.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for.",
+    "reviewText": "Standard room. Continental breakfast was the bare minimum. Cereal, bear claws, and juice. Direct tv with HBO. Bathroom was a little outdated. Grout was a little stained. Staff was decent to me when checking in at 12:00am. I really have no complaints.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Atendeu",
+    "reviewText": "Hotel simples, construo boa e acessvel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Pricey hotel but close to Yosemite",
+    "reviewText": "The hotel stay was nice. We were there for the day. This was old Mirazur hotel as evident from tray and toiletries. The outer look of the hotel is nice and so were the room interiors. Continental breakfast was nice. It was little pricey for the hotel but it may be high due to busy summer season and proximity to Yosemite national park near archrock gate entrance. TV remote was too complex to operate. Beds were ok.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel in great neighborhood",
+    "reviewText": "This hotel has a nice pool/jacuuzi. The continental breakfast is a bit lacking and the hallways lackluster but its so close to great restaurants and lots to do/",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Adequate for overnight stay",
+    "reviewText": "hotel management were very accommodating. Hotel is no frills and a bit dated but was clean. The morning breakfast is minimal but adequate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "What a Trip...",
+    "reviewText": "Close enough to Yosemite park.The right place to fill up gas in your car, much cheaper and enough to go around inside the park and back to Monarch Inn. Availability of what you need is just around the area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay, quiet",
+    "reviewText": "Super friendly management. Informational too. Comfortable, clean okay breakfast, over crowed because of the amount of people eating,....",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay, quiet",
+    "reviewText": "Nice location, clean room friendly stuff. This is absolutely the hotel you want to stay near Yosemite (1hr drive). The breakfast quality could have been better but the room was very good with paintings, nicely placed accesories. Also entering Yosemite from Rt140 is much less crowded, so its a good choice for stay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "I would stay here again",
+    "reviewText": "Overall a great hotel. A little pricey and the wifi spotty. Other than that, it worked out great. Parking was easy and close to the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Yelostone parc",
+    "reviewText": "Hotel trs correct pour le prix",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-04T00:00:00.000Z"
+    },
+    "reviewTitle": "clean hotel shame about the rest",
+    "reviewText": "One of the best looking buildings on the hwy. Easy to find and a lot of parking. The owners were speaking a little loudly while the guests were in the office area. Didn't sound great",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Little Hotel",
+    "reviewText": "We had a great stay right in the middle of the quaint downtown of Mariposa. Within walking distance of plenty of boutique shops, bars, and restaurants. Very clean rooms, professional staff, and plenty of parking. The continental breakfast was small, but a definite plus to get the day started right. Highly recommended to stay here.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Not too bad, but would not stay here again",
+    "reviewText": "The hotel is recently updated and clean. The outdoor swimpool is not heated so even in August the swimpool is too cold to swim comfortably. The worst thing was breakfast - very few choices, no fruit, no eggs or even yogurt. Just toast and cereal. The breakfast room was very small and crowded. The hotel is close to a few restaurants, so there are more ways of finding what to eat. While it was not a bad hotel (clean and convenient), this particular hotel does not offer anything special and it is not cheaper than some other locations. So I would not stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Price is right.",
+    "reviewText": "We just needed a hotel for a single night, and this was more than adequate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Mysig liten stad",
+    "reviewText": "The continental breakfast was lacking variety.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Yosemite hotel",
+    "reviewText": "About an hour from Yosemite, which is why we chose it. Room was fine, bathroom large and plentiful hot water. Close to restaurants in town. Continental breakfast was adequate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall not too bad",
+    "reviewText": "Spent 2 nights here. Bathroom was old but clean. Noticed 2-3 ants in bathroom. But overall not too bad. Price we paid was 400 for 2 nights mid June.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel in a neat County 1.15hrs to Yosemite",
+    "reviewText": "Just what we needed. I would recommend this place to friends and family.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Walking distance from town",
+    "reviewText": "The weather was very hot while we were in Mariposa so it was wonderful to check into an air conditioned room. The young receptionist was extremely helpful with recommendations and directions for restaurants.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Okay",
+    "reviewText": "Yosemite stay, nice clean place.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Prima hotel voor bezoek yosemite.",
+    "reviewText": "Prima hotel in leuk dorpje. Heerlijk gegeten in restaurant vlakbij hotel. Een klein uurtje rijden vanaf Yosemite valley. Ontbijt was simpel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Little Hotel Find",
+    "reviewText": "This is a wonderful little hotel conveniently located near Yosemite. It was a super clean room and very comfortable. I really enjoyed staying here and would definitely recommend it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "It was newly renovated and staff was excellent.",
+    "reviewText": "The ambiance was very good, and location was great. This hotel is newly renovated. It was very clean and comfortable. The front desk staff was very friendly. They suggested few eatery and places to visit in surrounding area when asked. They were knowledgeable about the area and it's surrounding. Will definitely go there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "WASN'T THIS A HOLIDAY INN ONCE UPON A TIME???",
+    "reviewText": "Stayed here when we attended the Mariposa Storytelling Festival. Each time I stay here, it belongs to another motel chain. Now it's privately owned. Recent remodeling. They did a great job. Room was nicely appointed, clean and QUIET!!!",
+    "reviewerCity": "",
+    "reviewerState": "",

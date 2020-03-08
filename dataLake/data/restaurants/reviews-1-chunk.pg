@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2016-03-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, enjoyable hotel !",
+    "reviewText": "Familytrip of 3 days, had a really good time! The hotel is very nice, right there in French Quarter, but not at the noisy main street. Only 3 blocks to walk and you are in the middle of it all! Breakfast was very nice too! Hotel has charming feeling, and staff was vey friendly. The only issue I had, was the fan/AC noise, from unit of the room. As I was sleeping right next to it, and I am also a very light sleeper...turned it off one night, and then no problems to sleep. Also noticed the street noise, like garbage truck, can be a nuisance if your room is on the street side like ours. Recommend this !",
+    "reviewerCity": "Portland",
+    "reviewerState": "OR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, enjoyable hotel !",
+    "reviewText": "The staff was wonderful. Everyone was friendly and so helpful. Darlene at the front desk always had smile. Thanks for everything guys!",
+    "reviewerCity": "Portland",
+    "reviewerState": "OR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic",
+    "reviewText": "Great helpful staff",
+    "reviewerCity": "Portland",
+    "reviewerState": "OR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "A bit of a walk",
+    "reviewText": "We came for the French Quarter Festival. I booked this hotel because it was considered in the French Quarter. Technically it was but it was so definitely on the edge. Instead of walking the Quarter, we took a taxi most of the time. The rooms were European size meaning they we quite well done but very small.",
+    "reviewerCity": "Portland",
+    "reviewerState": "OR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location, nice property",
+    "reviewText": "There aren't many choices for a full-service hotel in the French Quarter, so the Mirazur deserves a look. Though located in the corner of the Quarter, nothing in the neighborhood is very far away. The hotel is the sort of nice, clean property you'd expect in the budget business travel category. Nothing is spectacular, but everything is fine. It's... More",
+    "reviewerCity": "USA",
+    "reviewerState": "OR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-09T00:00:00.000Z"
+    },
+    "reviewTitle": "comfortable hotel, very good location",
+    "reviewText": "This is a very comfortable hotel, with friendly staff, decent rooms, nice setting and excellent breakfast. Everything you need in a hotel at this price. It is located opposite Armstrong Park, just a few minutes walk to Bourbon Street and on a main road so felt safe. Hotel has a small pool which we didn't use because of the weather.... More",
+    "reviewerCity": "London",
+    "reviewerState": "OR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Mardi Gras 2016",
+    "reviewText": "Aside from the screw up with Hotels.com the hotel was exactly as advertised",
+    "reviewerCity": "London",
+    "reviewerState": "OR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great, Inexpensive French Quarter Hotel",
+    "reviewText": "This aging but VERY comfortable French Quarter Hotel has become our Go To in New Orleans, after 5 trips there. The rooms are big, with comfortable beds, large bathroom area, huge TV,lots of shelves and storage areas, clean, and inexpensive for the Quarter. Large hot included breakfast, free wi-fi, 3 computers to use, comfortable chairs in lobby, beautiful landscaped pool area, nice views of the Quar- ters' neighbors' hidden gardens, and excellent service. We have found our spot to stay in New Orleans.",
+    "reviewerCity": "London",
+    "reviewerState": "OR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Reasonable Hotel in the French Quarter",
+    "reviewText": "Staff was helpful very friendly. Room was clean comfortable. Noticed that rooms were quiet. Morning breakfast was included with room you certainly would not go hungry. This was a nice convenience. Proximity to Royal St. Canal was reasonable. Overall, while not a posh Hotel, it was very adequate!",
+    "reviewerCity": "Yorba Linda",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-10T00:00:00.000Z"
+    },
+    "reviewTitle": "A motel in not the best area",
+    "reviewText": "When we arrived noticed the street was in construction as cable car rails were being installed. Area was away from French quarter but in walking distance. Place shown its age. Plus side receptionist helpful and kind. One elevator- room for two people. Room showed age. But plus side free wi fi, coffee maker in rom , large screen tv and... More",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",

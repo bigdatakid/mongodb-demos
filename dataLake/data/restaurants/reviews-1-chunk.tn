@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value",
+    "reviewText": "Booked room on Hotwire for 32. This is a former Microtel which means small rooms and inside corridors. Room had fridge,microwave, and flat screen TV. Limited parking available and a 5 charge if you have two cars. Hotwire indicated a resort fee for the stay but it was not charged. Can't believe this property could justify the fee. Breakfast was... More",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value",
+    "reviewText": "Amenities are lacking and there are ants in my bathroom.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Driving south",
+    "reviewText": "Jacksonville Plaza was a pleasant surprise, clean, comfy bed, good wi-if, adequate continental b'fast and pleasant staff! Also easy to find off the interstate! All the things that make a GREAT stopover. I will stop again when in the ara and have already recommended it to others traveling in that directions!",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great economical travel stay!",
+    "reviewText": "We always stay at the Jax Plaza if we,are flying out the next mornng for a week or more. The Plaza is simple, but very clean. The parking lot is well lit. Free parking for a week is included if you have a flight subsequent days are charged at a very nominal fee. The hotel has interior hallways, free shuttle... More",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't do it!",
+    "reviewText": "Room was small, dirty and it smelled like someone was smoking before I got in there. Went to take a shower and noticed there were no towels so I called down to the receptionist and asked can I have to towels. Her reply was if u come and get them.. What ever happened to room service",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall wonderful!",
+    "reviewText": "The room was great. Perfect size for us that one night. A/C stayed cold and the shower stayed hot. The hotel staff was so nice!! The night before we had gone to get take out the restaurant had forgoteen utensils. The staff helped us with getting utensils. The breakfast was good too. Only downside was the person next to... More",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Small but clean",
+    "reviewText": "The bed seemed smaller than a queen. The room was tiny, but it was clean. The TV was nice. There was a sign up about reptiles in the parking lot. The breakfast was lackluster.",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome",
+    "reviewText": "Comfty and cozy. Would definitely recommend to anyone!",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome",
+    "reviewText": "Nice hotel. nice staff employees.",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-25T00:00:00.000Z"
+    },
+    "reviewTitle": "no Wifi, no space in lobby",
+    "reviewText": "Small room, no promised WiFi, lobby space tiny, breakfast space has one table for hundreds of rooms! If needed, easy access to airport but not a hotel to enjoy staying in. No pool - unheard of in a hotel so far from a city. Never again.",
+    "reviewerCity": "Wexford",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {

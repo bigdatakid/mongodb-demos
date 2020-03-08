@@ -1,0 +1,100 @@
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-22T06:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I loved the Grilled Kobe Dog, the very definition of gourmet comfort food. It's served in a Slow Dough Pretzel Bun that's been deep fried to give it that extra oomph of crispness. Read more",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-04-27T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "This place is ah-MAZ-ing!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd5"
+  },
+  "name": "The Houstonian Hotel",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "postalCode": "77024",
+    "address": "111 N Post Oak Ln",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.459631, 29.768461]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Why go anywhere else?",
+    "reviewText": "The only place i'll stay in Houston. Fantastic service, incredibly friendly staff, great food and the best fitness options in the entire city. The rooms are a bit small and bathrooms are not luxurious by today's standards, but they are more than adequate and everything else about the place more than makes up for any shortcomings in that department.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Smell",
+    "reviewText": "The room smelled as soon as you walked in. Smelled very humid.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic family weekend!",
+    "reviewText": "Loved everything about the Houstoinan from the very attentive car valets to the door greeter. My only complaint concerns the bed pillows. Unfortunately they were very thin flimsy! Loved the pool area gym too!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic family weekend!",
+    "reviewText": "wonderful acomadation !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Classic Houston hotel in park-like setting",
+    "reviewText": "Stayed one night to attend a meeting held the next day. Dined at in-house restaurant, The Olivette, where the wine list and the meal were excellent and the service was very good. The attractively decorated rooms are very quiet with a forest view out the windows. It is hard to imagine you are in the middle of a major city here. The room was very clean and there was nice turndown service. The room was adequately lighted and there were outlets to charge electronics. There were nice pillows on the bed and the linens were crisp and new-looking. Check in and Check Out were a breeze. The front desk verified my expenses and gave me a print out of my charges.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Classic Houston hotel in park-like setting",
+    "reviewText": "Really enjoyed the spa. Great facial!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5

@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-12-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a pleasant stay",
+    "reviewText": "parking gridlock!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a pleasant stay",
+    "reviewText": "well i don't know who added the location to the imperial palace, but it is in biloxi, ms not la, there is no such place. read more",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "I love to see it lit up",
+    "reviewText": "I live on Back Bay Biloxi. The IP is my view and I love to see it lit up at night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "I love to see it lit up",
+    "reviewText": "room service is on point but i do not recommend the steak n eggs for breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "I love to see it lit up",
+    "reviewText": "Ac did not get cold, hot water took 20 min to get hot in shower",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-18T00:00:00.000Z"
+    },
+    "reviewTitle": "I love to see it lit up",
+    "reviewText": "we went to play the slot machines only and on wednesday night and thursday most of the machines had been removed .Some of the other guest who was very disappointed as well said had they have known this was going to happen they would have gone some where else and so would we. we paid extra for our room thursday night and checked out on friday.We dont plan on going back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "I love to see it lit up",
+    "reviewText": "32 is exclusive's recommendation for ip....great wine selection, steaks and seafood! read more",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value, Fine Dining",
+    "reviewText": "Great value. Except for the bathroom being quite small, room was nice, view was great, and the restaurant, Thirty-Two, was outstanding.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-03T00:00:00.000Z"
+    },
+    "reviewTitle": "IP Casino Resort And Spa",
+    "reviewText": "This place is the best buffet!! In the world!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Ip best option!!",
+    "reviewText": "As always great!",

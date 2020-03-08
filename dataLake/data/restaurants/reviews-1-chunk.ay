@@ -1,0 +1,1000 @@
+    "reviewerCity": "Bowling Green",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the money",
+    "reviewText": "the only saving grace for the facility was a clean bed. There was no hairdryer. The telephone didn't work. The shower was cold. An overall nightmare.",
+    "reviewerCity": "Bowling Green",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient\u0026 clean",
+    "reviewText": "Owner Ray was very helpful for dining and tours in the area.",
+    "reviewerCity": "Bowling Green",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Pet fee not told was extra fee",
+    "reviewText": "Reserved by your company, which didn't tell us extra fee was up to the administrator of the hotel. Got there and wanted to charge me pet fee. And to claim my reservation company. Left to Red Roof. Pet free fee and they are like guess. Plus paid less for reservation in total. Good experience with them. Very Pleased.",
+    "reviewerCity": "Bowling Green",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Mostly happy.",
+    "reviewText": "We saw this hotel on Trip Advisor. We were only staying one night so were looking for a fairly cheap hotel. Clean rooms, king size bed, microwave, fridge, NICE TV. We were pleased. Only thing we were unhappy about was they said breakfast was until 10am but we got there at 9:50am and it was closed. Please don't advertise what... More",
+    "reviewerCity": "Winter Park",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Super Nice Place For Value!",
+    "reviewText": "Super clean place! Friendly staff. Rooms are huge newly redone. Great flatscreen tv! Bigger mini fridge than normal! Brand new swimming pool spring 2016! Really nice! Parking lot with the BRIGHTEST LIGHTS I've ever seen in any lot! You'll feel safe! Not a luxury hotel--but for Super 8 rates...you'll ALMOST feel like you are in a luxury room! Staff/owners... More",
+    "reviewerCity": "Winter Park",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "The owner was friendly and the breakfast was good.",
+    "reviewText": "We were there for hurricane evacuation. It would have been very serious if we had brought the cat, because there would not have been any other place to go. Fortunately, friends volunteered to keep her, so we were able to check in. We selected this hotel only because the were advertised as being Pet Friendly.",
+    "reviewerCity": "Winter Park",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "The employees were friendly. The room was great for our needs. Clean and great location.",
+    "reviewerCity": "Winter Park",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3fbb"
+  },
+  "name": "Mirazur",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Bowling Green",
+    "postalCode": "33834",
+    "address": "2727 Us Highway 17 N",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-81.824026, 27.597944]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Budget hotel offers standard amenities and low rates to road-weary travelers. In ShortSince 1946, this Phoenix, Ariz.-based hotel chain has provided guests with comfortable accommodations. Its BestRequests program offers 16 of the most frequently requested services and amenities, including complimentary in-room tea/coffeemakers, hair dryers, iron and ironing boards, free local calls less than 30 minutes and long-distance access. Complimentary toiletries, like toothpaste, razors and sewing kits, are also available upon request. Business travelers will enjoy the computer data ports in each room and photocopying services.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3fbc"
+  },
+  "name": "Osteria Francescana",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "IT",
+    "state": "",
+    "city": "Alliance",
+    "postalCode": "44601",
+    "address": "Taragaon Boudha",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [85.355959, 27.7216]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Location",
+    "reviewText": "The wifi signal was too low Loved The location",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-12T00:00:00.000Z"
+    },
+    "reviewTitle": "The staff were all friendly whether at the 6th floor,...",
+    "reviewText": "None what so ever. The staff were all friendly whether at the 6th floor, Reception Area at the 3rd floor or at the Rox an Italian restaurant especially Mr.Milan who was very friendly courteous.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely place and business as usual.",
+    "reviewText": "Friendly staff in a beautiful setting combined with excellent value for money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "location",
+    "reviewText": "nil location",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "it was really enjoyable.",
+    "reviewText": "room cooling, wifi connection slow, certain electronic system old fashioned, laundry atrociously expensive, location, ambience, greenery at property, staff behavior",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel",
+    "reviewText": "The trips arranging lady gave us wrong information and told us the palace is open the next day which wasn't ... We booked a trip based on her information and had to rearrange it with the guide the next day due to that.....the trip it was terrible because of the guide frankly .:. he was talking too much and was just sooo annoying .... The hotel is amazing ... very luxurious and beautiful. The lobby is large and have an area made to look like old nepal with small stupas and status...Very beautiful.. They have a band playing Nepalis classic music... There are three resturants .. Italian, international a cafe for drinks as well as snaks. The service is really nice.. Everyone are extremely friendly. The breakfast is really great with large variety. Love this hotel ....",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing hotel!!!",
+    "reviewText": "Staff was amazing. So cheerful and helpful. I loved the food as well. Room service is quick. For quite a big order took only 30 minutes.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly efficient staff",
+    "reviewText": "bathroom fittings poorly maintained (not polished, rusty, loose) clean comfortable bed great hot shower great drivers for day tours friendly helpful staff 15 min to airport",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Bedroom view",
+    "reviewText": "Very slow WiFi Bedroom view",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyed the history of Nepal.",
+    "reviewText": "We were led to believe there would be transport provided by the hotel to the Hyatt upon arrival. But unfortunately no.The Hyatt said we had to book ahead but it was not explinef on Booking.com. Staff very eager to attend to our requests.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "great breakfast European, Indian, Chinese style with fresh...",
+    "reviewText": "The Hotels and ist furnitures are slowly getting old a refurbishement in th enext time is needed great breakfast European, Indian, Chinese style with fresh fruits, juices an anything you can dream of in the morning nice and helpful staff clan and big rooms nice garden and pool great coctails at the bar",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": ", ROX Restaurant",
+    "reviewText": "No Tissue in any place in this hotel even the room. just in bathroom or upon request. laundry IS VERY EXPENSIVE , ROX Restaurant",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "great place",
+    "reviewText": "food choices at restaurant could be more authentic more umbrella's for guests view, location, luxury",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly Staff, Near to airport",
+    "reviewText": "Friendly Staff, Near to airport",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "good stay",
+    "reviewText": "I did not spent much time in the hotel",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet place in the middle of boudhanath",
+    "reviewText": "Quiet place",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely choice of hotel",
+    "reviewText": "reception desk should explain things a little more in detail on check in Service excellence friendly",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Very good I enjoyed",
+    "reviewText": "Everything good Very good I enjoyed",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "A pleasant and highly comfortable stay. at Hyatt Regency, Kathmandu",
+    "reviewText": "The control system of room A/C should be looked into. Temperature reduction system is not working properly as shown on the control panel. Overall hotel management service is noteworthy. Trip to airport at the time of departure kept me out of anxiety.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Love the location and view",
+    "reviewText": "Staff were friendly and excellant, especially those at the restaurant.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Does not reflect the hyatt regency standard.",
+    "reviewText": "Dirty and worn out property. Staff uniform stained . Rooms and bathroom very dirty.had to ask to change the bedsheets and clean the bathroom upon my arrival . The shower glass is stained and clear black spots(fungus) on the frames. Carpetand headboard in the room is stained, has to cover it with towels to sleep. Spa treatments are less than average. Property need deep cleaning urgently !!! Food is ok. Waiters do their best in service",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfort and relaxing option in Kathmandu",
+    "reviewText": "No shuttle bus for the city center, using the excuse of fuel shortage whilst taxis were operating (by paying them of course)... Extremely friendly staff, nice and cozy environment and convenient location for avoiding the Kathmandu pollution",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "The perfect retreat after climbing Everest.",
+    "reviewText": "The food, the showers, the comfort. INCREDIBLE.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Luxury haven to escape normal daily life",
+    "reviewText": "It's a quality haven in an interesting developing city",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value!",
+    "reviewText": "Hotel staff very friendly external area of the hotel is very beautiful with lots of green gardens. Breakfast also ok. Wifi in the room was faulty, but in other areas was good.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "ROX RESTAURANT",
+    "reviewText": "No Tissue in any place in this hotel even the room. just in bathroom or upon request. laundry IS VERY EXPENSIVE ROX RESTAURANT",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "The property is huge, beautiful!",
+    "reviewText": "The wifi is very slow, the doors locks do not open, old school. The property is huge, beautiful! Staff helpful",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent staff very friendly and helpful",
+    "reviewText": "Very bad wifi. Excellent staff very friendly and helpful",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great staff and service.",
+    "reviewText": "The wood paneling was a bit old. You see watermarks, scuffed wood, and cup rings (from the lack of coasters). The bathrobe had a stain. These weren't terrible issues that hindered our experience, but for Kathmandu standards, the hotel was great. Great staff and service. Great breakfast. Beautiful facilities (i.e. pool, fitness center, lobby).",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Breakfast was great",
+    "reviewText": "We had to pay for sauna Breakfast was great",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "I would not advise a colleague to stay here unless you update your facilities",
+    "reviewText": "Dated hotel that needs updating. Expensive for what you offer. Was unable to control air conditioning in my room. Very very expensive hotel transfer to airport. Breakfast buffet was good but evening menu choice was very poor. Laundry service was far too expensive and not obvious charges on display. Eventually found expense sheet in the wardrobe. This is not good enough. Should be with other information. T Friendly staff. Clean rooms. Good outdoor swimming pool. Wonderful aromatherapy massage with your very competent staff.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent location .",
+    "reviewText": "Excellent location . The building is extremelly beautifull. The pool is very Nice and cleal . The staff kind and very attentive . The only poor item were the breakfast as I already stayed at Hyett and remember the viraiety and quality of food , this time I found it quit low the quality , but let's give them a chance to recover as the earthquake is quite recent.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "It's extremely dirty , bed sheets smells bad and dirty, as well the toilet and the towels were very stingy.",
+    "reviewText": "The smell of the property, the dirty bed sheets and pillows ,towels ,blanket,all was so dirty. It's location",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "good and cheap",
+    "reviewText": "very slow internet wide lobby",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "Too dark at night, we would've loved a walk around the garden at night. No in house entertainment apart from casino and a local band that plays 2 hours at the evening in the evening. The staff were super friendly. When we arrived we realised that there was no non-smoking room with stupa view as we booked, but the manager did us upgrade on the room and offered us a complementary breakfast. We loved the architect, lobby, terrace, garden and food was good.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Very good service and hospitality",
+    "reviewText": "Club room seemed a little smaller in size Very good service and hospitality Great ambiance Good breakfast buffet",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "I enjoyed the beautiful pool very much",
+    "reviewText": "Amenities rather poor or not available No service directory No proper taxi service available Late cleaning service of room Pool towels late available I was not aware of possible package one can get while living and working in KTM, hence I paid double the price Once realizing what would have been possible for me, I did not feel as happy as I would have liked to feel!! Quiet room, swimming pool and gym Good breakfast buffet except for the cold cuts, that can really be better",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Really so good",
+    "reviewText": "I think oll are good Good service that's oll thanks",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay, needs updating",
+    "reviewText": "Very dated, felt mattress springs Great staff, easy access to airport, lovely breakfast buffet, hot water and generator",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent stay",
+    "reviewText": "Nothing as such. The city is in a bad shape and the pollution and dirt doesnot allow you to roam much but the resort was fantastic. Swimming Pool and Jogging Track was a delight. Casino Pride was also amazing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "The Spa treatments are amazing!",
+    "reviewText": "Buffet breakfast isn't worth the money and the staff offer terrible service for this area. The Spa treatments are amazing!!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Had a great stay",
+    "reviewText": "The Internet was very slow The hotel is wonderful but the rooms are tired and need renovation.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "The location and garden around the hotel",
+    "reviewText": "Cleanliness - toilets are not cleaned properly Water leakage from shower, taps are not tight, bath room flooring very old, frequent power cut, internet very bad connection The location and garden around the hotel",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "very gud hotal",
+    "reviewText": "nothing Everythings",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great property, big enough to spend time inside it.",
+    "reviewText": "Food was costly here as expected from Hyatt hotel. If you are on leisure trip , you can take cheaper options like boutique hotels like shambaling in boudha, though shambaling's access road is not good but service is good. Great property, big enough to spend time inside it. Its near boudh stupa which is walkable from here. Good food options near boudh stupa",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Sound of A/",
+    "reviewText": "Sound of A/C",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "The best and only place to stay in Kathmandu .. Go for it",
+    "reviewText": "Food options Big lawns swimming pool jogging tracks. The property is just awesome",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Everything",
+    "reviewText": "Nothing Everything",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-27T00:00:00.000Z"
+    },
+    "reviewTitle": "bad",
+    "reviewText": "it's not clean bed is not comfortable toilet is totally disgusting stains and not clean after the last guest nothing",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel its fun in the shower.!",
+    "reviewText": "The water in the showers kept flicking from very hot to cold every 15 to 20 seconds. I have stayed in this hotel 3 times now and in 3 different rooms and it has always been the same. You just can't enjoy your shower because your waiting for the next bust of piping hot water or freezing cold water. The Staff are always helpful and extremely polite.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "THE place to stay in Kathmandu",
+    "reviewText": "excellence in all aspects, room, staff, food, comfort: it is 'home' when in Kathmandu",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful hotel only 15 mins to/from the airport and 10 min walk to Boudhanath",
+    "reviewText": "The food was fantastic as was the service",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent hospitality",
+    "reviewText": "I wish Rox Restaurant was open for more hours because of how fantastic the food is. Very helpful staff members, excellent quality and facilities. Baldev in particular was extremely helpful and attentive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "They take care of you like family",
+    "reviewText": "Staff are very good and I would like to go again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "very good hotel in kathmandu",
+    "reviewText": "taste of fruits was very bad, but apparantly the suppliers couldnt get any sweet fruits ... excellent location, close to airport and stupa, in a park, casino next door, staff was extraordinarily helpful after my complaints",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "It was really great staying over there.. everything was so astonishing. ...",
+    "reviewText": "Nothing not to like there.. everything's was so perfect! Giant great property with amazing peaceful infrastructure...",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy at the Hyatt",
+    "reviewText": "A lot of noise from the other bathrooms all around. Very disappointing when you can hear all the details people do in there. The bedroom was fabulous with a very large comfortable bed, the bathroom instilled a real sense of calm in me with a luxurious sized bath and a large walk-in shower. The breakfast room was immensely superb with high ceilingwith a vast selection of foods. The swimming pool is a good size and I love it being outdoors. The 24hr gym is well equipped and I had a great massage in the spa.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3fbd"
+  },
+  "name": "Hotel Corpus Christi",
+  "categories": ["Hotels", "Attorneys", "Mediation Services", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Corpus Christi",
+    "postalCode": "78401",
+    "address": "601 N Water St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-97.3927, 27.796791]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-17T00:00:00.000Z"
+    },
+    "reviewTitle": "horrible place",
+    "reviewText": "Do not Stay here it was so bad the sec I walked into the room I turned around and walked out didn't even worry about getting my refund",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2005-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great staff",
+    "reviewText": "The staff was superb, I have worked hotels for 12 years. The room was clean, staf friendly and helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fbe"
+  },
+  "name": "America's Best Value Inn",
+  "categories": ["Hotels \u0026 Motels", "Hotel \u0026 Motel Reservations", "travel", "hotels", "operation"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Port Aransas",
+    "postalCode": "78373-4111",
+    "address": "306 S Alister St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-97.064581, 27.831008]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Dont bother, it's nasty!",
+    "reviewText": "As we are repeat visiters to this area we are always looking for good deals (this town is expensive lol). However, we feel like 250 a night was way over priced for everything other than location. No real problems with smells as other guest have stated, but the cleanliness was horrible. We stayed multiple nights and had to go get... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "The absolute worst!",
+    "reviewText": "Some time, long ago, this might have been a nice motel. No doubt some of the roaches remember the grand opening. Surely the carpets were there. Ok, places get old. But the worst part was the staff. I arrived at 4:00 pm- my reserved room was not ready. Sorry, 1/2 hour. a half hour came and went. Sorry, possibly... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "fine for the location",
+    "reviewText": "We go to Port Aransas about every 2 years. We usually stay at this motel as it is so convientuatly located. We don't drink and drive and it is easy to walk to all bars in the area. Is it 5 star No. But on our stays it was clean and we did not have any problems. Surprised to see... More",
+    "reviewerCity": "Galveston Island",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't stay here!!!",
+    "reviewText": "Terrible stay... Hardest beds, cheapest flattest pillows ( Prob from dollar store). Dark and dingy.. Have to plug in coffe maker across sink. Musty strong odor in room. Towels were scratchy. The toilet would wake up the whole second floor bc it sounded like a jet engine. The staff were rude and hovered around you.Very uncomfortable and weird. There wasn't... More",
+    "reviewerCity": "Baird",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Place",
+    "reviewText": "We stayed 2 nites and went to Port Aransas to go fishing for a couple days. The people were great and honest. They did not try to screw us by making wierd rates or excuses. We got 1 nite for 69, and the second for 99 as it was a weekend rate for the 2nd nite. We had stopped at... More",
+    "reviewerCity": "Kent",
+    "reviewerState": "WA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Camel jockey inn",
+    "reviewText": "This place is run by a bunch of inconsiderate people. You do not want to stay here. All they do is steal your credit card info over charge you. And you have to fight the rats and cock roaches. The people are even dirty. You will feel like you need a bath when you check out never stay here.",
+    "reviewerCity": "Kent",
+    "reviewerState": "WA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect for families, beach goers",
+    "reviewText": "We stay at this hotel every summer. It is perfect for us and our family, comfortable cool rooms and a refreshing pool. We are always treated with respect and kindness. The price is great for being so close to the beach (3 minutes), next door to the grocery store and all the fun shops. We were excited to see the... More",
+    "reviewerCity": "Kent",
+    "reviewerState": "WA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "acceptable",
+    "reviewText": "The rooms are sadly out dated and in need of upgrades. Carpets need to be replaced. The service at check in was very good. Kind owners. Attentive owners. The location of this Inn is excellent. Easy in. Easy out. The price is reasonable and at the time we stayed there, they allowed pets.",
+    "reviewerCity": "Port Aransas",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst Experience",
+    "reviewText": "Although the location is great ( close to the beach and grocery store), this was my worst hotel I have ever stayed. I am an easy to please person, but this was actually scary. The pictures on the website are deceiving. For the price we paid, I surely expected more. We got a shack like room, more like a dungeon,... More",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointing",
+    "reviewText": "Tried to find a hotel on the beach. This one was 7 blocks from beach. Paid 100 and then changed our mind after seeing the room. Would only give us half of our money back. Finally agreed to let us off the hook for 25 cash. This place was pretty run down and depressing.",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fbf"
+  },
+  "name": "Bay Shores Yachttennisclub 514 2 Br Condo By Redawning",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Indian Rocks Beach",
+    "postalCode": "33785",
+    "address": "19451 Gulf Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-82.844245, 27.850447]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Vacation Building and Area!",
+    "reviewText": "We come back to Bayshore Yacht Tennis club year after year. The beach is perfect, the pool is heated. There is a hot tub, grills and a beautiful view of the Inter-coastal from our large private balcony. The restaurants and activities are fantastic. We highly recommend this building and area.",
+    "reviewerCity": "Escanaba",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Can't wait to go again!",
+    "reviewText": "We found this condo rental here: http://www.homeaway.com/vacation-rental/p394012vb I see where some travelers have rated Bayshore Yacht and Tennis club poorly. Please keep in mind that these condos are each owned by individual families. We rented our condo from Chuck Melinda for a week. It was so much more that we could have ever expected!!!! No one knows where Indian... More",
+    "reviewerCity": "Huntsville",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Renovated and beautiful intracoastal condo 306",
+    "reviewText": "What a wonderful getaway right on the intracoastal and steps away from the beach! I would highly recommend this condo for anyone going to Indian Shores, Florida!!! What a jewel in between all the high priced condos and hotels...plus the view every morning watching the birds and dolphins is priceless!",
+    "reviewerCity": "North Charleston",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic times 10!",
+    "reviewText": "We just stayed at Bayshore for 9 nights, and had a great time. I wondered if staying on the marina side would be as nice as oceanfront, but it was great and a perfect fit for my family. The pool is a nice size with a deeper end, and the water temp was warm and pleasant--almost too warm on a... More",
+    "reviewerCity": "Omaha",
+    "reviewerState": "NE",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful week of everything!",
+    "reviewText": "Spent a week at BSYTC and it was fantastic. The condos are reasonably sized and all have a great view. Pool is heated so it was perfect. Grills near the pool area were great for grilling anything. 4 Tennis courts to use that were never busy as well as a small putting green. Laundry facilities were spectacular...even use your Debit/credit... More",
+    "reviewerCity": "Belgium",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent beach vacation at condo 517... very relaxing",
+    "reviewText": "We stayed 8 nights and it was a great experience. All decoration is related to the sea, beach life and everything in there ensures a good time with all the family. This apartment is very well equiped with all a family need (toys for kids, high speed internet, umbrellas, air conditioning, a great kitchen/living room and very comfortable rooms). The... More",
+    "reviewerCity": "Medellin",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great time",
+    "reviewText": "We stayed at unit 411 owned by Chuck and Dawn (http://www.vacationrentals.com/listing/p7099298) the week between Christmas and New Years and had a great time. The building is back from the road so is very quiet. We could see the gulf from the front door and overlooked the inland waterway from our private balcony. The daily appearance of pelicans, herons and various... More",
+    "reviewerCity": "Madison",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent condo",
+    "reviewText": "We have just returned from spending a week in this condo with our two boys (aged 20 16). The location is perfect for the beach and surrounding activities. The pool is clean and warm, the whole facility is very clean and well maintained. You can sit on the balcony watching boats go up and down the causeway and also the... More",
+    "reviewerCity": "Edinburgh",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyed my stay!",
+    "reviewText": "Stayed in unit 316 the last week of March 2015. This is a two bedroom, two bath unit with a nice full kitchen and decent sized living room with what looked like new furniture. The whole unit is nicely decorated. The best feature is the rear balcony that overlooks the intercoastal waterway. It spans the width of the unit and... More",
+    "reviewerCity": "Lowell",
+    "reviewerState": "WI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Can holidays get any better than this",
+    "reviewText": "Review: The answer to the title is no if you stay here. What a superbly well decorated, maintained and clean apartment. The complex is immaculate, and the pool so relaxing whilst watching the fabulous wildlife. It is in a great location with a supermarket only a mile away that will meet most people's needs ( Win- Dixie) Barb was a... More",
+    "reviewerCity": "South UK",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for end of winter getaway",
+    "reviewText": "We have stayed in this resort 5 times over the last 25+ years, starting in 1987. The location on the inland waterway is perfect for those wanting a quiet place to sit by the pool, no crowds walking by, looking at you while you swim. Each unit is separately owned, and we have stayed in 611 and 514. The weather... More",
+    "reviewerCity": "Hamilton",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fc0"
+  },
+  "name": "Innisbrook",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Palm Harbor",
+    "postalCode": "34684",
+    "address": "36750 Us Highway 19 N",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-82.739915, 28.10667]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Hidden Gem",
+    "reviewText": "Great resort between Tampa and the Springs, even if you're not a golfer!!! Staff are all gracious and friendly. Wonderful pools with slides and games throughout the day. Five star dining options, or excellent casual options. No need to leave the resort.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Relax away from home",
+    "reviewText": "This is a yearly trip for us. Always made welcome and friendly staff throughout.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Relax away from home",
+    "reviewText": "Very old resort, stayed on 3rd floor, no elevator, long walk to amenities would not stay here again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Relax away from home",
+    "reviewText": "Excellent",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Our weekend getaway",
+    "reviewText": "We really wish we could've stayed longer! Only a couple of downfalls I will comment on. The dining on site was expensive, but with a resort it is expected. Our room smelled of smoke when we first walked in, by the end of the next day it didn't smell anymore so I assume the previous tenants smoked and that's why it smelled. Someone was able to charge goofballs to our room number at the golf course, it was not a hassle to get it refunded but I didn't realize until after check out and after I paid the bill. Also, everything closes at 7-8 pm. Even the pool, when we asked Jackie Check - in why the pool closes so early, she said technically you can still get in but security might ask you to leave. Why go in then (We didn't by the way) We loved the kitchenette. We were able to cook one night and eat in. It was basically like having a mini apartment while staying there. The pool and spa was very nice. I used the fitness center and it was great, the equipment was in good shape. The golf course was awesome as well. They have a gold pro on site every morning at 10 am for 30 an hour for lessons. You can also rent bikes on site. It was very secluded and very quiet. We went and kayaked out at honeymoon island. It was so fun and only a 10 min drive down the road.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "everything was so very nice",

@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, clean and easy access to good restaurants",
+    "reviewText": "Stayed one night on a trip to South Georgia. Great beds, pillows and bedding, nice staff and easy walking distance to good restaurants for dinner. The hotel is on the south side of the highway, away from most of town but not too far to get to Starbucks in the morning. I would definitely stay again.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Impressed",
+    "reviewText": "My wife and I both agree on this hotel! 1 the bed was very comfortable . 2 the room was clean 3 the staff super friendly. We booked using trip advisor and their recommendations and weren't let down. The breakfast was the hot spread . Nice pool . Nice spa . Nice exercise room. I can go on and... More",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Be prepared to experience satellite difficulties",
+    "reviewText": "We stayed at this LaQuinta for four nights, and there was never a time during our stay that we were able to complete watching a program. The weather also did not seem to be a factor. It was rainy one day, but not all four. We also had problems with the internet service, and getting someone to answer at the... More",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a place to rest",
+    "reviewText": "There was an unruly guest above us, with 14- that's correct, 14 children running around all night. Attempts by the night attendant to quiet them failed, and we were moved in the middle of the night. The young lady told us that she could not phone the police on this guest, for THEY might rate them poorly. Forget the other... More",
+    "reviewerCity": "McRae",
+    "reviewerState": "TX",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Noisy, lots of strangers and strays",
+    "reviewText": "I Stay for work regularly and ocassionally bring my family. I have stayed at this and other La Quinta across the country for work and have ELITE status. First the good: 1. Rooms are clean WHEN YOU FIRST CHECK IN. 2. Front desk Is helpful. 3. The indoor pool and hot tub is nice. 4. Free breakfast. 5. You can... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly, helpful staff!",
+    "reviewText": "All the staff at La Quinta - front desk to house keeping and Especially Terrie! Nice, clean rooms and very nice meeting room. Great breakfast - fluffy scrambled eggs, bacon, sausage, fresh made waffles, biscuits and gravy...very good! Highly recommend!",
+    "reviewerCity": "Moneta",
+    "reviewerState": "VA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Room quality has gone down hill",
+    "reviewText": "Stayed at this LaQuinta several times in the past. It was great. Stayed in Room 201 during current stay and found it to be very tired. One chair was so soiled that we did not want to sit on it. There was a large red stain on the carpet and the walls and doors were marked. The halls also had... More",
+    "reviewerCity": "Dallas",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly staff",
+    "reviewText": "This was our first stay at a La Quinta Inenn. It was a very nice and clean place and close to restaurants. The staff was very friendly. the room was clean and had plenty of room. The breakfast was very good! When we went to breakfast we were greeted by a lady I believe was named Terrie. She was very... More",
+    "reviewerCity": "Auburn",
+    "reviewerState": "ME",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly",
+    "reviewText": "This hotel is nice and clean. I've stayed here several times some rooms are better maintained than other. The first floor is usually the nicest. They are friendly and have a great breakfast. I don't have much to complain about this hotel except....... Housekeeping was very polite and they had their rooms s of who was staying for a late... More",
+    "reviewerCity": "Auburn",
+    "reviewerState": "ME",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Satisfied Customer",
+    "reviewText": "I like the way the staff makes you feel welcomed with your pet because pets are often very much a part of many families. The breakfast is much better than most hotels. I particularly like that grits are served.",
+    "reviewerCity": "Hahira",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",

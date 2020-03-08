@@ -1,0 +1,100 @@
+    "reviewerState": "MO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "update the place",
+    "reviewText": "Great place if you have pets. No deposit and no questions. The people down the hall have 9 chihuahuas in there but I haven't heard them barking. Other hotels  want an extra ten bucks per pet a day.",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-20T00:00:00.000Z"
+    },
+    "reviewTitle": "LaQuinta Inn Merdian, MS",
+    "reviewText": "It is pet friendly which is the reason we chose the LaQuinta. The lady that checked us in was extremely friendly and helpful. The same applies to the man who checked us out. The price was reasonable. No trashbags in the trashcans housekeeping needs to pay more attention to dust in several places throughout the room. I would stay... More",
+    "reviewerCity": "Opelika",
+    "reviewerState": "AL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "LaQuinta Inn Merdian, MS",
+    "reviewText": "Always clean and friendly staff",
+    "reviewerCity": "Opelika",
+    "reviewerState": "AL",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de400f"
+  },
+  "name": "Quality Inn",
+  "categories": ["Corporate Lodging", "Hotels", "Hotels \u0026 Motels", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "AL",
+    "city": "Montgomery",
+    "postalCode": "36106",
+    "address": "5175 Carmichael Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-86.217384, 32.359833]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Avoid this dump!",
+    "reviewText": "I wanted a place that was clean and safe, and didn't mind if it was older and rundown a bit -- but this place was beyond a bit worn, it was grungy and a total dump. We picked this place because the reviews here didn't make it seem as bad as it turned out to be, and through our Choice... More",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2006-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Worn but cheap and clean!",
+    "reviewText": "Good motel for the price (50). Was traveling through about midnight and all of the surrounding hotels had a locked lobby with no one at the front desk. Room was worn and needs to be renovated, but it was very clean. Don't be fooled by the sign out front that states, RECENTLY RENOVATED. I didn't see the sign until the... More",
+    "reviewerCity": "New Orleans",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "A real dump",
+    "reviewText": "Room had significant deferred maintenance. Wall covering coming off wall in bath room, repair to shower tile substandard, hasn't been painted in who knows how long, windows dirty, lighting grill work broken. Choice Hotels really need to do a better job to monitoring their franchisees.",
+    "reviewerCity": "California",
+    "reviewerState": "LA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "A real dump",
+    "reviewText": "Mid-priced hotel offers a comfortable stay to travelers with its restful Quality Sleeper beds and free daily newspapers. In ShortGuests enjoy high value and comfort with this hotel's accommodations. Clean, relaxing rooms feature the signature Quality Sleeper beds by Serta, in-room coffeemakers, free local calls and complimentary daily newspapers. Many locations also feature high-speed Internet, a swimming pool, guest laundry facilities and exercise rooms. In addition, some hotels also include restaurants that serve breakfast and dinner.",
+    "reviewerCity": "California",
+    "reviewerState": "LA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "very friendly staff",
+    "reviewText": "The quality inn was an older motel but the staff was excellent!! The room we had was very clean, the carpet could have stood to be replaced but all in all it was a very good trip. The location was wonderful it's convienient to almost everything. And all the staff even the housekeepers were very helpful. We paid 49 plus... More",
+    "reviewerCity": "alabama",
+    "reviewerState": "LA",
+    "reviewRating": 4

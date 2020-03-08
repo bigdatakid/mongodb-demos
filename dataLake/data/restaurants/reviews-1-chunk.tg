@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible stay.",
+    "reviewText": "Hotel didn't have basic amenities. Sheets were stained. Door handle broke inside the room and the front desk never came to fix it after I reported it. The outside door in the rear of hotel worked sometimes. I was charged a second time when my card was put on file during check in. I still have yet to receive my refund for that. There were not enough towels and washcloths. Walls are extremely thin and I could hear my neighbors talking.",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible stay.",
+    "reviewText": "close to airport, friendly staff, free wifi. good place to stay.",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly Staff",
+    "reviewText": "The best thing about the hotel was service from the friendly staff. The beds were okay but the bathroom was not the cleanest, nor was the coffee machine. I was also not used to the water, which seemed to have a slight odor to it. I've paid the same price for better hotels.",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet",
+    "reviewText": "People at front desk were very nice.",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "There are better hotels near JAX",
+    "reviewText": "This was a one night stay on a trip to Walt Disney World. We have stayed in other hotels near Jacksonville International Airport and this was not the best. But, for a one night stay it's fine. The breakfast is minimal and there are not nearly enough tables and chairs. Both the night staff and the morning staff were very friendly, courteous and friendly. The woman in the morning told me I was welcome to fill my cooler with ice from their ice machine, but the ice machine itself would only deliver about 1 1/2 buckets of ice before it was out of ice.",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to airport",
+    "reviewText": "Room was clean and comfy beds, close to airport with free shuttle. Free breakfast was just ok...cereal, juice, bagels, muffins, tea coffee.....not very much seating though. Return shuttle to airport was busy due to cruise ship pax. Reception staff were pleasant.",
+    "reviewerCity": "Brisbane",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Rooms over priced and there's no pool",
+    "reviewText": "Room was great the price was a bit too much. But the bad part was, there was no pool which sucks about my stay.",
+    "reviewerCity": "Brisbane",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "very nice compact hotel",
+    "reviewText": "This is the second time we've stay here. We arrived late for a quick overnight stay on a road trip up the coast. The staff was friendly and very helpful the room clean and comfortable. The breakfast a a bit lacking in my opinion but i'm picky when it comes to breakfast. They offered coffee danish and cereal i believe.... More",
+    "reviewerCity": "Port Saint Lucie",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "stayed twice this week, excellent service",
+    "reviewText": "I had a trip flying out of JAX this week and booked a small room for less than 40 which included free parking for the time I was away, I believe it's up to 7 nights with a one night stay. Amber, the desk clerk could not have been nicer and more helpful, she is a true professional at her... More",
+    "reviewerCity": "Port Saint Lucie",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay for the price",
+    "reviewText": "Great hotel for the price. It was nice, the staff was very nice, and the bathrooms were clean. I had my infant daughter with me so cleanliness was a priority. It was a pleasant stay. We were visiting family in Callahan and the hotel was right near the freeway. I would definitely stay here again.",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {

@@ -1,0 +1,1000 @@
+    "$oid": "5cf9dcbd433d2b44c0de403c"
+  },
+  "name": "Hampton Inn Suites Columbus",
+  "categories": ["Corporate Lodging", "Hotels", "Hotels \u0026 Motels", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "WV",
+    "city": "Columbus",
+    "postalCode": "39701",
+    "address": "1915 6th St N",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-88.42615, 33.514122]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "College look see trip",
+    "reviewText": "The hotel was very clean and beds were comfortable. It was quiet a night , no traffic noise. There are two restaurants a short walk away and shopping very convenient down the street. The parking lot was different being in front of the building and part of a side street but not a problem and was safe. The staff was... More",
+    "reviewerCity": "Mobile",
+    "reviewerState": "AL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "i enjoyed every moment of my stay at the Hampton Inn Suites in Columbus MS. The staff where always eager to help with my needs. I would recommend everyone I know too this Hotel. The location is in a great place with more than one restaurant with in walking distance.",
+    "reviewerCity": "North Richland Hills",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect one night stop over",
+    "reviewText": "We stopped in Columbus as a stop over in our way home to Illinois from Dauphin Island, AL. It was essentially right on our way so an easy stop. The room was in excellent condition and the staff was very helpful. Breakfast was typical free fare, but well above average in quality, stocking and cleanliness.",
+    "reviewerCity": "Dunlap",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Still new",
+    "reviewText": "We arrived for a Columbus wedding riding on a beautiful spring day. Our first room did not have a bathtub, only a shower. After my wife's request , RENA (at the front desk) was able to move us into a king Suite. It is clear that this is still a new and nice facility. The television reception was among the... More",
+    "reviewerCity": "Meridian",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-11T00:00:00.000Z"
+    },
+    "reviewTitle": "The Happy A Team",
+    "reviewText": "The A Team traveled through Kentucky to Mississippi to attend a wedding. Through a terrible storm, we decided to stop at the Hampton Inn for the night. We were in awe of the decor and the friendliness of the staff, including the valet who were very busy with a trucking convention in town. Our experience at this hotel was told... More",
+    "reviewerCity": "Meridian",
+    "reviewerState": "MS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Restful, clean hotel",
+    "reviewText": "Stayed for 2 nights. Hotel was very clean and quiet, comfortable beds. Lots of parking. Breakfast was good. Staff was friendly. Easy to find and near shopping and restaurants. Beautiful time of year to visit!",
+    "reviewerCity": "Florida",
+    "reviewerState": "MS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "VERY NICE!",
+    "reviewText": "This is, by far, the nicest Hampton I have ever visited. The staff is very friendly and helpful. The rooms are spotless and decorated nicely. The C omplementary internet service was fast enough to download several things that I needed to do and the free breakfast was awesome! I highly recommend this hotel to anyone visiting the area!",
+    "reviewerCity": "Paducah",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Property Seems New -- or VERY well maintained",
+    "reviewText": "We checked in on-line, and everything was ready when we arrived after 9:00 p.m. Quick and efficient. Desk attendant offered info on the free Wi-Fi access and complimentary breakfast before we could even inquire. She was helpful with a direction question we had to leave early to attend a function at a location with which we were unfamiliar, and she... More",
+    "reviewerCity": "Montgomery",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Family stay for the Columbus Pilgrimage",
+    "reviewText": "We spent two nights at this hotel to attend the Pilgrimage tours. This hotel appears to be brand new and still shiny. We had no trouble with check-in and our room was spacious enough to spread out in and be comfortable. The breakfast was plentiful and typical of what you find at all Hampton Inns. It was crowded because of... More",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Bumpy check-in",
+    "reviewText": "I'm a Diamond HiltonHonors member and had already checked in online. When I arrived, the desk clerk asked for my credit card info, etc... I noted that I had already checked in online, but she was having problems. Eventually I got my room key. I normally get thanked for being a Diamond member, but not this time. I had to... More",
+    "reviewerCity": "Starkville",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de403d"
+  },
+  "name": "Hampton Inn \u0026 Suites-downtown-tutwiler",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AL",
+    "city": "Birmingham",
+    "postalCode": "35203",
+    "address": "2021 Park Pl",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-86.808538, 33.520234]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Another Hampton Inn, another complaint",
+    "reviewText": "Not the best section of town for sure! But a nice hotel. The Hampton Inn, here and other locations should upgrade their towels and wash clothes. Seems they've shopped at a KMart closeout for the bath sets they use in all their hotels. Difficult time regulating the temp in the room too. Valet parking is 22 - but don't look for other options...you wouldn't want to park your car in that area OUTSIDE of the valet area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great downtown hotel",
+    "reviewText": "We stopped here for a night on our way to Gulf Shores, AL. Very cute, old style hotel right in the heart of downtown area. We arrived late and asked the front desk for some dinner recommendations. They suggested John's City Diner 4 blocks down since we wanted to walk. We were not disappointed! Felt safe walking there and back. Rooms were nice and clean, although the beds were definitely small and uncomfortable. Only complaint was the cost of parking overnight, 24 plus tip for valets... Metered street parking is available but they don't tell you that until after you surrender your keys.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Quaint hotel with great history",
+    "reviewText": "This hotel was one of many to choose from and I found it to be rather nice with a breakfast included the following morning. The value was as good as you will see in a city this size.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Classic hotel in heart of Birmingham",
+    "reviewText": "My mood improved greatly when I learned that I could get a free hotel shuttle ride from the airport, even after midnight! The Tutwiler is a historic Birmingham hotel that was taken over by Hilton and branded as a Hampton Inn. They've done a very nice job of adding modern amenities while maintaining classic charm. The downtown area, including public library and business district are all walkable - e.g., within a half mile.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Historic Charm",
+    "reviewText": "We loved our weekend getaway stay at the Hampton Inn Tutwiler. The building is so charming and the staff was efficient and friendly. We would definitely recommend this hotel to others and will make plans to stay here again in the future.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great downtown hotel",
+    "reviewText": "Great hotel downtown Birmingham.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel / Comfortable",
+    "reviewText": "Took my daughter to see the play Wicked in downtown Birmingham, Alabama. The hotel was convenient, clean, architecturally beautiful, along with helpful staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Luxury and Value in One",
+    "reviewText": "This hotel combines the value of Hampton Inn with the service and ambiance of an old time luxury hotel. This will be our go-to place in Birmingham. The room was huge and the beds superbly comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly staff and good service",
+    "reviewText": "Valet parking was superb. Good was outstanding. Staff friendly and considerate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly staff and good service",
+    "reviewText": "Beautiful hotel with spacious comfortable room, but after a 3 hour flight I was unable to get s nightcap. The bar closed over an hour early. Quite disappointing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Fabulous Weekend in Birmingham",
+    "reviewText": "Went for a show at the Alabama Theatre. Tutwiler is a lovely old historic building with great amenities. Staff was wonderful - from valet to check in to housekeeping. Very friendly. Great neighborhood. Beautiful park and art museum at your door step. Highly recommend renting the new ZYP bikes to sightsee. And don't miss LuLu's bakery!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay!",
+    "reviewText": "My husband and I stayed here for 1 night on a weekend getaway. The hotel was very nice and very comfortable. Front desk staff were very friendly and helpful. This is a more upscale Hampton Inn. Breakfast was good and plentiful. Our only complaint was that we asked for extra towels, as there were only 2 in the room, and after the front desk called them and told me housekeeping was on their way, they never showed up. Other than the towel issue, our stay was great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "GREAT value for MONEY",
+    "reviewText": "We REALLY enjoyed our stay in this historic hotel. The restaurant food was of much higher quality than expected the staff was extremely nice and helpful the valet service was exceptional...shuttling us FREE to local restaurants in the area! The FREE breakfast each morning was delicious and available until 10 a.m. The only warning...plumbing was a real problem. We had to flush the toilet at specific times to get COLD water, otherwise, the water was scalding in the toilet, sink and shower! The front desk sent up engineering to instruct us on how to deal with this problem. I assume not all rooms were impacted. Overall, this hotel is a fantastic value for money, given the spacious rooms, shuttle service and culinary offerings of the restaurant. We look forward to visiting again!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Location is strange.",
+    "reviewText": "Location was the only issue here. The area is mostly offices, so it's pretty sparse at night. Restaurants were all a few blocks away, so a perfectly fine walking distance, but because that immediate area was so desolate at night and not well lit, I didn't feel comfortable walking far.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend Visit Kind Of Steep!",
+    "reviewText": "Overnight stay in Birmingham. Room and valet parking a little pricey, but I felt pretty safe with my family. Don't tip the valet guys, not real friendly and nobody offered to help with luggage which was no skin off my back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend Visit Kind Of Steep!",
+    "reviewText": "We loved it!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend Visit Kind Of Steep!",
+    "reviewText": "We were unable to get the shuttle van to pick us up from a concert downtown and the breakfast was mediocre it wasn't for everyone",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "Very comfortable bedding and great breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Checkout \u0026 Breakfast Nightmare",
+    "reviewText": "Overall the hotel was okay. The room was fairly clean but did have issues such as wallpaper coming lose from the walls in the bathroom. The lady who set everything up for breakfast was very rude to guests when they would ask a simple question like where certain things were located. She would go into a long explanation as to why she places items where she does. All of this was completely uncalled for. This occurred on two separate mornings so this was an indication to me that she does this all of the time. When I went to check out there was a problem with getting a receipt for all there nights that I stayed. This made no sense to me when a coworker of mine who had also booked my room had no problems getting a receipt for her complete stay. I have stayed in many Hiltons over the years but after this stay, Hiltons will no longer be at the top of my list for accommodations. This saddens me greatly!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Gorgeous hotel",
+    "reviewText": "Tutwiler is absolutely gorgeous old renovated apartments, so each has a unique floor plan. Charming and comfortable. And the bed was so comfortable!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Gorgeous hotel",
+    "reviewText": "We enjoy our stay. All of the staff was very friendly and helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great service, inspect your room befor settling",
+    "reviewText": "Fabulous historic building. The staff were superb. All of them. Very impressive. The room was mostly good but the shower was unacceptably designed and water got all over the bathroom floor. This must be a different toom, the design of the shower is absurd. I had to use all the towels to sop up the water both times I showered.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Donna's girl time weekend",
+    "reviewText": "Enjoyed my stay in this unique building in downtown B'ham.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice older hotel.",
+    "reviewText": "Nice older hotel that could use some additional improvements to bathroom. Staff was excellent.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Great breakfast buffet and helpful staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location \u0026 beautiful hotel!",
+    "reviewText": "I was there for a wedding and I got a room to stay for the weekend during the festivities. I really enjoyed the hotel, the decor, location and cleanliness of the hotel was very nice and I would definitely come back!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Water temperature not hot!",
+    "reviewText": "Did not have hot water to take a shower!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Water temperature not hot!",
+    "reviewText": "In town for the concert. We only stayed for a night, but it was really nice. I only wish there was meat on the breakfast menu. It probably was but I did not see any.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Water temperature not hot!",
+    "reviewText": "The chicken with risotto was okay. Decent and cordial bartender.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely Historic Hotel",
+    "reviewText": "Visiting as part of a Civil Rights Tour with family that lives in Nashville. We love staying in the older restored hotels, and this was the perfect end of the day spot. FYI Parking is Valet only",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely Historic Hotel",
+    "reviewText": "The experience was good. Wish late check out tome could have been later like 1pm or 2pm",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Ak",
+    "reviewText": "Wasn't pleased with the price for what was offered",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Cool, historic hotel",
+    "reviewText": "Cool, historic building close to the art museum and bjcc. We had a king bed in a large corner room, everything was clean and comfortable. The only complaint we had was some loud generator or leaf blower coming on one morning periodically.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Cool, historic hotel",
+    "reviewText": "Overall the stay was good but was a little disappointed with the breakfast just wasn't enough space opened up for sitting and the layout of the food area could use some work it was really congested trying to fix your food while others were waiting on the waffles and the toasters to finish heating",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "Things were a bit loud at night. Lots of loud closing of doors and talking. We could hear interesting activity in the adjacent room. The staff were all very friendly and helpful. Nicest valet staff we've ever encountered.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Couldn't be more pleased",
+    "reviewText": "The staff was exceptional: very helpful, friendly, and gracious.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Couldn't be more pleased",
+    "reviewText": "Great service all around, valets were great Nice outdoor bar area good for smoking",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "wonderful reprieve",
+    "reviewText": "everything was great except no parking space. you have to valet park which is an added expense I didn't need. The bed was so comfortable I wish I could have slept longer, and the water in the shower was instantly hot which was wonderful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "wonderful reprieve",
+    "reviewText": "amazing hotel for this price!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Two stars",
+    "reviewText": "It was average. Food was average. Restaurant service was excellent.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Two stars",
+    "reviewText": "These rooms are so spacious! Take advantage of the sweet valet!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Love that I was so close to BJCC",
+    "reviewText": "Overall good service. Too expensive. Needs microwave and refrigerator in rooms. Air conditioner wasn't cool enough. Needs ceiling",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Love that I was so close to BJCC",
+    "reviewText": "Dirty sheets but a great response from staff who changed them. Old carpet and drapes with stains and holes. It's ok for a night's stay while driving by the city.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful stay!",
+    "reviewText": "Beautiful hotel. Excellent staff. They were friendly, helpful, and very professional. The breakfast was great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "A great time out with my husband",
+    "reviewText": "It was good.We attended the Ron White performance and stayed overnight. The valet personel were super nice as well as the front desk. I would not however recommend the bar located inside the hotel. The drinks was horrible, atmosphere bad and service so so. I would stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Charming Hotel",
+    "reviewText": "Halfway travel from GSO to NOLA. Great place, great food(nearby). There was a wedding going on in the main lobby and they were loud. But hardly hear them from bedroom.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice, great history",
+    "reviewText": "I had no idea about the historical significance of The Tutwiler when I booked this room on Expedia. We were in awe upon our arrival. The hotel is beautiful, our room was spacious and had plenty of sleeping space for the six of us. It's also within walking distance to many restaurants as well as the Library and other areas of interest. We will be returning!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "LOVE IT!",
+    "reviewText": "This historic hotel is worth a stay. The staff was extremely helpful and friendly. The bar and restaurant are good. Rooms are oversized and nice. Will definitely be back next year.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "LOVE IT!",
+    "reviewText": "Everyone was friendly and very anxious to assist with anything needed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great people",
+    "reviewText": "Everyone made us feel welcome. Beautiful Hotel in a great location. An easy walk to the Alabama Theatre.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great people",
+    "reviewText": "Homeless people kept asking for help(on the street) before entering the hotel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay in Birmingham!",
+    "reviewText": "We stayed her for New Years Eve to attend a concert at the BJCC just a few blocks away. Pulling up to the hotel I was in love with the Southern charm it had. The facade and courtyard were beautiful and it a great location in downtown Birmingham. The hotel was completely sold out and the check in and lobby were packed with people. The front desk workers could not have been more friendly or helpful! They did a truly wonderful job accommodating all the guests they had that night. Also, this hotel had some of the best valet attendants I've ever experienced, those were some great guys! The rooms were huge and very clean! I would definitely stay at this hotel on my next trip to Birmingham.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick concert getaway",
+    "reviewText": "Stayed here for the second time. Both visits were to attend concerts at the BJCC. It is an easy walk from the hotel. Love the historic aspects of this property. Staff are very helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Short stay",
+    "reviewText": "Everything was great",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "I WONT EVER STAY HERE AGAIN!",
+    "reviewText": "How is this place still open",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Two Days of Peace in Downtown Birmingham",
+    "reviewText": "Incredible stay and it will be my first choice if I find myself in Birmingham again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend trip",
+    "reviewText": "My son came for the symphony at the lyric. Hotel was fantastic, walking distance to the theater great neighborhood,absolutely wonderful service and room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend trip",
+    "reviewText": "Beautiful and historic hotel with an attentive staff. Check out the decent breakfast upstairs.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Hampton Inn ever!",
+    "reviewText": "Nice hotel in a historic building right downtown. Shuttle service was provided by the hotel to area attractions and restaurants. Valet parking if you wish. Plan on it as it adds to your total with an extra fee. The locked lot is off site. I'm sure the restaurant in the hotel was fine, but it was a rather limited menu so we made other plans. The staff was all extremely helpful and very nice. Our room was great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Hampton Inn ever!",
+    "reviewText": "Extra 24 to park your car. No microwave or refrigerator in the room. Great breakfast, friendly staff, convenient location. Expected more from the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic Southern Hospitality",
+    "reviewText": "We passed through Birmingham and thus only stayed one night but would love to return. The rooms have some original furniture and updated beds and linen. It is within walking distance to the Civil Rights Institute and Art Museum, and their staff were wonderful and warm people",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic Southern Hospitality",
+    "reviewText": "Historic hotel but somewhat cheapened by the Hilton chain's \"mcdonaldization\" of it",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Historic Hotel",
+    "reviewText": "Our stay could not have been nicer. The staff were excellent, loved everything about this place",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Historic Hotel",
+    "reviewText": "Short rib is phenomenal. French onion soup is way too salty",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "bad service",
+    "reviewText": "Rude front desk staff dirty carpet curtains and bathroom smelled of urine",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-12-13T00:00:00.000Z"
+    },
+    "reviewTitle": "bad service",
+    "reviewText": "Postage stamp fitness room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, but needs updating",
+    "reviewText": "We had to leave vey early and could not take advantage of the free breakfast, but they gave us a light breakfast snack in a paper bag to take with us. This was very nice. The room was nice enough, but housekeeping could use improvement.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, but needs updating",
+    "reviewText": "Historical chic that Hilton downgraded by making it into a crappy Hampton Inn. Seems like BHM likes Hamptons thought. Valet is slow and restaurant is okay. Rooms are dated and shower is terrible.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great service!",
+    "reviewText": "Great service once again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "A little disappointed",
+    "reviewText": "We were a little disappointed in our stay. There were pros and cons throughout. We were not comfortable walking anywhere from our hotel and thought the neighborhood was rough. We got a cab to Alabama theatre for that reason. Hotel was not kept up well but staff assistance made up for it. There is valet but no one to help you with you bags to your room. The restaurant food was good so that was a plus. Doubt we will be back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Our Tutwiler Visit",
+    "reviewText": "Spent three nights in Birmingham AL for work. We stayed one extra day to explore downtown B'ham. We went to Library, Art Museum, Vulcan park and museum, and The Summit for shopping and dining.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Our Tutwiler Visit",
+    "reviewText": "Parking is not great but it was easy enough to park on the street in the evening and as long as you move your car before 8:00 a.m., there is no charge after 6:00 p.m. That worked for us, but if we wanted to sleep in, it would have been a problem. Valet service is available but it was 24 for overnight parking. The front desk clerk that greeted us was not very friendly, but not rude either. It may have just been the end of a long day. The hotel is very nice and the rooms were very clean and comfortable. There was plenty of space and room for luggage and the a/c was cold.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-12-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Our Tutwiler Visit",
+    "reviewText": "Arugula salad w/ tabasco vinaigrette is the best I've ever had. Top notch food for it to be a \"training\" restaurant.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "H",
+    "reviewText": "The staff was super courteous attentive! Room was very spacious clean! We Will defiantly be returning!! Love the historic look feel!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "H",
+    "reviewText": "This was not our first stay there but it is always great! Very convenient to downtown attractions.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "H",
+    "reviewText": "Salmon and brie salad is the way to go here",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely well kept old hotel",
+    "reviewText": "It was perfect. The staff was friendly and helped us find a nice place to eat within walking distance. The breakfast area was very clean and well stocked and the servers friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "A lovely spot ...",
+    "reviewText": "To see a grand old hotel under the Hampton Inn banner was a surprise, but a hugely pleasant one. Great staff, great digs, at great prices.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "A lovely spot ...",
+    "reviewText": "The Hereford Beef Filet was fantastic, but you'll definitely want a soup or salad + maaaaybe dessert to fill you up!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-01-18T00:00:00.000Z"
+    },
+    "reviewTitle": "A lovely spot ...",
+    "reviewText": "Get the vegetable risotto. And the Onion rings",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "A lovely spot ...",
+    "reviewText": "Staff was great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "A lovely spot ...",
+    "reviewText": "Really enjoyed our stay. Room was very comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Very comfortable",
+    "reviewText": "We wanted to visit the civil rights museum.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Very comfortable",
+    "reviewText": "Quick overnight stay while in town for the night. Great service! Wish I had time to stay and enjoy the hotel and downtown area. Breakfast good but very crowded! Shuttle from airport.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Really nice hotel and staff",
+    "reviewText": "I enjoyed my stay at the hotel. The staff was very friendly and helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful place",
+    "reviewText": "I love the history of this hotel. Was looking for a bed and breakfast, but by no means would i call this settling. This place was beautiful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful place",
+    "reviewText": "They have the yummiest free cookies!",

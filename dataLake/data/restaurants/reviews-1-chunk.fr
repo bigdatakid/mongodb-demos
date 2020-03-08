@@ -1,0 +1,1000 @@
+    },
+    "reviewTitle": "Excellent budget motel",
+    "reviewText": "Enjoyed my stay rooms were very clean and room service was on top of everything I would definitely come back l",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend in Monterey",
+    "reviewText": "Spent the weekend diving in Monterey. I needed a place to stay, used Hotels.com and this was a place in my price range. Very clean room and comfortable to stay. .2 miles walk had several restaurant to eat at. I would definitely stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend in Monterey",
+    "reviewText": "Make sure you bring your lover. ;)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Reall good.",
+    "reviewText": "Lotsa fun. Really groovy. Had fun, ate candy, looked around, saw stuff, even ate ice cream and even more candy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Reall good.",
+    "reviewText": "Great outdoor swimming pool!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice people",
+    "reviewText": "work related",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de40f0"
+  },
+  "name": "Jellico Days Inn North Tennessee",
+  "categories": ["Hotels \u0026 Motels", "Budget Hotels", "Business Hotels", "Family-Friendly Hotels", "Tourist Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TN",
+    "city": "Jellico",
+    "postalCode": "37762",
+    "address": "I75 Us 25w Exit 160",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.126875, 36.58786]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Value-conscious hotel with the sunburst sign provides basic amenities to ensure travelers a comfortable stay. In ShortThis nationwide chain promises value-added amenities to its guests. King and two-queen guest rooms offer clock radios, hair dryers, shampoo, televisions with HBO or Showtime and complimentary copies of USA Today. The property is inspected three times a year for quality by an independent quality assurance team and assigned a Sunburst rating, so travelers can rest assured that their accommodations are clean and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de40f1"
+  },
+  "name": "Merritt House Inn",
+  "categories": ["Hotels", "Bed \u0026 Breakfasts", "Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Monterey",
+    "postalCode": "93940",
+    "address": "386 Pacific St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-121.895694, 36.600532]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-21T00:00:00.000Z"
+    },
+    "reviewTitle": "not quiet",
+    "reviewText": "Not a quiet night's sleep. Lots of road noise and people traffic. Even after midnight on a Saturday, there were many loud people, some guests of the hotel. Sound insulation seemed minimal. We weren't even in a street facing room but passing cars were quite audible.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, and well maintained property.",
+    "reviewText": "Room was very clean, the breakfast was ok. The biggest problem with the room was that it was very dark. No windows except the one on the door. Loved the history of the property.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Interesting room decor",
+    "reviewText": "The rooms in the back are more motel like and don't look at all like the photos on the website that make it look like a bed-and-breakfast. But the room was clean had lovely decor in a Hawaiian theme. There were double doors that could be opened to give the room a fresh feel. I imagine each room has a different theme. The lobby was a bit offputting because it had a very smokey smell. And the breakfast was nothing to brag about. But it is very close to downtown Monterey and so very convenient for walking down to the beach area and the pier.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "day at pebble",
+    "reviewText": "Area was nice and the room was clean but the bed was stiff and had springs poking me in the back. There wasn't any air conditioning. If you wanted air flow you had to leave the door open because there aren't any windows to open up.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok but not great",
+    "reviewText": "Hotel was ok but not great. Really good location but rooms lacked light, rather dated and noisy. Generally would choose some place else.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Monterey visit",
+    "reviewText": "My stay at the Merritt House was very good, room was clean and large. I would stay in this Inn again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Bait... and switch",
+    "reviewText": "Just my opinion... and I'm spoiled... but: Photo on website... amazing. Fast forward to putting the key in the door, turn the light on... whamo!... but the picture... awww man! F! Live and learn. Wasn't for me. Dated. Clean... but super dated and weak amenities.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Location was great. Easily able to walk to Fishermans Wharf and many great restaurants. Room was recently renovated but the bed was not comfortable. Located on busy street and you could hear some noise",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay",
+    "reviewText": "Room just ok, NOT great, older property, could use some tender loving care.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "After Christmas stay",
+    "reviewText": "A quaint former judge's residence, the Merrit House Inn had a pleasing initial impression for us. It is a walking distance from the wharf and Cannery Row and parking the car for 2 days was awesome. The few minuses were the full bed when a queen was advertised and that it was a 'back-sleeper's' hardness. Ahh but maybe we are just spoiled. The breakfast, however, was a concern due mostly to a tiny dining area which was far too small for a cold December morning and when the Inn was completely booked. The sole person expected to be desk manager/breakfast attendant was rightly overwhelmed and all felt empathetic that the staffing was inadequate for food service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to downtown",
+    "reviewText": "The room was rather dark and felt like we were in a cave.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to downtown",
+    "reviewText": "beautiful gardens and a great location in downtown monterey",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value",
+    "reviewText": "Courteous staff. Quiet area, convenient to convention center and Monterey Shuttle stop. WiFI strength low but adequate. Shower /tub combination that I didn't use. Continental breakfast modest. Not quite a BB as the rooms are in an adjacent motel-like building, yet quiet.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Central location",
+    "reviewText": "The hotel is within walking distance of most of the attractions we were interested in, so driving was minimalized. The room itself was well-appointed and had everything working as advertised. Being downtown, getting to it could be a challenge if you don't know Monterey well, so study your maps carefully. Parking was an extra and was pretty tight. Would not recommend trying to park there with SUVs or particularly large vehicles, especially at night when all the good slots will be taken. Owners were friendly and helpful, and the continental breakfast was very good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "A pleasant stay",
+    "reviewText": "The historic value outweighed the comfort and amenities. Disappointed that the stay was not actually in the historic building (there are rooms available to stay in the Merritt House). No A/C was a little rough given that it was the hottest part of the year. The rooms were pleasant enough. Only slightly over priced.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant hotel in a great spot",
+    "reviewText": "While the picture makes it looks like a bed and breakfast, many of the rooms are a bit more like a hotel, with a little added charm from French doors and a fireplace (for which you can get Duraflames from the front desk), but more spacious, quiet, and well-appointed than your average BB. Overall, it was a very pleasant stay very close to the wharf, beach, and bike trail.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for walking, comfort, not for noise",
+    "reviewText": "The Merritt House Inn had almost everything we needed for this trip. With the exception of a hot tub (a luxury for sure), we had a quaint, historic lodging that was comfortable and walking distance to everything we wanted to do. The only gripe we had, which could be a big deal for many travelers, is that the sound insulation is terrible. There was a guy that sounded like he was coughing up a lung for several hours at a time that made it challenging to stay asleep, in the room next to ours, and additionally the same couple had a fight and we could hear the hilarious use of British swear words. I'd imagine they'd have moved us to a different room had we asked - thankfully the gent seems to have gotten cough medicine after the first night and we managed just fine. But staff was nice, breakfast was lovely, and the fireplace was magic.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice little place!",
+    "reviewText": "Great place to stay. Nice location. Only disappointment is no private balcony/sitting area in the rooms with the garden view.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend getaway",
+    "reviewText": "Great location for easy walking access to Fishermans Wharf, Municipal Wharf, Cannery Row and Downtown. The room was very nice and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend getaway",
+    "reviewText": "Beautiful gardens and a great location in downtown Monterey",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfy bed, quiet and we will return",
+    "reviewText": "Quiet, garden location. Very comfortable bed! Walking distance to Monterey restaurants, cafes, and pub and music venues. Excellent place to avoid the hubbub of bigger hotels, yet close enough to the walk to the tourist and convention locations.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Our stay",
+    "reviewText": "we enjoyed our stay the staff were great anything we needed they were there.The breakfast could have had a few more options,but was still ok.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great city center location.",
+    "reviewText": "Wonderful, staff great, perfect for the weekend getaway.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "4/18/15 Monterey Getaway",
+    "reviewText": "A nice comfortable stay in Monterey. Close to the wharf and downtown. Neat old place.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "4/18/15 Monterey Getaway",
+    "reviewText": "Very helpful receptionist. Recommended a good local fish restaurant . Rooms are nice and comfortable. Free parking. An elevator would have been helpful for the bags to carry upstairs.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable hotel near downtown.",
+    "reviewText": "We were there during near-record heat wave. No A.C. Normally, that would be OK. They had a portable fan that helped. Clean and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Sweet and cozy.",
+    "reviewText": "My husband and I loved this sweet little place. The staff was friendly, the room was so cute and cozy and we were close to everything we wanted to do. We had a balcony off our room that looked out on a courtyard which made us feel like we were in a treehouse and there was free, convenient parking. The only negative things were that the seagulls were crazy noisy outside and since this is an old building we heard them clearly and the bed was too firm for our liking.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Sweet and cozy.",
+    "reviewText": "great location, easy parking, nice breakfast, fire place, and excellent price. walking distance to fisherman's wharf, downtown, cannery row and monterey aquarium.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay",
+    "reviewText": "The service was great, the people worked in the hotel very nice, the hotel are near to good restaurant,the neighborhood is good for walking at night after dinner.If I'll go again to Monterey I will stay in this place.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet Little B \u0026 B",
+    "reviewText": "The Merritt House is a quaint and quiet little place with a lot of charm. The room I stayed in had an updated bathroom, a fireplace, a vaulted ceiling and a skylight. The 4 poster bed was comfortable with a lovely cherry wood headboard. Nice place!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful place to stay!! Loved it!!",
+    "reviewText": "We went to Monterrey for a weekend getaway and love our stay at Merrit!! The rooms are rustic, spacious, and perfect for a couple. The fireplace was great, almost no noise at night, and was the perfect location. The pier was 10-15 minute walk and was near plenty of things to do, places to eat, etc. The staff was very helpful and the service at breakfast felt like we had come home to family, they treated us very well!! We would definitely stay here again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "We were surprised by the uniqueness of this family hotel. It is located at a convenient location and the room is clean and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet Romantic Getaway",
+    "reviewText": "The hotel staff was very friendly. Easy check-in and check-out. Quiet location with quick access and walking distance to wharf and downtown area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet Romantic Getaway",
+    "reviewText": "Great location, easy parking, nice breakfast, fire place, and excellent price. Walking distance to fisherman's wharf, downtown, cannery row and Monterey Aquarium.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good alternative to the big box hotels",
+    "reviewText": "Very comfortable. Huge room. 2 short blocks from convention center, Marriott, Portala hotels. Good value for Monterey.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Merritt Hotel Great Family Place",
+    "reviewText": "Our stay was great!! The people were fabulist and we plan on staying there next year.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Attractive small hotel",
+    "reviewText": "My husband and I stayed for 3 days at Merritt House during our California vacation. We liked our attractive, clean and comfortable room a lot. The room was spacious and the bed was very comfortable. Our only issues with the room was that the outlet in the bathroom did not work. However we were provided with an extention cord so that I could use the hairdryer. Also the fan in the bathroom was noisy however it is slated to be replaced. Continental breakfast was included and was fresh and good. The staff was responsive and helpful. We liked the fact that it was a small, quiet hotel. It is within walking distance to restaurants, cinema and fishermans wharf.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "A pleasant stay",
+    "reviewText": "The historic value outweighed the comfort and amenities. Disappointed that the stay was not actually in the historic building (there are rooms available to stay in the Merritt House). No A/C was a little rough given that it was the hottest part of the year. The rooms were pleasant enough. Only slightly over priced.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-20T00:00:00.000Z"
+    },
+    "reviewTitle": "in the heart of Monterey",
+    "reviewText": "Love staying in this historic place right in Monterey. Can walk everywhere in town. Rooms have fireplaces too.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Merritt House Inn is a great place to stay",
+    "reviewText": "Stayed two nights. Check-in was easy, free parking spot was ready for us. Room was large with a fireplace. Room temperature was easily controllable. Large bathroom and counter space, desk, king size bed. Room service was terrific, everyone we interacted with at the hotel was very friendly. Continental breakfast was ample and good quality. Check-out was similarly easy and hospitable. A great place to stay!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Respite at Merritt House",
+    "reviewText": "I had a very comfortable and cozy room nicely decorated within walking distance of wharf and other sites. I highly recommend it!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Merrit House merits a thumbs up",
+    "reviewText": "Great Location 8min. walk to Wharf 15min to Cannery Row and 2 blocks from Alvarado. Plus ! block from free Shuttle between Aquarium, Wharf and Downtown. Great four poster king size bed fireplace. Nice relaxing place",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "lovely cottage feel",
+    "reviewText": "It was lovely, and clean. So nice to have a firepace. The sea gulls overhead are noisey in the mornings (if you are planning to sleep in) There appears to be no elevator so while the second floor is lovely we did have to drag our bags up the stairs. We would definately stay there again but pack lighter.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Family Trip to California",
+    "reviewText": "Very good hotel, nice room, breakfast ok!! Very good experience small hotel whya is perfect when you just want to be relaxing",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Loved it!!",
+    "reviewText": "I stayed there for one night due to a school visiting day early this month and really liked this BB. One of its staff was kind and our room was spacious and clean! My friend and I really wished that we could have stayed longer.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful place to stay!",
+    "reviewText": "Very nice and would certainly stay there again. Doug gave a great recommendation for a nice diner house nearby so we could celebrate our 47th Anniversary. Diner even had metallic hearts spread out on our table. :) The office gave us fireplace burning logs - lasting 2+ hours. Lush landscaping as we opened our French doors to a walkway with a 2 person wrought iron patio set - by our doors. Can't say enough good things about this place from the morning breakfast to the amenities they had, including free private parking. Stay for 2 days and didn't get in our car once. Loved the free trolley taking us everywhere, Cannery Row, Monterey Aquarium, Fisherman's Wharf. Wonderful! We also took the 3 Hr. Movie Tour which was beyond fantastic. Took us to The Lodge at Pebble Beach, 17 mile drive and so much more.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "excellent inn",
+    "reviewText": "we had a excellent time,service was great and roon were large and done up with antiques.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Just back from a wonderful two night stay at the Merritt House Inn in Monterey, Ca. When my granddaughter and I arrived, we were told that we could have our room up-graded from a one bed to a two bed room for the same price. We were given a choice of floors also. The room was clean and very spacious. We also enjoyed the daily breakfast in the common room. It is billed as a continental breakfast but is actually more than that considering that hard-boiled eggs, cereal, muffins, bagels, fruits and beverages are included. The gardens are very attractive and well kept. We had a great stay with the gracious staff and I would certainly return.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Little Gem!",
+    "reviewText": "My family and I were extremely happy about what a cute and beautiful property we had booked. Because we booked the reservation on line we didn't really know what to think but we were happily surprised. We arrived an hour early and they still allowed us to check in and our room was ready. The room was very spacious. The beds were VERY comfortable and the room had a great golfing theme. The staff was friendly and helpful giving directions. If/when we go back we'd love to stay there again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "day at pebble",
+    "reviewText": "went to pebble beach for the pro-am best weather very quant room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Monterey visit",
+    "reviewText": "It was a home away from home!! We loved it. Especially the fireplace. Great area for everything. We'll definitely be back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Merritt House is charming and convenient!",
+    "reviewText": "If you need to stay near the conference center, this is the best place to do it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Bait... and switch",
+    "reviewText": "We were offered a log for our room upon check in and loved having the fire burning at night. The room was cozy, and the stay overall was great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Perfect location. Right near lots of restaurants, bars, and fishermans warf. Nice walk to cannery row and the aquaruim. Very good continental breakfast. Friendly service. Room was a little small but cozy and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable stay",
+    "reviewText": "Very nice and reasonable. Close to most attractions, in walking distance or free trolly ride. Staff was very friendly and accommodating. Enjoyed our stay and our breakfasts visiting with staff.(Jason)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Fine Inn, good breakfast, lovely grounds.",
+    "reviewText": "A wonderful stay. Clean room, cordial staff, walk to Fisherman's Wharf. Free trolley to Cannery Row. The only drawback was that the lovely four poster bed was not queen size as offered at booking. But overall, a very pleasant stay at a classy inn.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Sweet and cozy.",
+    "reviewText": "This conveniently located gem is the right place to stay if you have business in town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay",
+    "reviewText": "Great location, able to walk to meetings and dinner.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great quiet and clean hotel close to downtown",
+    "reviewText": "Great privately owned hotel. Spacious clean room with fireplace, we received a fire log upon check in. The fire and/or the heater keep you warm on a cold winter night. Walking distance to downtown restaurants. Free parking. Breakfast offers fruit, bagels, cereals, boiled eggs. We will stay here again on our next trip to Monterey.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Look no further!",
+    "reviewText": "Fantastic spot! Super clean, great location and wonderful breakfast. I will definitely be back!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de40f2"
+  },
+  "name": "Hotel Roc Lago Rojo",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "ES",
+    "state": "",
+    "city": "Abbeville",
+    "postalCode": "29620",
+    "address": "Calle Miami 5",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-4.503823, 36.610974]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Pnt hotel med meget central beliggenhed. Behagelig solterresse p taget.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "een 7,5 is voor ons het juiste waardering",
+    "reviewText": "Wij zijn reeds 6 x in dit hotel geweest. Vriendelijk personeel. Kamers op verdieping 5 : goed. Bedden al jaren te hard en te oud maaltijden redelijk tot goed",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Komfortabelt og sentralt",
+    "reviewText": "Sentralt beliggende med umiddelbar nrhet til handlegate og strand. Nydelig takterrasse med boblebad og fantastisk utsikt. Masse ledige solsenger midt i juli. Romslige rom uten trafikksty. Svrt god og variert mat, fullpensjon anbefales. Variert underholdning for barn p hotellet p kvelden. God service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Recommended",
+    "reviewText": "Everything was excellent apart from no wifi in the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "La mer la montagne soleil quoi de plus!",
+    "reviewText": "Tres apaisant et beaucoup de possibilits de passe temps",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Prima ligging vlak bij het strand",
+    "reviewText": "Service van hotel is goed.De algemene indruk is,zeker op de kamer waar wij zaten, dat er sprake is van meubilair dat nodig aan vervanging toe w as.bank was op plekken tot op de draad versleten. Zeer groot pluspunt: het zonneterras waar het zelfs eind februari prima vertoeven was !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "trop court dejour",
+    "reviewText": "j'ai passe 3 jours tres sympa dans cet hotel,,, chambre tres spacieuse,, a proximit de tout,,, tres bien",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "One of the best",
+    "reviewText": "One of the best hotels I have used in Costa del Sol - evening meal was of a high grade and no complaints on the breakfast either",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Service de tr��s grandes qualite",
+    "reviewText": "Un accueil avec un grand sourire et une efficacit irrprochable c est du grand professionnalisme. L emplacement presque sur la plage . Le passage piton trs anime toute la journee . Le restaurant de l htel est trs correcte excellent rapport qualit prix.je conseille cet htel .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice beach hotel, with great facilities nearby",
+    "reviewText": "Small pool, but as only 50m from beach, not necessary. Hotel was little Amsterdam for our stay, which added to the local colour.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-13T00:00:00.000Z"
+    },
+    "reviewTitle": "D����u par cet h��tel",
+    "reviewText": "Nous sommes alls dans cette htel car sur le descriptif de la chambre tait indiqu qu'il y avait un bain remous priv. En fait de bain remous c'tait une baignoire classique pas terrible du tout. Lorsque nous sommes arrivs nous avons eu une chambre avec 2 lits jumeaux , la chambre tait trs mal agence. Nous avons demand ds le lendemain changer de chambre et on nous a donn une chambre qui tait un peu mieux. Par contre les murs ne sont pas pais nous entendions tout ce que les voisins faisaient. Pas de double vitrage non plus et nous entendions les conversations dehors et les voitures passer. Le jaccuzzi sur le toit tait vide hors service. Les repas trs moyen et la salle de restaurant trs bruyante. En demi pension la bouteille de 50 cl d'eau cote 2,10 euros c'est un peu abuser pour une petite bouteille d'eau et on ne peut pas prendre de l'eau en carafe, si on ne prend pas de boisson ils nous retirent les verres. Cet htel ne vaut pas du tout les 4 toiles qu'il affiche. Par contre lorsqu'on sort de l'htel on se retrouve sur la promenade de la plage et c'est trs agrable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "PROCHE DE LA PLAGE ET RUE PIETONNIERE",
+    "reviewText": "ON M A VENDU DES TICKETS POUR BOISSONS QUE JE N AI PAS PU UTILISER AU RESTAURANT C EST INADMISSIBLE",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "PROCHE DE LA PLAGE ET RUE PIETONNIERE",
+    "reviewText": "Hotellet har, som alle hoteller, negative og positive sider. Meget god beliggenhet til strand og ggater. Hyggelig betjening og god mat.Fin solterasse p taket. Negativet var at det ikke var solsenger ved bassenget. Veldig harde madrasser i sengene. Ikke regn med f rom med havutsikt selv om du nsker dette ved bestilling. Ved betale 10 Euro ekstra pr natt kan det vre en mulighet. Hotellet fortjener nok ikke 4 stjerner.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Camas",
+    "reviewText": "Todo genial como siempre, slo un comentario el sof cama no se ha podido dormil en el por q el colchn es muy fino e incmodo por lo dems todo superbien.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel vraiment sympa",
+    "reviewText": "Nous avons pass 2 semaines en aot 2013 avec notre fils de 7 ans. Notre avis est trs positif, habituellement on part en hotel club o on se retrouve loin de tout ! L c'tait diffrent, l'hotel est situ sur une longue pietonne (par la sortie de derrire) o on peut trouver une multitude de boutiques et de restos colls la plage Carihuela. Nous avons pris une formule en demi-pension et on ne regrette pas ce choix. Le petit djeuner est classique : buffet volont sans attente. Il n'y a pas de vrai jus d'orange seulement une sorte de sirop chimique. Au diner, on a toujours trouv quelque chose de bon manger, aucune queue pour aucun produit. Le personnel est trs agrable et au petits soins avec les clients. En revanche, l'eau est payante : 2,10 euros la bouteille de 50 cl (plate ou gazeuse). Autre mauvais point, en sortant du resto les vetement sentent fort la nourriture. La piscine est toute petite mais souvent vide, j'y suis all 2 ou 3 fois : mon fils tait presque seul dedans et moi j'tais sur un transat avec de la lecture. Les soirs dans le bar, il y a une animation : groupe de danse flamencon, chanteur ou mini club. A minuit souvent tout s'arrte pour laisser les gens dormir tranquillement. En sortant de l'hotel par derrire, droite 30 mtres sur la pietonne, il y a une agence de voyage qui propose des excursions moins chres que l'hotel. Nous sommes parti Grenade avec eux avec visite de l'alhambra. Seul bmol, le car fait le tourne des hotels",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good service",
+    "reviewText": "We were generally happy with our stay, the staff was very nice and helpful. The hotel itself was OK, but it was a general 70's built, which in all fairness is what you can expect from the area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Sehr gute Lage, sehr dicht zum Strand.....",
+    "reviewText": "Das Hotel ist sehr gut gelegen, nur 2 min zum Strand. Das Personal ist sehr nett, das Essen wiederholt sich nach einer Woche leider und ist nicht sehr landestypisch. Die Sauberkeit ist leider ein groes Thema, denn es wird sehr spanisch gereinigt. Auch nach Bemngelung war es nicht besser und wir haben selbst nachgeputzt. Whrend unseres Besuches wurde die komplette Bar auf dem Dach abgebaut und dadurch war es extrem laut. Von Entspannung konnte da keine Rede sein. Die Balkontr konnte man nicht verschlieen, so das von auen jeder Zugang hatte. Gleich am ersten Tag wurde dies gemeldet, leider war es whrend der gesamten 14 Tage Urlaub nicht mglich zu regulieren.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Sehr gute Lage, sehr dicht zum Strand.....",
+    "reviewText": "Hotellet har en god beliggenhed. venligt personale . Drlig rengring og for ensformig buffet. lkker morgenmad. De har ogs en skn solterrasse p 6 sal. Fin underholdning flere gange om ugen. Mske kunne der vre bedre madrasser og en enkel hvilestol. vi havde nemlig 8 dg med regn. Vi var p hotellet i 3uger Men alt i alt god ferie. Venlig hilsen Jytte og J.P",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Sehr gute Lage, sehr dicht zum Strand.....",
+    "reviewText": "Hotellet har en god beliggenhed. venligt personale . Drlig rengring og for ensformig buffet. lkker morgenmad. De har ogs en skn solterrasse p 6 sal. Fin underholdning flere gange om ugen. Mske kunne der vre bedre madrasser og en enkel hvilestol. vi havde nemlig 8 dg med regn. Vi var p hotellet i 3uger Men alt i alt god ferie. Venlig hilsen Jytte og J.P",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Sehr gute Lage, sehr dicht zum Strand.....",
+    "reviewText": "La cama supletoria fue nefasta, un sof cama que se clavan todos los muelles en el cuerpo y se descansa fatal, por lo dems bien.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Sehr gute Lage, sehr dicht zum Strand.....",
+    "reviewText": "Bra hotell med utmrkt lge och en hrlig solterass/ bar p taket Tyvrr mycket hrda sngar",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Not big enough pool and beds to hard",
+    "reviewText": "Good location brilliant food v clean just hard beds and pool far 2 small atmosphere in bar average",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "la classe",
+    "reviewText": "tres bon sejour dans cet hotel bon bufet",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Unsauber, alt, schlechter Service",
+    "reviewText": "Liebes TripAdvisor-Mitglied, vielen Dank, dass Sie sich die Zeit fr eine Bewertung von Hotel Roc Lago Rojo auf TripAdvisor genommen haben. Wir schtzen Ihren Beitrag und mchten es gerne auf unserer Website verffentlichen, allerdings drfen wir nur Bewertungen publizieren, die in einer Sprache verfasst wurden. Wenn Sie bereit wren, den Beitrag zu bearbeiten und erneut zu verffentlichen, wren wir und auch andere Reisende sehr dankbar. Ihr ursprnglicher Kommentar ist unten angehngt, sodass Sie ganz einfach in das Formular einsetzen, kopieren und notwendige nderungen vornehmen knnen. Nochmals vielen Dank fr Ihre Teilnahme auf unseren Seiten. Wir freuen uns ber Ihre Beitrge in der TripAdvisor-Community. Mit freundlichen Gren TripAdvisor-Service-Team ------Ursprngliche Bewertung------- Betreff: Hotel Roc Lago Rojo Ort: Torremolinos, Costa del Sol, Province of Malaga, Andalusien, Spanien, Europa Titel: Nicht sauber, alt, unfreundlich, schlechter service - Not clean, old, unfriendly, poor service - ID-Nr.: 334740612 German : English down: Hm.. Ich habe das Hotel vom 18.12.15-20.12.15 folgend erlebt und wahr genommen: Das Hotel war in einem verschmutzen Zustand. Das erste Zimmer haben wir gleich wieder beanstandet und zurckgegeben. Es war total verstaubt und ungereinigt. Das zweite war etwas besser, aber auch nicht richtig sauber. Unterm Bett voll Staub, Boden nicht sauber, Tisch nicht gereinigt. Die Zimmer sind denke ich mal etwa 30 Jahre al",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent location",
+    "reviewText": "We enjoyed an excellent beach holiday week at the hotel. Only one minus point comes from the uncomfortable beds - typical in Spain Glutein free diet was taken care very good! That was our second time at this hotel - may be - not the last!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Ikke �� anbefale",
+    "reviewText": "Positivt: -Flott takterrasse -Kort vei til stranda Negativt: -Gamle, slitte rom -Forferdelig harde senger -Drlig lukt p rommet -Skitne tallerkner i frokostsalen -Arbeid utenfor om natten som gjorde det umulig sove -Ingen solsenger ved bassenget i bakgrden -M betale for wifi",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "good hotel and value for money",
+    "reviewText": "could do with a facelift, modernised.otherwise good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "good hotel and value for money",
+    "reviewText": "could do with a facelift, modernised.otherwise good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {

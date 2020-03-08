@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable stay",
+    "reviewText": "Good overall experience in terms of price, location, and other useful accroutrements",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable stay",
+    "reviewText": "No Complimentary Water and the AC Unit wasn't working. at 200+ a night, I would have been better off paying an extra 30 bucks to stay at a nicer hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable stay",
+    "reviewText": "Hotel was great but the lady at the front desk during check in was GRUMPY!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient for quick trip",
+    "reviewText": "Hotel was perfect for what I needed. Picking up from u of a after semester. Room was acceptable and we had a bathroom issue that was immediately addressed. Clean hotel perfect for price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient for quick trip",
+    "reviewText": "Nice hotel, pool had some problems but hotel staff was very nice and fixed it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Not the most welcoming front desk.",
+    "reviewText": "The hotel was nice and looks recently renovated. The front desk staff, both of them, were not welcoming and did not acknowledge any guests unless first talked to. And then when the breakfast came out an hour and a half late, they didn't even take time to tell us even though they saw us pass their desk toward the breakfast area. After finally asking them by breakfast wasn't out 45 minutes after it should have, they told us the cook decided not to come in while saying sorry in the least apologetic tone I've ever heard. The staff that did try and make up the breakfast were very nice and I applaud them for their efforts to make up what was missed. Overall the hotel itself was nice, the rooms were nice, except our bathroom did not have an exhaust fan.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "La Quinta has improved!",
+    "reviewText": "This hotel was recently remodeled and looks fabulous! The pool and hot tub is awesome. The rooms are very roomy and are extremely clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "family vacation",
+    "reviewText": "for a quick one night stay, this hotel was ok. front office staff were awesome!!! the breakfast was good. all around it was okay. great value for the money",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "family vacation",
+    "reviewText": "Great breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Attractive hotel",
+    "reviewText": "Nice place to stay attractive, open lobby large, clean breakfast area. Rooms are good size windows open for fresh air.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {

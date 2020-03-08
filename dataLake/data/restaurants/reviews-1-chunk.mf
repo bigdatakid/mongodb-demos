@@ -1,0 +1,100 @@
+    },
+    "reviewTitle": "Not recommended if planning on cooking",
+    "reviewText": "The stove in the room was not working and the restroom didn't have any toilet paper or trash can. The knobs were so old and rusted they fell off. Other than that my kids enjoyed the stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a good stay!",
+    "reviewText": "The bed sheets had a bad smell to it and hair was found on the sheets as well. The bathroom was horrifying. Mold in the grout and bad stains in the tub. The overall condition of the hotel was run down and worn out. We even seen cockroaches in the morning crawling on the walls. My experience of this hotel was not a good one at all. I would not recommend it to anyone.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't think it. go away from here!",
+    "reviewText": "They didn't respect my reservation although the reservation was totally paid. They said that don't have hot water and the front desk wasn't kind.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "I wouldn't come back",
+    "reviewText": "The furniture in the room was old and dirty. The hair dryer on the bathroom was so dusty I hardly was able to use it. There was one day that they didn��t clean the room. The courtesy breakfast was awful. The morning staff in the hotel was kind of rude. I was not pleased at all and definitely would not stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente hotel de acuerdo al precio pagado y",
+    "reviewText": "excelente servicio por parte de la administracion, todos fueron muy amables, la tarifa del hotel que consegui en expedia fue bastante economico y la relacion del valor con el precio estuvo de acuerdo, no esperaba mucho de las instalaciones, estan bien, las habitaciones estan limpias y el area de la alberca esta cuidada pero el hotel en general se ve que tiene sus a��os, el desayuno continental esta muy pobre y lleven sus toallas porque las de ahi estan muy peque��as y parecen lijas :)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Just a place to sleep",
+    "reviewText": "Ok place if you are not looking for high class accomodations.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "The worst",
+    "reviewText": "Where do I start the bath room sink drain real slow. False advertisement on the continental breakfast, the room had roaches and other insects. The room didn't have an iron. I had to put a $5.00 deposit to get the iron. I got my money back afterwards. All around I didn't enjoy my stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "The worst",
+    "reviewText": "Where do I start the bath room sink drain real slow. False advertisement on the continental breakfast, the room had roaches and other insects. The room didn't have an iron. I had to put a $5.00 deposit to get the iron. I got my money back afterwards. All around I didn't enjoy my stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Lo peor",
+    "reviewText": "El peor hotel que he visto e mi vida las habitaciones asquerosas con muchas cucarachas los muebles sucios cuartos destruidos otros cuartos con 20 tipos all�� hospedados un asco lo peor no se como hotel.com tiene un hotel como ese en sus listas de hoteles que ofrecen",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "DONT GO!!! BEWARE",
+    "reviewText": "It may be cheap but not worth it. Theres is a lot of drug heads, prostitutes, permenant residents. You name it they got it all. Definitely dont take family. My car was broken into in the front of the office in daylight hours. When the police came he said there is a lot of trouble at this motel and dont like to come out there. The manager never even apoligized and was hearing the whole thing. Even their own maintenance room gets broken into all the time. The manager doesnt even try to make it safe anyone can do what ever they want . Oh and their breakfast is a joke you have to make your own waflles one at a time. lol.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-19T00:00:00.000Z"

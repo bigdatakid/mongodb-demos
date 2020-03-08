@@ -1,0 +1,100 @@
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Very good clean hotel",
+    "reviewText": "We stayed there in Sept 5, 2015 for one night. Room is very clean and beds are very comfortable. Breakfast can be improved as far as selections are concerned. Overall we had good experience with this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful stop",
+    "reviewText": "Great place for relaxing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "september crickets",
+    "reviewText": "Everything was wonderful except the crickets! My room was on the 3rd floor I found 3 in my room over a 4 night stay. The staff was very professional about the issue and the crickets were an Abilene wide problem, not just the hotels.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "nice",
+    "reviewText": "my stay was good, there for graduation and it was one of the nicest places in abilene",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, close to everything.",
+    "reviewText": "Everything went very well. We stayed in another hotel a week earlier in Abilene and it was terrible. Hampton Inn was a very nice comparison. We would stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, close to everything.",
+    "reviewText": "One of the main reasons we chose this hotel was because it had an indoor pool and hot tub. The hot tub did not work, and I was told it did upon arrival. After telling the front desk about it, they still continued to tell others as they checked in that the pool and hot tub was available. There was no available plug for the coffee maker, it had to be moved and the tv unplugged in order to use it. The coffee and iced tea in the lobby was wonderful. The breakfast was good too.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "was very nice for the reasonable price",
+    "reviewText": "I was very satisfied with this hotel, the reason I gave it a 4insted of five is because it could use a remodel just from age and use in the rooms. It was still a very nice hotel and I will go there again when visiting are family out that way!",
+    "reviewerCity": "Coahoma",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Abilene",
+    "reviewText": "The price was a little high for Abilene, but it was a clean quiet hotel.",
+    "reviewerCity": "Coahoma",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Abilene",
+    "reviewText": "Awesome customer service",
+    "reviewerCity": "Coahoma",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Standard fare Hampton Inn.....clean and friendly.",
+    "reviewText": "Business trip, in and out. Had a large group of students but it didn't affect the stay....breakfast was good as usual.",
+    "reviewerCity": "Coahoma",

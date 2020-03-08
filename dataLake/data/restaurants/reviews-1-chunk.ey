@@ -1,0 +1,1000 @@
+    "reviewText": "I spent a week at the Motor Inns of America in Madisonville, TN, as the first step of moving into the area. The day I checked in, they were replacing televisions in the room. Unfortunately, the broadcast image was too large for the picture screen. The room had a microwave, a small refrigerator, and plenty of towels for one person.... More",
+    "reviewerCity": "Ashland",
+    "reviewerState": "KY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Pass it by",
+    "reviewText": "Not much to choose from in this area. I would advise you go to another town. This was the best the town had to offer and we found hair all over the sheets and pillows. The mattress was beyond shot. Burn marks in the carpet, dirty trim and windows. Worst motel I have stayed in for years.",
+    "reviewerCity": "Mexico",
+    "reviewerState": "MO",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Away!",
+    "reviewText": "Stayed here for 3 nights because of family issues. Had to. It was closet to the family. Activity all night coming and going from rooms on either side of us. (you guess) Beds not comfortable, towels were well worn out, noisy and smelled of mildew. I am not picky, but hey this place is horrible!",
+    "reviewerCity": "Knoxville",
+    "reviewerState": "TN",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "4th July 2014 week stay",
+    "reviewText": "I should have written this last July, just didn't get a-Round-tuit....We visited the area to meet some old friends and their family. Also, just to visit a beautiful part of Eastern Tennessee. Good, comfortable motel room. Was kept clean by a very nice, friendly cleaning crew. Wonderful hot water in the shower. The beds are very firm, which we like.... More",
+    "reviewerCity": "Knoxville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't Stay Here",
+    "reviewText": "I have stayed at this establishment before while visiting family because it is the only motel in town. It was always just sufficient but this latest time was too much. My room was infested with bugs!!! They were crawling all around the room and when I turned down the bed, they were between the sheets!! When I asked for a... More",
+    "reviewerCity": "Knoxville",
+    "reviewerState": "TN",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-09T00:00:00.000Z"
+    },
+    "reviewTitle": "False advertising!",
+    "reviewText": "Imagine a hotel 20 years old and never had any updates.They must be using the pictures from when it was originally built. Water was leaking through the roof in a section of the building so most of the building is closed off it appears. The rooms need paint and carpet. The breakfast is a joke. This place does not have... More",
+    "reviewerCity": "Jordan",
+    "reviewerState": "MN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Not the worst I've stayed in",
+    "reviewText": "As the title said, it was not the worst place I've ever stayed. Room was OK, not great, had a working refridge and a small microwave. Microwave needed to be plug in and then unplugged as there was no ON/OFF switch. There was NO alarm clock but a very good cable TV selection. Not much in the way of personal... More",
+    "reviewerCity": "North Carolina",
+    "reviewerState": "MN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "better motels",
+    "reviewText": "items missing in the room,no frig. no microwave,no iron,no ironing board,no hair blower. only one big towel per person,so if you take a shower at night you will have to used the same towel in the morning for your bath. The beds are very very firm. The cleaning person left a note for tips which was in bad taste when... More",
+    "reviewerCity": "Phenix City",
+    "reviewerState": "AL",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40bf"
+  },
+  "name": "Economy Inn",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TN",
+    "city": "Sweetwater",
+    "postalCode": "37874",
+    "address": "207 Highway 68",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.51119, 35.598433]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Dissiapointment.",
+    "reviewText": "The internet picture looked o.k. but once inside the room it was a different site. The bed was as hard as sleeping on the carpeted floor. :(. For my wife and a female the bathroom looked horrable , commode and the shower tub.:(. Not worth 59 for sure. The a/c compressure would come on off but the fan ran all night . rather noisy. Just was not a nice clean place as stated on the internet.:(. Stay no more.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40c0"
+  },
+  "name": "Comfort Suites",
+  "categories": ["Hotels \u0026 Motels", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "TN",
+    "city": "Jackson",
+    "postalCode": "38305",
+    "address": "61 Casey Jones Ln",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-88.85688, 35.661729]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place!",
+    "reviewText": "Stayed here while helping a county dog shelter. Came back to the hotel exhausted and filthy...and the shower and beds were great! The front desk woman was nice and helped us find places to eat in the area. Ovrall, great stay!",
+    "reviewerCity": "Geneva",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place!",
+    "reviewText": "wifi is good",
+    "reviewerCity": "Geneva",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Would recommend",
+    "reviewText": "We stayed here for baseball tournament and really enjoyed our stay! The staff were really nice and made us feel at home and welcome. We will return to this hotel when we play there again. Love the suites for extra space!! The only complaint was the donuts in the breakfast bar. I told the ladies working down there I was... More",
+    "reviewerCity": "SIKESTON",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Fine for my family for one night",
+    "reviewText": "This hotel is very convenient to all kinds of shopping and right off the freeway. Our room was clean. Our kids were happy to swim in the pool...it closed at 10 and was nice for getting their energy out after being in the car for a while, but the lighting wasn't great and I couldn't tell if the pool water... More",
+    "reviewerCity": "North Houston",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel but poor location",
+    "reviewText": "Nice hotel with clean rooms but a very odd location off the Interstate. The staff was friendly and helpful. Our room was not protected from the abundance of highway noise throughout the night. Additionally, it's not extremely intuitive on how to actually get to the hotel through a very weird access road. And, we thought the parking was limited especially... More",
+    "reviewerCity": "benbrook",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Put comfort in Comfort Suites",
+    "reviewText": "In town for 1 night. The staff was very friendly. I thought the managers reception was a nice touch! The breakfast had plenty of variety the rooms are brand new! I love the smell of new carpets. The location great since you are close to the mall, movies, and Pringles Park.",
+    "reviewerCity": "Macon",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful!",
+    "reviewText": "Stopped here on our way home from a business trip to Louisville, KY. A snow and ice storm delayed our travel, and this hotel showed up on the radar at just the right time. One of the best decisions we made during the trip as this location is one of the nicest I've stayed in... and I've stayed in quite... More",
+    "reviewerCity": "Denison",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Nice Stay",
+    "reviewText": "Stayed here for business. Location is great. Right off interstate and close to all kinds of places to eat. Room was very nice and big. Hotel was quiet and no loud noise. Bed very comfortable. Breakfast was average. About what you see everywhere else at hotels. Staff was very nice and helpful. Would stay again. Internet was not very good.... More",
+    "reviewerCity": "Hermitage",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Business trip More like mini-vacation",
+    "reviewText": "I was in town for 5 days for business. My room was a single room with a King size bed, mini fridge, microwave, large flat screen, work desk with usb charging ports, free wifi, lounge area with a couch and chair, and a nice full bath. The room was clean and comfortable, and every evening I would come home to... More",
+    "reviewerCity": "Hermitage",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Yum, fresh cookies",
+    "reviewText": "We were just there last weekend for a car show. When we walked in the whole place smelled heavenly of baking cookies. The most welcoming aroma ever. James had the room I had requested ready and gave us fresh cookies along with the keys to our very clean, cool and comfortable room. We've been staying there for years on the... More",
+    "reviewerCity": "Huntsville",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Just okay",
+    "reviewText": "This was a last minute decision and would only stop again if nothing else was available. Took forever to even see if they had a room as they were having internet problems. And of course internet service was very bad. Finally just gave up trying to connect. The pool has drainage problems and there was a lot of water around... More",
+    "reviewerCity": "Boone",
+    "reviewerState": "IA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great visit",
+    "reviewText": "I love staying at a Comfort Suites that is just as they advertise. They have wonderful beds. They are always soft and they give you 4 pillows to each bed. The breakfast is always great. They were checking on it at all times and making sure everyone was able to get what they want.",
+    "reviewerCity": "Greenville",
+    "reviewerState": "IA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-15T00:00:00.000Z"
+    },
+    "reviewTitle": "hot beer for managers reception with girl asking for tips,, then cold potatoes the next morning of 12/15",
+    "reviewText": "Its a comfortable place to stay at reasonable rates but don't like being asked for tips at the managers reception or at breakfast the next morning... especially when the beer was lukewarm and not freely available..and the next morning more tip solicitation with cold hash browns served...YUK..",
+    "reviewerCity": "Seymour",
+    "reviewerState": "IA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Our family of 6 traveled to Gulf Shores Alabama from Iowa which is about a 18 hour trip. We decided to stop about mid way which is just about half way. This hotel has great hospitality, friendly staff and Fantastic room. There is also an abundance of places too eat(Buffalo Wild Wings, Olive Garden and more) within a mile. For... More",
+    "reviewerCity": "Oskaloosa",
+    "reviewerState": "IA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "We came to Jackson for a few days to visit some of the attractions in the area. This hotel is conveniently located just off the highway. We had a spacious room with two queen beds and a separate sitting area. The staff was very friendly and helpful and we enjoyed the warm pool and hot tub. Breakfast was the usual... More",
+    "reviewerCity": "Missouri",
+    "reviewerState": "IA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Staff and Manager's Reception made the difference...",
+    "reviewText": "Billie the GM, her staff and the manager's reception she had from 5:30-6pm (M-F I presume) made this stay special. Billie seemed genuinely interested in her guests, their travels and their stay. The reception offered a hot meal, finger foods and beverages on the house. I enjoyed this quite a bit and it was nice not having to leave the... More",
+    "reviewerCity": "Huron",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic Hotel",
+    "reviewText": "After being on the road for a few days and staying at one horrendous hotel in OK City, we were beyond pleased with this stay! We got a king size bed and were able to talk the price down on the room by about 20. The staff was very nice. In the evening around 5:30pm there was a little snack... More",
+    "reviewerCity": "Albuquerque",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "What a pleasant place!",
+    "reviewText": "I will stay here again. Easy drive from Memphis or Nashville. Plenty of eating options, and a Planet Fitness gym within a couple minutes of hotel. Very clean, smells good, nice staff. The only bad thing is the treadmill slips, AFTER you start running on it...I hate that please fix it.Nice free food in the evening, and great breakfast.",
+    "reviewerCity": "Kansas City",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Top Of the Pack!",
+    "reviewText": "We travel through Jackson every year coming back from visiting family in Dallas. Every year we've stayed at a different hotel/motel, from low to high end, trying to find a place that meets our needs-clean, friendly, comfortable, and well located. In the Comfort Suites, we feel that we've found it at last. We will be regular customers from now on.... More",
+    "reviewerCity": "Ohio",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "This is a really good hotel to stay at. However, don't expect anything fancy or just fabulous because this isn't it. Overall, it's really good though. GREAT food workers!!....also great for a good nights rest!! There shouldn't be any disturbing noises unless your neighbors are just extremely loud Lol. Great hotel though. Would 99 suggest",
+    "reviewerCity": "Ohio",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "A great overnight stay",
+    "reviewText": "We pulled into this hotel as a respite from highway driving. They charged us the best available internet rate as a walk-in... and that has seldom happened to us before (usually always higher). The hotel is fairly new. The handicapped accessible room was very spacious and comfortable. There was a Manager's Reception in the evening that allowed us to forego... More",
+    "reviewerCity": "BROKEN ARROW",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Impressive. Would definitely stay here again.",
+    "reviewText": "My wife and I were impressed with the large rooms and comfortable beds. Our room was clean. It had a refrigerator and microwave, a sofa, as well as a desk.. The Wi-fi was easy to connect to and we had no problems with that. Breakfast the next morning consisted of waffles, biscuits, gravy, scrambled eggs and boiled eggs, cereal, danish,... More",
+    "reviewerCity": "Anderson",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "The lady attending the breakfast buffet is top notch! What a wonderful person she is. Definitely an asset to the establishment. The front desk representatives were also very polite, helpful and personable. I couldn't have asked for a better set of hotel staff during my visit.",
+    "reviewerCity": "Dallas",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing Staff",
+    "reviewText": "I arranged for my son's baseball team to stay at this hotel while playing in a local tournament. Everyone was so helpful and polite over the phone and very prompt with the emails. There were multiple last minute changes to add more rooms or extra nights and Billie and her staff were very accommodating even though we were probably driving... More",
+    "reviewerCity": "Bridgeton",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great staff and room",
+    "reviewText": "We were very pleased with the hotel, especially the friendly and helpful staff. The nice happy hour of snacks and drinks in the lobby was a pleasant surprise when we checked in and was a very good touch. The room was roomy and comfortable. We made it a point to stay at the hotel again on our return trip through... More",
+    "reviewerCity": "Oklahoma City",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfort Suites is the place to stay!",
+    "reviewText": "Our stay was great! Happy hour offered free light snacks and drinks including beer from 5-7pm. The rooms were clean and in excellent condition, everything functioning. The staff was pleasant, the heated indoor pool and hot tub were also very relaxing and clean. The price wasn't bad (125+tax), a little more than I'd like but couldn't find a better price... More",
+    "reviewerCity": "Ossian",
+    "reviewerState": "IN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a good choice in Jackson",
+    "reviewText": "We were very disappointed in our stay here. The hotel is supposed to be new but it is not well maintained if it is. Cleanliness is an issue from the dried food on the outside of the trash can by the main entrance to the mildewed caulk in the tub. Our main complaint is the noise from the road. We... More",
+    "reviewerCity": "Ossian",
+    "reviewerState": "IN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Very comfortable",
+    "reviewText": "First impressions are everything, and the front desk lady (Aleesha), was very nice! Our room was clean and comfortable. The shower had good water pressure. The bed was soft and cozy. Breakfast had nice variety, and was great also. I would recommend this hotel.",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great find!",
+    "reviewText": "We stayed here for a staff retreat, one night. Check-in was quick and easy, and the staff were very friendly. We made friends during the cocktail hour with beer and snacks, and the breakfast met our needs. Very comfortable room, great room coffee, and super-easy access to much of what this area has to offer.",
+    "reviewerCity": "Memphis",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great find!",
+    "reviewText": "in a double room get the bed by the window, the ac blows from there and it's awesome",
+    "reviewerCity": "Memphis",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Not A Separate Room",
+    "reviewText": "We stopped here late at night during a cross country family road trip with young kids. We called ahead and picked a king suite that had a separate room and a pull out couch. However, the requested suite actually only a wall that went 1/4 of the way across the room. We were disappointed the actual room didn't match what... More",
+    "reviewerCity": "Tempe",
+    "reviewerState": "AZ",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Not A Separate Room",
+    "reviewText": "Wifi is good",
+    "reviewerCity": "Tempe",
+    "reviewerState": "AZ",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleased",
+    "reviewText": "We stayed one night. Our room was a double queen with sleeper sofa, which fit our family of 6 perfectly. Everything was clean and comfortable. The employees were very polite and helpful. Breakfast was great. The hostess was probably the most helpful we have ever ran into. Would definitely stay again.",
+    "reviewerCity": "Dardanelle",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "We stayed here traveling to and from vacation and loved it. They hotel was very clean, and the staff was very friendly. Rooms were comfortable and the pool was a great way to relax. Breakfast was good also and a great way to start the day.",
+    "reviewerCity": "Clinton",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-02T00:00:00.000Z"
+    },
+    "reviewTitle": "No complaints great hotel for area",
+    "reviewText": "Was driving forever. I failed to book early anywhere that morning ND didn't realize that there were no hotels In a 100 mile radius of Nashville on the weekend. Since our next stop was mephis we stayed in jackson. Wanted a Hampton or hilton or comfort suites. Stayed here cus other hotel said only ones with rooms left. Glad we... More",
+    "reviewerCity": "Northern California",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and courteous",
+    "reviewText": "This hotel is very nice. Bonus, they have a managers reception in the afternoon. The food is not much (cheese, crackers, bread rolls and little smokies) but you do get two beers each! No wine or liquor, but they also do have soda. The room was very nice and the bed was super. Only complaint is that the toilet will... More",
+    "reviewerCity": "Willington",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and courteous",
+    "reviewText": "In a double room get the bed by the window, the ac blows from there and it's awesome",
+    "reviewerCity": "Willington",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Clean, poor upkeep",
+    "reviewText": "Due to the misleading sign on the highway that said NEW I passed 40+ miles worth of places to stay in order to stay in this supposed new hotel. This hotel was anything but new. Upon check-in I wasn't informed of anything other than where the elevators were, no wi-fi password or anything. The carpet in the hallways was very... More",
+    "reviewerCity": "Willington",
+    "reviewerState": "AR",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40c1"
+  },
+  "name": "Extended Stay America - Raleigh - Cary - Regency Parkway S",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "NC",
+    "city": "Cary",
+    "postalCode": "27511",
+    "address": "3100 Regency Pkwy",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-78.78996, 35.73348]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, up-to-date",
+    "reviewText": "I definitely feel as though I got my money's worth staying at this hotel especially if you are doing business in the Cary area. However the Wi-Fi is brutally slow and VPN is blocked unless you pay for a Wi-Fi upgrade. Considering that this hotel is basically in the business area having to pay to get access to VPN gateway and higher speed internet seems like a slap in the face.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Extended Stay",
+    "reviewText": "I've stayed in this hotel for over three months and I'd recommend this hotel to others who require a long term stay. The hotel could stand to be upgraded, but,y overall experience has been great. The one recommendation I have for the hotel is to install ice machines and replace the carpet.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Bad",
+    "reviewText": "Very bad did not like it and Hotels.com is charging more for this king of 1-2 star hotel. should lower the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Bad",
+    "reviewText": "Other than the smell of the room and the channels on the tv is good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay!",
+    "reviewText": "I stayed here because I was going to a concert at the Koka Boothe Amphitheater. Wasn't sure what to expect with an extended stay place but I was pleasantly surprised. The woman at the counter was very friendly, the place was clean and the room was great for what I paid. Granted this isn't a nice Marriott or Hilton suite but for the money it was great! Plus it was only a 1/2 mile from the venue so I was able to walk back and forth no problem. Would definitely recommend!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "A Pleasant Stay",
+    "reviewText": "Will stay again definitely",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Amenities were OK",
+    "reviewText": "Older tired hotel. Furniture was from the 80's as well as the kitchen. But the bed was comfy and the staff courteous. Having a kitchen was a big plus inspire of its age.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "NEWLY RENOVATED",
+    "reviewText": "This property has just finished a full renovation. It is comfortable and spacious. The kitchen has full size appliances and there is a spacious closet. Very close (walking distance) to the Koka Booth Amphitheatre which has great concerts!",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Dirty, old, unacceptable...",
+    "reviewText": "Our first room had stuff already clogging the toilet, so the smell was awful. Changed rooms, everything was old and ragged. Waited an hour and a half for pots, pans and dishes. Finally husband went down and got them himself. Advertised a pool so brought kids suits sent them out, come to find out they said it's been closed for 18mo. Nothing really good to say, even the elevator scared my kids.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "Since there was maintenance going on parts of the hotel, we got upgraded to a much better setup. I can't remember her name, but the lady who called to inform us of the work being done was extremely professional and accommodating. I would recommend this hotel to anyone. Good work.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "The hotel was really nice and the price was right. The only thing that was a negative would have been. My friend was in the shower and I was asleep. No bath cloths were in the room and when called to tell them to have house keeping bring me some wash clothes. She stated I would have to come get them. She was already in the shower and I didn't wanna get up yet. So I was super I'll about that. Otherwise than that great stay.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Good reat",
+    "reviewText": "Room was comfortable. Staff is excellent in all regards.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "ok w/hotel, not so much hotel.com",
+    "reviewText": "Hotel was nice, although under renovation. Employees were very nice and worked hard to accomodate. I was told I could get a smoking room through Hotels.com but it turned out to be a non-smoking hotel.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Away",
+    "reviewText": "I arrived about 9 pm to a disaster. Dogs, no linen, carpet made my families feet inch and swell, chair was dirty, made us itch.. could be because of the dogs, which were not mentioned when we were reserving... Not a place to take your family and small children - - if you are roughing it alone... maybe... NOT....",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "OK but lacking",
+    "reviewText": "We arrived to have the desk clerk tell us about the elevator being down and she only had a third floor room. She offered to carry our bags. Not an issue with us. The hotel seemed newly painted but obviously older. The shower had issues as did the sink. The room was clean. But no paper towels, pen, or paper. I have not stayed at this brand before but other brands have these basics. You can get dishes and such but we were there only one night. No glasses in the room. The vending machine only had soda, no water. The location is quiet, kind of an office park area. So not so easy to grab snacks and such. I suppose you could walk to the Residence Inn next door...",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "No Ice",
+    "reviewText": "There was nothing in the cupboards or drawers. No Dishes, Silverware or Pans. The Hotel did not have an ice machine. We had to go out and buy it. It might be OK for extended stay, but not good for a night or two.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "worst hotel ever",
+    "reviewText": "well this hotel is terrible to say the least maybe the worst hotel i have ever stayed at. Let me start off the 1st room they gave us was dirty and nasty. we checked in around 6:00pm and the room wasn't clean there were dirty dishes in the dish washer. garbage was never changed. the sheets on the bed were dirty and not clean my daughter found a cigarette butt in her bed. Called down they changed our room to a new thought this would be ok but no. dirty dishes in the dish washer again. No shower curtain in the bathroom and on top of that a half of role of toilet paper. the fold out couch bed didn't even have sheets on it. One of the reasons i book this hotel was for the breakfast. What a joke all it had was coffee, muffins and breakfast bars and if u want t o call it fresh fruit. No juice for the kids nothing. did not know i was suppose to give coffee to a 11 yr old. If it would have said grab and go i would have never booked it. NEVER AGAIN will i book this hotel or use this site anymore...",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "went to a concert down the street",
+    "reviewText": "awesome location and price to the Cary Booth Amphitherater",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel",
+    "reviewText": "Everything was ok but breakfast was missing.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "not what we bargained for.",
+    "reviewText": "Three of us were traveling to see the US Open in Pinehurst. This was about as close as we could get to that area. We booked a room with two double beds and a sleep sofa for two nights. When we arrived, we were told that the hotel had over-booked and they did not have the type of room that we booked available. But they offered us two rooms (at no additional cost), each with a queen size bed and a sleep sofa. That part was fine. However, one of the rooms had no soap, toilet paper, shampoo, trash can, and sheets,etc., for the sleep sofa. Before we left for dinner, we advised the front desk of this. When we returned from dinner, these items still had not arrived. Although the staff was friendly and seemed accommodating, they were unresponsive to our needs. There was no maid service. The grab and go breakfast left much to be desired.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "2 nights in Cary, NC",
+    "reviewText": "We were in Cary for a concert and we picked this hotel for the location and it was perfect for that. It was clean but for what we paid it was pretty basic.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent hotel, but not what I asked for...",
+    "reviewText": "It was a nice hotel, but not the one I had booked. There are two extended stays in the same area. One has a pool the other doesn't. I booked a room with the one with the pool so I could relax after I had finished my day. 2 hours before I checked in, I received a call, that I had been relocated to the hotel without a pool. It turns out that the room I had booked was under renovation and it wasn't ready to stay in yet. I thought this was strange since I had only booked the room the day before (I felt you would know if a room wasn't going to be ready in less than 24 hours)...",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "It was nice that the hotel was near Kokabooth.",
+    "reviewText": "Rooms were nice and roomy and beds slept good. Close to event and rooms were roomy and comfortable.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Spacious rooms Friendly staff",
+    "reviewText": "The service of the staff was pleasant and friendly. Your dollar rents a lot of room. Very Spacious and close to the location that I was traveling to.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Again!",
+    "reviewText": "The bathtub was dirty, the bathroom looked like it was barely touched by house keeping. The staff had us waiting, and made us feel like we were bothering them to service us.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Not so hot",
+    "reviewText": "This place had the bare minimum. I've stayed at Extended Stays before, but this one was old and everything in it was as little as could be provided. There were no hangers, no spatula, no salt or pepper, etc. The room was clean but I expected more out of the name than what I got.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "wow it cost how much extra to clean",
+    "reviewText": "went to the wrong one first, then was shocked at the 25 dollar pet fee per night per pet, i don't know how much 3 Chihuahuas can cause, but 150 dollars for two night stay seems excessive. nice kitchen but nary a spoon or cup. nice breakfast if you like vending machine rolls an muffins. so i would stay some where else, in fact anywhere else.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "wow it cost how much extra to clean",
+    "reviewText": "The trash had not been taken out of the room and it smelled like cigarette smoke (in a non-smoking room). I was unable to change rooms because there were no similar rooms available. They were willing to move me the following day, but I opted to stay in the room since I was only going to sleep there and was not in the room all day. The manager was super and provided me with a voucher for a free night's stay at any Extended Stay.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend at NC State",
+    "reviewText": "Weekend golf tournament getaway. Hotel was clean, comfortable, and quiet. I needed a place to sleep after a day out and about and this place fit the bill. No frills so if you need a bar, restaurant and other full service hotel amenities then this is not the place for you. Comp breakfast was spartan however the granola bars were good. Location was nice office park - close to NC State. If you need a place to sleep on a budget this hotel is worth looking at.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Theme of our stay was \"absense\"",
+    "reviewText": "The theme of our stay was absense. The clerk was absent from the front desk for twenty minutes while we waited to check in (and they did not answer our call from the lobby phone, as the note left behind ranked that we do). The hotel cleaning staff we absent. We left early in the day and came back at night. No one had even straightened up the bed or bring fresh towels. There wasn't even a trash bin in the bathroom. We just had to leave our garbage out. Other issues: A broken thermostat. Old mattress. Broken draining the tub (had to prop the drain open with a hanger). Although we had a non-smoking room, the rest of the place had a smoker's smell.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Comfortable and Quite",
+    "reviewText": "Check was very easy. I needed a room with a walk in shower and they had one just right. Easy to get around in and the room was first floor and very quite. Kitchen was very well equipped and easy to navigate. The eating table could of been larger and the bedside lamps had a wall light switch which made... More",
+    "reviewerCity": "New Bern",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Unsatisfactory",
+    "reviewText": "We arrived at 1030 pm to check in. The air conditioning in our room did not work and the staff could not move us to another room or fix the ac. The next day we found out that the swimming pool was not working. We had to switch hotels which took several hours to work out, causing us to miss out on work and errands we had planned to run that day.",
+    "reviewerCity": "New Bern",
+    "reviewerState": "NC",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Koka",
+    "reviewText": "Concert at Koka. Close proximity. Staff very nice and helpful.",
+    "reviewerCity": "New Bern",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Checked in and checked out 15 min later",
+    "reviewText": "After a long drive we went to check into our room. We were looking forward to relaxing and going for a swim. But pool was broken and had been for weeks. And the room was not clean. The towels were paper thin and there were stains on walls, carpet and towels. We had to call and have the dishes brought up to our room and when they arrived there was animal hair on them. We checked out. Called expedia and got a full refund and found another hotel. Staff was apologetic and kind but I will never book with chain again.",
+    "reviewerCity": "New Bern",
+    "reviewerState": "NC",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Checked in and checked out 15 min later",
+    "reviewText": "The hotel room had a smell, and though it was a non-smoking facility, that's what it seemed like.",
+    "reviewerCity": "New Bern",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Comfortable.. Very nice staff",
+    "reviewText": "Had a wonderful 4 days here. The front desk clerks were very helpful and pleasant. The housekeeping policy was clearly explained when we checked in, and we had no problem with that. Clean towel and sheets were always availble.The room was spacious and comfortable. Can't wait to come back",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Bogus charge",
+    "reviewText": "I gave them my credit card for pet deposit, no pet damage but they tried to charge me 289. saw it on my credit card as tried but rejected because my card was at limit This was fraud!",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "perfect location for amphitheater",
+    "reviewText": "found that all of the negative reviews that we had read were way over exaggerated, found the hotel to be nothing like described. Maybe they were describing the wrong Extended Stay.The third floor is the smoking floor and you can tell as soon as you step off the elevator. Overall was just what we needed.",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Not what I expected.",
+    "reviewText": "This hotel was nothing close to what was advertised.The bed was broken,the bathroom was dirty and the pool wasn't available during my stay.I would not stay here again.Very disappointed.Don't leave your car unlocked for a second.While bringing groceries up to the room someone actually stole things out of my car. Of course hotel is not responsible.",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Not highly recommendable.",
+    "reviewText": "It was not pleasant. No shower curtain is installed. No coffee available.",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Meh, not going there again.",
+    "reviewText": "While it wasn't horrible, it was sub-par for the pricing. 1. The back door to the place, was jammed open, so anyone could enter the hotel without a card and supervision. This really bothered me. 2. There were no supplies, and I had to make several trips to the front desk to get essentials like the cups and plates (twice because even though I said I 4 people in the room, they gave me supplies for 2), and again for the pots and pans -- that I usually have waiting for me in the room when I come to these types of places with a kitchenette. 3. No toilet paper, had to go down to the front desk for that on the second day. They don't stock the rooms. 4. Food crumbs and other tidbits in the roll-out bed. I had my kids with me, and was pulling out the roll out bed so I had enough beds, and discovered food crumbs under the couch cushions and on the bed itself. I had to go to the front desk (again) for the sheets, blankets and etc.. They didn't have pillows for the roll out beds. 5. They said they offered a breakfast, I went down, they had coffee, some old stale muffins, oatmeal packets. Normally I expect if they say they have breakfast it is a full service, with a waffle bar, a choice of cereal. This one is pretty minor overall. 6. Vending machines were inoperative for laundry supplies. 7. Burn marks on the counter tops. Good points: Staff is very friendly, laundry on site, good location.",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "If all you want is some place to sleep",
+    "reviewText": "First time staying in an extended stay facility. Room was okay. Went to front desk about ice and was told it was in the ice trays in the refrigerator freezer in the room. No way I'm using ice from some funky looking ice trays that I don't know how clean they are or who has touched them. Vending machines were practically empty. Hotel entrance doors were hard to open and no power door opener for handicap or if you had your arms full. It would be pretty much impossible for someone in a wheelchair to come in or go out unassisted. Surprised that doesn't violate some code. Free wifi was a joke since it was about the speed of dial-up. Wanted you to pay extra for any usable speed so I used the hotspot on my phone. Several big construction trucks parking across multiple spaces and taking up about half the spaces close to the lobby entrance when they should have parked in another area of the parking lot. It was someplace to sleep and the access to the main highway was good.",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Avoid Extended Stay all together",
+    "reviewText": "Called to upgrade room to a two/double bed from the single queen size room. Upon check in, I was told that housekeeping had not cleaned the room. I was forced to upgrade back to the original queen size bed and was told there was a pullout couch in the room. When I got in the room ready to go to sleep, the pullout couch was filthy and did not have sheets or comforter. When I tried to get someone from the front desk to bring some to the room, no one answered. Over all I was very disappointed and feel that the room was extremely over priced for the service and quality of the room.",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Not as bad as some reviews suggest - try it.",
+    "reviewText": "I was a little wary about booking this place because of some negative reviews, but it was far better than expected. We arrived after midnight and had to use the phone near the lobby to summon the night help who booked us in. I needed two beds (I refuse to sleep with my brother!) and our room was quite large with a full kitchen. NOTE: buy stuff and move in! Breakfast, as reviewed by others was VERY basic, therefore buy stuff and get the free glasses, pots and pans when available. There is a gas station nearby which has a large convenience store - it's walking distance. Problem is it was never open when we were there. There is a chips and stuff machine but we also went next door to another hotel to see what they had. Of course, just a short drive are full service groceries etc. The neighborhood was very quiet. The other occupants seemed to a mix of people on the road, and extended stay workers of various types. Some of the cooking smells made me hungry. All in all, not bad and the price was great.",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Closest hotel to Koka Booth",
+    "reviewText": "Very friendly staff, very easy to check-in/check-out. Facilities were clean!",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value",
+    "reviewText": "Dropping my son off at NC State. This hotel is just 5 miles from campus and an easy drive. Safe location and helpful staff. Not luxurious but clean with a full kitchen. The only cons were a noisy AC unit and skimpy breakfast offering, but otherwise a great value for the money.",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Never Again",
+    "reviewText": "I knew things were bad when I walked into the hallway and the hotel smelled similar to a hockey locker room. The rooms themselves are decent size and have nice amenities such as a kitchenette. Beds are bearable, but don't expect pillow top. I found at least 4 long strands of hair in the bathtub (I'm a dude with short hair and was traveling alone), which means that they didn't clean it from the last person. The shower also ran out of hot water after about 3 minutes. The WiFi speed is about 1MB, which is pitiful. All in all, you get what you pay for, and I won't be paying for a stay here ever again.",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "It would be a good place to relax for a night",
+    "reviewText": "One night stop, very quiet, the room/kitchen/internet/cleanness were all ESA standard. Staff was pretty friendly. Location is not very convenient unless you have a car. 10 min by walk to nearby Walmart as nothing is around after 6pm. Definitely comfortable place to rest.",
+    "reviewerCity": "NEW TAIPEI CITY",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",

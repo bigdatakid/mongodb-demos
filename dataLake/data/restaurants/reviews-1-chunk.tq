@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Accomodations",
+    "reviewText": "I had a flight out of JAX and looked for a place to leave me car. This place was great! Close to restaurants and a gas station. The shuttle ride to the airport was about 10 minutes. The hotel itself was quiet and comfortable. Breakfast was OK. I will definitely stay here again when the need arises.",
+    "reviewerCity": "Detroit",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Fine choice short stays near airport",
+    "reviewText": "Everything was as expected from the booking information, the staff who checked me in were very helpful and friendly. Room was small but fine for a single night stay. Room and bathroom were clean if a little worn. No issues with late check in and early check out. Only complaint was that when I arrived the room was incredibly warm and stuffy, and even cranking the fan didn't really alleviate the humidity in the room. Was not intolerable, and the bed was next to the air unit which helped.",
+    "reviewerCity": "Detroit",
+    "reviewerState": "MI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Average hotel. Good location.",
+    "reviewText": "Good for short stay. Check in is fast. Friendly staff. Room is average size. Bathroom is clean, but, lack of toiletries (no body wash, shampoo or conditioner.) Just a tiny soap. Bed is comfortable. Breakfast is toast, jelly and some vending machine pastries. Easy access to freeway. Safe area.",
+    "reviewerCity": "Detroit",
+    "reviewerState": "MI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "It's alright",
+    "reviewText": "This place is alright. Not bad. Not amazing. Just alright. The front counter workers were pretty nice. I wish I got her name because she was fantastic. Beds and bathrooms are comfy, but be prepared to leave a tip for the cleaners (sorry, I'm not used to this). Breakfast is very basic. If you're looking to save money and just... More",
+    "reviewerCity": "Detroit",
+    "reviewerState": "MI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "It's alright",
+    "reviewText": "the rooms are small and its outdated but its clean, the staff is super friendly and the beds are very comfortable! will stay again",
+    "reviewerCity": "Detroit",
+    "reviewerState": "MI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "It's alright",
+    "reviewText": "Reserved standard room for Thurs. Fri. for the hurricane. Called once we realized we had booked a standard queen (I was with my son) and was told that for 20 total, they would upgrade to a king with a sleeper sofa. Thanked them so much! Once there, was told it was an EXTRA 30 PER NIGHT...after my son explained the female manager basically called him a liar. Another manager came in and they finally only gouged us for 30 total, but for a double queen that had come available. The room wasn't too clean, so only after a couple of hours in the room, we decided to leave...they refunded Friday, but refused to refund for Thursday, even though it was only around 3 PM and they could have easily re-sold the room (and probably did). There are much better choices in the area.",
+    "reviewerCity": "Detroit",
+    "reviewerState": "MI",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-07T00:00:00.000Z"
+    },
+    "reviewTitle": "It's alright",
+    "reviewText": "Enough space for comfortable stay, I wish the prices are reduced too",
+    "reviewerCity": "Detroit",
+    "reviewerState": "MI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-04T00:00:00.000Z"
+    },
+    "reviewTitle": "It's alright",
+    "reviewText": "Cozy hotel and good price. My only complain is that the fridge was not working.",
+    "reviewerCity": "Detroit",
+    "reviewerState": "MI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Personal",
+    "reviewText": "Great place to stay. Quiet, convenient and affordable. Close to great dinning and shopping. Less than five minutes away from airport and offers great features such as continental breakfast,laundry facility and gym.",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Quaint",
+    "reviewText": "Initially, the room was smaller than I expected, but my stay was pleasant nonetheless.",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {

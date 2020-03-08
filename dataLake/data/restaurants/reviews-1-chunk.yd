@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Beds and Pet Friendly",
+    "reviewText": "The property was very nice in a good location. Room was spacious and the beds were particularly comfortable. Everything was very clean. Only downside there was no freezer in the refrigerator. Breakfast was adequate.",
+    "reviewerCity": "MACON",
+    "reviewerState": "MD",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel in mid Georgia",
+    "reviewText": "This is the only hotel I will stay at in the area - its location right off I-16 makes it convenient but it's the friendly staff and clean, comfortable rooms that make it my top choice when I'm traveling this way. Breakfast offers decent options but there's a Cracker Barrel almost in the parking lot that provides a heartier breakfast... More",
+    "reviewerCity": "MACON",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Best room for the best price",
+    "reviewText": "My dad and I were on our way home from a trip to florida we stopped for the night in dublin and were happily surprised at the size and cleanliness of our room we both were able to get a great night sleep for the long day ahead.",
+    "reviewerCity": "Conneautville",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Best in town",
+    "reviewText": "Everything was great. The staff was very friendly and helpful. The lobby was nice. The furnishings and decor were up to date. The free breakfast was great. It was worth it to spend a little more a night to get the breakfast.",
+    "reviewerCity": "Conneautville",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Super nice",
+    "reviewText": "Has to be one of the best if not the best hotel I've stayed in. Everything was excellent room super clean front desk help awesome. It's located close to several eateries and easy On and off access to the highway. I will definitely stay in this hotel again",
+    "reviewerCity": "Conneautville",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleasantly surprised",
+    "reviewText": "From the desk personnel to the housekeeping staff to the lady who handled the breakfast buffet, it appeared that the entire staff got along well w/each other were extremely friendly helpful to guests. Our room was clean neat although on the interstate side, very quiet. The breakfast was wonderful!!! Most anything you could ask for was... More",
+    "reviewerCity": "Vernon",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Place to Stay",
+    "reviewText": "We have stayed at this location many times. Always received great service. The location is very convenient with a Longhorn's, Zaxby's and Cracker Barrel across the street. Kids love to swim in the indoor pool that is always clean and well maintained regardless of the season.",
+    "reviewerCity": "Vernon",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly place to stay",
+    "reviewText": "I have to stay at this hotel sometimes several times a month and they are always very helpful and pleasant to work with. From the front desk to the breakfast meal provider, which is very nice, Food is good and atmosphere is great.",
+    "reviewerCity": "Jackson",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "No security",
+    "reviewText": "Horrible hotel with no security between rooms. The owner was on vacation and the assistant general manager failed to answer his cell phone. They offered me a rubber door stop - sadly I have been traveling since 7am and its 10:45pm. I am exhausted and they are sold out. This may also be my goodbye note since I may be... More",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Rate Gouging",
+    "reviewText": "Rate was raised due to hurricane two weeks ago. Will never stay there again. After discussing with front desk manger she said their rates fluctuate almost daily and there was nothing she could do. Wrote to LQ corporate awaiting an answer.",
+    "reviewerCity": "Dublin",
+    "reviewerState": "GA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",

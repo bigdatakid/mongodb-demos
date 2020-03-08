@@ -1,0 +1,1000 @@
+    "reviewDate": {
+      "$date": "2014-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Hotel",
+    "reviewText": "Hotel was well maintained and clean. The staff was friendly and very helpful. Room was spotless and very clean and comfortable. The breakfast was the best I've ever had in a hotel. Will stay here again and highly recommend this hotel .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "2nd time",
+    "reviewText": "Great spot to stay. My only complaint is employees smoke outside on a bench outside the carport. Don't appreciate walking thru second hand smoke to access the hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "The best room in Crossville",
+    "reviewText": "Definitely the newest and nicest hotel accommodation in the Crossville area. It is fresh, new and inviting. However the staff at the Comfort Suites across the street were much more friendly and service oriented.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "The best room in Crossville",
+    "reviewText": "A nice hotel conveniently located next to the interstate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "vacation 2015",
+    "reviewText": "Visit relatives of husband.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay.",
+    "reviewText": "Our stay was great!! Clean room, facility,staff was courteous,very professional and my wife and I thoroughly enjoyed our stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "One night in Crossville",
+    "reviewText": "We were spending one night in Crossville, TN for pleasure. The only negative would be the breakfast in the morning. The woman was by herself and seem frazzled. My husband wanted pancakes and he was told he would have to wait 20 minutes for the batter. No hot chocolate. Crowded room due to graduations, ball games, and a wedding.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "One night in Crossville",
+    "reviewText": "The suite we had was awesome. There were two queen beds and sofa bed. Very convenient for the 5 of us. The hotel was under some renovation and I would like to see what it looks like with the new changes. the pool looked great unfortunately we did not get a chance to use it. Breakfast was good. we would stay there again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "One night in Crossville",
+    "reviewText": "Budget-minded travelers appreciate amenities like complimentary breakfast buffet and a kids-stay-free policy. In ShortSince its 1952 debut in Memphis, Tenn., Holiday Inn has become one of the most recognized hotel brands in the world. In addition to the Kids Eat and Stay Free program, Holiday Inn Express offers amenities like free high-speed Internet access, in-room data ports and cable television. Upgraded showers feature multi-function shower heads, curved curtain rods and upscale bath products. A complimentary breakfast bar is available with warm cinnamon rolls and 100-percent Arabica coffee.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-09T00:00:00.000Z"
+    },
+    "reviewTitle": "comfortable stay",
+    "reviewText": "We were having renovations done at home. This was a nice stay for a couple of days. Price was a little high for this hotel. Room was clean. For a suite it was small. Nice breakfast nice indoor pool.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel but there was a major issue with room.",
+    "reviewText": "The hotel was very nice however, we booked a room with 2 queen beds. We had 3 adults in the room. The air conditioning unity quit working and it smelled like electrical wires burning inside our room. The hotel did give us another room but it only had a king bed as the hotel was booked full. On our second night they did get us back in a room with 2 queen beds but never offered us any discount for the inconvenience of having to relocate to different rooms. The customer service was good but they should have given us a credit for at least one of the nights we stayed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40cd"
+  },
+  "name": "Country Inn \u0026 Suites By Carlson, Rocky Mount, Nc",
+  "categories": ["Family-Friendly Hotels", "Hotels \u0026 Motels", "Budget Hotels", "Business Hotels", "Tourist Hotels"],
+  "location": {
+    "country": "US",
+    "state": "NC",
+    "city": "Rocky Mount",
+    "postalCode": "27804",
+    "address": "672 English Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-77.847276, 35.979098]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Room and breakfast just average",
+    "reviewText": "The staff are very friendly and accommodating. The dog walk area was cleaned up this trip. The bathroom floor wasn't as clean as it should have been. Breakfast would have been much better if their wasn't aluminum foil in the scrambled eggs. The 20. charge for the pet is acceptable but made the stay more expensive here than all of... More",
+    "reviewerCity": "Davenport",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Room and breakfast just average",
+    "reviewText": "stay here quite often. great staff. clean rooms. they have someone there cleaning around the clock most days of the week. free breakfast!",
+    "reviewerCity": "Davenport",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Room and breakfast just average",
+    "reviewText": "brings a swimsuit for their indoor pool! :d",
+    "reviewerCity": "Davenport",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Room and breakfast just average",
+    "reviewText": "Clean. Friendly. Great breakfast!",
+    "reviewerCity": "Davenport",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Room and breakfast just average",
+    "reviewText": "free wifi, very quite and clean. free breakfast. i recommend!",
+    "reviewerCity": "Davenport",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Crisp and Clean",
+    "reviewText": "After traveling all day it was so wonderful to get into a nice clean bed which in addition was very comfortable. The room was set up very nice and we were indeed, content. The breakfast the next morning was as good as any you would get at a restaurant, with both hot and cold cuisine available. Having hot coffe and... More",
+    "reviewerCity": "Baltimore",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Doneva was awesome!!!",
+    "reviewText": "We were in town for the Haliwa Saponi Pow wow on April 15th. There were some issues with our booking and which room we were in but Doneva was right on top of that and got everything straightened out for us. Thanks so Doneva!!! Our room was very nice clean comfortable - only complaint is that the drapes... More",
+    "reviewerCity": "Richmond",
+    "reviewerState": "VA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Doneva was awesome!!!",
+    "reviewText": "new, clean, nice, affordable. enjoy the indoor pool. wish we had the time/supplies to make use of the outdoor gazebo and guest grill.",
+    "reviewerCity": "Richmond",
+    "reviewerState": "VA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "WONDERFUL STAY",
+    "reviewText": "Where to begin..the staff is friendly and helpful. Front desk Marquita was great when checking in, Ellen of Housekeeping got us just baked fresh cookies when we checked in. We had a king size bed room. Spacious and absolutely clean! The bed was so comfy, best bed we have slept in on the road. Breakfast room was spacious and had... More",
+    "reviewerCity": "The Villages",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "2 night stay",
+    "reviewText": "We stopped here for 2 nights on our way home from Virginia to break up the travel time / car time with our 2 girls. I had read the tripadvisor reviews before deciding to stay here and booking our reservation months ago. There's not much to do for a family in Rocky Mount which is disappointing because there could be... More",
+    "reviewerCity": "Augusta",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "2 night stay",
+    "reviewText": "Brings a swimsuit for their indoor pool! :D",
+    "reviewerCity": "Augusta",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Family to Disney traveling with pet",
+    "reviewText": "Going thru hotel.com was too expensive. Hotel did not have any of the charges and we were charged for the pet again at check-in. Hotel was very crowded but understandable since it was during spring break.",
+    "reviewerCity": "Red Bank",
+    "reviewerState": "NJ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Pretty ok",
+    "reviewText": "Had a suite with two tvvs, one wouldn't power on at all. Mentioned it at checkout but no remediation offered. Ok otherwise. Comfortable beds. Breakfast looked ok but we went to the diner down the street, the shiny one and it was very good",
+    "reviewerCity": "Nags Head",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Pretty ok",
+    "reviewText": "Stay here quite often. Great staff. Clean rooms. They have someone there cleaning around the clock most days of the week. Free breakfast!",
+    "reviewerCity": "Nags Head",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great overnight stay!",
+    "reviewText": "Comfortable and clean and good food! The location is excellent, and the hotel offers great value for the money. The staff is very friendly. After driving all day, this was the perfect place to stop and spend the night.",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel",
+    "reviewText": "We needed a hotel that accepted our dog and this was a perfect place for an overnight during our road trip, halfway from NY to FL. Very clean, a grassy area for pets, friendly staff and good complimentary breakfast. Will stay again when in the area.",
+    "reviewerCity": "Pleasantville",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel",
+    "reviewText": "free wifi, breakfast, comfy beds and pet friendly!",
+    "reviewerCity": "Pleasantville",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Baseball tournament",
+    "reviewText": "Accommodating hotel, clean, nice pool. Close to sports complex. Nice front porch for evening relaxation. Gazebo available with picnic table. Off of the main highway, safe for kids to play outside. Pond on site.",
+    "reviewerCity": "Pleasantville",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Favorite Dog Hotel",
+    "reviewText": "We have been traveling with our dog the past 2 years and our stay in this hotel is now my favorite. Many dog hotels have very worn and unappealing furnishings. That was not the case with Country Inn. The pet fee was also extremely reasonable. We have paid substantially more in less appealing hotels. We will now make this hotel... More",
+    "reviewerCity": "North Hampton",
+    "reviewerState": "NH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Way off I-95 but worth it",
+    "reviewText": "My family and I were traveling to SC, when we realized that we needed a quick place to stay for the night. Country Inn and Suites answered the call. The price (less than 110) was well worth the night. The kids were getting restless around 10pm, so after using kayak we decided this would work best. The location is way... More",
+    "reviewerCity": "Warrensburg",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Way off I-95 but worth it",
+    "reviewText": "i love the oatmeal. they are great to my dog",
+    "reviewerCity": "Warrensburg",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "We stayed at this hotel over night on our way to Sylvsn Heights bird park in Scotland Neck.Anyways this is a very nice place, we've always stayed this hotel where ever we go. Staff was very friendly and courteous. We brought our granddaughter and needed a crib. We called the front desk and asked and in no time the guy... More",
+    "reviewerCity": "Clayton",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Road trip stop over with dog",
+    "reviewText": "Good halfway point from CT to FL. Rooms were spacious and clean. Basic accommodations, nothing fancy which is all we needed. Daughter (7) was looking forward to swimming, but the pool and pool area were filthy. Garbage and dirty towels everywhere. Waited to see if it was cleaned up by morning, but it wasn't. Good area for walking pets, nice... More",
+    "reviewerCity": "Clayton",
+    "reviewerState": "NY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleased",
+    "reviewText": "I was very pleased with the service I was giving the rooms were very clean the bathrooms are very clean hotel in general very clean staff was very nice and helpful The beds were very comfortable very good Wi-Fi signal",
+    "reviewerCity": "Richmond",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleased",
+    "reviewText": "Free wifi, Very quite and clean. Free Breakfast. I Recommend!",
+    "reviewerCity": "Richmond",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleased",
+    "reviewText": "I love the oatmeal. They are great to my dog",
+    "reviewerCity": "Richmond",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Would be a 5 except",
+    "reviewText": "The minifridge is a bit too small and you need to get on your knees to access it. It has no freezer compartment and the TV has no TV Guide channel. Everything else is a 5 so here is a nice place to stay. The cleanliness of the room and breakfast area is excellent.",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Would be a 5 except",
+    "reviewText": "Free wifi, breakfast, comfy beds and pet friendly!",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Would be a 5 except",
+    "reviewText": "clean. friendly. great breakfast!",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointing",
+    "reviewText": "We found something wrong with the pillows and were unhappy with the comfort of the beds. The real problem however, was the free breakfast which is always provided by Country Inn. Normally there are people present making certain everything is as fresh as possible. This food was dried out and chewy and no shining smile asking if everything is good!... More",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Fabulous staff and clean, large rooms",
+    "reviewText": "Jeremy at the front desk was amazing! After realizing our booking was incorrect, he bent over backwards to find us 2 rooms that would meet our needs, and made sure everything was in order. This was all at 8 PM, when he had few rooms left to work with!",
+    "reviewerCity": "Mississauga",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Over priced for value",
+    "reviewText": "Room smelled like smoke. Housekeeping just pulled trash, made the bed, and replenished supplies during stay over. They said that was their policy. The complimentary breakfast was not hot just warm. The bread selections were hard.",
+    "reviewerCity": "Wake",
+    "reviewerState": "VA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "A great nights sleep",
+    "reviewText": "Arrived in Rocky Mount after a very stressful long day's drive en route up North. Staff extremely helpful and polite-check in and check out a breeze. Clean room, comfy bed -pool available -what more could a tired travel or want",
+    "reviewerCity": "Albany",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent",
+    "reviewText": "Excellent service by staff Markita. Also, other two ladies on staff that night gave very good customer service. Hotel very clean. Me and my family will always stay at this hotel in Rocky Mount, NC with all the great service and great people like Markita and the rest of staff.",
+    "reviewerCity": "Pinetops",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent",
+    "reviewText": "New, clean, nice, affordable. Enjoy the indoor pool. Wish we had the time/supplies to make use of the outdoor gazebo and guest grill.",
+    "reviewerCity": "Pinetops",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely hotel",
+    "reviewText": "Clean and comfortable. Just what I expect from country inn and suites. Beds are always great. Will definitely stay here again on our way north in the spring. Great diner near hotel to go for dinner after check in.",
+    "reviewerCity": "Muncy",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Nothing country about it.",
+    "reviewText": "The hospitality was superb. The amenities were clean and comfortable. The price was reasonable. The stairway in the lobby added a cozy , at home feel to the hotel, but other than that there is nothing country about it...oh, the southern charm was complementary.",
+    "reviewerCity": "Charlotte",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Do Not Stay Here",
+    "reviewText": "Dirty, Filthy, Broken Down Mess. Better to have slept in my car. The staff was very friendly, but they did not have enough people working the front desk. Should have just gotten my money back and went somewhere else. Will never stay again.",
+    "reviewerCity": "USA",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-31T00:00:00.000Z"
+    },
+    "reviewTitle": "great",
+    "reviewText": "A good place to stay and safe. Very Clean and neat will stay there again. Great customer service fantastic view perfect for vacation are meetings. you can even have a party there or group meetings. i will rate this Inn a 9 great pool and fitness center.",
+    "reviewerCity": "Rocky Mount N C",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-02-04T06:00:00.000Z"
+    },
+    "reviewTitle": "great",
+    "reviewText": "Get down for the free breakfast to start the day off right. You paid for it, so use it... it's worth it",
+    "reviewerCity": "Rocky Mount N C",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40ce"
+  },
+  "name": "Wilshire Inn Motel",
+  "categories": ["Hotels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "OK",
+    "city": "Cushing",
+    "postalCode": "74023",
+    "address": "1720 E Main St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-96.74215, 35.9856]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "Go Somewhere Else!!!",
+    "reviewText": "The staff were very rude. Didn't change blankets. Rooms were very small. The sign said free breakfast but they only offer cereal and milk and when I took my children to the office they didn't have any milk and it was when they just started to allow guests to get quotbreakfastquot and were not going to get any more. My husband wasn't able to see the place before he paid for a week stay because he was at work but it was the most unpleasant week of our stay in Oklahoma out of the two months. I suggest Drumright inn! It's like 10 minutes out of Cushing off the OK highway. We seen there lodging and it was very nice. Because we were a family of 5, they offered us to stay at one of their houses that they rent. VERY NICE and AFFORDABLE! But summary of this review is I wouldn't stay at the Wilshire Inn Motel ever again in my life unless I was so desperate and just needed a closed room and bed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewTitle": "Go Somewhere Else!!!",
+    "reviewText": "Worst service ever . Every single employee there was rude! They were rude about giving us more toilet paper when we paid to get service and they were being rude about it. NEVER GO HERE!!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40cf"
+  },
+  "name": "Miss Kitty's Boarding House",
+  "categories": ["Bed \u0026 Breakfast \u0026 Inns", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "NC",
+    "city": "Statesville",
+    "postalCode": "28625",
+    "address": "162 Henry Martin Trl",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-80.98843, 35.987297]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40d0"
+  },
+  "name": "Mirazur Knoxville Suites",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TN",
+    "city": "Knoxville",
+    "postalCode": "37912",
+    "address": "5317 Pratt Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-83.969034, 36.014181]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Love the breakfast. Decor feels old and poor sound proof. I can easily hear people next door chatting and laughing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Bargain but not close to town",
+    "reviewText": "Good bargain but a little far from downtown.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "It was OK. good price",
+    "reviewText": "It was OK",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "see you again",
+    "reviewText": "Staff was very nice we loved the room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place, reasonable",
+    "reviewText": "Great place",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place, reasonable",
+    "reviewText": "Good for one night. Big room and comfortable beds",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place, reasonable",
+    "reviewText": "Pool was super tiny, but the hot tub was nasty with chemicals that burned your eyes nostrils. Breakfast room was too crowded for number of people staying there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value for a family UT visit overnight",
+    "reviewText": "Great cheap deal on Hotels dot com and a LOT nicer than we expected. Sofa bed was great for the family",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "Nice size room. Fit our family of 5 perfectly",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "Did not eat breakfast. Appeared high fat foods Lobby in fair condition in contrast to high quality of rooms",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "nice place easy acceces",
+    "reviewText": "great help and excellent advice on surroundings very nice person at the desk at check-in",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Smoky and old",
+    "reviewText": "Dingy, dark, lots of smokers coming in and out",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Smoky and old",
+    "reviewText": "The rooms were generous in size, especially for the price. The shower and bathrooms were our only issue with mold growth obvious around the tub/shower.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice business getaway with the kids",
+    "reviewText": "We really enjoyed ourselves. The pool was not too big and the hot tub was comfortable and not sudsy. We also could walk to the grocery store which my kids enjoyed also.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Repeat customer",
+    "reviewText": "I stay here each year during my daughter's cheer competition. There is plenty of room, they love the continental breakfast and the pool. It is close to restaurants and the downtown area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "When your in a bind....",
+    "reviewText": "Unexpected layover required a room for the night. Reviewers must have been grading on a curve system. While it was not horrible, it was not excellent either. Most Mirazurs I've stayed in were much better and didn't have an over funky smell that permeated throughout the lobby and elevator. Thank goodness that the room wasn't as bad. But... When you're in a bind, it'll have to do.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for us and our dog!",
+    "reviewText": "It was a nice, comfortable hotel, much better than my preconceived notions of Mirazur. It was a really spacious suite, Waffle House and Mexican next door, which I really appreciated. Love that Mirazurs are pet friendly!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "On the way to Atlanta!",
+    "reviewText": "It was great for a nights stay on the way to your final destination. It was clean and I felt comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the money",
+    "reviewText": "The toilet seat was up when I got there. So I don't know if the toilet had been cleaned prior to my arrival or not. There are soda or ice machines on the second floor. I had to go down to the lobby to get a soda and ice. Very inconvenient!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the money",
+    "reviewText": "Nice people but the exercise room has a treadmill and cycle. That's it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the money",
+    "reviewText": "The front desk worker was really rude when we checked in and out. He did not speak when we first walked in. There was also a roach crawling on the bed the next morning. The hotel gave us money off for our stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the money",
+    "reviewText": "Better on the inside than outside. Pleasantly surprised.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the money",
+    "reviewText": "Very friendly staff. Quiet, clean room. Perfect location for the competition we were in town for. Easy on/off access to the highway. Affordable, great value!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Not consistent",
+    "reviewText": "We stayed on a Thursday and again on Friday going to and coming back from family in the area. The first night we booked a 2 bed and received a king with a sofa. Dead tired from driving 8 hrs (3am) I didn't ask for the correct room. The front desk man was very polite and I'm sure he would've switched us. My son who's 11 complained the sofa bed was very uncomfortable. We were on 4th floor and bedding was very nice and bed comfortable. Great water pressure and hot. We decided to stay again on way home. Lady who checked us in was borderline rude like we were inconveniencing her. Got 3rd floor 2 beds. Beds squeaked at the slightest touch and were hard and lumpy. Clumpy pillows felt like they had been washed and dried and were small squares. Very uncomfortable. Shower never got hit and water pressure not great- had a hard time believing this was same hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and friendly.",
+    "reviewText": "Our room was clean and the staff was friendly and helpful. We had a family member in the hospital nearby. Close to the interstate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and friendly.",
+    "reviewText": "internet is slow as christmas.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and friendly.",
+    "reviewText": "I had passed this hotel many times when visiting Knoxville. Nothing special from the outside. An attractive rate had me give it a try. It's a lovely facility. Super clean and quiet. Wonderfully welcoming to my dog.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Very average hotel",
+    "reviewText": "We stayed here while visiting the University of Tennessee. It was well located, clean, and met our needs. I would stay again. The breakfast was fine. Everything was as I expected it to be.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Very average hotel",
+    "reviewText": "it's an all-suite hotel. shockingly nice for a Mirazur. not exactly the plaza, but nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-06T00:00:00.000Z"
+    },
+    "reviewTitle": "john d.",
+    "reviewText": "biz trip, great location, great hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "john d.",
+    "reviewText": "Have passed by this property numerous times when staying in area on business. This trip was to visit daughter for Parents Weekend at UTK. Booked room here due to most other rooms in the area were either booked, or were price gouging due to UTK game weekend. Rate on Hotels.com was slightly higher than normal, but still very reasonable. Room primarily just used to sleep and prepare to go back to campus. Exterior doesn't look like much, but room was clean, and obviously updated in the last couple of years. Personnel at desk were very friendly and helpful. Property is close and convenient (less traffic than normal) to the campus and downtown area (5-10 minutes). Only real downside is not being able to walk to campus, and lack of shopping/dining options in close proximity. We would definitely stay here again when visiting the university.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again",
+    "reviewText": "Bed was uncomfortable. No water pressure in shower. AC drained into the room. Universal remote kept knocking out sound on TV. Elevator old rickity and slow. Will not go back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Large, comfortable, clean rooms.",
+    "reviewText": "Large, comfortable, clean rooms. Quick check-in and check-out. Great experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "looks nice, but...",
+    "reviewText": "Beautiful room. Terrible bed and shower though. Aesthetically pleasing, but comfort truly lacking for a good night's sleep. Woke up with aching back, neck, knees and shoulders due to lumpy, bumpy sagging bed. Shower had very little water pressure. Night clerk didn't even acknowledge me when I walked up to the desk, had to ask if she even worked there. Obviously needs some social skills training!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for the Price",
+    "reviewText": "The room was spacious and clean. The smell was a little stale, but not unpleasant. It had been raining a lot, so understandable that there was humidity. I would stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "always stay here",
+    "reviewText": "It's right down the street from my parents",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "always stay here",
+    "reviewText": "a great place to stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-10T00:00:00.000Z"
+    },
+    "reviewTitle": "always stay here",
+    "reviewText": "Everything was fine.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay!",
+    "reviewText": "Nice, clean and comfy. Staff was very nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "cant be perfect every time",
+    "reviewText": "i stayed here back around christmas of 2015, loved it, loved the staff and the king size room.. i got here tonight to a rude front desk attendant who didnt even greet me when i got here not to mention gave me a room that was already occupied with someone in it in which i opened the door on them.. gave me a different room and didnt really even apologize her excuse was that she just got to work and doesnt know who is in what room..",
+    "reviewerCity": "",
+    "reviewerState": "",

@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Large room and pool!",
+    "reviewText": "The first room smelled of urine and the beds were dirty so we had to change rooms. Second room was ok.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Large room and pool!",
+    "reviewText": "Nice location, friendly staff, comfortable bed. That's about it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Everything was perfect except for a poor air conditioner. Not able to cool the room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and Clean",
+    "reviewText": "Convenient and Clean",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "Nice hotel but the floors were very dirty. Very clean beds and bathroom. The staff was very friendly. Lots of close restaurants.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4008"
+  },
+  "name": "Econo Lodge Big Spring",
+  "categories": ["Budget Hotels", "Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Big Spring",
+    "postalCode": "79720",
+    "address": "804 W Interstate 20",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-101.468976, 32.255632]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Editorial Review Nationwide hotel chain is family- and business-friendly. Amenities include communication facilities, large conference rooms, Jacuzzi suites and outdoor pools.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4009"
+  },
+  "name": "Mirazur",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "WA",
+    "city": "Deming",
+    "postalCode": "88030",
+    "address": "1500 W Pine St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-107.79062, 32.266278]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",

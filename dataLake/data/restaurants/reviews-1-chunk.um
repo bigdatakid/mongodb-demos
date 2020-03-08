@@ -1,0 +1,100 @@
+    "reviewerCity": "Auburn",
+    "reviewerState": "AL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-20T00:00:00.000Z"
+    },
+    "reviewTitle": "gets better each time",
+    "reviewText": "This was our second time and each time we stay there, my wife and I enjoy our experience more. Just the history of the house is really amazing. The staff is wonderful and you will not be disappointed. The only disappointment you will have is if you never go there!! Thanks David!",
+    "reviewerCity": "Central Florida",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ff1"
+  },
+  "name": "Bailey Hotel",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Bunkie",
+    "postalCode": "71322",
+    "address": "200 W Magnolia St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-92.18473, 30.953453]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ff2"
+  },
+  "name": "El Cortez",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "MT",
+    "city": "Pittsville",
+    "postalCode": "21850",
+    "address": "San Felipe",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-114.8303, 31.02996]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Got Robbed from Staffers and Cops did nothing!",
+    "reviewText": "Do not ever stay at this hotel. Four girlfriends went to San Felipe for the weekend in November 2014 and decided to stay at the El Cortez. Big, costly mistake. They all got robbed the first night there by brazen employees who entered their rooms! They stole my girlfriend's purse while she was sleeping in the room! There was no... More",
+    "reviewerCity": "Rosarito",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "best view",
+    "reviewText": "I looooved staying here its soo romantic and beautiful its right off the water they also have fun activities to do in the water. the view is perfect and your literally feet away from the water. theres also a good restaurant to eat there and have drinks its walking distance to a lot of shops and stores. Im not sure... More",
+    "reviewerCity": "Montebello",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Be Safe.",
+    "reviewText": "If you stay here, lock the deadbolt. There is a thief who has a master key. This did not seem to upset the cash-only front office staff. He entered 3 bungalows while guests were sleeping and stole purses and iPhones and iPads. If you leave, keep all valuables on your person. See the previous review! The beach bungalows are like... More",
+    "reviewerCity": "Dana Point",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Very disappointed !!!",
+    "reviewText": "They charge you like a HILTON but its 10 times worse than Motel 6 We stayed at the Suite with Kitchen and it was very uncomfortable The Stove was so old that hardly work, only 2 out of 4 burners worked. No kitchen utensils to cook a decent meal, thats the minimum you expect. Beach is good, but bring your... More",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-09T00:00:00.000Z"

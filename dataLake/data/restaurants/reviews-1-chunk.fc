@@ -1,0 +1,1000 @@
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40c8"
+  },
+  "name": "Super 8 Kingston",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TN",
+    "city": "Kingston",
+    "postalCode": "37763",
+    "address": "905 N Kentucky St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.51029, 35.87883]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great two night stay for a great price",
+    "reviewText": "Aside from obvious things like cleanliness and being in an area that feels safe, (which this hotel passed on both accounts,) I look for things like shower water pressure and temperature. This hotel also passed on these things. i didn't eat breakfast, but it was a typical pastries, fruit, coffee, juice, waffle-maker breakfast. good price for a short stay, would recommend",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad stay",
+    "reviewText": "The bathroom had pee on the wall. The towels smelled bad. I stayed 2 nights.... When they cleaned the room, they folded the dirty towels on the floor like new... And I originally had 4 large towels, 3 hand towels, 2 wash cloths... After they were done cleaning I had only 2 large towels, 1 wash cloth. There were bugs all over the outside, you get swarmed by them in the morning. Don't stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "It will have to do",
+    "reviewText": "We have been staying at this hotel for many years mainly because it is the only one in Kingston that is decant. They have spruced up the rooms from last year which was an improvement. I guess for the price I should not complain but I will a bit anyway in hopes that I can make a difference. Three things. First the the bed comforters were not the washable kind and they just did not appear clean. We all know what happens on these things. Wish these places could figure out a way to wash them after each stay. Second, the bathroom fan sounds like a helicopter is landing. From my memory, all the rooms are like this. How can one person get up and go to the bathroom without disturbing their wife, kids or husband when special forces are landing in your room Lastly, expanding on my last topic. They need a curtain or door between the sink mirror and the sleeping area. There is no way for the other person(s) to sleep if someone gets up and needs to leave early.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Good For A Night",
+    "reviewText": "Room was okay, nothing fancy. There were Roaches in our room. I don't plan on using this location again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value",
+    "reviewText": "Room was clean, service was excellent, truck parking available",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Good buy in Kingston",
+    "reviewText": "Clean room. Acceptable breakfast bar. Close to other fast food restaurants. Near the lake.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "It was nice and clean.",
+    "reviewText": "it was good experience. It was clean. The only thing I didn't like is that it did not have a pool.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "It was nice and clean.",
+    "reviewText": "I would stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Bed Bugs",
+    "reviewText": "Room was horrible, there was a stink bug problem. I also had bugs crawling on me in bed. I researched and they look like bed bugs. There was also a Steel Reserve 211 Malt Liquor drink in the dresser. Worst place I have ever stayed and I have traveled to 42 states",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Bed Bugs",
+    "reviewText": "Room was horrible, there was a stink bug problem. I also had bugs crawling on me in bed. I researched and they look like bed bugs. There was also a Steel Reserve 211 Malt Liquor drink in the dresser. Worst place I have ever stayed and I have traveled to 42 states",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Bed Bugs",
+    "reviewText": "Room was horrible, there was a stink bug problem. I also had bugs crawling on me in bed. I researched and they look like bed bugs. There was also a Steel Reserve 211 Malt Liquor drink in the dresser. Worst place I have ever stayed and I have traveled to 42 states",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Not ready for prime tiwm",
+    "reviewText": "We checked in around 1:30 AM after the OU-Tennessee game (now THAT game was a 5!). The desk clerk told him that his manager had told him to release our room because we had not shown up at a certain time (for a room that we PRE-PAID). He finally gave us a non-smoking room. We were surprised to see a smoking sign on the door when we entered. It reeked of tobacco and we asked for a new room. The clerk assured us that the sign was wrong and that no one smokes in that room any more. We held our noses, slept fast, and hit the road as quickly as possible.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for the rate",
+    "reviewText": "Visited Kingston for a Boat Race. The room was clean and in good condition. They are stingy with the shower soap and shampoo and towles are thin. All else was pretty good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "OK in a pinch",
+    "reviewText": "Had to make a late reservation and stayed here...just OK, dirty tub, room felt wet...high humidity Service was OK, fairly quiet.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "OK in a pinch",
+    "reviewText": "The toilet had to be flushed several times to go down.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "They have a ramp for upstairs guests",
+    "reviewText": "Very accessible and room was clean. Hotel staff was polite. The best part was if you had an upstairs room there is a ramp to use. If your luggage has wheels it was way easier to get to your room. No trying to lunch it up the stairs. Well played..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Big room. Convenient for one night stay.",
+    "reviewText": "I reserved this room as a stopover on a long trip. I arrived late (after 10 pm) and was pleasantly pleased that it took about a minute and a half to check in. The rooms have exterior entrances, and there is a ramp up to the second floor which is convenient. The room was big and clean with fridge and microwave. Sink and mirror separate from shower. The hairdryer wasn't working in the morning and when I reported it, I received another one in about 5 minutes. It isn't fancy, but it was a pleasant surprise. No complaints.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Big room. Convenient for one night stay.",
+    "reviewText": "I reserved this room as a stopover on a long trip. I arrived late (after 10 pm) and was pleasantly pleased that it took about a minute and a half to check in. The rooms have exterior entrances, and there is a ramp up to the second floor which is convenient. The room was big and clean with fridge and microwave. Sink and mirror separate from shower. The hairdryer wasn't working in the morning and when I reported it, I received another one in about 5 minutes. It isn't fancy, but it was a pleasant surprise. No complaints.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "No internet , poor bed, poor air conditioner",
+    "reviewText": "Hot room air conditioner would not cool it down to be comfortable, terrible bed, tiny bath room, old style TV",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay.",
+    "reviewText": "Nice room. Friendly clerk at check in. Good free breakfast. Comfy bed, but way too high off ground. Convenient location just off I-40.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel was fine Not happy with Expedia or Super 8",
+    "reviewText": "I had reserved 2 rooms for 3 nights through Expedia. I did not realize I was booking through Expedia until I got a confirmation email from them. I thought I had called Super 8 directly. We ended up only needing the rooms for 2 nights and attempted to cancel the 3rd night. I called Expedia the morning our reservation was to start and tried to cancel the 3rd night and they said I had to wait until I checked in and to let the staff at Super 8 know. When we checked in I explained we only needed the rooms for 2 nights. I was told by Super 8 that I had to handle it through Expedia because it was prepaid and they had no control over it. I then called Expedia and explained to them what Super 8 told me. I was told there was nothing I could do if Super 8 wouldn't release the 3rd night. I don't know who to blame because they blamed each other, but I was out of the money for a night I didn't need. I will not book through Expedia again and probably won't stay at another Super 8 either. The room was fine and little stale when we first checked in.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel was fine Not happy with Expedia or Super 8",
+    "reviewText": "Great for the price you pay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay",
+    "reviewText": "The room was clean",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for an overnight",
+    "reviewText": "Older hotel with stain on the carpet. Price quoted was 75 -- price charged 84.99. Called Hotels.com who said there was nothing they could do. So be careful when booking.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for an overnight",
+    "reviewText": "It's was nice and easy to do my business and when I first got there it was pretty freeze in the room but overall it was good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome stay",
+    "reviewText": "Great stay! Came here for a triathlon and was less then a mile away. Nice place to stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "close to my brother's wedding site",
+    "reviewText": "It was ok, I wasn't in there but to sleep after the wedding. and then got up to go back home.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "close to my brother's wedding site",
+    "reviewText": "Nice hotel and a good price",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "close to my brother's wedding site",
+    "reviewText": "Nice hotel and a good price",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "More bad than good.",
+    "reviewText": "I realize it was a low cost stay..72.xx but cleanliness shouldn't cost money. It was obvious the floor had not been vacuumed or either the vacuum cleaner was broken. The top of the commode was clean but the bottom was nasty. The bottom of the bathtub also looked very dirty. Nothing that a Mr. Clean magic eraser wouldn't take care of. It was 90 + degrees Saturday. The air conditioner did not cool off the room for several hours. Very uncomfortable. Our room was prepaid but the clerk asked for my card anyways, which confused me. She didn't offer to tell me why. Later, I found out it was supposedly for a damage deposit. Thank God it began to cool before bed time. On the positive side, the bedding was comfortable. Would NOT stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-12T00:00:00.000Z"
+    },
+    "reviewTitle": "More bad than good.",
+    "reviewText": "Breakfast was good with a variety of items to choose from. Fitness room was well outfitted, but unusable due to malfunctioning air conditioner unit. Bed seemed lumpy. Access to highway and fast food was convenient. Room was well equipped with flat screen TV, frig., and microwave.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice enough for a picky wife",
+    "reviewText": "This was our scenario. Leaving the Memphis area at 6:30PM on a Friday (after getting home from work) and going to a UT football game in Knoxville with a 12:00N Saturday kickoff time. We arrived in Kingston late (10:30PM), and left early (8:00AM). Upon arrival the staff employee was very accommodating. When we opened the door to the room, it looked nice, and more importantly, smelled clean. The bed was clean and comfortable, and the shower was also nice enough. It was a cold night and the room was nice and warm. Overall, it was a pleasant stay, and we will use Super 8 Kingston again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Just passing through",
+    "reviewText": "Very friendly staff. Great for those who are just passing through. I would definitely stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay",
+    "reviewText": "Bathroom was not clean at all. i would be glad to spend few more bucks for a more clean room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay",
+    "reviewText": "It was Great for the price just a good barebones motel clean and comfortable if all you need is a place to sleep I highly recommend this Motel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for a one night pass thru",
+    "reviewText": "Hotel staff was great, friendly and very approachable. I found an old key card and food under the bed (between the bottom of the bed and comforter.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent place to stay in Roane County",
+    "reviewText": "Genealogy research",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent place to stay in Roane County",
+    "reviewText": "My stay was good,room was clean.Nothing fancy,but price right for overnight say.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to I75",
+    "reviewText": "It was ok.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to I75",
+    "reviewText": "Arrived late with no complications checking in. Good place to stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to I75",
+    "reviewText": "Staff did not review the requests from when the room was booked (first floor requested) told bluntly no rooms available and did not try to help get one this is what you get and that is it. Also rooms AC was hardly working and the outside temps were close to 100 room not that comfortable due to that.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to I75",
+    "reviewText": "Room was very clean. Only problem was with the shower head.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to I75",
+    "reviewText": "Room was extremely clean. However, no shampoo, conditioner, or tissues. Bathroom very small.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Super 8 has stepped up their game!",
+    "reviewText": "Better than other super 8's I have visited. Great for a quick overnight stop when driving long distances.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Cheap basic stay clean and convienient",
+    "reviewText": "Power outlets were at a minimum. I had to unplug the refrigerator to plug in the micro wave, then switch it back. Hard to find an open plug for the iron.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stop for the price",
+    "reviewText": "Overall the hotel is pretty good if you are single or traveling where your biggest concern is a place to sleep and get a (suprising for super 8) decentish breakfast. The Wifi was pretty garbage kept dropping out ever 30-40 minutes for 2 or 3 minutes at a time. Don't think I would stay here if I had kids or a significant other but for just needing to get somewhere this is good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40c9"
+  },
+  "name": "La Quinta Inn and Suites Nashville Franklin",
+  "categories": ["Hotels", "Hotel"],
+  "location": {
+    "country": "US",
+    "state": "TN",
+    "city": "Franklin",
+    "postalCode": "37064",
+    "address": "4207 Franklin Commons Ct",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-86.822972, 35.911253]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Dog and People Friendly",
+    "reviewText": "I attend the local dog shows twice per year in this area. I stay at this La Quinta each time I need to spend the night for the dog show. It is conveniently located by I-65 and I enjoy the free breakfast allowing me extra time to get ready so I don't have to rush off and find breakfast somewhere. I also love the indoor pool so I can swim even in nasty weather, and adore having the hot tub to relax after a long day running in the ring with my dogs.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Dog and People Friendly",
+    "reviewText": "Just a quick overnight restful stay for our family. Was nice and quiet but very comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "I've stayed here two times",
+    "reviewText": "This was the second time I've stayed at this hotel. A few pros and cons - make a reservation or you'll be paying high prices. Also, there was too much chlorine in the pool when we were there (our eyes were burning). We had to leave the pool area early. The breakfast is good, the beds are comfortable, and the... More",
+    "reviewerCity": "New Berlin",
+    "reviewerState": "WI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Just okay in Franklin",
+    "reviewText": "The pillows were lumpy. The room was a little tired.",
+    "reviewerCity": "New Berlin",
+    "reviewerState": "WI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "horrible stay, disgusting rooms...never again",
+    "reviewText": "Nasty disgusting room. Carpet dirty. Bathtub with soap scum and hair. Several electrical outlets not working. My daughter screamed through the night b/c there was something sharp sticking her through the pillow. Room smelt of mildew. Was moist and muggy. Manager of hotel notified and I was told he couldn't do anything about it b/c I booked through a 3rd party -Hotel.com. Didn't even recieve an apology. Horrible stay. Never again",
+    "reviewerCity": "New Berlin",
+    "reviewerState": "WI",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Dissappointing",
+    "reviewText": "When I booked the room I booked a room with 2 Queen beds. When I arrived I was given a room with 2 double beds. the beds were too small and uncomfortable. nothing else was available.",
+    "reviewerCity": "New Berlin",
+    "reviewerState": "WI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Smoking room",
+    "reviewText": "Not sure what the other rooms were like, but I had a smoking room and it was not good. Last minute stop and only room I could get in the area. Very strong smoke smell. Bathroom smelled of urine. Bed linens were clean. Would not recommend smoking room. Breakfast was decent. Would not stay there again. Sorry, maybe the other rooms are better, but smoking room was not.",
+    "reviewerCity": "New Berlin",
+    "reviewerState": "WI",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnight while traveling",
+    "reviewText": "Room was smaller and a little more dated than other Laquintas we have stayed in, but was clean. The bed was very comfortable more so than larger rooms we have stayed in. Staff was friendly. Breakfast was standard. Location was easy off the freeway and they were pet friendly.",
+    "reviewerCity": "New Berlin",
+    "reviewerState": "WI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient location, nice room",
+    "reviewText": "All good, but lacking expected toiletries in bathroom (no shampoo).",
+    "reviewerCity": "New Berlin",
+    "reviewerState": "WI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs updating but had a good night sleep",
+    "reviewText": "We stayed here one night on our way down to the Gulf Coast. Property is certainly aged but beds were really comfortable. It was also fairly quiet considering the place was full AND we had a 1st floor room near the pool. Room not the cleanest and furniture was aged, with very few outlets. Reception at check-in was nice and... More",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "We like this hotel, we've stayed her before.",
+    "reviewText": "Hotel is close to our venue. The only problems we had were that none of the wake up calls we set went off, luckily I had backup alarms. I didn't mention it to management because I never checked to be sure it wasn't a problem with our phone and not at their end. We would have liked to have had more hot food at breakfast but otherwise we had a wonderful stay and would stay there again.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "rip off on prices for what you get",
+    "reviewText": "the rooms are small , the beds are only full size, tv channels were poor the breakfast is like a Continental except you can make a waffle. They change the prices of the rooms daily even during the week not just Fri and Sat Yes the pets are free are they really for what you get your paying a lot... More",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Booked 2 months in advance, got stuck with an air mattress!",
+    "reviewText": "January 2016, I booked a room with 2 double beds at this location using the hotel chains website, lq.com. I did this to avoid problems during our spring break travels, and knowing my family of 4 was going to need a place to crash late at night. March 2016, we set out on our spring break vacation and drove for... More",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Average motel close to Franklin",
+    "reviewText": "Had an unfortunate mixup on billing which took 2 days to get cleared up.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great weekend",
+    "reviewText": "Came to town to see JoshuaDtv in Nashville. Stayed in Franklin because it was close to family and this hotel was one of only a few with an indoor pool. We had a great weekend at a clean hotel with exceptional customer service.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "Front desk person was very friendly and helpful. Answered all questions politely and went out the way to make facilities available. The room was normal size and clean. The pool was heated. (not a spa type of heat but not ice cold either) The pool area is nice and the pool was clean with no overly bleach smell. The breakfast was typical of the hotel standard. Hotel is in a good area, It is beside a Cracker Barrel and there is shopping centers nearby. No problems with this stay.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick getaway",
+    "reviewText": "The hotel was clean and nice. It just seemed to be a little understaffed. The indoor pool had no towels. And when promised by the front desk to bring some, they never came. I had to walk back to my room soaking wet. That could cause an accident as well as odors because the carpets will be wet by customers.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend away",
+    "reviewText": "This was supposed to be a nice weekend away for my fiance and I. It was during finals week, and since I also work for housing on campus, it's the busiest time of the year with everyone moving out. I really needed to just get away for a night to keep my sanity. Upon checking in, the staff was fairly nice. However the next morning, I felt as though we were being judged for being young. Both of us are 21, and it felt as though the staff were annoyed with us from the moment we walked downstairs for breakfast.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay was Relief",
+    "reviewText": "Stay was what it was intended. Just to sleep in. Breakfast was ok.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay was Relief",
+    "reviewText": "king size bed... comfy. we had to kill about 6 lady bugs and one fly though. then everything was fine.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Good basic hotel",
+    "reviewText": "The room was worth the price paid. But, the air conditioner had to be set at 64 before it cooled correctly and the toilet would at time hang up and not stop running. Overall, the room was fine.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Adequate for price",
+    "reviewText": "Front staff at check in very nice. Had stayed in this same hotel before but this particular room had gum on carpet and gap in the door that you could see out in the hall. Biggest problem was that it took about 4 hours for the air conditioner to cool the room. Room was so humid and musty smelling. Second the place is pet friendly and is not advertised as such and if I would have known would have stayed elsewhere due to my child's allergies.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Dog Friendly",
+    "reviewText": "Just what you expect from a La Quinta. My husband had a business trip so the kids, the dogs, and tagged along. We always know we can expect a clean, dog-friendly room a reasonable price.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Meh",
+    "reviewText": "Not worth the money. Staff was nice and friendly, but the room was old and dirty.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "WI",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, friendly, professional staff.",
+    "reviewText": "I have stayed at this location many times over the last six years and have always had a four star experience. The staff is very professional and always go the extra mile in providing friendly and accommodating service. Clean rooms, coffee 24 hours a day, great location.",
+    "reviewerCity": "Montgomery",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "nice close to every thing.",
+    "reviewText": "very good for the price,great location, staff was very nice.",
+    "reviewerCity": "Montgomery",
+    "reviewerState": "WI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Fanatic About Franklin",
+    "reviewText": "This hotel was a former Baymont Inn that has not been renovated. The property was not clean and our room included a leaking air conditioner, which soaked a pair of shorts and the bottom of my suitcase.",
+    "reviewerCity": "Montgomery",
+    "reviewerState": "WI",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-07T00:00:00.000Z"
+    },
+    "reviewTitle": "BEWARE BED BUGS",
+    "reviewText": "My children were awaken at 2 am because they were being bitten by bed bugs. We saw and killed 2 actual bugs!!!",
+    "reviewerCity": "Montgomery",
+    "reviewerState": "WI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Good find if on a road trip",
+    "reviewText": "We stopped here on our way thru to Memphis and were very happy to pick this hotel. The bed was super comfortable and the indoor pool and hot tub were great. The Cracker Barrel next door is good.",
+    "reviewerCity": "Montgomery",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Good find if on a road trip",
+    "reviewText": "Not bad for one night stay. Bed to small for two adults. Need some upgrades.",
+    "reviewerCity": "Montgomery",
+    "reviewerState": "WI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-20T00:00:00.000Z"
+    },
+    "reviewTitle": "If you are traveling I 65 with pets, this one is for you!",
+    "reviewText": "We stayed one night on our way home from down south to up north. We have 2 big dogs and 2 cats that travel with us. LQ is always great about the pets - they accommodated my advance request for a 1st floor room. Now for the hotel itself - this is an older LQ, but I think it has... More",
+    "reviewerCity": "Englewood",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Spend your money elsewhere",
+    "reviewText": "We booked a standard King, non-smoking room. When we got there, they gave us a smoking room that smelled and looked horrible. When I asked if we could move to a non-smoking room, like we had booked, they said that the room was a non-smoking room (then why was there an ashtray on the sink) and that someone must have broken the rules and smoked in the room previously. They said they were completely booked and could not move us. We had to keep the window open during our entire stay (low of 25 degrees one night) just so we could breathe. There were stains all over the walls from where people had been smoking in that room for a long time. There were also body hairs in the shower when we got there. Not just one or two, but multiple hairs all over the tub. When we went down for breakfast Sunday morning at 7am, both trash cans were completely full and people had begun leaving their trash on the tables. We never saw an employee while we were down there. I have stayed with LaQuinta multiple times before and have never had an issue. I will definitely never stay at this location again after this terrible experience.",
+    "reviewerCity": "Englewood",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Average in price range",
+    "reviewText": "We often choose LaQuinta because of consistency. This motel was on the lower end of the LaQuinta scale. Room was not bad, but less clean than expected, maybe just showing wear. Breakfast service had no juice (we are not coffee drinkers). Machine was broken and no alternate was provided.",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst stay ever",
+    "reviewText": "Room 329 the first room they put us in had bad water damage on the ceiling smelled so bad it took our breath away upon entering the room. All of their king bed rooms are on the noisy highway side. They dont tell u that unless u ask. Fridge was noisy in our 2nd room carpet had dirt all over it. There is no way it was vaccuumed. Hot tub in pool area was broken ice cold. Walking down the hall heard dogs barking people having relations. Otherwise......it was fine!",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst stay ever",
+    "reviewText": "Beds were awesome!! To warm in the pool/hottub area. Dogs were barking all hours of the day/night.",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst stay ever",
+    "reviewText": "it was great",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Very bad",
+    "reviewText": "Smelly room and dirty bed",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Our Stay",
+    "reviewText": "We were driving back to Dayton, Oh from Pensacola, FL and were very tired. I got onto Expedia and the site found us a hotel near where we were presently at. Although the room was on the 4th floor, the hotel did have an elevator. It was also close to an outside door where my husband and I could go and smoke. The in-door pool was the icing on the cake. I had my grandson and great nephew with me so we all really enjoyed unwinding in the pool before beds. Beds were comfortable too.",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Average",
+    "reviewText": "This hotel isn't a bad option for a quick overnight stay but it's a bit dingy.",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice room - good value and no complaints",
+    "reviewText": "The hotels in this area at the time of my stay were very pricey so I picked this one based on cost and the reviews were not bad. I was very happy with the stay. Room was clean and modern. Everyone was friendly and helpful. No complaints at all and would stay again.",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Worth the price",
+    "reviewText": "Good staff. Okay breakfast. Room had large stain on floor, but was clean. The front desk staff was very helpful. Hard to fine, even with navigation (could see from interstate, but could not fine way to hotel. Had Cracker Barrel right next door--very convenient.",
+    "reviewerCity": "Chicago",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "LaQuinta Franklin, Tn",
+    "reviewText": "Stayed 3 nights, location was good, neighborhood good. The motel was OK, but everything seemed to be a little bit below what we have come to expect from La Quinta. It wasn't that bad , but it wasn't that good either.",
+    "reviewerCity": "Chicago",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "2016 Franklin, Nashville LaQuinta stay",
+    "reviewText": "Very accommodating and friendly staff. Rooms were very clean and met our pet friendly needs. Location was close to Nashville as well as Interstate access. Making a reservation was very easy over the phone as we were on the road traveling. Would stay here again.",
+    "reviewerCity": "Bourbonnais",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Dirty hotel",
+    "reviewText": "Disappointing, but it was on the cheap side, so I guess you get what you pay for sometimes. Rooms were pretty dirty and things seemed outdated. We used the pool and the staff gave my wife a hard time asking for 5 pool towels. If we were rude people, we would have told them off, but we are sometimes overly considerate. This is our chance to tell everyone what we think now. They allow pets here and so things just seemed on the dirty side. Hotel staff, as I indicated, were borderline rude. They were busy when we got there, but no reason to roll your eyes at us. Seriously I wonder what happened to Southern Hospitality and the customer is always right It's not like we asked for anything out of the ordinary. Consequently, we stayed at the Mirazur (Downtown Nashville) on our way back through town: Much cleaner. Much nicer. Updated. Very comfortable beds. Excellent (Continental) breakfast. Friendly staff. We will be staying there next time for sure. A little more, but worth it.",
+    "reviewerCity": "Bourbonnais",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "Front desk person was very friendly and helpful. Answered all questions politely and went out the way to make facilities available. The room was normal size and clean. The pool was heated. (not a spa type of heat but not ice cold either) The pool area is nice and the pool was clean with no overly bleach smell. The breakfast was typical of the hotel standard. Hotel is in a good area, It is beside a Cracker Barrel and there is shopping centers nearby. No problems with this stay.",
+    "reviewerCity": "Bourbonnais",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Hockey All Star game",
+    "reviewText": "We were in town for the hockey All Star games. The hotel is just a few miles South of Nashville The rooms are clean the staff was great. The pool was clean and a lot of fun for the kids and the hot tub was nice too! We will stay again.",
+    "reviewerCity": "Bourbonnais",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pet friendly and a good value",
+    "reviewText": "The room was not as clean as I would have liked. It seemed like they only cleaned the areas they could reach with a vacuum. They didn't bother to move any furniture or use any tools to get the crevices. That being said my husband and I felt safe and our 45 lb dog got to stay for free. Check in and check out were a breeze. Breakfast was decent. Pool was not clean, but hot tub was excellent. Elevator seemed a bit old and used but it got us to our room. Not the caliber of hotel I am used to, but hey my fur baby got to stay for free which was really nice. I will definitely use a LaQuinta again when traveling with her. But I would not stay there if I was flying solo.",
+    "reviewerCity": "Bourbonnais",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "worth the price",
+    "reviewText": "It was worth the price, it was clean, I felt safe and the staff was very friendly. It was simply an older hotel, nothing fancy, felt dated.",
+    "reviewerCity": "Bourbonnais",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Very close to downtown Franklin.",
+    "reviewText": "Excellent location even though it was Sunday we were given great ideas about things to do.",
+    "reviewerCity": "Bourbonnais",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-02T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay at Franklin, TN",
+    "reviewText": "Our stay was because of a funeral of a dear friend and the La Quinta was convenient and easy access to all we needed to do. The staff was good, the room was clean and met our needs. The price was fair especially for last minute reservations on our part. I would recommend the La Quinta to my friends.",
+    "reviewerCity": "Bourbonnais",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Holiday weekend fail",

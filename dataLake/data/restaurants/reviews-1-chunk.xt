@@ -1,0 +1,100 @@
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "2nd home in Abilene",
+    "reviewText": "My experience at the Hampton Inn in Abilene was fantastic. The hotel staff was very friendly and helpful. The room was meticulously clean, roomy and comfortable. The bed was a welcomed surprise as it was one of the best I have ever had in a hotel room. I come regularly to Abilene for business and I have stayed in a... More",
+    "reviewerCity": "South Saint Paul",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-28T00:00:00.000Z"
+    },
+    "reviewTitle": "excellent stay",
+    "reviewText": "Passing through Abilene, stayed for one night. Extremely friendly lady at front desk, warm cookies even though we arrived very late. Clean/quiet rooms, comfortable beds, and the best free breakfast ever with large selection and fun toppings for oatmeal and waffles and eggs. Located in what appeared to be a safe and convenient area.",
+    "reviewerCity": "South Saint Paul",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay at the Hampton",
+    "reviewText": "The staff were friendly and helpful. Facility was clean and in very good condition. Fitness room had all the basics and the complimentary breakfast had a good variety of menu options. I recommend the Hampton to anyone staying in Abilene.",
+    "reviewerCity": "Manitowoc",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and quiet hotel - would stay here again",
+    "reviewText": "Nothing to complain about with this Hampton Inn. It is in a great location and very clean. The cleaning staff, management staff, and breakfast staff were very friendly. What was even nicer with this Hampton Inn is the keyless entry into the rooms. Also, on the nightstand, there were power and usb banks to charge your phone. If I had... More",
+    "reviewerCity": "Manitowoc",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet and Comfortable",
+    "reviewText": "We often stay at Hampton Inns when we travel, that's the main reason we selected this hotel. It was quiet, clean, uncrowded and comfortable. The staff was pleasant and helpful. We would stay here again if we are in the area.",
+    "reviewerCity": "West Covina",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-09T00:00:00.000Z"
+    },
+    "reviewTitle": "I prepaid for my room and two rooms for clients. When my clients checked out they were asked for a credit card and paid",
+    "reviewText": "Hotel was clean but in need of an upgrade. The in room guest showed only one ice machine next to the front desk but when I went down I was told there ie only one machine and it's on the 3rd floor. It would be nice to have more than one machine in a 4 story hotel,",
+    "reviewerCity": "Arlington",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Good and Clean",
+    "reviewText": "I really appreciate the cleanliness of the room with the washed bedcovers. The hotel staff was helpful and the room was priced fairly. I have stayed at this hotel before and continue to be very pleased and will return again",
+    "reviewerCity": "Arlington",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "No complaint's",
+    "reviewText": "Exceptionally clean well maintained hotel....I had a one night stay and have nothing to complain about. The room was fresh and clean, breakfast area was organized and replenished throughout the morning.",
+    "reviewerCity": "Arlington",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Try a different hotel if you're in town for more than a night or two",
+    "reviewText": "Going to be in Abilene for more than a couple of days Go elsewhere. No laundry. Laughably slow internet. Poor housekeeping. Slow complimentary breakfast service. A fire alarm that doesn't work properly. Wet mattresses. Staff is friendly, polite. Location is convenient. Cons outweigh the pros.",
+    "reviewerCity": "Concord",
+    "reviewerState": "NH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Go for it",
+    "reviewText": "Good bedding, nice service",
+    "reviewerCity": "Concord",

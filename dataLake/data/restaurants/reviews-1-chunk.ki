@@ -1,0 +1,100 @@
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fc4"
+  },
+  "name": "Extended Stay America - Orlando Theme Parks - Vineland Rd.",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Orlando",
+    "postalCode": "32819",
+    "address": "5610 Vineland Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-81.455546, 28.482007]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant stay",
+    "reviewText": "Be ready to make your own bed and hang up those towels if you are staying just a few nights. Room service does not kick in until after a week. Guess that's why they call it EXTENDED stay. lol",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "A very good value--would recommend.",
+    "reviewText": "We were very impressed with the size and cleanliness of our double queen suite. The front desk employee was very friendly and helpful. The facility was clean and in good overall condition. The air conditioning worked very well, which we were very happy about. We were disappointed that there were no dishes in the kitchenette, making it basically useless. We were also disappointed that the breakfast consisted of merely coffee, juice, muffins, and granola bars.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-11T00:00:00.000Z"
+    },
+    "reviewTitle": "1 night stay",
+    "reviewText": "Room was spacious with good bed and pillows. So-so towels. Cook in kitchen.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect!!!!",
+    "reviewText": "I usually don't do reviews but this deserves one. This hotel was perfect for my family getAwAy. It's in a perfect location to everything.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Easy access to the fairgrounds and citrus bowl.",
+    "reviewText": "We enjoyed our stay. The staff is always friendly and the room neat and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Easy access to the fairgrounds and citrus bowl.",
+    "reviewText": "We just stayed one night for a quick visit to Universal. It was great for one night. Good location",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Not for extended stays",
+    "reviewText": "This hotel is called Extended Stay America, but I wouldn't recommend using it for that. The room has a Refrigerator, and Microwave and plenty of cabinet space, But their were no dishes. Not one fork or spoon, Plate or saucer. It's definitely a byob type of place. No breakfast or anything like that. Overall great for a short stop and the price was right for the area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible experience,,",
+    "reviewText": "The minute I got to the room, I knew it was not non-smoking. It had been sprayed so heavily it stunk. I HAVE SEVERE ALLERGIES. I IMMEDIATELY CALLED THE DESK AND ASKED FOR A DIFFERENT ROOM, They said they were booked solid. I called them a few minutes later and told them I would only stay the nite because of the 24 hr. cancellation policy. I was so sick the next morning I checked out and asked for a receipt for the one night, she said I didn't need it. TodayI got my bill for 449.86, not the '112. it should have been.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {

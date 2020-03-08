@@ -1,0 +1,100 @@
+    "reviewerCity": "Los Angeles",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Feels Like Home",
+    "reviewText": "This is my third visit to Eldorado Suites. I love the fact that there is a kitchen, living room and porch. The location is perfect to walk the town. The front desk people are friendly and help with any questions. I would recommend this place to one and all.",
+    "reviewerCity": "Tempe",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Suite-Style Hotel!!!",
+    "reviewText": "Stayed for the weekend of the Bisbee 1000. The suite was very clean and spacious, and very charming to boot! Had no problems leaving the vehicle parked and walking to all local shops, restaurants, galleries, pubs, events, etc. Highly recommend, and will be sure to visit in the future! Thanks for everything! Robert Violet",
+    "reviewerCity": "Arizona City",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Holiday Party Weekend!",
+    "reviewText": "We had our holiday party this year in Bisbee at the Eldorado Suites Hotel. From the planning stages thru check-out, the hotel crew was fantastic at recommending restaurants, bars, and attractions to ensure that everyone had a great time! Couldn't recommend higher!!",
+    "reviewerCity": "Agoura Hills",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Good choice!",
+    "reviewText": "Since we were only going to be in Bisbee overnight, I stressed over where to stay. Turns out I made an excellent choice with The Eldorado. We ended up getting in really late and were at the hotel for all of 12 hours..but when I get my husband to sneak away for another stay I will choose The Eldorado. Please... More",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location and comfort!",
+    "reviewText": "We traveled to Bisbee with another couple, and rented one of the two bedroom corner suites. The rooms are light and airy and nicely decorated. Having a sitting room and kitchen are great. Mornings are so nice when you can get up and enjoy a cup of coffee without any rush. The balconies were awesome! The only negative is the... More",
+    "reviewerCity": "Tucson AZ",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfy",
+    "reviewText": "We came in on the last night of a music festival so they gave us a room facing the courtyard which was much appreciated. Also referred us to great restaurants. Getting the F350 down the street was interesting, but they had great parking for it. The staff were friendly, and it would be a great place to stay for a... More",
+    "reviewerCity": "Odessa",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Loved everything but the cold shower",
+    "reviewText": "I loved my experience in Bisbee and staying at this location. The rooms were extraordinary. Very large accommodating space. The only negative was running out of hot water before my shower was completed. I was made to feel welcome when I arrived and appreciated as I left. I would definitely recommend this quaint place and will stay there again should... More",
+    "reviewerCity": "Midvale",
+    "reviewerState": "UT",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ff8"
+  },
+  "name": "Hampton Inn Waco",
+  "categories": ["Conventions", "Bed \u0026 Breakfasts", "Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Waco",
+    "postalCode": "76705",
+    "address": "4259 Interstate 35 N",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-97.145605, 31.501896]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Moderately priced hotel chain offers a clean, consistent stay and complimentary breakfast. In ShortPart of the Hilton hotel family, this chain caters to travelers by offering high-quality accommodations at mid-range rates. Amenities include complimentary in-room high-speed Internet access, coffeemakers, irons and portable lap desks. Coffee and tea are offered round-the-clock in the lobby, and a free breakfast buffet with items like muffins, eggs, sausage and fruit is served daily. Fax service is available at the front desk.",
+    "reviewerCity": "",
+    "reviewerState": ""

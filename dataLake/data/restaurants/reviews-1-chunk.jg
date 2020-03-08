@@ -1,0 +1,100 @@
+    "reviewerCity": "Bowling Green",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the money",
+    "reviewText": "the only saving grace for the facility was a clean bed. There was no hairdryer. The telephone didn't work. The shower was cold. An overall nightmare.",
+    "reviewerCity": "Bowling Green",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient\u0026 clean",
+    "reviewText": "Owner Ray was very helpful for dining and tours in the area.",
+    "reviewerCity": "Bowling Green",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Pet fee not told was extra fee",
+    "reviewText": "Reserved by your company, which didn't tell us extra fee was up to the administrator of the hotel. Got there and wanted to charge me pet fee. And to claim my reservation company. Left to Red Roof. Pet free fee and they are like guess. Plus paid less for reservation in total. Good experience with them. Very Pleased.",
+    "reviewerCity": "Bowling Green",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Mostly happy.",
+    "reviewText": "We saw this hotel on Trip Advisor. We were only staying one night so were looking for a fairly cheap hotel. Clean rooms, king size bed, microwave, fridge, NICE TV. We were pleased. Only thing we were unhappy about was they said breakfast was until 10am but we got there at 9:50am and it was closed. Please don't advertise what... More",
+    "reviewerCity": "Winter Park",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Super Nice Place For Value!",
+    "reviewText": "Super clean place! Friendly staff. Rooms are huge newly redone. Great flatscreen tv! Bigger mini fridge than normal! Brand new swimming pool spring 2016! Really nice! Parking lot with the BRIGHTEST LIGHTS I've ever seen in any lot! You'll feel safe! Not a luxury hotel--but for Super 8 rates...you'll ALMOST feel like you are in a luxury room! Staff/owners... More",
+    "reviewerCity": "Winter Park",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "The owner was friendly and the breakfast was good.",
+    "reviewText": "We were there for hurricane evacuation. It would have been very serious if we had brought the cat, because there would not have been any other place to go. Fortunately, friends volunteered to keep her, so we were able to check in. We selected this hotel only because the were advertised as being Pet Friendly.",
+    "reviewerCity": "Winter Park",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "The employees were friendly. The room was great for our needs. Clean and great location.",
+    "reviewerCity": "Winter Park",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3fbb"
+  },
+  "name": "Mirazur",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Bowling Green",
+    "postalCode": "33834",
+    "address": "2727 Us Highway 17 N",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-81.824026, 27.597944]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Budget hotel offers standard amenities and low rates to road-weary travelers. In ShortSince 1946, this Phoenix, Ariz.-based hotel chain has provided guests with comfortable accommodations. Its BestRequests program offers 16 of the most frequently requested services and amenities, including complimentary in-room tea/coffeemakers, hair dryers, iron and ironing boards, free local calls less than 30 minutes and long-distance access. Complimentary toiletries, like toothpaste, razors and sewing kits, are also available upon request. Business travelers will enjoy the computer data ports in each room and photocopying services.",
+    "reviewerCity": "",
+    "reviewerState": ""

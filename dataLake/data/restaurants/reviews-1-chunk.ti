@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place for the price!",
+    "reviewText": "My husband and I stayed here the night before our cruise. It was very clean and everyone was nice. It was conveniently located to the interstate and only 15 minutes from the cruise terminal. We enjoyed feeding the fish and turtles in the pond on the property as well. We originally purchased the cruise package with our room but we... More",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Short ,but nice stay",
+    "reviewText": "It was a short stay, but we found everything to be very acceptable. The room was very clean,",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Short ,but nice stay",
+    "reviewText": "The hotel staff are amazing!",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Not what I expected",
+    "reviewText": "Hotel was a bit dated but relatively clean however, the room was small with only one bedside table and no closet space (only a clothing rack in the main bed space which made it crowded with clothing hanging there). I was disappointed in the space compared to the price.",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing experience!!",
+    "reviewText": "I loved my stay at Jacksonville Plaza. Everyone was so nice and welcoming. Whenever I come back to Jacksonville, this will always be my hotel of choice.",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "If Only For One Night",
+    "reviewText": "Our expectations for this hotel were to find a cheap, clean place to rest our bodies before embarking on our cruise to the Bahamas. That's exactly what we got. It was cheap. It was clean. And with the exception of some loud exceptionally happy folks in the hallway, the paper thin walls left much to be desired. All we can... More",
+    "reviewerCity": "Indianapolis",
+    "reviewerState": "IN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Bed Bugs!!! Bed Bugs!!! Bed Bugs!!!",
+    "reviewText": "Stay away at this hotel. Woke up with bites all over my body. Bed and pillow had blood stains. I reported it at the front desk and the blonde girl didn't seem to care. Filthy room, carpet was dirty in the hallway, trash under the bed skirt and hair on the bathroom floor. Left over food found in the refrigerator... More",
+    "reviewerCity": "Fort Lauderdale",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for price",
+    "reviewText": "No great bells or whistles but a decent place to stay for the price. Clean. Fridge and microwave in the room but no iron Bed was comfortable. Walls are very thin. Breakfast was ok. Parking is close. Would go back.",
+    "reviewerCity": "Coolville",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for the money",
+    "reviewText": "We have stayed here once before but this looks as if it will be our last stay. We arrived and were told by the non smiling front desk that we were too early for check in, unless we wished to pay a fee. We went for a drive to the river city mall to kill some time. When we returned... More",
+    "reviewerCity": "Newport",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Business Trip Stay.",
+    "reviewText": "It was a business trip and stayed here at one night. The neighborhood is quiet and the offsite car rental is near the hotel. Comparing to the hotels within the airport, it is less and it was comfortable (at least I can sleep and take a hot shower).",
+    "reviewerCity": "Newport",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {

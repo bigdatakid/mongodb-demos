@@ -1,0 +1,1000 @@
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "our stay",
+    "reviewText": "was disappointed with the level of wifi, we were constantly having to rejoin...one washcloth was torn with big hole in center - we turned it in and it was promptly replaced. appreciated the number of outlets to recharge our boat batteries, as we were there for a bass tournament.",
+    "reviewerCity": "Louisville",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Days Inn near Land Betwen the Lakes, Kentucky.",
+    "reviewText": "The Days Inn at Kuttawa, KY was a clean, attractive facility. The room was spacious and well-maintained. The breakfast bar was included in the cost of the room and had a variety of choices. The location near Land Between the Lakes was a good place to stay while exploring the natural beauty of western Kentucy.",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Hunter",
+    "reviewText": "I've stayed here 10 or so days a year for about 10 years. I've never had an issue. Very friendly staff ,rooms always clean. The hotel was booked up last weekend so I had to stay somewhere else and it was terrible . I'd never wrote a review in my life old people ain't much on that kinda crap anyway... More",
+    "reviewerCity": "Louisville",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay!",
+    "reviewText": "I really enjoyed my experience here at the Days Inn in Kuttawa, Ky. The staff is very friendly. John at the Front Desk was very helpful and courteous. They had a good breakfast bar, check in was fast, easy and painless. The housekeeping staff also did a a great job cleaning the rooms. Our room was very clean and tidy.... More",
+    "reviewerCity": "Rolla",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Deer Hunting 11/2015",
+    "reviewText": "Hunting trip stay for two nights. Only stayed one night since I tagged out on what I wanted the first day",
+    "reviewerCity": "Chattanooga",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4112"
+  },
+  "name": "Red Roof Inn Somerset",
+  "categories": ["Hotels \u0026 Motels", "Hotel"],
+  "location": {
+    "country": "US",
+    "state": "DC",
+    "city": "Somerset",
+    "postalCode": "42501-3526",
+    "address": "1201 S Highway 27",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.618904, 37.076744]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst hotel EVER!",
+    "reviewText": "I travel out of town for work on a weekly basis and have stayed in plenty of hotels. This is ABSOLUTELY the worst one I have ever stayed at. Found a roach carrying an egg on one of the beds, and ANOTHER one in the shower carrying an egg as well. Came in from work and the beds were not...Allow me to apologize on behalf of our hotel for failing to meet your expectations regarding your recent visit. I have shared your feedback with Housekeeping to ensure we handle these types of situations differently in the future and can assure you that I have taking care of all the issues you had. Again, thank you for your time and...",
+    "reviewerCity": "Montcalm",
+    "reviewerState": "WV"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Budget mote...",
+    "reviewText": "Found the room to have older furniture that is outdated . Pillows were not very good. The carpeting had been patched and should be replaced . The lady at the front desk was very helpful and kind. Owners really need to up date the rooms.Dear htlk1999 thank you for taking the time to leaving us your feedback. It is good to hear that our staff was helpful to you. I will be working with our maintenance team to make the necessary improvements. thank you Viren P.",
+    "reviewerCity": "Houghton Lake",
+    "reviewerState": "WV"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "March 30 Overnight",
+    "reviewText": "We reserved a superior king room on an overnight trip and were most pleased with our accommodations! The room was clean and it smelled clean. Lots of room inside and we weren't bumping into anything moving about. The bed was comfy and so was the room chair the desk chair has a bit of wear but still comfortable. The towels...",
+    "reviewerCity": "Louisville",
+    "reviewerState": "KY"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Service.. Clean Rooms",
+    "reviewText": "Stayed at this hotel a couple weeks ago very friendly staff ..My king room was very clean very well put together.. My housekeepers were very helpful as well... love that I was able to bring my dog with meThank you for taking the time to leave us a great review. I am glad to hear that you and your dog enjoyed our hotel. See you on your next trip up.",
+    "reviewerCity": "Louisville",
+    "reviewerState": "KY"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-02-09T00:00:00.000Z"
+    },
+    "reviewTitle": "NON smokers do not stay here",
+    "reviewText": "This place has went down bad nasty place water backed up in the shower bugs in the bed the smell of smoke in a non smoking room will make you sick even the grounds around the place have went to crap, but non smokers DO NOT stay at this hotel pick any other one but this one.Our entire team takes pride in delivering exceptional rooms and service to all of our guests. In order to effectively address your review, I respectfully request you reach out to me at your convenience at 606-678-8115, so that I may get more detail from you, in order to correct the issues you described as we have not had other similar...",
+    "reviewerCity": "Columbia",
+    "reviewerState": "KY"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-01-23T00:00:00.000Z"
+    },
+    "reviewTitle": "The best customer care with a smile",
+    "reviewText": "Viren Patel was extremely accommodating and helpful. So was the night time attendant. When we arrived she was all smiles and very helpful. Viren allowed us to eat breakfast even after the set breakfast hours. We slept over a little after breakfast time and with three hungry children he understood and made an exception. He was helpful in making sure...Thank you jonimyers48 for taking the time to leave us a five star review. Our guest comfort is very important to us. I am glad to hear that you and your family enjoyed our continental breakfast and our leave comfortable rooms. Looking forward to seeing you on your next trip to somerset.",
+    "reviewerCity": "Monticello",
+    "reviewerState": "GA"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-12-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Vacation",
+    "reviewText": "Excellent service and hospitality. Great and comfy beds as well as daily room service. Very friendly and helping staff. An excellent place to stay!!! I highly recommend this place for staying over and having a nice time!!!What an amazing feedback! We are so happy to read that we were able to provide you with a great stay at Red Roof Inn Somerset KY. We appreciate your comments about your well-appointed room and are delighted the new furnishings and amenities added to your comfort and gave you a good nights sleep. Thanks for being our guest, and...",
+    "reviewerCity": "Monticello",
+    "reviewerState": "GA"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "OK for the money",
+    "reviewText": "The room was about 60 bucks for a king superior. Pros are it was clean, roomy, and the staff was very nice. It also included a free breakfast with coffee and pastries. Cons were all the rooms are exterior and heard more noise from outside. Curtains weren't quite large enough to block light coming in from outside lights. The motel...Thank you for taking the time to leave us a review. I am glad to hear that you enjoyed our clean rooms and our continental breakfast. Hope to see you next time on your visit to somerset.",
+    "reviewerCity": "Greenville",
+    "reviewerState": "NC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Loved Our Stay",
+    "reviewText": "My fiance and I needed a place to stay for two nights before heading back home. My room was clean, spacious, and fresh smelling. The staff was AWESOME!. The lady at the desk got us a room quickly and the person cleaning made sure we had everything we needed. The customer service here was greatly appreciated. We will stay again...Thank you for leaving us a 5 star review. It is always good to hear that our team provided it great service. Hope you had a safe trip home, see you on your next trip.",
+    "reviewerCity": "Kennesaw",
+    "reviewerState": "GA"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent service and stay",
+    "reviewText": "I stayed here with my family. Staff is very courteous and kind. Very clean rooms. By far my best hotel stay regarding their service. I would definitely recommend to anyone.bed was very comfy.again really good hotel.We are so glad to hear you enjoyed your stay with us. Thank you for recommending our property, we welcome you back on your next visit to Somerset.",
+    "reviewerCity": "Royal Oak",
+    "reviewerState": "MI"
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4113"
+  },
+  "name": "Motel 6",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Gustine",
+    "postalCode": "95322",
+    "address": "12733 State Highway 33",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-121.01571, 37.11165]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 6
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The familiar sign promises economy, consistency and no surprises. In ShortSince 1962, travelers have enjoyed budget-friendly prices at Motel 6. The national chain (more than 800 locations in the U.S.) accommodates traveling families, as kids stay for free and complimentary coffee is available every morning. The rooms are simple--a TV on the dresser (free HBO and ESPN), data port for computer users and a basic bathroom--but at these prices, who needs a whirlpool",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4114"
+  },
+  "name": "Econo Lodge",
+  "categories": ["Hotels \u0026 Motels", "Lodging", "Hotels And Motels"],
+  "location": {
+    "country": "US",
+    "state": "DC",
+    "city": "London",
+    "postalCode": "40741",
+    "address": "105 Melcon Ln",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.108375, 37.145106]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth 70",
+    "reviewText": "My husband, 4yr old daughter, and myself were traveling back to Ohio from S. KY. We were incredibly unimpressed by this hotel. First off NO BATHTUB! I didn't know any hotel only had showers in rooms....manager the next day said I should have told him and taken a bath in another room, I wanted to be able to relax for... More",
+    "reviewerCity": "Xenia",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Crappy",
+    "reviewText": "They was dirt in our ice! our internet would not stay connected at all we tried and tried to get it working the ppl at the desk even rebooted the routers and still no connection! We have burnt holes and crud on our sheets! And we asked the front desk for some towels and they was clearly 4 of us... More",
+    "reviewerCity": "Xenia",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Miss leading",
+    "reviewText": "Book a stay through choice. Website say outdoor pool and indoor pool, road sign at hotel says indoor pool, yes the pools inside but seasonal. Breakfast was continental was OK, rooms OK , reservation said 8.00 for dog, got charged 10 all in all, seen worse.",
+    "reviewerCity": "new oxford",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad last year got worse this year",
+    "reviewText": "Pillows are rags. Wash cloths are rags. One fell apart while I was using it. Carpet tacks went through my heal. Overall, the room was worn out. And, don't log your computer onto their wireless internet. I had to uninstall 10 programs that it automatically loaded to my computer. The cleaning staff went through our luggage and used power cords... More",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Not terrible",
+    "reviewText": "Upon arrival, young lady who checked me in was very nice and accommodating. She kept my check in time quick, which I appreciated. Once in the room, it was pretty standard for an economy type hotel. I checked out the bed first thing and the sheets appeared clean but not to sure about the blanket and spread. The king bed... More",
+    "reviewerCity": "Crossville",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice people and comfortable room",
+    "reviewText": "Staff was very nice and the room was clean and comfortable at a reasonable price. On way to Floria from Michigan. I would recommend this hotel. It is convenient off I-75 and many good choice of restaurants near by including my favorite Gondolier Italian restaurant.",
+    "reviewerCity": "Vine Grove",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice people and comfortable room",
+    "reviewText": "Wonderful! Had an advanced booking for two nights but arrived a day early to avoid traveling at night. Staff was gracious and welcoming and gave us the same reduced rate we had paid for the original stay. Room was nicely appointed and very clean. Quiet and calm environment. Staff was responsive and friendly, and free breakfast was the best hotel breakfast we've had. Would definitely stay here again if we are here. Thank you, Econo Lodge London, KY for making our visit so enjoyable!",
+    "reviewerCity": "Vine Grove",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice",
+    "reviewText": "This was an old Sleep Inn at one time. You could tell by the front entrance and the famous round shower enclosure. Dated but in good condition. Could not get top floor so we had to put up with noise from above. Beds were okay. Not too soft and not too firm. Had everything in the room including refrigerator,microwave and... More",
+    "reviewerCity": "Crossville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "OK For a one night stay on the road",
+    "reviewText": "The place is clean and the breakfast is OK continental. The towels are very thin. They need to get new towels. I could feel the springs on the bed but it was comfortable enough. The price is good. There are a lot of TV Channels but it is older tube type set which is OK. They cater to truck drivers'... More",
+    "reviewerCity": "Greenville",
+    "reviewerState": "SC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Lacks security",
+    "reviewText": "2 issues regarding motel security, one especially bizarre. We thought it was odd that the side entrance to the motel (from parking lot to the interior stairwell, actually) was not locked. There was a place where the room-key card could open a locked door, but it wasn't necessary. But we certainly wanted it secure! We mentioned it to the woman... More",
+    "reviewerCity": "Inverness",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Run, run fast",
+    "reviewText": "This is the nastiest hotel we have stayed in ...ever. . The desk clerk was very nice. This is the only good thing about the hotel. The lobby looked clean, but when we entered the elevator, it had debris all over the floor. Right then we should have turned back. We had already been to a couple other hotels and... More",
+    "reviewerCity": "Kentucky",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Cockroaches And bed bugs",
+    "reviewText": "This place is gross Guys. Keep driving! Cockroaches on my food in the microwave and I woke up with welts on me. Wads of hair in the shower! And scum everywhere it's grosssss, the staff treated me like I was stupid. Spend an extra 20 guys...",
+    "reviewerCity": "Kentucky",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean room",
+    "reviewText": "The people were very helpful when my car broke down. They gave me a ride to the mechanic and auto parts store. Room was clean and comfortable. Would highly recommend the La Azteca Mexican resturant nearby. Thanks again for all of your help when I was stranded.",
+    "reviewerCity": "Vine Grove",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4115"
+  },
+  "name": "Ihg",
+  "categories": ["Travel \u0026 Transport", "Hotel and Meeting Room", "Hotels \u0026 Motels", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "IL",
+    "city": "Metropolis",
+    "postalCode": "62960",
+    "address": "2179 E 5th St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-88.7034, 37.1605]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-12-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "good rates for the tired traveler.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very worth getting up for breakfast.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "they have an automatic pancake machine.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The continental breakfast is great",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "very worth getting up for breakfast.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-12-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Good rates for the tired traveler.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I can't wait for breakfast",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "the continental breakfast is great",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "They have an automatic pancake machine.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4116"
+  },
+  "name": "Super 8 Metropolis",
+  "categories": ["Travel \u0026 Transport", "Hotels", "Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "IL",
+    "city": "Metropolis",
+    "postalCode": "62960",
+    "address": "2055 E 5th St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-88.690626, 37.162308]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Basic but good",
+    "reviewText": "Basic but good. Clean and close to highway.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Basic but good",
+    "reviewText": "Hotel was not bad good service jacuzzi and pool were lukewarm to cold. Room was nice, though I would choose a room with a queen or King size bed as opposed to two doubles.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Hotel for the money",
+    "reviewText": "Our room was clean and the staff was very friendly. At check in the clerk was able to talk to us about the area and things of interest that we might want to do. As stated the room was clean, but there was a slight odor in the Bathroom, but I have been in High Class hotels that were much... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "dirty shower",
+    "reviewText": "The room was nice but the shower still had the used soap an empty shampoo bottle on the shelf in the shower stall. Does this mean the shower wasn't cleaned",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice for a small town",
+    "reviewText": "i read several reviews of this and other local hotels. you are not going to get a 4 seasons hotel in metropolis, il. we stayed her while doing our scuba certification at Mermet Springs. The room was comfortable, showers were hot, and we enjoyed the indoor pool and hot tub. Staff was friendly. We did not eat breakfast there, because there was a Huddle House across the parking lot---our breakfast there was excellent. Hotel a little dated, but was a good value. I would stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "First and last stay",
+    "reviewText": "Weak exoerience. Started with reservation issues. Front desk essentially trashed online, third-party booking. Disagreed on room chisen. Asked for a kjng over two doubles. But it costs more, says front desk rep. Eventually, I oaybyhe 2 upcharge. Indoor hotel with two floors but no elevator, bummer. WiFi did not work. Given an alternative. Still did not work. Told front desk to checkout. A very indifferent, sorry. And breakfast was awful. Star of breakfast was packaged sweet rolls. Overall, never again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Pretty Good",
+    "reviewText": "Clean, no frills, basic. Can't beat it for the value",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Front desk help was wonderful",
+    "reviewText": "Could use a few more food choices but stay was nice",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, w/Couple Small Issues",
+    "reviewText": "VERY clean room. Hot tub in pool area did not work, but there was no mention of this anywhere The breakfast selection was very weak.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "HORRIBLE!",
+    "reviewText": "I was told I was getting a free upgrade but the room was simply horrible. There is a stale, mildrew-like smoking type smell throughout the areas I venture i.e. room, hallway, breakfast area and even when you walk thru the front door. I knew this was going to be a problem but the registration was nonrefundable. NEVER AGAIN!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "HORRIBLE!",
+    "reviewText": "The room had an Oder about it but the receptionist was quick with a room freshener spray",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Fair",
+    "reviewText": "At was ok, definitely NOT a five star hotel but ok for one night, I will stay in it again if I'll go back to Metropolis IL",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Till I stop again",
+    "reviewText": "Love super 8's everything was great. Breakfast was better than most.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "review",
+    "reviewText": "Advertised breakfast....only cereal. Huge cobweb in room. The other person couldn't check into room until I arrived even though they had confirmation number and I paid with my debit card to reserve room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "not so good",
+    "reviewText": "We were very disappointed with our stay. We made reservations for 2 stays during this trip. one night before our trip to Gatlinburg and one night on our return. we were disappointed both stays. We chose this hotel because of the location, the pool and the hot tub. The pool was so cold both nights (about a week apart) that we couldnt swim. There were other hotel guests also complaining, so it wasnt just us. The hot tub on the first night kept tripping a breaker. Which is a scary thing. The second night we had the attendent to see about getting the pool warmer, and to inform them the hot tub would not turn on and there were lots of bugs in it. She called the manager who stated that he just cleaned the pool and added water and it would take awhile to warm up. ( there were bugs and objects on the bottem of the pool). and that the hot tub was just checked and cleaned. Not Possible. We make several trips a year to Metropolis/ Paducah and have stayed here. If this is the way to please your guests we will be staying somewhere else from now on!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for the price.",
+    "reviewText": "Room was as expected. Pool was really cold and but the hot tub was great. Not really much to do other than the casino but our stay was for bowfishing so we never made it there. There is a Superman museum and a massive statue in town though.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "3rd stay",
+    "reviewText": "This is our third stay. Was here in Aug. of 2013, things were good at that time. So booked for May 2014. Pool was way to cold to swim and hot tub broken. Gave the benefit of doubt and booked for this stay. July 2014. Hallway stunk. Pool was very cold, and couldn't swim again. Complained but was infirmed nothing could be done. Went to Gatlinburg. And was already booked for today, back at this super 8. So well see how that goes. Better I hope.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Severe Lack of Attention to Details",
+    "reviewText": "Hotel staff was friendly and helpful however hotel felt old and dingy. Town is small and older and most buildings felt this way so this wasn't a huge issue. However, the entire hotel was overpowered in a harsh cleaner scent mixed with an overpowering smell of chlorine (from the pool) that gave multiple family members a headache. Room had a HUGE bathtub, but it was poorly cleaned with other people's hair still on sides of tub and bathroom floor. Shower enclosure in the bathroom was so tiny that it was almost unusable for my hubby and impossible for access to wash children. No view from our room except the roof of the pool enclosure. Sheets were put on king sized bed inside out and the pull out did not have sheets, we had to request them and then walk down to main desk and put them on bed ourselves. Wifi was unreliable with inconsistent connection and slow service. After seeing room, we decided that we did not want to trust cleanliness of complementary breakfast and so we went out to eat.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for the price",
+    "reviewText": "Hotel lobby, pool, and staff were excellent. Room was OK but for the price, I'd recommended this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Good For One Night Stay...",
+    "reviewText": "The room was not the best however, it was good for one night before continuing our trip home. The hallway and the room smelled like cigarette smoke even though we booked a non smoking room. The continental breakfast was fair enough to hold us over until we stopped to eat lunch. Stayed because it was close to the Superman Museum (about 10-15 minutes away).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay",
+    "reviewText": "The only two issues were minor to us. The hallway smelled of smoke very strongly, but the room did not. The other issue was that the room had not had a thorough vacuuming. Though it was clean, it needed a little work. We are planning on staying here in the future, as it is close to our daughter's college, but is less expensive than the ones in the university town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value",
+    "reviewText": "The Super 8 in Metropolis is well run with nice amenities that you wouldn't expect at this price point. VERY friendly and courteous staff!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy travelers",
+    "reviewText": "Our family stayed 3 nights to visit family near by.The hotel had a nice clean indoor pool which was great for our girls,continental breakfast wasn't bad and it was close to the highway. The evening desk girl(which she was usually by herself)was awsome,always had a smile on her face and very helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy travelers",
+    "reviewText": "VERY GOOD",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Super stay with Superman",
+    "reviewText": "No roll-away beds any more. Teaching as volunteers and trying to keep costs to bare minimum, so we try and share rooms.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Easy to find",
+    "reviewText": "Great service, nice staff, no issues at all, except breakfast could have been better, but that would make the price higher, so, overall, I'm fine with it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Super 8",
+    "reviewText": "Not expecting anything unusual here, but what a nicely kept and organized location! Great quick breakfast large room in good condition good mattress. All for a bargain price!",
+    "reviewerCity": "Lakewood",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "A little help.....",
+    "reviewText": "came back to the hotel from a 13 hour motorcycle ride. dying to get into the hottub and it was cold and dirty. our first night their..... told desk we were wanting to get into the hottub and nobody even took the cover off or help. no water to our room for a half hour after we got their. broken recliner in our room.",
+    "reviewerCity": "Lakewood",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Not impressed at all-use the Holiday Inn Express",
+    "reviewText": "Booked non smoking rooms...the rooms(2) we were given had definitely been smoked in recently and indeed had ash trays on the desk and night stand- they even made us sign that we would not smoke in the rooms or face an extra charge...last day Sunday rooms were not made up nor towels refreshed even though we had departed for the day at 09:30. The Breakfast was a Puritan Continental Breakfast...nothing special. Hall was musty and dank.",
+    "reviewerCity": "Lakewood",
+    "reviewerState": "CO",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Our stay",
+    "reviewText": "We just stayed one night. The room was adequate for what we needed The morning staff was very pleasant . There were restaurants close by , within walking distance.",
+    "reviewerCity": "Lakewood",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointing stay",
+    "reviewText": "Terribly disappointed. Staff totally unfriendly. Did not see even a smile from anyone on staff. Asked for additional pillows was told they do not have extra pillows. There was only one pillow per person. Asked for an extension cord. Was told they do not have any. Overall I was terribly disappointed.",
+    "reviewerCity": "Lakewood",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "CONVIENT TO I-24 AND RESTAURANTS",
+    "reviewText": "VERY GOOD EXPERIENCE.",
+    "reviewerCity": "Lakewood",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-13T00:00:00.000Z"
+    },
+    "reviewTitle": "It was OK.",
+    "reviewText": "The room was clean and easily accessed. The front desk associate explained to me that the hotel was in the process of an upgrade to the telecommunication system which could cause lower quality TV/Internet service.",
+    "reviewerCity": "Quincy",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Suitable for the price",
+    "reviewText": "Ok place to stay for the price. Close to expressway. Friendly staff. Definitely no frills type of place. Room was clean but bathroom had an odd odor. The pool area was nice but they didn't have pool towels. Overall fine place for a stop over, ya get what ya pay for.",
+    "reviewerCity": "Quincy",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Super 8 Metropolis",
+    "reviewText": "Breakfast was somewhat of a disappointment. I guess I was expecting more than pre-packaged danish, toaster waffles, and toast. The 'orange juice' tasted like Tang. The hair dryer in our room did not work.",
+    "reviewerCity": "Quincy",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Not good",
+    "reviewText": "This must be one of the last hotels in America that allows smoking and it definitely shows. The entire place reeks of stale cigarette smoke including the rooms. The beds and rooms smell so bad that it can give non smokers a headache. Additionally the Wifi doesn't work at all and everything is pretty rough looking. Give this place a miss.",
+    "reviewerCity": "Quincy",
+    "reviewerState": "IL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Not good",
+    "reviewText": "Was great pool room was a little hot but cooled off at night",
+    "reviewerCity": "Quincy",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "all I needed",
+    "reviewText": "clean, quiet, convenient, inexpensive....what more could one ask for",
+    "reviewerCity": "Quincy",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasantly surprised������",
+    "reviewText": "Hotel hostess was friendly, knowledge about the area and making connections to interstates, since we were unfamiliar as how to connect. The only negative was, Breakfast was not much more than cereal and a roll.",
+    "reviewerCity": "Quincy",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Hunting trip",
+    "reviewText": "Fair hotel...never got a chance to try the breakfast...hot tub was nice after hanging tree stands all day...good stay for the price.",
+    "reviewerCity": "Quincy",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Sweet place",
+    "reviewText": "Hotel was great. Lady at the desk on 2nd shift was HOT. I'd stay there again when we go scuba diving.",
+    "reviewerCity": "Quincy",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Sweet place",
+    "reviewText": "Like some others, we were impressed with the friendliness of the staff and the cleanliness of the facility and room. We will stay there again if and when the occasion arises. The mattresses were pretty worn out. They were soft and lumpy. Nevertheless, the price was right and the value was good.",
+    "reviewerCity": "Quincy",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-02T00:00:00.000Z"
+    },
+    "reviewTitle": "so-so",
+    "reviewText": "staff is friendly as usual. Like the convenience of the Super 8. Even though we stayed in a non-smoking room the smell of the smoke was overwhelming. Unfortunately we may not be staying here again. We usually stay here in December on our way south and again late February/early March on our way back north . Internet was not working... More",
+    "reviewerCity": "Menasha WI",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "so-so",
+    "reviewText": "The room was clean and comfortable. The breakfast was good. We would stay here again",
+    "reviewerCity": "Menasha WI",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-02T00:00:00.000Z"
+    },
+    "reviewTitle": "so-so",
+    "reviewText": "indoor heated pool and jacuzzi!",
+    "reviewerCity": "Menasha WI",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Stinky situation",
+    "reviewText": "Hotels.com was a disaster! The room I was told I would get was not even an option at the hotel when we got there. When I tried to call hotels.com to get assistance they gave me a very hard time, made me wait on the phone for nearly an hour and even then didn't resolve my request. The hotel smelled like smoke and didn't even have an elevator. The hot tub smelled really funky and old like mildew. The towels didn't smell clean either. Overall, try somewhere else. This place was rough.",
+    "reviewerCity": "Menasha WI",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, clean, quiet.",
+    "reviewText": "We had a good expierence, helpful staff, overall the entire hotel inside and outside was very clean and well kept. The complimentary breakfast was way better than i expected. I would definitelt stay here again!",
+    "reviewerCity": "Menasha WI",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, clean, quiet.",
+    "reviewText": "Breakfast fare was not good, but overall it was a good stay.",
+    "reviewerCity": "Menasha WI",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, clean, quiet.",
+    "reviewText": "Only had one problem and they fixed it as soon as I told them about it.",
+    "reviewerCity": "Menasha WI",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Way overpriced",
+    "reviewText": "Not a bad room but if your not buying it on the internet they will rip you off , 20 difference to rent from them and did not want to add a 2nd day even thou i paid for it through Hotel.com they wanted me to leave and then recheck in later, crazy",
+    "reviewerCity": "Menasha WI",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Superman home nice stay.",
+    "reviewText": "Right off the Interstate highway. A good nights sleep for a great value. Stay here on your next travel trip!",
+    "reviewerCity": "Menasha WI",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Quality for Low Rate",
+    "reviewText": "The room was surprisingly large and 'suite-like' - a combination living room/mini kitchen area with couch, fridge, sink and microwave and a corner table and chairs. There was a flat screen TV in this room and a larger flat screen in the separate, king bed room. Sliding doors separate the living areas (including the bathroom) from the sleeping area. This was one of the larger, nicer and better equipped hotel rooms we've stayed in. There was a good selection available for the free breakfast and the dining area was large, and clean with good lighting and plenty of coffee.",
+    "reviewerCity": "Menasha WI",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Quality for Low Rate",
+    "reviewText": "I was pleasantly surprised when we checked in. The motel was very clean. The room was very clean. Breakfast in the morning was perfect. What a great deal for the money. Definitely will stay there again. Staff was very friendly. Give them a try, you won't be disappointed.",
+    "reviewerCity": "Menasha WI",

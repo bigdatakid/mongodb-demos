@@ -1,0 +1,1000 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Too much highway road noise.",
+    "reviewText": "The hotel was nice but be selective about the room you receive. We got a delux suite for same price as suite, but come to find out we could practically reach out and touch the trucks on 385...all night long. Too good to be true, usually is, and was in this case. There were lots of vacancies and they could have placed us in a quieter room, but didn't.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Too much highway road noise.",
+    "reviewText": "If you have any problems, talk to Claudette! She understands guest service and wants your stay to be the best!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Too much highway road noise.",
+    "reviewText": "perfect place to stay has shuttle. service and also a hot front desk manager rebecca.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "breakfast",
+    "reviewText": "breakfast was great. Quiet room and very clean. Was a liitle upset about no indoor swimming pool and or spa and the fact that you had to wait till exactly three before check-in. other than that it was a great hotel. I would probably stay there again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "breakfast",
+    "reviewText": "Pool doesn't open until May 25th!!!!  Cuz it's an outdoor pool.  Bummer!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "breakfast",
+    "reviewText": "Perfect place to stay has shuttle. Service and also a hot front desk manager Rebecca.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Southern Hospitality!",
+    "reviewText": "The hotel was as expected. I always have a good experience at Holiday Inn Express. The staff at this hotel was the friendliest and most accommodating that I have ever experienced. That made my stay even better.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Southern Hospitality!",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Two weeks from home",
+    "reviewText": "This area was near everything I needed for this conference. Check In/Out was quick.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4096"
+  },
+  "name": "Four Points By Sheraton Memphis Southwind",
+  "categories": ["Hotels", "Lodging", "Hotel"],
+  "location": {
+    "country": "US",
+    "state": "TN",
+    "city": "Memphis",
+    "postalCode": "38125",
+    "address": "4090 Stansell Ct",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-89.7989, 35.03692]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent stay",
+    "reviewText": "Stayed here two nights for the KState bowl game. It's a newer hotel in a suburb of Memphis. The pool was a nice treat and was warmer than most hotel pools that are indoors. The room was of decent size and offered a couch in the room. The hotel bar was a little small, but didn't utilize it. The drive... More",
+    "reviewerCity": "Abilene",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent stay",
+    "reviewText": "nice clean hotel and good location outside of memphis. 20 minutes to downtown. $105 on hotels.com",
+    "reviewerCity": "Abilene",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent stay",
+    "reviewText": "nice and big rooms, aa sent me here after a cancelled flight, not close to the airport, but nice surroundings. the only bad thing i experienced was that they sent me to a dirty room the first time",
+    "reviewerCity": "Abilene",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Four Points Southwind",
+    "reviewText": "Very typical for a Sheraton Four Points Hotel. Decent rooms with a fold out couch, refrigerator, and desk. Bed is definitely not at the Westin or Sheraton level, but it is a Four Points. Staff was friendly and accommodating. Will stay here again as it is the only SPG property anywhere close to the FedEx World HQ.",
+    "reviewerCity": "Los Angeles",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Gave dirty room, failed to provide promised compensation",
+    "reviewText": "Stayed Sunday night over MLK weekend with 2 grade school kids. When got to room, there were subtle things off. When we called front desk to fix, they seemed surprised we were in that room, but promptly brought what we needed. At bedtime, discovered that one of the beds was soaked with who knows what. The cleaning staff had made... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "CA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Gave dirty room, failed to provide promised compensation",
+    "reviewText": "Nice clean hotel and good location outside of Memphis. 20 minutes to downtown. $105 on hotels.com",
+    "reviewerCity": "Chicago",
+    "reviewerState": "CA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location",
+    "reviewText": "Hotel was at the terminus for the trolley bus which was great only costing a dollar and well worth the fare as a bit of a hike I think around 10 blocks from the centre. We visited the Peabody hotel in time to see the,famous ducks wander through the foyer and into the fountain well worth it if you have... More",
+    "reviewerCity": "falkirk",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent cleaning not so friendly front desk staff",
+    "reviewText": "I stayed here for two nights and I must say the room was spacious, clean and the towels were fluffy. My only problem was the young lady at the front desk. She was not knowledgeable at all and she gave me a blank stare after every question I asked.",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent cleaning not so friendly front desk staff",
+    "reviewText": "Clean, good-sized room",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Not recommended for business trip",
+    "reviewText": "not a pleasant experience -- kinda place you don't want to walk on the carpet barefoot. Energy is weird too. Next business trip will not stay here. I wish I was staying downtown or in a more updated hotel.",
+    "reviewerCity": "New York",
+    "reviewerState": "TX",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Did not get ANY sleep because of the fire alarm went off, poor customer service",
+    "reviewText": "The hotel was actually nice, clean and the staff were friendly. We stayed 2 nights, the first night was fine. The second night, we were awakened at 3am by the BLARING fire alarm. My 10 yr old daughter was very frightened. We had to evacuate the hotel while they attempted to figure out the problem. No one from the hotel... More",
+    "reviewerCity": "Birmingham",
+    "reviewerState": "AL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-16T00:00:00.000Z"
+    },
+    "reviewTitle": "good stay friendly staff",
+    "reviewText": "nice stay at a typical four points. room was clean and a decent size. WIFI was fast and free. Bed was comfortable. Seemed like a safe area of town. No free breakfast of course but it is a sheraton. we would stay again",
+    "reviewerCity": "Birmingham",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Three Star Property, Four Star Experience",
+    "reviewText": "Perfect stay! Spotless, super comfortable bed, linens and pillows. Crystal clear pool and hot tub. Small full service bar / restaurant. (Not utilized) complimentary morning coffee was outstanding! Staff was exceptional. Free parking. No in room movies.",
+    "reviewerCity": "Bloomington",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Three Star Property, Four Star Experience",
+    "reviewText": "nice and big rooms, aa sent me here after a cancelled flight, not close to the airport, but nice surroundings. the only bad thing i experienced was that they sent me to a dirty room the first time",
+    "reviewerCity": "Bloomington",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Three Star Property, Four Star Experience",
+    "reviewText": "clean, good-sized room",
+    "reviewerCity": "Bloomington",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Three Star Property, Four Star Experience",
+    "reviewText": "Nice and big rooms, AA sent me here after a cancelled flight, not close to the airport, but nice surroundings. The only bad thing I experienced was that they sent me to a dirty room the first time",
+    "reviewerCity": "Bloomington",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4097"
+  },
+  "name": "Hampton Inn Fayetteville Fort Bragg",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "NC",
+    "city": "Fayetteville",
+    "postalCode": "28303",
+    "address": "1700 Skibo Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-78.96096, 35.07617]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Staff was very friendly and helpful. Facilities, breakfast and pool were excellent made our visit very comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "People behind the front desk were excellent.",
+    "reviewText": "The lady behind the front desk was a real pro. I didn't catch her name but she was small and looked like she may have been from the Philippines. She checked us in, gave us a room key and as we were heading to the elevator, stopped us and stated Our room wasn't ready. She apologized several times and quickly... More",
+    "reviewerCity": "Bay City",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Couldn't be better",
+    "reviewText": "What can you say about a place where virtually every single person that you run into that works there is friendly, personable, helpful and patient. The room was comfortable, the breakfast was good and the location was convenient. I would definitely stay there again.",
+    "reviewerCity": "Bay City",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful housekeeper name Mattie",
+    "reviewText": "If you stay at this property, please request Mattie to clean your room. She was so helpful to me and my family. She always had a smile on her face and truly loves her job. When I come back to Fayetteville, I would choose this hotel. Tell her Terrence from Atlanta said thank you for the hospitality.",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "A/OK",
+    "reviewText": "Hotel was nice and clean Our first room had no A C But the nice lady at desk saw That we got another room The breakfast was good Will return again.",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice clean hotel",
+    "reviewText": "Clean hotel. Quiet room. Comfortable bed. Decent breakfast.",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "The staff was the diamond of your hotel.",
+    "reviewText": "Your staff was wonderful. John, Nicki, Jennifer. I can't recall her name she was the cook in the kitchen. She ran the entire kitchen short blonde hair mid fifties. The reason why I go to such trouble describing her was that she was absolutely superb. Very professional food presentation. Clean, and she was a exceptionally nice person to talk to. Your staff was the diamond of your hotel",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Sweet spot to stay...mall nearby",
+    "reviewText": "Great location and very decent amenities! We had a corner room, and wanted for nothing. Starbucks and mall nearby. Super location, great rate. Sweet experience and will always stay here when we come to visit family.",
+    "reviewerCity": "Pasadena",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Always check your room....",
+    "reviewText": "The hotel was beautiful, but after only a couple of hours we found a bedbug. We were moved out of the room immediatly and there were no sighting of any bedbugs there. After finding the bedbug we just felt were very hesitant in placing our belongings anywhere in the room. I slept with the lights on all night. The hotel itself was very clean and nice.",
+    "reviewerCity": "Pasadena",
+    "reviewerState": "CA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel at an affordable price!",
+    "reviewText": "The room was very clean. The beds were comfortable and I loved the pillows! The staff was very helpful as we were traveling with a baby. The night clerk came to our room and set up the crib for us. One employee even offered to walk me to the car holding the umbrella during a rain storm. The complimentary breakfast was delicious and I was impressed that the hotel had a freezer with Lean Cuisines and other items in it. How convenient for travelers! We will definitely stay here again!",
+    "reviewerCity": "Pasadena",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "Nice clean hotel. Stayed several times.",
+    "reviewerCity": "Pasadena",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Fayetteville Finest Hotel",
+    "reviewText": "We arrived on a Wednesday. Amber was VERY pleasant...she shared with me, they were serving hotdogs/chips/drinks etc 5:30 FREE to the guest. What a nice addition. Everyone was super friendly to include the cleaning service/Irving even helped me take my breakfast to my room!!",
+    "reviewerCity": "Pasadena",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "The hotel was nice and clean and the breakfast had a pretty good array of options.",
+    "reviewerCity": "Pasadena",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Will be staying here again.",
+    "reviewText": "Had a great time. The rom was beau If up and funcitional and very clean. The staff was very polite, very attentive and very professional and helpful.",
+    "reviewerCity": "Pasadena",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-28T00:00:00.000Z"
+    },
+    "reviewTitle": "So ,so",
+    "reviewText": "Night shift person was rude.. room was out dated. . It was clean .. but the beds were uncomfortable. .",
+    "reviewerCity": "Pasadena",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Attack of the ants",
+    "reviewText": "The night was great until it was time to take a shower. There were ants coming out of the walls. Everywhere. It was crazy the amount of ants. When I told the hotel about it they said that it must have been from the rain the night before and couldn't do anything for me because I purchased the room on hotels.com and not from there. What ever you do, don't stay in rm 114",
+    "reviewerCity": "Pasadena",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Good staff, ok facilities",
+    "reviewText": "Sam Room 303 - the staff were responsive and friendly. Manager's special on Tuesday and Wednesday a nice touch. The hotel layout is awkward and details are rough around the edges. Good tv options and modesty comfortable bed. The Room was small and air conditioner loud. Most frustrating was the shower had hot water but the sink have nothing but... More",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly and cleanly.",
+    "reviewText": "Friendly staff. Housekeeping definitely does a good job.Breakfast was excellent.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for an overnight stay!",
+    "reviewText": "We stayed at this hotel as a mid-point for our road trip. It was a quick overnight stay. The location was very convenient and it was right across the street from the mall and several eating establishments. The walls were pretty thin but it didn't get noisy until the morning time when we were getting ready to leave. The front desk staff and especially the breakfast hosts were exceptional! We left with a smile on our face :)",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome Stay in Fayetteville!",
+    "reviewText": "Our stay was wonderful. My sister and I were in town for an event at Ft. Bragg. The hotel was in the perfect location. The breakfast was awesome!! The staff managing the breakfast area were outstanding. My sister and I were made to feel very welcome. My sister accidentally left behind her favorite sweater and we had to go back to get it. The staff were wonderful about helping her get her security blanket (lol) back. We will DEFINITELY stay at this hotel again and we will recommend it to others.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Big family trip",
+    "reviewText": "Clean , comfortable in a very good and convenient location",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Satisfied and would recommend",
+    "reviewText": "The only complaint I have is the ice bucket/cups and coffee maker are in the bathroom. GROSS! They need to be moved out into the actual room.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Wall too thin. Much noise.",
+    "reviewText": "Great breakfast. Attractive lobby. Just too noisy.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "a stop over from FL.",
+    "reviewText": "this was only a stop over from florida and we got there late so can't really give a review except it was clean and met our needs.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stopover.",
+    "reviewText": "Nice hotel, very friendly staff. Nice pool, very clean. Above average breakfast. Very busy area, across the street from the mall. Did have an AC issue, but they addressed it immediately. Beds were comfy, soft sheets. Would stay again for sure.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst Hampton Inn",
+    "reviewText": "I have stayed at many Hampton Inns and this was by far the worst I have ever encountered. We were locked out of our room for at least an hour because of a faulty security lock. Then the room was not cleaned and we had no clean towels to shower with.Then they stated I owed them an extra day because Experion only paid 1 day even though I had a receipt from Hotels .Com.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Business travel",
+    "reviewText": "Very pleasant. Hotel was in a good location.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasing break from long road trip",
+    "reviewText": "My overnight stay was very satisfying. Room was very clean and extremely comfortable. Breakfast was really enjoyable and staff were really very helpful and nice.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent stay",
+    "reviewText": "It's always a pleasure to stay in Fayetteville when I can stay at the Hamptons",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent stay",
+    "reviewText": "It took too long to get there from the highway(I-75). There were no driving instructions on the website. Hotel was fine.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Near bars",
+    "reviewText": "Hotel was nice and clean. AC didn't work until last day and no vent fan in bathroom but other than that it was good. It was plenty close to the mall and restaurants. Also few short miles from base which was why I was there.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "4th of July weekend tril",
+    "reviewText": "Our stay was great for a family getaway. Very clean and comfortable. Room was a bit small, but very clean. Bed was very comfortable. Love the daily room service. Didnt get a chance to try out the breakfast service. Staff was great and very friendly. Overall our stay was amazing. I would definitely stay again.",
+    "reviewerCity": "Vicenza",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great 7 day stay!!!!!!",
+    "reviewText": "My name is Randy and I stayed in room 123 from 5/18 to 5/25 2016. First, I checked into the wrong room that I picked, (handicapped) But the next morning, Tiffany and Nicole quickly had me moved to a few doors down to a great room with minimal effort on my part. They were so nice.. Others at the counter... More",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay",
+    "reviewText": "The staff checked me in early and quickly at 6 in the morning with no problem",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay",
+    "reviewText": "parking in rear seemed a bit insecure--easy escape for maldoers",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "close location for visit with family",
+    "reviewText": "comfortable but thought i had chosen queen size bed but room had double. Parking close to room and safe",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, very quiet rooms, no noise from halls.",
+    "reviewText": "The front desk person was a little unfriendly, but otherwise a perfect stay.",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, very quiet rooms, no noise from halls.",
+    "reviewText": "I love it sleep wonderful",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Not prepared to be a plumber for the night...",
+    "reviewText": "Hotel was old and room needed remodeling. The first time we flushed the toilet it overflowed onto our bathroom floor. When I called to have maintenance come up (at approx 9:30pm) to unclog the toilet, I was told that there was no one there to do that for me and that I could come down to the front desk and get the plunger to handle myself. I was told most guests prefer to do this themselves because they do not want strangers in their room. Really I'm on vacation - clearly that wasn't something that was on my must do list. I asked about changing rooms and was told they were sold out. I'm not sure that was truthful since the parking lot was clearly not full. With 3 children and it being 10pm at this point, finding a new hotel wasn't really an option. After being handed a plunger and extra towels I unclogged my own toilet and then proceeded to act as Certfied Plumber two more times that night and the next morning. Breakfast the next morning was the one positive of this stay. I never spoke to the manager - when I went to the desk in the morning to voice my concerns I was told she was on a conference call. The front desk clerk informed us that our bill would be reduced 20. She apologized and said because they aren't a 5 star hotel they do not have 24 hour maintenance. Would not stay here again.",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "CA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Sudden fees",
+    "reviewText": "50 dollar fee that is charged without notice but then returned.",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Visit baby Jameson",
+    "reviewText": "I was disappointed that I requested adjoining rooms and got rooms across the hall from each other. It was disappointing the pool was closed at 3:00 pm due to a storm the night before, but the hotel next door had their pool open. Also my rooms were prepaid and one was not ready for check in at 3:00 pm. I am hesitant to choose the Hampton Inn the next time I am in town.",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Very friendly",
+    "reviewText": "Check in and check out was quick. Customer service was excellent.",
+    "reviewerCity": "Lincoln",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Where to stay in Fayetteville",
+    "reviewText": "Needed to stay for three nights in Fayetteville, N.C. I went to Tripadvisor and found the Hampton Inn on Skibo and booked the room. Nothing special, just a room. This is where this property shines Great staff with an attention to detail Great breakfast Very clean and safe location When in Fayetteville, this is where I will alway hang my... More",
+    "reviewerCity": "Mechanicsburg",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "so so stay",
+    "reviewText": "The lady at front desk seemingly very uninterested and unresponsive. She had her stone face on the whole time while we were checking in. She didn't even bothered to say you are welcome after I thanked her after the check in was complete. The room is clean but hotel is little outdated. The breakfast is decent, neighborhood is OK. I will try to stay somewhere else next time in Fayetteville.",
+    "reviewerCity": "Mechanicsburg",
+    "reviewerState": "PA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointed",
+    "reviewText": "We had a room with a door attaching to next room, which I did not request! The attaching neighbor was very noisy all throughout the night and we were awoken multiple times. The sound carries through that door as if they were in the same room with us. The door latch on the inside of the room did not work. Out of 5 pieces of equipment in the fitness center, only 1 piece worked. I have stayed in many Hampton Inn's in different states and have always been very pleased, but this stay was by far the worst!",
+    "reviewerCity": "Mechanicsburg",
+    "reviewerState": "PA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointed",
+    "reviewText": "The room smells of smoke",
+    "reviewerCity": "Mechanicsburg",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Will stay again",
+    "reviewText": "Great stay, thanks for the hospitality.",
+    "reviewerCity": "Mechanicsburg",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect",
+    "reviewText": "Perfect. Great staff.",
+    "reviewerCity": "Mechanicsburg",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy camper",
+    "reviewText": "I enjoyed my stay, clean, quit, and the breakfast was nice. Not many nice hotels in Fayetteville but this is one. This hotel is very safe to stay in. The staff was very sweet when I ask how much for the breakfast for my mother who lives in town they said bring her",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location to stay when visiting FT Bragg.",
+    "reviewText": "Hotel was true to the Hampton Inn brand. My family found the hotel to be much nicer than a stay at another hotel in the same general location just a month prior. The hotel was clean and the staff was very courteous. I just recently booked the hotel for another upcoming visit in July. Overall, we were very satisfied with this hotel.",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "disapointed in Hotel.com",
+    "reviewText": "I .disappointed that I did not receive our 2 rooms connected for my Mom and I as I requested. At the hotel they were not informed of my request and said they could do nothing about it. I will not use Hotel.com again",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "disapointed in Hotel.com",
+    "reviewText": "Directions were not very clear to locate room. Rooms with 1 queen should be upgraded to Kings. 1 queen rooms should not exist. And yes I knew it was that way when I booked it. I guess I just didn't realize how small that would be.",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "disapointed in Hotel.com",
+    "reviewText": "I wasn't at all happy with the condition of the hotel and the neighborhood. The room was clean and tidy tho. Some of the clinentele looked questionable. I doubt we'll ever stay there again.",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "A Very Good Experience",
+    "reviewText": "I stayed at the Hampton Inn, Skibol Rd, Fayetteville and enjoyed my stay. The reception at the front desk was warm and welcoming. Employees all through the hotel said Hello and may you feel welcome. The room was very neat clean. The bed was comfortable and I did not hear any noises even though the hotel was completely full.",
+    "reviewerCity": "Charlotte",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice location and friendly staff",
+    "reviewText": "Hotel is clean and very busy. Convenient location to everything like Starbucks , mall, restaurants , skibo , and freeway. The staff was nice and friendly always, I mainly interacted with night folks .",
+    "reviewerCity": "Arcadia",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "It was ok but damages with broken sidewalk",
+    "reviewText": "While i stayed at thia hotel there was a broken sidewalk and my mother slipped and fell and hit herself pretty hard. I reported it to the front desk but no one seemed to care.",
+    "reviewerCity": "Arcadia",
+    "reviewerState": "NC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "On the road",
+    "reviewText": "We stayed overnight and found the hotel to be old and old fashioned but the employees were exceptional - friendly, professional and eager to satisfy. Also the motel was very well maintained for its age.",
+    "reviewerCity": "Arcadia",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfy and quiet",
+    "reviewText": "I stayed 3 nights with my son (17 years old) while visiting my best friend. The hotel was clean, the room was clean and it was exceptionally quiet. Coming from NYC I actually enjoy the quiet. Its close to almost everything and directly across the street from then mall which was a plus for me.",
+    "reviewerCity": "Arcadia",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Service",
+    "reviewText": "Stayed there while in town for business at Ft Bragg. The hotel is located close to the base. The employees were all hospitable. There was a managers welcome party that included food and alcohol. The breakfast room was busy, but well stocked. The room was clean and comfortable. I will return when I'm back in town....",
+    "reviewerCity": "Westfield",
+    "reviewerState": "IN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Manager's Reception",
+    "reviewText": "Very friendly and the best Manager's reception of any Hampton Inn I've stayed at. The rooms are clean and the staff very helpful. The complimentary breakfast always has a great selection of hot entree's, cereals and fruit. I compliment Irving, Toni and Amber for their friendliness and outstanding work ethics.",
+    "reviewerCity": "New Market",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Older Hotel",
+    "reviewText": "Nice older hotel. Need a lot of upgrades. Staff was very nice. AC unit went out the two nights we stayed there, they provided us with a fan that did not help with two babies in the room. Customer service was good despite the obstacles that made for an uncomfortable stay.",
+    "reviewerCity": "Hephzibah",
+    "reviewerState": "AL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Cassidy - Room 101",
+    "reviewText": "We arrived here after a long drive from Floirida for an overnight stay to just get some rest. When we first arrived we were greeted nicely by Tiffany Amber, they helped us book 2 rooms for a great price and even reccommened restaurants in the area. When we arrived in our rooms, we were vey happy with what we... More",
+    "reviewerCity": "Saint Cloud",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Family Getaway",
+    "reviewText": "This was my first time staying at a Hampton Inn Hotel. The desk clerk was very friendly. She made us feel like we were her family. The hotel was very clean as well as our room. Her name was Metia. The only down side of the stay was the other hotel guests. There was a couple arguing outside of our door. There was also kids playing football on the same floor we were on. I know everyone don't always act there best when they leave their home. Overall it was a pleasant stay. If I every returned North Carolina I would stay there again.",
+    "reviewerCity": "Saint Cloud",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Satisfied",
+    "reviewText": "Was a great trip the pool is outside there's no hot tub. Breakfast was a great selection of foods. Staff overall was helpful nice. Room was very nice. Water presser in shower not the best. The noise from the hall from other guest was loud. Price was kinda high but I wanted to stay in a place I hoped... More",
+    "reviewerCity": "Marion",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Never Again!",
+    "reviewText": "Worse Hampton Inn experience ever. 1. I checked in online because I was arriving late due to traffic. They gave my room away and initially tried to convince me I was at the wrong place. When they discovered their mistake, there wasn't even an apology. I felt like I was begging for a room. They placed me in room 317,... More",
+    "reviewerCity": "Hattiesburg",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Always the best",
+    "reviewText": "Love it!! Amazing stay.. Clean friendly and modern",
+    "reviewerCity": "Hattiesburg",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "very helpful staff",
+    "reviewText": "clean, quick checkin. rooms are clean. when i checked in the staff was very helpful with the process of govt directbilled rooms. it was a very pleasant experience. i travel and stay in hilton affiliated hotels and this is one of the better ones.. thanks to irving, toni and Amber",
+    "reviewerCity": "Indianapolis",
+    "reviewerState": "IN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "nice hotel in a nice town",
+    "reviewText": "jonathan from 417 says the hotel was nice, not many amenities. the mall is close by, there is a movie theater and restaurants minutes away. the airport was 15 minutes away so was ft. bragg. some of the staff was friendly, one was not.",
+    "reviewerCity": "Riverside",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Beware of Lax Housekeeping Potential",
+    "reviewText": "It pains me to write this review because of the friendly and seemly dedicated staff of this hotel. However, a recent five-night stay revealed serious housekeeping issues. Upon occupancy of room, my routine inspection of the bed revealed a faint pink stain on the bottom sheet, and a strand of hair. I contacted front desk promptly two people from housekeeping... More",
+    "reviewerCity": "North Carolina",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a great property!",
+    "reviewText": "We had to stay over in Fayetteville due to a car issue, and as a Hilton Honors member, I generally have good experiences at Hampton Inns. This property is nestled between a major road and a busy highway and is not very easy to get too from a strange little access road! First, it was obviously another Motel Chain before... More",
+    "reviewerCity": "Pompano Beach",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, comfy room",
+    "reviewText": "Our one-bedroom room seemed a bit small, but was well-appointed, comfortable, clean, and gave us a good night's sleep. It's just what you want in a hotel room. The hotel had a note saying they clean the cover, sheets, and pillow cases after every guest, which is nice to know. Our only complaint was that the bedspread got bundled up... More",
+    "reviewerCity": "White House",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },

@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2013-12-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Satisfied Customer",
+    "reviewText": "Very clean and within walking distance to restaurants!",
+    "reviewerCity": "Hahira",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Likely best place to stay in Dublin",
+    "reviewText": "Very friendly staff, room was comfortable and quiet. Breakfast was terrible and housekeeping was acceptable, but not great. Due to staff being so friendly and comfort of room, I'd stay here again. There are several places to eat close by but downtown has some of the best restaurants in the area and worth the drive.",
+    "reviewerCity": "Cordele",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Problem Resolution",
+    "reviewText": "While I did not have the opportunity to stay at this hotel due to an unfortunate mistake with my reservation, the hotel did an excellent job resolving the issue for me. They were very responsive to my concern and have made appropriate reparations in a very timely manner. The GM, Raj Saxena, personally called me to aplogize for the mistake... More",
+    "reviewerCity": "Cordele",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Highy Disappointed",
+    "reviewText": "Manager had a birthday party for his granddaughter that was only suppose to last a couple hours, it did not even end until around 7:30 or a little later. The pool area was taken over by children along with at least 15 (if not more) blown up beach balls, etc. Children took over the 1st floor, being loud and running.... More",
+    "reviewerCity": "Cordele",
+    "reviewerState": "GA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean aforable lodging",
+    "reviewText": "Room was not ready as promised and service person thought we were assigned to another room but she hurried up and got us in 15 minutes. I was surprised to find a cold vinyl floor in room that made slippery walking for dogs and sound carries from room to room",
+    "reviewerCity": "Cordele",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Last Minute Gem",
+    "reviewText": "We tried to get a room at another motel and they were full with several events in the nearby towns so we decided to give this one a try as the outside appearance was nice. We were not disappointed in the least. The staff was friendly, the rooms were clean and well stocked. The continental breakfast was most excellent. We... More",
+    "reviewerCity": "Cordele",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel and staff",
+    "reviewText": "Have stayed at this hotel numerous times with our pet and have always had a good stay. Recent addition of wood look vinyl flooring to first floor hallways and rooms was a great idea, very clean and modern. Staff and kitchen are always first class. Will continue to stay at this La Quinta. Have stayed at others in SC and... More",
+    "reviewerCity": "Cordele",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "Generally a nice place to stay. Wear and tear was obvious throughout the floor. Like the indoor pool. Would like to see a better variety of snack/soda machines. Breakfast was wonderful. Very tasty and complete. Dining area is inadequate if the hotel was full and everyone tried to eat at 7 or 8 am.",
+    "reviewerCity": "Lilburn",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Best of the best",
+    "reviewText": "This property is gorgeous, incredibly well run and above expectations. Cleanliness is spot on, decor is classy current. Felt like I was in a Hyatt or Westin. Breakfast was delicious, eggs, sausage, bacon, biscuits, grits, cereals, fresh fruits, waffles, wide selection of pastries, lovely separate dining area. Hot fresh cookies at pm was a classy above the norm touch.... More",
+    "reviewerCity": "Annapolis",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent value",
+    "reviewText": "This is, by far, the nicest La Quinta we have experienced. It is clean, well-appointed, and staffed with friendly and helpful people. For a mid range hotel that accepts pets, this particular location exceeded our expectations in every way. Wish they could all be like this!",
+    "reviewerCity": "MACON",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

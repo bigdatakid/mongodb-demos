@@ -1,0 +1,100 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel",
+    "reviewText": "had fun!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel",
+    "reviewText": "the actual hotel is 100 better than what you see online. I was surprised and thankful",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "nice and comfortable",
+    "reviewText": "With the exception of waking up to a small flood of water on the sink and in front of the toilet in the bathroom, it was really nice. It seems something was wrong with the air through out the night. I was a bit warm.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Away",
+    "reviewText": "We stayed for Jazz Fest. The hotel is ridiculously overpriced and is no better than a Motel Six in an old building. No restaurant, a very dirty room and hallways that were never vacuumed in our four day stay. A very bleak and unkept property......Stay Away",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay!",
+    "reviewText": "Service was amazing! We walked into our room and literally gasped it was so large! Very nice facility, staff was super nice. Very close to Bourbon St and the French quarters. All in all a lovely place to stay! Highly recommend it!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay!",
+    "reviewText": "Very clean rooms great breakfast overall wonderful hotel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Huge room, great price",
+    "reviewText": "Lobby was tiny, but the room was huge! 15 foot ceilings and a room so big that the king size bed looked like a twin! Great location for walk to Superdome or Bourbin street.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Huge room, great price",
+    "reviewText": "Great location for easy access to French Quarter. Staff very helpful .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall Great Stay",
+    "reviewText": "Overall great! Toilet flush handle was not working well. Otherwise great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "I love NOLO!",
+    "reviewText": "Everything was perfect! 5 star everything on a 3 star budget.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5

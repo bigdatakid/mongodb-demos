@@ -1,0 +1,100 @@
+      "$date": "2016-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Not good",
+    "reviewText": "Thin walls, people screaming and running in the hallway, smoke damage on the cabinets, the shower was funky, bed was like concrete, and the pillows were flat. Will not stay here again unless we absolutely have to. Not worth the 100.",
+    "reviewerCity": "Miami",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Not good",
+    "reviewText": "Nice place to stay for weeks on end.  Friendly staff and very helpful.",
+    "reviewerCity": "Miami",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient, large rooms, SNACK-like \"Breakfast\"",
+    "reviewText": "Continental Breakfast is actually prepackaged Muffins, Prepackaged Granola Bars, Coffee, Juice, varied Yogurt, and varied, individual packets of Grits Oatmeal that you must prepare yourself with the hot water from machine.",
+    "reviewerCity": "Miami",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay",
+    "reviewText": "Loved the fact we had a full kitchen to prepare meals and not always had to eat out was able to buy groceries and cook save us some money seeing how expensive being at Disney World and other activities actually are. The only negative was are room was by trash area, but i think it would be petty to bash... More",
+    "reviewerCity": "Miami",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Ms.",
+    "reviewText": "Accommodations were good, the room was clean and comfortable and the staff is very helpful and friendly. The only way they could have improved on any of the requirements for a great stay was the breakfast they SHOULD offer milk for the cereal!",
+    "reviewerCity": "Miami",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fc5"
+  },
+  "name": "Quality Inn \u0026 Suites",
+  "categories": ["Hotel", "Hotels \u0026 Motels", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Carrizo Springs",
+    "postalCode": "78834",
+    "address": "2611 N Us Hwy 83",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-99.845145, 28.545881]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Best in Carizo",
+    "reviewText": "I've stayed at all the hotels in Carizo. This place is by far the best. New construction with great bedding, firm pillows, fast free wifi, and the staff is very helpful. All rooms have microwave and fridge. Some rooms have a kitchenette with sink/stove/granite counters etc. I've paid a lot more for a lot worse. Don't waste your time anywhere... More",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Guest Service Genius'",
+    "reviewText": "I was In the area visiting my husband while he worked over the holidays, from start to finish there was not one thing that the hotels management and staff could not answer or find the answer to. Kuddos to the manager sweet young lady who On Christmas Day when I fell ill called every store in the area to find... More",
+    "reviewerCity": "Many",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful Stay!",
+    "reviewText": "I would highly recommend anyone visiting to Carrizo Springs to stay at this hotel! The staff is wonderful and the rooms were very clean. Mike was wonderful on helping me with nearby restaurants. Everyone was very friendly! I will stay here again on my next trip!",
+    "reviewerCity": "Many",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-14T00:00:00.000Z"
+    },

@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2017-03-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Oddly designed room, cramped and noisy",
+    "reviewText": "We wanted a hotel near the French Quarter, but hotels there are very expensive. We found this place at a (relatively) reasonable rate. It is a 5 minute walk to Bourbon Street, a 10 minute walk to Jackson Square and a 15 minute walk to Frenchmen Street. The streetcar stops right outside the hotel and can get you to most...",
+    "reviewerCity": "San Antonio",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "Great hotel and great price. Perfect location to walk to all of the things going on in the French Quarters! Staff is very friendly and helpful. One of the managers helped us find a restaurant and area we wanted to visit by printing out directions and information that we needed! Thank you for your help!",
+    "reviewerCity": "New Orleans",
+    "reviewerState": "LA"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay!",
+    "reviewText": "Did a long weekend in New Orleans. This hotel was really nice. Rooms were clean. The people who worked there could not of been nicer or more helpful. I want to return to New Orleans and I will definitely stay here.Hello Guest, Thank you so much for saying such nice things about our staff. I will pass this along to them as I know they will be delighted to hear your comments. We are truly proud to have made a loyal guest of you and look forward to your return! Best , Teresa Munoz - Revenue Manager",
+    "reviewerCity": "Bellmore",
+    "reviewerState": "NY"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Visited New Orleans for three days. This hotel was in a great position to visit the French Quarter, easy to get to from I10 and parking is free. Room was ok, clean and everything you need for a pleasant stay. Pool wasn't heated. Breakfast good, drinks at bar a bit expensive. Cheap convenience store just around the corner, get your...Dear guest, we appreciate your review and we are glad you enjoyed our perfect location. We appreciate you staying with us and hope you choose us again the next time you come to visit New Orleans.",
+    "reviewerCity": "Bellmore",
+    "reviewerState": "NY"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Right on spot, a bit dated",
+    "reviewText": "Well well located hotel for French area walk around activity! Room size is narrowed and ours, 329 was not well signed in the hallways so after walking around 3rd floor corridors we found it. A bit dark room lightening in the room and definitely seems a pet friendly hotel. It smell like a dog stayed there for weeks right before...",
+    "reviewerCity": "montevideo",
+    "reviewerState": "NY"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable room in a convenient location",
+    "reviewText": "Our room was situated on the 2nd floor above the courtyard. The receptionist was wonderful and we were pleased with the area of the hotel. Our room had two comfortable double beds, a great TV, a beautiful bathroom, and was quiet. The woman at the front desk was very helpful in recommendations and advice when asked. The hotel's location makes...",
+    "reviewerCity": "St. Thomas",
+    "reviewerState": "NY"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay. Didn't like parking fees. Great breakfast. Beautiful place.",
+    "reviewText": "1st stay in New Orleans. Family loved the stay. Great breakfast. Didn't like parking fees. Decor in rooms are beautiful. We loved the outside landscaping. Good space at breakfast area. Good location. Good people.Dear Lucy, Thank you for choosing us for your first stay in New Orleans. We are proud to have served you well and hope to see you again in the near future.",
+    "reviewerCity": "Dallas",
+    "reviewerState": "TX"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to Bourbon Street",
+    "reviewText": "Stayed at this hotel that is close to the French Quarter. Within walking distance to Bourbon Street, Jackson Square and Caf Du Monde. Quiet location. Only 2 complaints would be the room we had was right next to the elevator, which was very noisy and the parking spots are very small. The parking is cheaper than most hotels or lots...Thank you so much for taking the time to let us know how we are doing. We really love it when our guests have a great time at our hotel. I hope that we will get the opportunity to serve you again very soon.",
+    "reviewerCity": "Chattanooga",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Location was excellent. Streetcar and Hop on Hop off had pickups a block away. An enjoyable walk to the various parts of the French Quarter. Frontdesk went above to be sure our vacation was wonderful. Room was quiet.Thank you so much Carol for taking the time to let us know how much you enjoyed your stay with us. We hope you come back and see us again soon!",
+    "reviewerCity": "Clarkston",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent hotel stay! Amazing staff!",
+    "reviewText": "Stayed for 5 nights and the staff were both amazing and accommodating! The staff worked to make the stay safe, clean and enjoyable. Lawrentay went above and beyond each day to provide amazing and helpful service. He deserves a raise for his outstanding service to guests! We were completely blown away with the service that we received. We would definitely...Thank you so much, Christiana, for your kind words about Lawrentay and the staff's great service. I will inform the team of your praises and we greatly appreciate all the compliments about our facilities. We look forward to you next stay with us.",
+    "reviewerCity": "Clarkston",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "A great beginning to a wonderful honeymoon",
+    "reviewText": "The location is great.. Easy access to all attractions, streetcars and shopping. Staff very friendly informative. Rooms private. Not nosy at all. Beautiful decor atmosphere. Great breakfast variety.",
+    "reviewerCity": "Memphis",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {

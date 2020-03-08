@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2016-02-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable, convenient area",
+    "reviewText": "Not the best street but, inside the hotel, security seemed good, so I felt safe enough once I was in and during the day, and it was close to safer streets. The lobby and dining area, for the price, could have had a better atmosphere (there was a bit of a musty smell). The room itself was comfortable and was... More",
+    "reviewerCity": "London",
+    "reviewerState": "UT",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel, good location",
+    "reviewText": "I liked the layout of this hotel, with room doors facing the courtyard. The rooms were comfortable and clean. Breakfast was provided and had a good choice. The location is excellent, just opposite Louis Armstrong park and a 5 minute walk to Bourbon Street. I would recommend this hotel to stay in.",
+    "reviewerCity": "Scotland",
+    "reviewerState": "UT",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fdd"
+  },
+  "name": "Lamothe House",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "New Orleans",
+    "postalCode": "70116",
+    "address": "621 Esplanade Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.059329, 29.9632203]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Authentic French Quarter, clean accommodations!",
+    "reviewText": "We visited NO with another couple. Spent 3 enjoyable days in the French Quarter.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Bachelorette Party Getaway",
+    "reviewText": "Beautiful Hotel, stayed for 3 nights beds comfortable sort of firm but still nice. Hot summer so they kept AC on 70 super cold room we had. Sorta bummed we couldn't turn it up during the night but no biggie. If we needed anything we didn't have a problem getting it, Towels,Toilet paper, etc. Great location to everything 5- 10 minute walk to anything and everything. Really nice pool and sitting area in courtyard. Overall very nice place to stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Bachelorette Party Getaway",
+    "reviewText": "#408 really big room, very cool and clean. perfect!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Book here...unless I need the room first.",
+    "reviewText": "I loved it here. It was exactly what we wanted at the right price. An easy walk to everywhere, a beautiful old building, it was just easy. Location was perfect for us. We liked it so much that after arriving at the airport and finding our flight was cancelled I immediately rebooked the Lamothe Hotel and dinner reservations at Peche (in that order). Rating is on my satisfaction - I'm giving this 5 stars because it was a great stay but this isn't a 5 star hotel. We stayed in Room 115 which is too close to the back gate and louder than the other rooms but that doesn't affect how much we enjoyed ourselves.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrifying Craphole.",
+    "reviewText": "Room was a dirty, moist broom closet completely taken up by the bed. The door to the room literally would not open because of the bed. The small dirty bathroom was also similarly set up - the door wouldn't open completely because of the sink vanity. There was no closet, just a narrow armoire. Getting in and out of the hotel was a huge pain. We discovered BLACK MOLD in the bathroom, and reported it - told it would receive a deep cleaning, but black mold still present afterwards. Requested and was denied a new room. Will never stay again nor recommend anyone else stay there. Neighborhood sketchy despite proximity to major tourist areas. Parking extremely limited and difficult.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place on the quiet edge of the French Quarter",
+    "reviewText": "Great staff, beautiful old building.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-10-28T00:00:00.000Z"

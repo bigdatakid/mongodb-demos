@@ -1,0 +1,100 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for families",
+    "reviewText": "Excellent hotel - service was beyond anything we have experienced. I would recommend this hotel to everyone looking for a place to stay in Houston. Location is tremendous and the surrounding area is beautiful!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for families",
+    "reviewText": "Beautiful hotel, but very intimidating!! Hard to figure out where the pools were.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing Fitness Facilities",
+    "reviewText": "My wife and I stayed at the Houstonian for 3 nights in October. The property was lovely and the room was very comfortable. However the fitness facilities are truly amazing. The property is connected to the Houstonian Club which is a separate sports club that has truly world class facilities. It has 3 pools (a massive lap pool, resort pool and other small quiet pool), the largest gym I have seen anywhere, basketball and tennis courts, a jogging track and at least 5 studios for classes. My wife has been a regular (5 times a week) gym user for over 16 years and she has been a member of many gyms in NYC and London and this is by far the best she has experienced. She went to 3 classes and the studios, instructors and equipment could not have been better. Further there is no need to register for any class you just turn up and participate. In the luxurious locker rooms there is free coffee, tea, ice tea, water etc... We also ate at the bar and Olivette restaurant and the food and service were excellent. My wife also visited the spa and although it was expensive the facilities and service were again of the highest quality.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing Fitness Facilities",
+    "reviewText": "We can to town for a college football game and we a little nervous about the room size some complained about, but found it acceptable. The property is beautiful and the staff was a friendly and helpful as it gets. We will stay here again when we retuen to Houston.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Final summer trip.",
+    "reviewText": "It was like a resort in the middle of Houston. The spa, fitness center and pools were a nice touch that enabled us to stay here and be entertained at the same time. Very nice!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-09T00:00:00.000Z"
+    },
+    "reviewTitle": "perfect weekend",
+    "reviewText": "Family weekend Food was great Grandchildren used pool Family used health Club",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "perfect weekend",
+    "reviewText": "Hotel and facilities are beautiful but room was very musty/ mildewy smelling.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Luxury hotel without the high price!",
+    "reviewText": "Beautiful hotel at a great value! Amazed at what we paid for a room on the concierge floor that included free daily continental breakfast, early evening cocktails and hors d'oeuvres, and after dinner dessert buffet. The Olivette restaurant was spectacular - had dinner there both nights. Will definitely be my go-to hotel any time I'm in Houston!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd6"
+  },
+  "name": "La Quinta Inn-houston",
+  "categories": ["Resorts \u0026 Vacation Cottages", "Hotels", "Accommodations \u0026 Lodging", "Inns", "Vacation Packages"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "postalCode": "77015",
+    "address": "930 Normandy St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.206568, 29.773048]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",

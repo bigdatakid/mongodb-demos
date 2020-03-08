@@ -1,0 +1,1000 @@
+    "address": "1101 Church St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-79.06031, 33.840336]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4058"
+  },
+  "name": "Helios Resort",
+  "categories": ["Resorts", "Hotels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "CO",
+    "city": "Palm Springs",
+    "postalCode": "92262",
+    "address": "280 E Mel Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-116.54468, 33.840755]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "Great LIttle Hideaway",
+    "reviewText": "Have been staying at this resort for so many years, and current management knows how to pamper the guests with breakfast buffet and poolside misting sprays for super hot days. Jaccuzzi is large and always at the right temperature. Pool is refreshing and music plays softly throughout the afternoons. There is a play-area were guests can explore their BDSM side, but the area has become run down and could use some repair of suspension posts and spanking tables. Easy stroll to center of town, and nearby Riveria Hotel is a retro-dream.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great LIttle Hideaway",
+    "reviewText": "Have been staying at this resort for so many years, and current management knows how to pamper the guests with breakfast buffet and poolside misting sprays for super hot days. Jaccuzzi is large and always at the right temperature. Pool is refreshing and music plays softly throughout the afternoons. There is a play-area were guests can explore their BDSM side, but the area has become run down and could use some repair of suspension posts and spanking tables. Easy stroll to center o...view moref town, and nearby Riveria Hotel is a retro-dream.view less",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4059"
+  },
+  "name": "Holiday Inn Express Atlanta Ne - I-85 Clairmont",
+  "categories": ["Hotels \u0026 Motels", "Family-Friendly Hotels", "Tourist Hotels", "Weekend Getaway Hotels", "Resorts", "Spa Resorts", "Beach Hotels", "Budget Hotels", "Lodging", "Business Hotels"],
+  "location": {
+    "country": "US",
+    "state": "GA",
+    "city": "Atlanta",
+    "postalCode": "30329",
+    "address": "2920 Clairmont Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.314667, 33.843213]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Mid-range hotel chain with plenty of amenities for business travelers, including free in-room Wi-Fi and a 24-hour business center. In ShortCreated with business travelers in mind, Wingate Inn opened its first location in 1996. The moderately priced hotel offers perks like free wireless and high-speed Internet connections, a 24-hour business center, complimentary continental breakfast, fitness facilities and a whirlpool. Other in-room amenities include coffeemaker, iron and safe separate work area with a large desk two-line speakerphone with conference call and voice mail capabilities. For down time, there are on-demand movies and a lounge chair with ottoman.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Great Hotel BUT..... It's a great hotel but if any of you are looking to save some then book it at referer.us/8/GoodHotelDeals They usually have some pretty good deals on there!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-27T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I just feel smarter",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-29T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Free breakfast buffet.  They have something for everyone to eat.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-02-04T06:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very nice!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-07T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Nice place, service is outstanding.  Very clean",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-23T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Staff is very friendly, especially Mr. James the night auditor. Always had to ask for fresh coffee, cream \u0026 sugar to be put out though.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-23T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Make your travel more rewarding! Earn at least 50,000 bonus IHG Rewards Club points with Set Your Sights. http://ihg.co/V4S29",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-07T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Great staff! Very Clean!  About 5 mins. From downtown Atlanta.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-07T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Save 20% when you stay 3 nights at @HIExpress in select destinations across the US and Canada. http://ihg.co/V4S20",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-02-04T06:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Friendly and helpful ppl working here :-)",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de405a"
+  },
+  "name": "Super 8",
+  "categories": ["Hotels", "Motels", "Hotel \u0026 Motel Consultants", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "AL",
+    "city": "Jasper",
+    "postalCode": "35501",
+    "address": "1287 Highway 78 W",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-87.25914, 33.84603]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Super 8, Jasper. AL",
+    "reviewText": "Power outlet on lamp did not work. Breakfast was meager and only had biscuits, gravy with no taste and press cooked square eggs. OK for price.",
+    "reviewerCity": "Brentwood",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "John from NY",
+    "reviewText": "Check-in and check-out were quick and efficient. Room size and amenities were fine. However, fridge was noisy, so unplugged it. TV picture quality was poor. Need upgrade to flat screen and better picture quality. Free WI-FI available, but found reception level poor, so sometimes lost WI-FI connection. Bathroom light flickered and found it annoying. Also, couldn't shut off tub faucet... More",
+    "reviewerCity": "Rochester",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Actually I would rate it 3+",
+    "reviewText": "The place was a little worn but clean and comfortable. People were helpful and did reserve a lower floor for us.",
+    "reviewerCity": "Orlando",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Room....",
+    "reviewText": "Asked for a non smoking room both at booking and at check in......got a smoking room..... Smelled horrible...... They did not keep up the breakfast stuff...have stayed here for years on our travels from AR to GA...",
+    "reviewerCity": "Benton",
+    "reviewerState": "AR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Staff, night and daytime, were both wonderful and very...",
+    "reviewText": "Staff, night and daytime, were both wonderful and very helpful and friendly. Our room had huge gaps in the outside doorway so cold air poured through the crack all night. Our heat kicked off several times through the night with someone having to get up and turn it back on. Electrical plug did not work beside one of the beds... More",
+    "reviewerCity": "Knoxville",
+    "reviewerState": "AR",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Nothing like the picture! Awful!!!!",
+    "reviewText": "This is about the worse place I have ever stayed! Dirty, very out dated, just plane gross! LOCK your doors and stay inside! The TV was old and big, not a flat screen, and fuzzy. Could not adjust the volume. Very scarey elevetor!! Awful place!!!!!",
+    "reviewerCity": "Knoxville",
+    "reviewerState": "AR",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-19T00:00:00.000Z"
+    },
+    "reviewTitle": "The best",
+    "reviewText": "I am a trucker. The staff help me find a place to park my truck, above and beyond the call of duty. The staff also recommend a local restaurant that was great, in price and taste.",
+    "reviewerCity": "Warrior",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Super 8 in Jasper AL",
+    "reviewText": "An average room for a good price for one night for a small business owner is adequate for my needs.",
+    "reviewerCity": "Jasper",
+    "reviewerState": "AL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great",
+    "reviewText": "Great experience great people the only thing was the Internet would not work not sure if signal strength was the issue are not but never asked either so really wasn't sure",
+    "reviewerCity": "Cullman",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Bed had clean bedding but no bed skirts and chunks of...",
+    "reviewText": "Bed had clean bedding but no bed skirts and chunks of metal. Scratches and peeled paint and interior lock was broken off.",
+    "reviewerCity": "Jasper",
+    "reviewerState": "AL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Value for Price",
+    "reviewText": "Traveling through, stopped for the night. Okay, clean and linens in good condition. Pillows were clean (I always pull back cases and check). Non-smoking room did not have stale smoke smell. The hotel was fully booked by the time the night was over and other guest were very noisy late at night, I didn't bother calling to report and they... More",
+    "reviewerCity": "BRANPLB",
+    "reviewerState": "AL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Has not been that good",
+    "reviewText": "House keeping very bad job have photos,vldo, boss of site will not do anything about houskeeping",
+    "reviewerCity": "Jaspet alb",
+    "reviewerState": "AL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Okay But....",
+    "reviewText": "We stopped here due to bad weather. I stayed at a super 8 last night in Missouri and it was immaculate. This one is much older and the door is in bad shape(has weird scratches all over it and looks like it has been pried open several times) making one wonder about security. The parking lot had a car with... More",
+    "reviewerCity": "Jaspet alb",
+    "reviewerState": "AL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-04T00:00:00.000Z"
+    },
+    "reviewTitle": "very poor accomodations",
+    "reviewText": "Got the room off of priceline. Thought it would be a decent stay. Was very wrong. The motel was dirty, the room had pubic hair in the tub with used soap. We had to wash down the tub before taking a shower. The people who stayed were using boom boxes and acting like monkeys. The elevator had graffiti all over... More",
+    "reviewerCity": "Venice",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Just a place to sleep....",
+    "reviewText": "This was by no means nice but it served its purpose for giving us a place to get some rest. Very noisy and room smelled like smoke. The breakfast was what you would expect though. Biscuits, gravy, microwaved eggs, cereal, packaged pastries, juice and coffee. Again, it served its purpose of getting our bellies full before we continued on our... More",
+    "reviewerCity": "Oklahoma",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de405b"
+  },
+  "name": "The Westin Buckhead",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "GA",
+    "city": "Atlanta",
+    "postalCode": "30326",
+    "address": "3391 Peachtree Rd N E",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.365492, 33.848866]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location and wonderful time with family",
+    "reviewText": "Service was great. You were Wedding Central for a large family and it looked to me like every one had a comfortable stay!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location and wonderful time with family",
+    "reviewText": "It was a short stay but a good one. The hotel was very comfortable and the service was great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Night out",
+    "reviewText": "Good time and nice being close to all the shopping. Friendly service, but we where charged an extra 100 with no explanation so having to call and get that figured out.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great beds for sleeping!",
+    "reviewText": "Had been traveling for business the last 3 weeks and this was the best sleep I had during my travels.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent service from the second you walk in",
+    "reviewText": "Excellent service. Extremely kind staff Very informative. Very kind. BEST hotel ever. The inside is extremely clean,well decorated It felt peaceful very chic. It's great that the mall is walking distance this is a huge plus. The BEST thing this hotel has its is staff. They are just seamless.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect weekend getaway hotel!",
+    "reviewText": "We picked the hotel for its location, and were impressed with everything from the room itself to the service. Wish there was more than just the one bar in the hotel and may be a cafe, but despite that I would pick this hotel again when I visit ATL!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "TRAFFICCCCCC",
+    "reviewText": "Traffic and parking are the worst! Good luck getting in and good luck finding a parking place!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel in the heart of Buckhead",
+    "reviewText": "Great service from the motor lobby staff. Was there for a conference. The staff that serviced the conference was wonderful and helpful. Reserved a king bed from a third party site, and they gave it away, which was the only bummer.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel in the heart of Buckhead",
+    "reviewText": "Was disappointed in house restaurant close. Would have stayed somewhere else had I known this.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel in Buckhead",
+    "reviewText": "Hotel was a great hotel the staff was warm and friendly, the bar was very nice and the restaurant was excellent. The only slight improvement would be to have more machines for working out in the fitness center.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Peachtree Road Race Weekend 2015",
+    "reviewText": "Very nice property. Only two complaints: 1. Refrigerator in room 1522 never worked and the sauna appeared to be out of order the entire weekend. Otherwise, it is a beautiful property in a great location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "It only takes one to ruin it all",
+    "reviewText": "accommodations are awesome, room was FANTASTIC shower was the best ever. However the Host was disrespectful and condescending. NEVER have I been spoken to in such a way because I booked through Hotels.com! He announced that I was an Expedia guest to everyone in the line by stating it loudly! Then when I asked for a manager she offered fruit for my inconvenience. I'll never go back. I'll stay at the Mandarin Oriental or Rtiz.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "A little dissapointed",
+    "reviewText": "The Palm restaurant was closed for renovations. We would not have booked here if we had know that. We stayed here earlier this month and don't recall seeing any signs indicating that it would be closed for the rest of the summer. The room we had was not as nice as the same type room that we had earlier this month. The temperature of the shower was difficult to maintain. Excellent service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Watched the Peachtree Road Race..Great view!!",
+    "reviewText": "We had a great mall view and could see the runners clearly. The 4th of July fireworks were awesome and we had a wonderful view a well.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Property In Buckhead",
+    "reviewText": "Very nice area and location, just a few minutes from downtown Atlanta. Lots of higher end shopping and dining nearby",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Property In Buckhead",
+    "reviewText": "Wish they had two queens instead of two doubles. Hard for families with younger children. Otherwise nice. More business oriented, but good for quick stop over.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible bed",
+    "reviewText": "We were on our way back from D.C. And decided to stop by Atlanta and we pick Westin hotel thinking what can go wrong ! We'd stayed at Marriott and love their bed . We got into the hotel at 11 p.m. So by that time we were hungry tired and only wanted to eat a late snack and shower go to bed . Everything was great until I climb into the bed hard as a rock . My shoulder was in pain the next day . The bed was so hard it felt like I was sleeping on the floor . We definitely didn't expect that . I guess we know to never stay there again . Too bad because it was so close to all the shop and restaurant .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "great hotel, wonderful staff",
+    "reviewText": "Staff was great. Great hotel!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful",
+    "reviewText": "We had a great stay. Would go back for sure.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-02T00:00:00.000Z"
+    },
+    "reviewTitle": "business",
+    "reviewText": "I have stayed several times at hotel, the valet and bellhops always are the best.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "The Best!",
+    "reviewText": "Best hotel in Atlanta literally! Been in all of them due to multiple business trips!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-12T00:00:00.000Z"
+    },
+    "reviewTitle": "The Best!",
+    "reviewText": "Valet in the evening was very slow, but they also had a wedding going on there, so I'm sure why. We've stayed here a number of times and never an issue or problem before!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Booked two reservations and was treated badly",
+    "reviewText": "I'll never return due to the behavior of the Host.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel",
+    "reviewText": "Great beds. Great staff. Palm Restaurant in lobby. All went well.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel",
+    "reviewText": "Great room with a great view!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "A gem of a place near premier shopping",
+    "reviewText": "The Westin was a great choice for location. We even got a ride to the mall in the hotel's Lincoln SUV. With all the refinements we were surprised about the restaurant. The service in all parts of the hotel made up for the less than good restaurant. (Don't post this review.)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "A gem of a place near premier shopping",
+    "reviewText": "Very pricey for what you get, located close to public transit and nice mall though",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't pay extra unless you need the location!",
+    "reviewText": "This is a nice hotel in an excellent location. My husband and I travel to Atlanta often and decided to stay near Lenox and Phipps for shopping, rather than near the perimeter, for a change. It looked like the hotel would only be about 50 more than we usually pay. With taxes, it was 75 more than we usually pay. Then parking tacked on another 26 per night. Then wifi is another few bucks. By the end of our quick trip, we paid double what we normally pay. The room was nice enough, but not much nicer than any recently remodeled hotel. The view was great and I enjoyed it when I glanced out the window for a minute. I would stay here again if I someone else was picking up the tab or if I didn't have a car with me and needed the location for shopping. Otherwise, I'll spend the extra 100 per night on a great meal or something neat at the Antique Factory.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Graduation trip",
+    "reviewText": "Everything was great but 28.00 for self parking was ridiculous",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel, Minor Issues",
+    "reviewText": "Overall this is a good hotel. It has a relatively new feel. The staff is very friendly and knowledgeable. The room is clean and the views aren't terrible. The only issues we had were with the AC being a little difficult to work with and the in-room refrigerator did not work, which actually ended up costing us some food that we brought back to the hotel. Overall, I really enjoyed my stay there and would recommend the hotel to a friend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend Getaway",
+    "reviewText": "My wife and I wanted a quick geteaway with our newborn baby for the weekend , the hotel excedded Our expectations",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-30T00:00:00.000Z"
+    },
+    "reviewTitle": "I will stay here more often",
+    "reviewText": "The man at the front desk was awesome. I'm sad I forgot his name I think it was Allen or Eric but he helped make it nice stay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "I will stay here more often",
+    "reviewText": "The room was horrible. They demanded cash for room service and parking. Really a inconvenient place.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay!",
+    "reviewText": "Lovely hotel, walls are pretty thin, but that was my only complaint. Great staff, easy self-parking, and very nice gym. Enjoyed my stay. Breakfast on the club floor had variety and was tasty. I will come back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay!",
+    "reviewText": "I didn't like that they charged for wifi and the parking rates was expensive. When you pay over 100 a night they should offer free breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay!",
+    "reviewText": "The area was great. Shopping, eating, and very safe.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad air conditioning",
+    "reviewText": "The hotel was nice but the air conditioning would not cool the room. We told the front desk but they did not seem very concerned or offer any consideration for our discomfort.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Anniversary Night Out",
+    "reviewText": "Stayed for one night to celebrate our anniversary. Check in was very easy, we were to our room within 10 minutes of arriving at the hotel. Once we opened the door of the room, we were welcomed by a clean room that smelled like a spa! Wonderful! I requested a corner room and it overlooked Peachtree Street and looked out to downtown Atlanta in the distance. The bathroom was spacious and had no problems getting ready for dinner with two people at the same time. It is football season, so I was able to turn on the large TV (for a hotel) and relax on the love seat and watch while my wife finished getting ready. My only issue is if you drive a tall vehicle it can be a little scary parking your truck or suv. Clearance in the parking deck is only 6'3, a little tight for my truck. I suggest using valet, only 10 more per night and they will pull it out whenever you need it. Overall, wonderful experience!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice, but out of my price range",
+    "reviewText": "The hotel is expensive. In addition, they add on 28 a day for parking.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice, but out of my price range",
+    "reviewText": "Excellent service. Very nice hotel. Unfortunately, walls a little thin and very noisy person next to us made it hard to sleep in one morning. Other than that, great hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay but The Palm in the hotel is closed",
+    "reviewText": "Everything about the hotel was great but the only reason I chose The Westin Buckhead over others was because of The Palm located in the lobby which I was not told is currently closed for remodeling. I wish I had been made aware before booking, it would have been much more convenient for me to stay in another location. We do not have a Palm restaurant in Albuquerque so I was looking forward to visiting.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "A great hotel",
+    "reviewText": "I enjoyed the top rated work out facility, one of the best hotel I have ever stayed in, can't wait for my next stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "We had a wonderful stay at the Westin in Buckhead.. Although we did have to call security about 4-5 times on someone across the hall because they were partying til 5am. The hotel did their best to control the situation. Thank you",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Very convenient to Lenox Square",
+    "reviewText": "It's a downtown-type hotel, and the total price will be higher because of parking and wi-fi charges. Everything was clean and worked properly save for the wi-fi which was adequate for email. Friendly staff. Comfy beds and bathrooms. Elevators do not work without your room key save between lobbies. Parking is painfully expensive. Don't park at Lenox Square. I've been told they are vigilant and will ticket you if you park there and go elsewhere. Automatically add more than 50 to the cost of the room for parking, wi-fi, and breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent staff",
+    "reviewText": "The staff here were awesome. They were friendly and very attentive. The lobby carpet on the other hand, needs replaced. Large stains make you question the general cleanliness of the hotel. A dull, musty smell permeates the hitem as well. The room was clean and pristine (aside from the musty smell), and room service was prompt and courteous. The food was your average hotel fare (breakfast specifically as I did not try anything else).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent staff",
+    "reviewText": "1 room was dirty upon check in. Hotel restaurant is closed for renovations.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Fun weekend.",
+    "reviewText": "Fun weekend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Fun weekend.",
+    "reviewText": "Great location and very accommodating staff. Would stay here again for sure.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfy Hotel, great location, friendly staff",
+    "reviewText": "We had just driven in from Dallas, TX and checked in pretty late, we were greeted very nicely by the SPG front desk. Note pretty much everything stops serving food around 10-11PM on Sunday night due to liquor law, so be prepared.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel, but Expensive",
+    "reviewText": "Nice hotel but amenities are expensive. There is no where to park for free. Self parking is 24.00 a night and valet is 34.00 a night. The place is very nice and the staff go above and beyond. There are down pillows in the rooms. I myself do not like them but to each their own. The water bottles in the room are 2.50 each if you open or take one. Wi-Fi internet is 9.95 a night. There is an indoor pool, sauna and hot tub. They also have a workout area as well. The hotel is close to shopping and is in a nice area just beware of hidden fees.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "A great place to stay.",
+    "reviewText": "We needed a spot for the night after having a nice dinner and partying. This was the answer. It was clean and comfortable. The service was great! I would definately go back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Never Again!!!",
+    "reviewText": "From the valet to the front desk to the coffee bar to the Palm restaurant, the service was uniformly POOR and sometimes confrontational. There were no bellmen in the entire hotel. I have never been to a Motel Six with service this bad.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-21T00:00:00.000Z"
+    },
+    "reviewTitle": "i will return",
+    "reviewText": "It was very clean and cozy. We loved the fact of being close to the mall and all the nice restaurants.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de405c"
+  },
+  "name": "Motel 6",
+  "categories": ["Hotels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Buena Park",
+    "postalCode": "90620",
+    "address": "7051 Valley View St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-118.02875, 33.858124]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-01T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Checked in late evening and after a 2 hour drive, wanted to use the rest room, So I asked if I could use the rest room before finishing the process of paper work and paying , She replied No for security purposes sound like I was talking to a robot. Everything was robotic. Never again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de405d"
+  },
+  "name": "Sleep Inn At Harbour View",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "DE",
+    "city": "Little River",
+    "postalCode": "29566-9207",
+    "address": "909 Us 17",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-78.632786, 33.868213]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay",
+    "reviewText": "Clean room very comfortable beds liked the shower",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay",
+    "reviewText": "in all my travels it's the second worst place I have ever stayed. Hotels.com should take it OFF your list.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay",
+    "reviewText": "Staff is really friendly and helpful. Late checkout was no problem. Room was clean and comfortable and the stay was very pleasant and would definitely stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "A great place to stay very clean",
+    "reviewText": "The services was great",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Family visit",
+    "reviewText": "This was a trip to visit family that live in Little River SC so I wanted a hotel close to them. I was a little disappointed in the room. The bathroom was very small and not very private. The beds were not comfortable. But the price was the best part.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "SLEEP INN",
+    "reviewText": "GREAT",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel for a golf outing",
+    "reviewText": "Was there for the beach and this was a bit far from where my gf was staying. My boys and I had a good stay. Breakfast was okay. The free round of mini golf was nice. Room was okay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {

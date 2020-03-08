@@ -1,0 +1,100 @@
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fbf"
+  },
+  "name": "Bay Shores Yachttennisclub 514 2 Br Condo By Redawning",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Indian Rocks Beach",
+    "postalCode": "33785",
+    "address": "19451 Gulf Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-82.844245, 27.850447]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Vacation Building and Area!",
+    "reviewText": "We come back to Bayshore Yacht Tennis club year after year. The beach is perfect, the pool is heated. There is a hot tub, grills and a beautiful view of the Inter-coastal from our large private balcony. The restaurants and activities are fantastic. We highly recommend this building and area.",
+    "reviewerCity": "Escanaba",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Can't wait to go again!",
+    "reviewText": "We found this condo rental here: http://www.homeaway.com/vacation-rental/p394012vb I see where some travelers have rated Bayshore Yacht and Tennis club poorly. Please keep in mind that these condos are each owned by individual families. We rented our condo from Chuck Melinda for a week. It was so much more that we could have ever expected!!!! No one knows where Indian... More",
+    "reviewerCity": "Huntsville",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Renovated and beautiful intracoastal condo 306",
+    "reviewText": "What a wonderful getaway right on the intracoastal and steps away from the beach! I would highly recommend this condo for anyone going to Indian Shores, Florida!!! What a jewel in between all the high priced condos and hotels...plus the view every morning watching the birds and dolphins is priceless!",
+    "reviewerCity": "North Charleston",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic times 10!",
+    "reviewText": "We just stayed at Bayshore for 9 nights, and had a great time. I wondered if staying on the marina side would be as nice as oceanfront, but it was great and a perfect fit for my family. The pool is a nice size with a deeper end, and the water temp was warm and pleasant--almost too warm on a... More",
+    "reviewerCity": "Omaha",
+    "reviewerState": "NE",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful week of everything!",
+    "reviewText": "Spent a week at BSYTC and it was fantastic. The condos are reasonably sized and all have a great view. Pool is heated so it was perfect. Grills near the pool area were great for grilling anything. 4 Tennis courts to use that were never busy as well as a small putting green. Laundry facilities were spectacular...even use your Debit/credit... More",
+    "reviewerCity": "Belgium",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent beach vacation at condo 517... very relaxing",
+    "reviewText": "We stayed 8 nights and it was a great experience. All decoration is related to the sea, beach life and everything in there ensures a good time with all the family. This apartment is very well equiped with all a family need (toys for kids, high speed internet, umbrellas, air conditioning, a great kitchen/living room and very comfortable rooms). The... More",
+    "reviewerCity": "Medellin",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great time",
+    "reviewText": "We stayed at unit 411 owned by Chuck and Dawn (http://www.vacationrentals.com/listing/p7099298) the week between Christmas and New Years and had a great time. The building is back from the road so is very quiet. We could see the gulf from the front door and overlooked the inland waterway from our private balcony. The daily appearance of pelicans, herons and various... More",
+    "reviewerCity": "Madison",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent condo",
+    "reviewText": "We have just returned from spending a week in this condo with our two boys (aged 20 16). The location is perfect for the beach and surrounding activities. The pool is clean and warm, the whole facility is very clean and well maintained. You can sit on the balcony watching boats go up and down the causeway and also the... More",
+    "reviewerCity": "Edinburgh",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-06T00:00:00.000Z"

@@ -1,0 +1,1000 @@
+      "$date": "2016-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable Stay!",
+    "reviewText": "Only complaint would be the tiny pillows on a King Size bed! Room and hotel were clean and comfortable. Directions to get into the hotel were a little tricky using Waze - you really needed to pay attention.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient hotel to Fedex Field",
+    "reviewText": "Great location for Redskins game. A little concerned when check-in desk had solid glass around entire area, but no issues and the room was clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Close local restaurants",
+    "reviewText": "Stay was good, parking was good an restaurant had great breakfast special",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Secure with great wifi",
+    "reviewText": "The evening front desk lady was awesome. Stay on the second or third floor for a secure elevator and stair entry. The area isn't the best so the have a security guard at night. Felt very safe here compared to the ,,Red Roof Inn across the street which we left within 5 min. The wifi is free and fast. The cleaning staff is consistent in restocking the room correctly. 30 min from the DC mall area. Overall I would not hesitate to stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for a vacation to DC",
+    "reviewText": "Nice room. Not far outside of the DC area. Metro trains run behind the hotel often so be ready for some noise.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect if you are going to FedEx Field",
+    "reviewText": "It was perfect for a stay over for the game at FedEx field. Conveniently located, fast food for after game, and breakfast in the morning.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect if you are going to FedEx Field",
+    "reviewText": "Non smoking room smelling",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "The stay was nice and affordable.",
+    "reviewText": "Overall nice hotel, clean. Good stay for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4181"
+  },
+  "name": "Howard Johnson Inn Columbia",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "MO",
+    "city": "Columbia",
+    "postalCode": "65201",
+    "address": "3100 I 70 Doctor S E",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-92.28914, 38.96124]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "great hotel w a great price",
+    "reviewText": "Stay here alot, kids go to school in Columbia and this hotel has become my home away from home.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "great hotel w a great price",
+    "reviewText": "staff was not friendly",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnite stay",
+    "reviewText": "was just an overnite stay, was on a long trip and needed someplace to sleep for the nite. Got in at 9:30pm and left before 6am so was good for that. That was the plan and it worked.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay",
+    "reviewText": "Overall fine",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Satisfied Customer",
+    "reviewText": "It was a comfortable stay. I will say that the walls are a bit thin. I didn't like hearing slamming doors throughout the night from other guests. The room was fairly clean. The beds were really comfortable. Breakfast was decent. The front desk clerk could be a bit more friendlier. I would stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice for a one night stay!",
+    "reviewText": "When we first walked into our building, there was a skunky smell. Luckily, our room wasn't quite as bad. We did go across the street to the grocery store and got some air spray for our room. The pillows were not the best quality. The bedspread was thin. The mattress was nice, however. The shower had good water pressure.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "stay for daughters surgery",
+    "reviewText": "Excellent",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-05T00:00:00.000Z"
+    },
+    "reviewTitle": "stay for daughters surgery",
+    "reviewText": "Side doors r lock, but u can use a plastic card to inner ., not not good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Right off I-70",
+    "reviewText": "Quick one night stay, comfortable with good free hot breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close enough to campus without being on",
+    "reviewText": "Stayed for a weekend (Thurs-Mon) and thankfully the Tigers Football team was on the road so getting a room wasn't hard. It was a great value for the little cost of the room. If you're on a tight budget, this place is great. If you're looking for a resort stay and planning on spending your entire trip in the hotel, this is not your place. Bed was great to sleep in, shower was hot to bathe in. All I needed the room for.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel, food close by",
+    "reviewText": "Pretty good place to stay. Price is pretty low compared to others nearby and the rooms are pretty good. Wasn't there much because of work but had no problems when I was there. TGI Friday's next door is great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel, food close by",
+    "reviewText": "This was a fantastic stay. The employees were great! Had a light bulb break and they came straight away and cleaned it up. Nice pillows. Close to a lot of eateries.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-02T00:00:00.000Z"
+    },
+    "reviewTitle": "indy traveler",
+    "reviewText": "The cleaning staff left dirty towels in our room which we found when we checked into our room. The onsite clerk came to pick them up but did not apologize and was hesitant when we first asked her.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value.",
+    "reviewText": "Second year staying here for True/False. The room is fine. Breakfast is better than a lot of other budget places.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for",
+    "reviewText": "I booked the hotel last minute as I was simply too tired to continue driving. I'm in grad school so I needed cheap. Considering the price, the hotel amenities and upkeep was as expected. The staff was friendly enough, the hotel smelled like mildew, serious updates were needed, and the continental breakfast was lacking. The only things that I considered to be under what I paid was the bed and room itself. The bed was terribly uncomfortable. The pillows were hard and lumpy...like when you wash and then high heat dry artificial pillow stuffing and it melts together. The AC unit didn't really work. It just blew air. I was hoping it would cool down to kill the mildew smell, but it never did. The worst was that every time the AC unit kicked off, a noise would start (I'm assuming some kind of duct work) that sounded like someone was knocking at my door. This continued through the night so needless to say, I didn't sleep very well.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for",
+    "reviewText": "I would recommend this hotel to others. It was a nice facility nice room and accommodation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel worth the money.",
+    "reviewText": "Hotel was clean, the kids had fun swimming and had a room closet to the pool. Breakfast was good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Memrial day get away",
+    "reviewText": "Showed up on Friday left on Sunday. Everything was good. Breakfast was great. Very nice staff. The only problem was the bathroom. The toilet, shower head, and tub faucet were loose. It looks like they tried to update the tub area but didn't do a good job of it. The lights in the bathroom are exetremely hot. Other than that good trip.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-13T00:00:00.000Z"
+    },
+    "reviewTitle": "not a good stay",
+    "reviewText": "Bed was very firm and uncomfortable TV speaker had a lot of static like it was busted remote didn't work very good and our key cards would not open the outside doors most of the time",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value",
+    "reviewText": "Clean room, good service, a decent breakfast bar. My only complaint is that the booking site said nothing about an additional 100.00 cash deposit (refundable) for those who pay cash. A very unpleasant surprise when we checked in.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value",
+    "reviewText": "i would been nice if we didn't get the wheelchair accessible. Bathroom is for wheelchair accessible not for family.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value",
+    "reviewText": "Great just a suggestion: sheet between blanket so no touching blanket. When asked for extra blanket, i got a bedspread- they are so dirty should not be used in any hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad",
+    "reviewText": "Clean. Great for a one nighter. Only bad part was the traffic at ruch hr.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Careful were you stay",
+    "reviewText": "Looks nothing like the pictures on line, terrible hotel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad for the price",
+    "reviewText": "The room and hotel were generally clean. Some areas of the parking lot were too dark for my liking, but there were more than enough spaces. About what you would expect for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad for the price",
+    "reviewText": "Was really close to show me games.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "They have ROACHES! !!!",
+    "reviewText": "My daughter was moving into Mizzou so we went up the night before I made the reservations online I must say when I walked into the lobby of the hotel seem older but nice I then checked into my room went and got something to eat came back use the restroom to see two tiny bugs not sure what they were at this point I killed them and wanted to my room saw a roach crawling up my drink when I called the front desk I told the guy I have bugs in my room he said yes as if this were a regular occurrence and then took him about 15 minutes to get me moved to a different room to say the least I was absolutely mortified this hotel is disgusting",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "They have ROACHES! !!!",
+    "reviewText": "This wae a single night stop during an extended trip.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great trip",
+    "reviewText": "for pleasure, shopping and fun all was great very reasonable room rate",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "convenient and clean and good price",
+    "reviewText": "directly off hwy 70, lots of eateries like Fridays and cracker barrel at same exit",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant stay",
+    "reviewText": "Overall a very pleasant stay. Newer flat screen TV with a great variety of channels to pick from and the bed was very comfy. Plenty of parking and the staff were very friendly. I would gladly stay here again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel but room not clean",
+    "reviewText": "The stay was good except for the room not being cleaned before we checked in",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good, basic hotel",
+    "reviewText": "Convenient location right off the highway. Bed was comfortable, room was warm. Felt safe traveling alone. Hotel is a little outdated and worn around the edges, but you can tell they work to keep it clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Good, basic hotel",
+    "reviewText": "Worst hotel stay I have had in years. Stains on sheets Noisy others staying in hotel Room made lots of noise from above Service was lacking at best.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Need remodel",
+    "reviewText": "Hotel is in desperate need of remodeling! Carpet was dingy, bathtub was and bath fixtures were old. Door was loose, even when locked, safety issue. But Good location, close to the interstate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Need remodel",
+    "reviewText": "Building security was an issue",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel was ok",
+    "reviewText": "Hotel was ok just about all the staff did a great job except the night shift desk cleark. Called my room at 4 am because he didn't know how to do something and after a few relized he called wrong room. Pluse peoples kid down the hall slammed there door all night long.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "It was a nice room. pleasant to the eye. But the TV keep mess up. But I didn't complain, because we were out most of the day. I didn't know about it because I went to bed. My daughter told me about it the next day. The night stand was dirty. But rest of room looked clean. Towels were hard.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for the price",
+    "reviewText": "2nd stay. will stay again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Workers very friendly, Hotel need cleaner",
+    "reviewText": "Workers, check in, and check out were great!! Grounds and rooms need be cleaner. Bad musty, wet smell when entering building.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Workers very friendly, Hotel need cleaner",
+    "reviewText": "Stewart was very helpful with check-in.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Workers very friendly, Hotel need cleaner",
+    "reviewText": "They allow pets (dogs only) in this hotel, which is probably great for pet owners, but not so great when the dogs have accidents, and the hallway smells of doggy poo. It was cleaned up, but the smell did linger. Otherwise hotel was a good value for the price. And I would recommend to people who absolutely have to take their dogs with them while they travel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Daughters surgery",
+    "reviewText": "Excellent",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Dated but fair price",
+    "reviewText": "The service, location and room were in line with the price. The hotel is dated but the service was friendly, room was clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Creepy",
+    "reviewText": "Very in the middle of nowhere. Did not feel safe or clean. Walls very thin. Breakfast minimal",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Smokers welcome!",
+    "reviewText": "Possibly the smokiest hotel room I've ever been in. Pulling the covers up would release yet another cloud of smoke an awful experience, for sure. To top it off, upon return home, everything in our bags, including the bags themselves required washing! Old and smoky.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "You can't change old.",
+    "reviewText": "Hotel is old but you get what you pay for. Price was one of the cheapest in the area but the hotel was pretty old you can't change that. Bed was comfortable. Breakfast wasn't great but typical. All staff was very nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "First time in Columbia",
+    "reviewText": "This hotel isn't bad for the price I paid. It is located in a great spot. Easy to get to.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and affordable",
+    "reviewText": "Very affordable. Very clean room. Lobby and meeting rooms a little outdated. Breakfast area was clean and well stocked. Friendly staff. We needed a place before and after surgery. Meet our needs. We will stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-03T00:00:00.000Z"
+    },
+    "reviewTitle": "I was a bit hesitant about this hotel",
+    "reviewText": "There were only a hand full of cars in the parking lot. But room was adequate although there was a fairly loud drone sound coming from the roof that I could hear not only in my room but also as I walked down the hall. I speculated that it was an HVAC unit on the roof. It was annoying but do -able so I didn't complain.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Coach gives it a B-",
+    "reviewText": "The hotel is in a prime location. Close to the highway and easy to get to. Breakfast was OK, but lacked variety. Some eggs and more fruit options would have been nice. The other issue is how loud it was in the halls at night. Doors banging and people talking went right through the walls. Hard to get a good night sleep. The front desk was very helpful and friendly. I did have trouble accessing the WiFi. Overall it wasn't a bad stay but there were issues.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Coach gives it a B-",
+    "reviewText": "Enjoyed everything but that hard Ole soap..not pleasant and too hard. Also only 1 washclothe.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Coach gives it a B-",
+    "reviewText": "Everything was great. Only thing that disturbed me, was a notice on the desk in the room. Advising how to lock your car and what not to leave in it. That means to me, that there are a lot of car break-ins. But like I said, we didn't have a problem and a good experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay for price. Not bad for a quick trip.",
+    "reviewText": "Stay was fine. Sneezed/coughed a bit my first night there, but seems to lessen the second night. Hotel looked great, but rooms are clean, but bathroom a little worn. Toilet is really low, but bed and pillows were extremely comfortable. Free breakfast, can be slightly more balance nutritionally, but it was okay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay for price. Not bad for a quick trip.",
+    "reviewText": "I could not sleep. It was noisey from 2:40 An until 4:05 AM. The bathroom floors needed to be cleaned.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "OK but needs improvement",
+    "reviewText": "Managers were great. However maid service was lacking. Had to request service. When we did receive service it was poor. Also had to constantly get room key reprogramed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Stinky",
+    "reviewText": "Our room was musty and it stunk to high heaven. Do not recommend this place. The building was old and dirty. Bad experience",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Stinky",
+    "reviewText": "My friends and I enjoyed the hotel. The staff was helpful and got us set up with a nice taxi service. The room serves its purpose of a place to get ready for a concert and then come back late and get some good sleep before heading home.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "clean value",
+    "reviewText": "great value quiet clean and comfortable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Best \"bang for your buck\" in Columbia",
+    "reviewText": "This hotel is the best bang for your buck in Columbia. Great location, very clean, very nice staff and rooms are large and come with a microwave,fridge and coffee pot. It's older but redecroated rooms make it feel like home. I have 2 kids going to school in Columbia and when I come to visit I always check to see if this hotel has the best deal and it usually does. I stay here whenever I can, highly recommend for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-28T00:00:00.000Z"
+    },
+    "reviewTitle": "No more Ho-Jo for me",
+    "reviewText": "I won't stay at a Howard Johnson again. Had to be moved to a different room cause the key card wouldn't work. Asked for a non smoking room and room used to be a smoking room. It smelled like an ash tray, bedding had burn holes in it. Staff was very nice and helpful but was a very nasty feeling in either room. The second room didn't smell like an ash tray but did have a weird funk to it. There were random hairs find in the room. The ac was having a hard time keeping up on a 75day. Key cards had to be redone multiple times. Shower curtain was thin so water got all over the floor. Pillows were the size of my hand. All in all not a relaxing stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-28T00:00:00.000Z"
+    },
+    "reviewTitle": "No more Ho-Jo for me",
+    "reviewText": "It was fine. My only complaint (which is minor) is that the bathroom didn't have shampoo (and instead had two conditioner tubes).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "No more Ho-Jo for me",
+    "reviewText": "It was fine for our purposes and we would stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Columbia, MO Stay",
+    "reviewText": "Friendly staff, clean room. Good breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "One night stop",
+    "reviewText": "Older hotel but very clean, breakfast had good selection and attendant kept area clean. We would stay again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-28T00:00:00.000Z"
+    },
+    "reviewTitle": "One night stop",
+    "reviewText": "Clean room and nice breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Failure to serve",
+    "reviewText": "We selected the hotel because of the price and it was to include breakfast. The breakfast was to be available beginning at 6:00 am. We went at 6:00, 6:20 and then again at 6:40. The room was dark and there was no food. We asked the desk clerk and he said that the staff didn't come to prepare the food. We left. I can't recommend Howard Johnson to my friends, family or co-workers and I do not plan on using Howard Johnson again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Wedding weekend",
+    "reviewText": "The hotel needs some updating, but it met our basic needs.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, decent, reasonable",
+    "reviewText": "We wanted a clean, decent, reasonably priced hotel for the night. This fit the bill.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "A place to sleep",
+    "reviewText": "I just wanted somewhere to sleep for Thanks! night on a cross country trip and I got that. No frills...phone, clock radio and TV not working.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, quiet, CLEAN room.",
+    "reviewText": "Our room was very clean, the tub was surprisingly large. We had a quiet incident free evening, you can't ask for better than that!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, quiet, CLEAN room.",
+    "reviewText": "Room was not set up for 2 people only one towel and washcloth. No bathmat to step out on. Only stayed on way to wedding elsewhere.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Well worth the price",
+    "reviewText": "We thought it was a great hotel for the price. Close to the university of Missouri. An older hotel that has been nicely updated. We go there to visit my son and we would certainly stay there again. Great for the money!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and Comfortable stay.",
+    "reviewText": "We stayed here for Family Weekend at Mizzou. Hotel was clean and suitable for our needs. Beds were comfortable and it quiet compared to other locations we have stayed at in the past. Parking was very good considering the number of people who attend this type of event. We would stay here again in the future.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and Comfortable stay.",
+    "reviewText": "Decent place, somewhat dated, and a strange musty smell",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price, but needs an update",
+    "reviewText": "Room needed updating, but for the price I could deal with that. What I couldn't overlook was the layer of dust and cobwebs covering the drapes that blows all over the room every time the air kicks on, or the toilet that isn't attached to the floor properly, or the drafty window, mildew stained tile, torn curtains, and cracked microwave door. I also wasn't expecting to spend all night smelling the food from the banquet rooms downstairs. I wasn't expecting to be amazed at the price I paid for this room, but I was at least expecting to have had them keep up with routine maintenance and cleaning, and maybe put in some air fresheners in the hallway to counteract the smells from the banquets. Overall, the bed was comfortable, the shower was hot, and I only needed someplace for 1 night to attend a conference at the university, so it served it's purpose.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-02T00:00:00.000Z"
+    },
+    "reviewTitle": "One night kind of hotel",
+    "reviewText": "It was a good hotel for that one night stay kind of a thing. Staff was great, bed was super nice, and location was perfect. It was just over used and cramped. It looked clean but did not feel clean. None smoking rooms smell like smoking rooms and burn marks in comforter.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "One night kind of hotel",
+    "reviewText": "Needs breakfast meets.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "best low-price hotel in Columbia",
+    "reviewText": "This is by far the best cheap hotel in Columbia. It's clean, the rooms have refrigerators and there's no resident scary guests. Book early, on game weekends it sells out fast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "best low-price hotel in Columbia",
+    "reviewText": "Just a stop over for the night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Dirty, Dead bugs, Unsafe!!",
+    "reviewText": "The only clean thing about this hotel was the check in. We paid (with tax) 155.00 for the room with 3 beds due to the fact we have older kids and they refuse to sleep in the same bed (no biggie) when we got to our room for the night and turned down the bed the cover had several hairs in-bedded in the cover, the sheets had several cigarette burn holes in it. So needless to say NO ONE slept in the 3rd bed. There was a dead bug under the counter that the coffee maker was on (coffee and no cups) the outlet by the coffee maker when we went to plug in the straighter it would just fall out, the outlet behind the nightstand was literally hanging out of the wall. The little doily that I'm assuming should have been on the table under the phone was behind the table and on the floor, I'm sure was there for some time...I totally understand a quick cheap place to stay but, when you are up all night worrying about if the place is going to burn down!! NO THANKS! I'm glad our room was at the end of the hall by the EXIT door. You will not find my family there. I did speak to a manager (I'm assuming since he said he could hear out my issues) and he gave me a whopping 20 off so instead of 155 I am paying 124.00 not satisfied and will not return. Who pays even 124.00 to stay in a place like this!! HJ 1 myself 0..I lost on this bad decision making. I wish I could get the picture to upload. I forgot about the stains on the comforter (the same bed that had hair and cigarette burns on it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4182"
+  },
+  "name": "Super 8 Columbia East",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "MO",
+    "city": "Columbia",
+    "postalCode": "65202",
+    "address": "5700 Freedom Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-92.24376, 38.961861]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent value - pleasant stay",
+    "reviewText": "Nothing fancy, but this was a motel that felt safe, clean and had friendly, helpful staff. I would certainly stay here again. Excellent price for what we got.",
+    "reviewerCity": "Elkton",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't expect much for the price you pay.",
+    "reviewText": "Pool was so chlorinated you could hardly see afterwards. Breakfast area was not very clean and bathroom had moldy smell to it. Staff seemed distant and bothered when asked questions. For the high cost of this property I would look to stay somewhere else.",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Close But No Cigar",
+    "reviewText": "Room: All the basic appliances. Generally clean, but impression of removed headboards and screw holes remained. Toilet rocked a bit. Toilet ran periodically. Beds very comfortable. Modern flatscreen HDTV with ample channels. Robust Internet connection. Too few towels with very small, thin bath towels. Only one tiny bar of soap to share between sink shower for two adults. Parking:... More",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and comfortable",
+    "reviewText": "Stayed for Roots And Blues Fest. Early check in was nice. Room was clean and quiet. Indoor pool and hot tub were good. Would stay again.",
+    "reviewerCity": "Higbee",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "A Good Super 8",
+    "reviewText": "We were pleased with our stay at your hotel. Should we return to Columbia, you can count on us choosing your place once again.",
+    "reviewerCity": "Columbia",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Not clean",
+    "reviewText": "Room, carpets, hall carpets and the breakfast area were not clean. Mold on the shower curtain. Not what I expected. The bed was comfortable but the headboard was missing although the hotel did say that they were in the process of replacing the headboards in some of the rooms.",
+    "reviewerCity": "Dayton",
+    "reviewerState": "OH",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Snowbird Stay Over",
+    "reviewText": "We choose this location because it was close to the interstate. The property and building were in good shape. The staff was courteous, friendly and helpful. The front desk recommended a restaurant that was with-in walking distance from the hotel. We had a basic room with all the amenities that we needed. It was clean. Despite it being a little... More",
+    "reviewerCity": "Bismarck",
+    "reviewerState": "ND",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Average stay for Super 8",
+    "reviewText": "We stayed overnight on our way back from Kansas. We had stayed at the other Super 8 on Clark lane, on our way to Kansas, and were hoping for a better night. The room was clean, but ours did not have any headboards or pictures over the beds. The motel is further from the highway, so it was quieter. Also,... More",

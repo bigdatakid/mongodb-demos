@@ -1,0 +1,100 @@
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place",
+    "reviewText": "It's was a nice experience right there! Beautiful place!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place",
+    "reviewText": "had to change room 2 times due to smelly and dirty rooms",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay at a fair price!",
+    "reviewText": "great hotel if you are visiting the TARPON SPRINGS area. Great view of waterfront on backside.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Return stay",
+    "reviewText": "This was our 2nd year in a row for staying at the vista. It is a well run establishment . Our room was ready early which was a joy. Our room was cleaned to perfection each day. The only complaint we had was the use of sporksinstead of regular forks for breakfast !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnight getaway",
+    "reviewText": "My husband and I came for a overnight getaway without the kids. We have been to this hotel before and we were not disappointed. We will return again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "very clean",
+    "reviewText": "This is my second stay at the Vista and it is a great hotel for the price. The front of the building could use some work around the restaurant area/",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "An OK hotel",
+    "reviewText": "Might have been much better if they had a restaurant.. Or tiki bar!! There was nothing. Except a decent continental breakfast . Room was always clean, plenty of towels. But almost every day we had to get a new key card .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "It's a dump. Tv didn't work, bugs uncomfy bed",
+    "reviewText": "Awful. See comments above. Wouldn't recommend to anyone. Guess I am not alone, the hotel was almost empty.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "It's a dump. Tv didn't work, bugs uncomfy bed",
+    "reviewText": "Great hotel Courteous staff",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "One comfortable pleasant night.",
+    "reviewText": "My stay was pleasant. Check in was quick and easy. The Lobby smelled moldy but the room did not. One night no complaints.",
+    "reviewerCity": "",

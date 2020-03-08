@@ -1,0 +1,100 @@
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Old but clean.",
+    "reviewText": "Hotel is a old hotel. It even still has popcorn ceilings. It badly needs a remodel. It is a typical Hampton as far as how clean it is. It is close to mall and several good restaurants. I would stay here again due to its location. Fuzzys next door is great on the patio.",
+    "reviewerCity": "Lafayette",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Abilene Visit",
+    "reviewText": "I was very impressed with the staff! Very friendly, helpful and efficient! It was a little loud in the hallways at night. Plenty of restaurants, plus a Target across the street. I would recommend this place!",
+    "reviewerCity": "Lafayette",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "Would definitely stay here again. Check in was smooth. Room was nice and clean. We were on the side of the hotel where you could hear the cars on the highway at night which is the only negative thing I could say. The breakfast was ok. The kids loved the whipped cream and chocolate chips for the waffles! Overall good... More",
+    "reviewerCity": "Carlsbad",
+    "reviewerState": "NM",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Spot",
+    "reviewText": "Great location, very clean rooms, great staff and breakfast was excellent. It was worth getting away form the interstate and staying where your business was truly appreciated. Would return to this location again when in west Texas.",
+    "reviewerCity": "Tucson",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Hampton hospitality!",
+    "reviewText": "Great staff and location ! Free hot breakfast, Coffee available 24/7 Nearby service locationsshopping and medical facilities, as well convention center and airport...... Everything one expects from Hampton/Hilton........",
+    "reviewerCity": "Tucson",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Nice! Clean and Comfortable overnight stay",
+    "reviewText": "We had to stop in Abilene on our way to New Mexico due to bad weather and so we chose this location. It was what I've come to expect from a Hampton Inn Clean, comfortable and inviting. I love the little extras that make you smile like the coffee cups with mustaches and lips and the cup insulators with necklaces,... More",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and comfortable",
+    "reviewText": "Very nice. The room had a fresh feel and I enjoyed my stay. I would recommend this hotel to anyone traveling to Abilene. Thanks for the comfortable accommodations. I would recommend enhancing the breakfast food items.",
+    "reviewerCity": "Vidor",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent service",
+    "reviewText": "We have stayed at this hotel several times. This stay exceeded our expectations, primarily because of the friendliness of all the staff. Our room was clean and the bed was comfortable. We used the Honors program of points+cash, which is a great option.",
+    "reviewerCity": "Westcliffe",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect location in Abilene",
+    "reviewText": "This Hampton is in the middle of restaurants and shopping. It really is a perfect spot if you don't want to drive anymore once you check-in. The staff was friendly and the rooms were clean and comfortable. The water was hot, and cold, the linens were not torn, and there was no mold in the bathroom. For a one night... More",
+    "reviewerCity": "Boerne",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible...stay away",
+    "reviewText": "Horrible. Very rude staff. Refused to comply with 100 guarantee. Room serve not done until very late and had to ask for room service still waited over an hour.",
+    "reviewerCity": "Boerne",

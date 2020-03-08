@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Really nice hotel",
+    "reviewText": "cleanliness of room was good, the staff was excellent. Thanks for having transportation to the cruise port and the airport. Thanks for having breakfast in the morning. Really needed it. Would defiantly stay again.",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "I enjoyed the stay ,",
+    "reviewText": "The hotel was nice the only thing wrong was the AC not cold enough, I would visit again",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Not impressed, pictured to deceive",
+    "reviewText": "Less than expected. Not impressed,..pictures online are deceiving. Wide angled lense shots to make room look bigger. It's a shoe box. Bigger than a salt box but not by much! If I wasn't careful I could knock my knees against the a/c unit. About a foot of space between a/c unit on one side and wall on other. Tiny. Front entrance and food area is just as misleading. My husband was fixing coffee and I saw a baby roach come out from sugar packet area and went under coffee machine. Don't expect a lot. It is truly NO FRILLS.",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Not impressed, pictured to deceive",
+    "reviewText": "Wifi barely worked, needs to do better with breakfast",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "good in a pinch",
+    "reviewText": "room was good. had to double up with a relative and I stayed on the open up sofa bed. very uncomfortable. sheet didn't fit the sofa bed and ended up on the bare mattress although a clean mattress. relative saw trash behind the headboard of the bed. shower nice. coffee in the morning good. staff very friendly and helpful",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok Stay",
+    "reviewText": "There were spots on the sheets as well as on the table. There were permanent marks in the tub.",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Its your basic Hotel, Clean but a bit tired",
+    "reviewText": "Overall basic hotel, basic hotel experience. You get what you pay for. WiFi was good, Bed was good, and room was nice enough given the age. That said my rooms A/C unit seems to have a clogged drain or something as there was musty smell in my room. But the Bed and Pillows were clean and soft. I'll stay here again for a Jags game. Would like to point out, those not from the area, the water did smell funny, but not Hotels fault I only mention it for others I have seen reviews in the JAX area. It's the water of the area, unless you know a hotel with a filtration system, they will all smelly sulfury.",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Quaint Hotel",
+    "reviewText": "Wasn't the nicest place I've ever stayed at, but I knew that before I booked it. The stay ended up being quite pleasant.",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "A good value for the traveler",
+    "reviewText": "I've spent the past two weeks in Jacksonville, and this hotel is on my short list of places where value meets accommodation. The building is a bit older so there's flaws in the room I stayed in. Generally flaws I'd associate with normal wear and tear and not lack of maintenance (corrosion on fixtures, scuffing on doors and furniture, etc)... More",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "A good value for the traveler",
+    "reviewText": "Friendly staff, clean room, overall decent hotel for the price. Just don't expect anything fancy and you'll be just fine.",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }]

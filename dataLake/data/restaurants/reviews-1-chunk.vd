@@ -1,0 +1,100 @@
+    "address": "7984 Gateway East Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-106.34292, 31.75071]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Would rather sleep in a van, down by the river",
+    "reviewText": "I have never stayed in a hotel where you have people living and not because they are in town for an extended period due to their job. The office is only open from 11am-7PM and you must notify them 24hrs in advance when you are leaving or they keep your deposit, which is a total scam. You get 1 set... More",
+    "reviewerCity": "Iowa City",
+    "reviewerState": "IA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "This is a good place, not the Hilton, but not a flea bag motel either.",
+    "reviewText": "I moved halfway across the country for a job. The last thing I wanted to do was plunk down over a grand for a site unseen apartment. The best option was a long term stay hotel. I researched and read the reviews. I was a bit afraid of this place b/c of what I had read. Let me be clear-this... More",
+    "reviewerCity": "Iowa City",
+    "reviewerState": "IA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "They don't even deserve 1 star",
+    "reviewText": "I can't even explain how horrible this hotel was. The outside is deceiving as it looks well maintained, however, the inside is horrid. On our second night, we were woken up at 5am to a man screaming outside our door, clearly intoxicated and running down the hall banging on doors. He continued to do this for 1 hour. Once the... More",
+    "reviewerCity": "Roanoke",
+    "reviewerState": "VA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "OK price awful staff except 2 people",
+    "reviewText": "The room was musty and smelled like smoke so I went out and got a carpet cleaner I bought all new bed stuff and toak the stuff they had on there and put it in a garbage bag and set it aside I also replaced their shower head with mine and their shower curtain with a new one I gave... More",
+    "reviewerCity": "Salem",
+    "reviewerState": "OH",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Wouldnt stay there if it was that or Jail",
+    "reviewText": "This place is great, if you like staying with screaming kids, drug dealers and general lowlifes. Dont believe the pictures, they aren't that nice. I got the impression it was where people stay whose trailer had burned down.",
+    "reviewerCity": "El Paso",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice price, but very firm bed!",
+    "reviewText": "Intown suites is a great valve for short term stay! In El Paso for 6 months for work and didn't want to get stuck in an apartment lease. All in all not to bad, would like to see newer upgrades. Then again this is a hotel not my house........double bed in my room with a very hard mattress. Go to... More",
+    "reviewerCity": "Newnan",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Very displeased",
+    "reviewText": "I guess, we do get what we pay for. We were gonna stay at this place for 2 weeks, but we just stayed the one week coz we had already paid. Apparently, no room is NON-SMOKING! We have two children under 4..our baby is only 2 months old. The room we stayed at looked nothing like the pictures they have... More",
+    "reviewerCity": "Newnan",
+    "reviewerState": "GA",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4001"
+  },
+  "name": "Americas Best Value Inn - Medical Center/airport",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "El Paso",
+    "postalCode": "79905",
+    "address": "450 Raynolds St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-106.43274, 31.77634]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location!",

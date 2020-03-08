@@ -1,0 +1,1000 @@
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Place",
+    "reviewText": "We overnighted at Quality Suites and would do so again. Close to IAH and a very friendly staff. The room was huge and clean. The shuttle service was prompt in both directions. A shout-out to Sally and Joshua! Great representatives for this property.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great customer service!",
+    "reviewText": "I actually was not the one who stayed. Our daughter was stranded in Houston for almost 3 full days. We were many states away and the staff was so very helpful in allowing us to get her a room... both nights! We had issues with booking but they accommodated us at each obstacle. Thank you Quality Suites for making us feel secure when we had so much unknown.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Price Great Stay",
+    "reviewText": "It was close to the Airport , the shuttle arrived very promptly . This hotel isn't close to Restaurant's or Party stores in walking distance . Great clean room , suite was nice , I as flying in from Michigan to visit my Girlfriend she liked it also . Breakfast was the basic but they had plenty fruit , juice , eggs , sausages , waffles , etc ...free USA to today paper in the Morning as well .Great Service happy Smiling faces no problems .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "always nice",
+    "reviewText": "Enjoyable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "A Great Escape!!",
+    "reviewText": "I was very satisfied it is what I was looking for in rest and relaxation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "I would definitely be staying here again! The staff was really nice and very helpful! The rooms were so roomy and comfortable!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "Why advertise a pool is it is closed and dirty and the area around it is is falling apart It's one of the reasons we booked this hotel because it had a pool!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great staff but room for improvement with the room",
+    "reviewText": "I stayed for one Night mainly because it offered breakfast and an airport shuttle. The driver were great and the hotel staff as well. I loved the breakfast bar. The room could need some improvements. The showerhead for example barely let any water out. I am glad I didn't had to wash my hair. That woud have been impossible. The comforter on the bed had a burnhole in it. Its about small things like that. The room looked a little sparse especially the bathroom felt very empty for its size. But like I said the staff was great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great customer service!",
+    "reviewText": "When I arrived for checking Tara was so friendly and helpful. They even had a complementary shuttle that will take you to get food or go to the mall and Roberto was an amazing driver. When I checked in there was a mouse running up and down the hallway and slipped into one of the rooms, there was construction going on for the remodeling of the bathrooms and lots of drilling and hammering on the walls and floor, and the neighbors next to me were running around and banging on the walls but other than that it was a great expereince.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fdb"
+  },
+  "name": "Hampton Inn New Orleans - Downtown",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "New Orleans",
+    "postalCode": "70130",
+    "address": "226 Carondelet St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.071143, 29.952146]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Mardi Gras",
+    "reviewText": "Quiet respite from the crazy Mardi Gras festivities.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Hampton Inn and Suites",
+    "reviewText": "I booked a suite that was supposed to be wheelchair-accessible. It was not. After we complained we were moved to an accessible room (not a suite). The bathroom was a little difficult to use.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Hampton Inn and Suites",
+    "reviewText": "It was great! Perfect location, clean hotel, great breakfast. Only thing is the elevators could be updated.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "New Orleans getaway",
+    "reviewText": "It was only one night but it was a great location for us close enough to the French Quarter to walk, near enough to the National WWII museum and train station. My reservation did say a tub option but I only had a shower.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "JoshEli",
+    "reviewText": "Hotel was centrally located, good bargain considering nearby hotels were a bit more expensive. Service was good. Complimentary breakfast a plus. Would recommend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "JoshEli",
+    "reviewText": "Fabulous!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Highly recommended.",
+    "reviewText": "Very courteous staff and the rooms were elegant. I enjoyed my stay. It's in the middle of the downtown area so, there is valet parking... But it's not cheap!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Highly recommended.",
+    "reviewText": "I love the hotel and the staff was always friendly. The only thing I wasn't happy with was the valet parking, 34.99 a night. Too expensive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Best night ever in New Orleans!",
+    "reviewText": "This room was so amazing!!!! It was the biggest room that I've ever stayed in other than a suite. The room and bathroom were both very spacious and the bed was sssooooo comfortable. I also liked that you had to use the room key to go up the elevators and to get into the hotel after certain hours. It made everything feel just a little safer. I will definitely be staying here again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Best night ever in New Orleans!",
+    "reviewText": "Highly recommend. Ended up getting double billed and took several days and multiple people together resolved, but stay was very good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome Stay and Location",
+    "reviewText": "Stay was awesome...the two queen beds room was very spaces with a microwave and mini fridge! Very clean and comfy bedding. Two blocks from canal and bourbon one of the best hotels to stay in if you want to be in the heart of NOLA. Being from Nola, I know a great new Orleans hotel when I experience. Btw...love the accent walls.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome Stay and Location",
+    "reviewText": "Big quiet room. Only a few steps to street car stop.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome Stay and Location",
+    "reviewText": "Awesome!!! If you are going to New Orleans, this is a great place. Ideal location. The breakfast is one of the best I have ever had!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome Stay and Location",
+    "reviewText": "You cannot beat this location. It is on Bourbon St (the name changes on the other side of Canal), just a 5 minute walk away. Rooms are nice - big and clean, comfy beds. The free breakfast was really good too (one of the best I've seen at a hotel) and definitely saved us the expense of eating out for breakfast every day. Wi-fi is free, but there is also a paid option an somehow we were charged although we did not select this option. We asked about this upon check out and they took the charges off no questions. The only thing I wish I had realized before booking was that parking is not included and after taxes cost about 40/night. Had I realized this, I would have taken it into consideration of the total cost of the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "The review",
+    "reviewText": "Great 3 day 2 night stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-01T00:00:00.000Z"
+    },
+    "reviewTitle": "The review",
+    "reviewText": "Economical, clean, friendly place to stay plus good location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "good location for easy access to all parts of town",
+    "reviewText": "check in was friendly and efficient, elevators seemed not to be working properly - only 2 out of 4 were running consistently, rugs in hallways were dated and did not seem very clean, sofa in our suite was dated and the mattress was so old it was unusable as a 3rd bed in the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-08T00:00:00.000Z"
+    },
+    "reviewTitle": "good location for easy access to all parts of town",
+    "reviewText": "Location, location. Walking distance for bourbon street, tram service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "good location for easy access to all parts of town",
+    "reviewText": "Very nice Hotel, it was clean and the bed was wonderful and soft!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel",
+    "reviewText": "had fun!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel",
+    "reviewText": "the actual hotel is 100 better than what you see online. I was surprised and thankful",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "nice and comfortable",
+    "reviewText": "With the exception of waking up to a small flood of water on the sink and in front of the toilet in the bathroom, it was really nice. It seems something was wrong with the air through out the night. I was a bit warm.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Away",
+    "reviewText": "We stayed for Jazz Fest. The hotel is ridiculously overpriced and is no better than a Motel Six in an old building. No restaurant, a very dirty room and hallways that were never vacuumed in our four day stay. A very bleak and unkept property......Stay Away",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay!",
+    "reviewText": "Service was amazing! We walked into our room and literally gasped it was so large! Very nice facility, staff was super nice. Very close to Bourbon St and the French quarters. All in all a lovely place to stay! Highly recommend it!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay!",
+    "reviewText": "Very clean rooms great breakfast overall wonderful hotel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Huge room, great price",
+    "reviewText": "Lobby was tiny, but the room was huge! 15 foot ceilings and a room so big that the king size bed looked like a twin! Great location for walk to Superdome or Bourbin street.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Huge room, great price",
+    "reviewText": "Great location for easy access to French Quarter. Staff very helpful .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall Great Stay",
+    "reviewText": "Overall great! Toilet flush handle was not working well. Otherwise great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "I love NOLO!",
+    "reviewText": "Everything was perfect! 5 star everything on a 3 star budget.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-11T00:00:00.000Z"
+    },
+    "reviewTitle": "I love NOLO!",
+    "reviewText": "Great customer service, very welcoming. We've stayed at this Hampton before and love the location because it's walking distance to restaurants, bars and the French Quarter.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "I love NOLO!",
+    "reviewText": "Valet parking fee is excessive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value, great location, comfy rooms",
+    "reviewText": "I was in New Orleans for a conference, and stayed an extra two nights to hang with my brother and tour the city. We shared a double Queen room, and were happy it room was more spacious than we expected. Very comfortable and we didn't feel cramped at all. The amenities were comparable to what we'd expect from a nice hotel. And the breakfast was tasty and healthy enough to keep us going all morning long. The location was easy to walk to the French Quarter (we're good walkers), and we found some places to eat nearby when we were too tired to go farther away. My only complaint is that the guys handling our luggage storage were abysmally slow. We had to wait up to 15 minutes to have someone get our luggage out of storage. Other than that, the staff were great and very friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great business/fun location",
+    "reviewText": "Hotel was awesome! Everyone was nice and helpful. Location was convenient to convention and to streetcar line which is a huge advantage here. Morning breakfast very helpful to be able to get ready and eat before heading out. Highly recommend!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Better than I thought",
+    "reviewText": "Compared to the area, our hotel was pretty decent. A couple of blocks from Bourbon, which is good if you have kids. I traveled with my family, so it was perfect. It was still within walking distance of everything that we did. We traveled on a Sunday, so we were able to find parking on the street that day, but we did valet for the remainder of the time. The staff was very friendly. There was a smell on the 4th floor when we first got there, but it was gone by the morning time. We also didn't realize how close things were otherwise, we wouldn't have ordered food to be delivered. If I ever went back, I would definitely stay here. I know it's safe and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "I'd love to stay here every year!!",
+    "reviewText": "I'm a Southern University Alumni, so I've come to New Orleans often for the Bayou Classic festivities. I've stayed in several hotels, but I can say that I enjoyed this one the most.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "2 Blocks from Burbon Street/French Quarter",
+    "reviewText": "Gary in Valet/Bellman was great!!!!! He offered great suggestions for places to eat authentic food!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "hotel location",
+    "reviewText": "Excellent",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "hotel location",
+    "reviewText": "Just keep in mind the price that you get on Hotels.com doesn't include all the surcharges. We were quoted 109 but ended up paying almost 170 after taxes, fees, and parking were added.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-22T00:00:00.000Z"
+    },
+    "reviewTitle": "great hotel, near the French Quarter",
+    "reviewText": "Great hotel, very convenient, good breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "great hotel, near the French Quarter",
+    "reviewText": "Everything was amazing...the only issue we had was that valet misplaced the keys to one of our cars. So that pushed our leave back about 30 mins. Come to find out, one of the guys put the key in the drawer next to the safe instead of the safe. Because of the inconvenience, they took the parking fees off not just that one car, but both. Saved us about 270. I wasn't expecting that, but that's real customer service. Everything we wanted was walking distance and the hotel was very safe. Breakfast was mediocre...lots to choose from, but nothing really tasted good. Outside of that, I recommend this place.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Three blocks to bourbon",
+    "reviewText": "It was a wonderful stay fairly excellent continental breakfast just enough of what you needed but hope your lock doesn't break on the door maintenance person is not very prepared we're on the ninth floor he had to make three trips to the first floor took a little over an hour to fix the issue",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Girls Getaway",
+    "reviewText": "From the minute we walked into the hotel to check in, from the time we left, everything about this hotel and their staff was excellent. The staff at the front desk were so helpful with the tons of questions we had. The room was fabulous. We had a queen studio which was enormous. The beds were comfortable and the bathroom was gigantic. The buffet breakfast was fabulous. I would definitely recommend this hotel and if I ever get back to New Orleans, I will definitely stay at this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to everything",
+    "reviewText": "The location is very convenient. The hotel was within walking distance to almost everything. With it being on the opposite side of Canal than Bourdon, there was no noise from people outside. The rooms were nice. Very comfy bed. The room had a microwave and mini frig, which was a nice surprise. Also, when we arrived at the hotel we noticed that the parking garage is right next to it. The website had said that parking was valet only and was 34, however the garage offered self parking for 25 per 24 hour period with add on hours if needed. The only thing is you don't have in and out privledges like with valet. If you plan on walking anyway or need to save a few bucks, that'd be the way to go. I would definitely recommend this hotel. The only reason for the 3 rating on the staff was due to the valets and bell boys congregating in the door way hollering with their friends. It was loud and unprofessional. The front desk staff and everyone else we encountered were great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value",
+    "reviewText": "The room was awesome very clean and comfortable and the complimentary breakfast was very good.Just a short walk to everywhere we would love to stay here again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Fair to Midland",
+    "reviewText": "Average",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Place to Stay...close to everything",
+    "reviewText": "We had the perfect hotel for our stay in N.O. Bourbon street close by, Superdome, Harrah's Casino all close by. A little further is the French Quarters. We walked everywhere. No need for a vehicle. The staff was friendly and breakfast was good. Would stay there again. Only one thing. We were there six nights. They didn't vacuum until the fourth night. Other than that, it was perfect.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel close to the French Quarter.",
+    "reviewText": "The hott rooms are very clean and spacious. Very nice breakfast included. The staff was great and very helpful with suggestions for restaurants as well as places to go to. The World War II Museum is a must!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "wedding trip tied into pleasure",
+    "reviewText": "Hotel so close to nal street was great location Staff was excellant",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Being a tourist",
+    "reviewText": "Loved everything about the hotel. Great location. Everyone was friendly and helpful. The only issue were the elevators. Extremly slow. Otherwise it was perfect fir our weekend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Being a tourist",
+    "reviewText": "Very much enjoyed my stay at the Hampton Inn. My only set back was checking in. I had caught a red eye flight in to New Orleans and asked to check in early since I had been flying all night. They declined and instead my room wasn't ready til a half hour after their check in time. I think that's something their staff needs to work on. However, the room was great, the hotel is conveniently close to a lot of great restaurants and places to see. I would recommend this hotel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Destination weddings are not my choice!",
+    "reviewText": "I have never experienced the valet service that was provided...did not know what it was and the extra cost was a surprise...I understand the French Quarters, parking is limited. In retrospect, I would have used your Hotel one night and stayed outsides the main city. Then too Expedia and night 3...did not use it and Expedia will never ever be used again. You would have let me cancel the 3rd night except for Expedia which was out of your control. Destination weddings are most certainly not to be done again. The wedding was not in your facility and as a retired Lutheran Minister the wedding gets a very low rating. Oh well, what is done is done.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice value close to French Quarter",
+    "reviewText": "The staff were excellent and accommodating. Rooms were clean and breakfast was above average for free. Location was very nice. Excellent overall value.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice value close to French Quarter",
+    "reviewText": "It was amazing!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient Comfortable Stay",
+    "reviewText": "We were passing through New Orleans and wanted to experience Zydeco Music, Cajun food and see the beautiful houses. We traveled on the street car to the Garden District. Room in great location for all of this and very comfortable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great!",
+    "reviewText": "Hotel staff were all friendly. Hotel was quiet and rooms were clean. Breakfast was awesome.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay, good value",
+    "reviewText": "Great place to stay near the French Quarter. Good Value, nice rooms,clean, courteous staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Impressed",
+    "reviewText": "Delicious breakfast. Beautiful, spacious room. Great location. Friendly, helpful staff. I'll be back!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice stay",
+    "reviewText": "The rooms are nice and clean and the check in was easy the staff was very pleasant it is in a great location right off canal st. And just keep straight there is bourbon st. I will certainly come back",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice stay",
+    "reviewText": "I enjoyed my stay. The only thing I was disappointed in was my first evening I had ordered a pizza. I had half left over and it would not fit in the refrigerator. I had the box sitting on top of my suitcase an planned to eat it once I returned to my room. Housekeeping took it for whatever reason. I did not appreciate that because I did make sure my trash was kept in the trash cans provided.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Hampton downtown experience",
+    "reviewText": "Had family w/ us down from Chicago. Wanted to show them the beauty and culture of the Big Easy. Took in several restaurants in the Quarter, the entire St. Charles cable car tour, the Saints game, a carriage ride thru the Quarter and the WWII museum. Also a couple of jazz bars, Cafe Dumond and Jackson Square area. Great time and experience. Thanks for the service and hospitality.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Decision",
+    "reviewText": "Loved the locale, bed was super comfortable, employees were nice, free breakfast was awesome. Definitely will return to this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to French Quarter",
+    "reviewText": "Initially nice hotel. Hotel staff very nice and friendly. Valet parking very high 38 per night. No place to park on street except parking garage that costs 15 per night but no in and outs and closed at a certain time. Quick check in process. The room was large and clean. Need some updating but for the price it was nice. Then the AC went out in the middle of the night. I called to the front desk and we were told maintenance would not be in until 7am. Had to change rooms. Went from a larger room to a smaller one. The noise in the room was ridiculous. You could hear traffic and people laughing and talking throughout the night. Informed the front desk and nothing was done about it. No accomodations were made.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and comfortable!",
+    "reviewText": "Great service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel!",
+    "reviewText": "Great hotel away from the bars and club but yet super close to be able to walk everywhere",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Downtown Location.",
+    "reviewText": "Location: Stayed to the hotel for two nights with family of four. The location is perfect if you want to walk around downtown French quarter. Pleanty to do within a 5-10 minute walk and some of the best food in the area. We parked our car the first day and never needed it until we left. Hotel: The room was large and clean. Very modern and could not hear the city life right outside. Staff was great and free breakfast was a good way to start each day. Parking was a bit much 40 day but is expected I guess for downtown. Overall a really great stay at this location. Hampton Inn continues to be a reliable choice for comfort, cleanliness price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Downtown Location.",
+    "reviewText": "Good times",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Downtown Location.",
+    "reviewText": "The stay was great. The only thing I didn't like about the room was there were no dressers.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fdc"
+  },
+  "name": "Mirazur Plus French Quarter Landmark Hotel",
+  "categories": ["Hotel", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "New Orleans",
+    "postalCode": "70116-3011",
+    "address": "920 N Rampart St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.06636, 29.962454]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Oddly designed room, cramped and noisy",
+    "reviewText": "We wanted a hotel near the French Quarter, but hotels there are very expensive. We found this place at a (relatively) reasonable rate. It is a 5 minute walk to Bourbon Street, a 10 minute walk to Jackson Square and a 15 minute walk to Frenchmen Street. The streetcar stops right outside the hotel and can get you to most...",
+    "reviewerCity": "San Antonio",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "Great hotel and great price. Perfect location to walk to all of the things going on in the French Quarters! Staff is very friendly and helpful. One of the managers helped us find a restaurant and area we wanted to visit by printing out directions and information that we needed! Thank you for your help!",
+    "reviewerCity": "New Orleans",
+    "reviewerState": "LA"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay!",
+    "reviewText": "Did a long weekend in New Orleans. This hotel was really nice. Rooms were clean. The people who worked there could not of been nicer or more helpful. I want to return to New Orleans and I will definitely stay here.Hello Guest, Thank you so much for saying such nice things about our staff. I will pass this along to them as I know they will be delighted to hear your comments. We are truly proud to have made a loyal guest of you and look forward to your return! Best , Teresa Munoz - Revenue Manager",
+    "reviewerCity": "Bellmore",
+    "reviewerState": "NY"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Visited New Orleans for three days. This hotel was in a great position to visit the French Quarter, easy to get to from I10 and parking is free. Room was ok, clean and everything you need for a pleasant stay. Pool wasn't heated. Breakfast good, drinks at bar a bit expensive. Cheap convenience store just around the corner, get your...Dear guest, we appreciate your review and we are glad you enjoyed our perfect location. We appreciate you staying with us and hope you choose us again the next time you come to visit New Orleans.",
+    "reviewerCity": "Bellmore",
+    "reviewerState": "NY"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Right on spot, a bit dated",
+    "reviewText": "Well well located hotel for French area walk around activity! Room size is narrowed and ours, 329 was not well signed in the hallways so after walking around 3rd floor corridors we found it. A bit dark room lightening in the room and definitely seems a pet friendly hotel. It smell like a dog stayed there for weeks right before...",
+    "reviewerCity": "montevideo",
+    "reviewerState": "NY"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable room in a convenient location",
+    "reviewText": "Our room was situated on the 2nd floor above the courtyard. The receptionist was wonderful and we were pleased with the area of the hotel. Our room had two comfortable double beds, a great TV, a beautiful bathroom, and was quiet. The woman at the front desk was very helpful in recommendations and advice when asked. The hotel's location makes...",
+    "reviewerCity": "St. Thomas",
+    "reviewerState": "NY"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay. Didn't like parking fees. Great breakfast. Beautiful place.",
+    "reviewText": "1st stay in New Orleans. Family loved the stay. Great breakfast. Didn't like parking fees. Decor in rooms are beautiful. We loved the outside landscaping. Good space at breakfast area. Good location. Good people.Dear Lucy, Thank you for choosing us for your first stay in New Orleans. We are proud to have served you well and hope to see you again in the near future.",
+    "reviewerCity": "Dallas",
+    "reviewerState": "TX"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to Bourbon Street",
+    "reviewText": "Stayed at this hotel that is close to the French Quarter. Within walking distance to Bourbon Street, Jackson Square and Caf Du Monde. Quiet location. Only 2 complaints would be the room we had was right next to the elevator, which was very noisy and the parking spots are very small. The parking is cheaper than most hotels or lots...Thank you so much for taking the time to let us know how we are doing. We really love it when our guests have a great time at our hotel. I hope that we will get the opportunity to serve you again very soon.",
+    "reviewerCity": "Chattanooga",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Location was excellent. Streetcar and Hop on Hop off had pickups a block away. An enjoyable walk to the various parts of the French Quarter. Frontdesk went above to be sure our vacation was wonderful. Room was quiet.Thank you so much Carol for taking the time to let us know how much you enjoyed your stay with us. We hope you come back and see us again soon!",
+    "reviewerCity": "Clarkston",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent hotel stay! Amazing staff!",
+    "reviewText": "Stayed for 5 nights and the staff were both amazing and accommodating! The staff worked to make the stay safe, clean and enjoyable. Lawrentay went above and beyond each day to provide amazing and helpful service. He deserves a raise for his outstanding service to guests! We were completely blown away with the service that we received. We would definitely...Thank you so much, Christiana, for your kind words about Lawrentay and the staff's great service. I will inform the team of your praises and we greatly appreciate all the compliments about our facilities. We look forward to you next stay with us.",
+    "reviewerCity": "Clarkston",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "A great beginning to a wonderful honeymoon",
+    "reviewText": "The location is great.. Easy access to all attractions, streetcars and shopping. Staff very friendly informative. Rooms private. Not nosy at all. Beautiful decor atmosphere. Great breakfast variety.",
+    "reviewerCity": "Memphis",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel near French Quartier",
+    "reviewText": "We stayed here for one night. The hotel is very conveniently located within walking distance to all attractions in the French Quartier. Very convenient for public transportation. But sufficiently far that the noise of the Quartier did not disturb our sleep. The staff was very friendly and provided good information. Room was clean and specious. The room furnishing were fine...Dear Guest, We greatly appreciate the picture you have painted for future guests! The staff works hard to ensure you enjoy your time with us and we hope to see you again in the near future.",
+    "reviewerCity": "Harrow",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Just OK!",
+    "reviewText": "Stayed there the last day of Mardi Gras. The neighbourhood was crowded as you would expect. Perfect location to be around everything - just outside the French quarter. There was annoying gas smell at the lobby. The room was extremely outdated with A/C so lound you cant even use it at night. Need to be ronovated really soon! The bar...",
+    "reviewerCity": "Prague",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay!",
+    "reviewText": "The rooms were comfortable and clean. Staff did not replenish glasses daily, not a big problem. Breakfast was delicious, couldn't ask for anything more. The front staff and breakfast/bar area were amazing. Helped us with any questions/directions and suggestions when approached. Would definitely stay here again!Dear Rhonda, Thank you so much for the great review about your stay with us. We are so glad you have a wonderful time. We can't wait to serve you again.",
+    "reviewerCity": "Belle River",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect location",
+    "reviewText": "First, let me say.. Location, location, location. Close enough to everything, yet far enough for some peace and sleep. Room was clean, beds were comfortable, reception staff pleasant, helpful and accommodating. Breakfast was just something to hold you over until lunch, but nothing more. Would definitely stay again. Only con was that the water pressure wasn't great, but with the...Dear Guest, Thank you for your review and the kind words about the staff. I apologize for the water issues you encountered during your stay and will use your comments to better the experience for future guests. Your feedback is crucial to improving our hospitality and we look forward to being able to serve you again in the near future.",
+    "reviewerCity": "West Palm Beach",
+    "reviewerState": "FL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Hotel",
+    "reviewText": "We stayed here 2 nights in november of 2012. The hotell is close to the city centre. Very nice people at the check in. Breakfast was really good, you can make your own fresh waffle's. We enjoyed those 2 nights here.Thank you for your review from 2012. We currently offer the fresh waffle makers and we now have access across the street to take the streetcar to all of the other parts of the city outside the French Quarter including the beautiful Garden District and City Park. We look forward to having you stay with us again in the near...",
+    "reviewerCity": "Zwaag",
+    "reviewerState": "FL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel for the price",
+    "reviewText": "Stayed here after winning it on Priceline. It was a great Hotel! They have a pool which we did not see anyone using because of the weather, but looks nice enough when it is warm. The breakfast was surprisingly good, with both cold and hot foods served. The room was clean and decent. Probably the best part of this hotel...",
+    "reviewerCity": "Zwaag",
+    "reviewerState": "FL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-02-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel",
+    "reviewText": "This hotel is spotless and the staff is the friendliest and helpful of all my recent hotel stay. The full breakfast was excellent. I highly recommend this place those reasons but also for the location.Hi Marcel, We are so happy that you enjoyed yourself during your time with us. We thank you kindly for your review and hope you return as our guest in the future. Happy Mardi Gras, Teresa Munoz - Revenue Manager",
+    "reviewerCity": "Niagara Falls",
+    "reviewerState": "ON"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Was visiting New Orleans for a weekend with my 2 adult daughters. Hotel was in an excellent location - so easy to walk to Jackson Square and the heart of the French Quarter. Breakfast was good, and nice to have it included. Staff was very helpful. Rooms are small, especially for 3 people with 3 suitcases, and beds are Full,...Thank you for your informative review! We are in an excellent location and we are happy to have been helpful during your stay. We will take your feedback and improve for other future stays. Thank you again and we hope you choose us the next time you stay in New Orleans.",
+    "reviewerCity": "Detroit",
+    "reviewerState": "ON"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Back to NOLA for fun instead of work",
+    "reviewText": "The personnel of the hotel really went out of their way to make us feel welcomed. The room was clean, comfortable and well furnished, and the food at breakfast catered to every taste and diet. The only aspect that could be rated as average was that we were given a room just over the lounge and on the faade of...Dear Guest, we are pleased you chose to stay with us for your time of leisure outside of work! We appreciate the comments on our staff, accommodations and breakfast options. Next time you plan on staying in New Orleans please contact me by calling 504-524-3333 and I will assure you will have a room in our beautiful courtyard.",
+    "reviewerCity": "Montreal",
+    "reviewerState": "ON"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay",
+    "reviewText": "The hotel is located within easy walking distance to the French Quarter, yet nicely quiet at night. The room was clean and had everything we wanted. Donna at the front desk was great, making you feel welcome and arranging everything from pedi cabs to swamp tours. We would definitely recommend staying here!Dear Sdukeman, We appreciate you taking the time to review our hotel. Donna has been a wonderful new addition and I will inform her of your comments. Thank you for recommending our property and we look forward to your next stay!",
+    "reviewerCity": "Tolono",
+    "reviewerState": "IL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-02-10T00:00:00.000Z"
+    },
+    "reviewTitle": "An excellent choice for any traveler.",
+    "reviewText": "A fairly priced hotel on the fringe of the French Quarter. Rooms are clean and have good service. The hotel has a fitness room that needs serious updating but I don't think the majority of visitors here have working out as a top priority. The staff especially at reception is extremely friendly and professional. The breakfast is complimentary and offers...Hello Guest, Thank you for your thoughtful review. We are glad you enjoyed most elements of our hotel and will keep your comments about your fitness center in mind during our next renovation. Thank you for taking the time to give us such a great review and we sincerely hope to have you back soon. Best Wishes, Teresa Munoz -...",
+    "reviewerCity": "Miami",
+    "reviewerState": "FL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2017-02-17T00:00:00.000Z"

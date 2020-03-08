@@ -1,0 +1,100 @@
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewTitle": "lice and mold",
+    "reviewText": "Do not stay here it looked like drug deals and boomers in the parking lot and walking in u find mold and in your bed u find lice. Big big big lice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewTitle": "lice and mold",
+    "reviewText": "THIS PLACE IS HORRIBLE.....DO NOT GO THERE....THEY WILL TAKE YOUR MONEY.....ITS NASTY....THEY DONT CLEAN ANYTHING......DO NOT GO THERE....",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4016"
+  },
+  "name": "La Quinta",
+  "categories": ["Meeting \u0026 Event Planning Services", "Hotels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "AL",
+    "city": "Prattville",
+    "postalCode": "36066",
+    "address": "261 Interstate Commercial Park Loop",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-86.40931, 32.485813]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "LaQuinta",
+    "reviewText": "Very clean and accessible. Have seen more elaborate ones in other cities.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "The Best in Prattville, AL!!",
+    "reviewText": "This hotel is the best we have ever stayed at in Prattville, AL. The great experience begins at check in and does not stop until you check out. Everyone goes out of their way to make your trip great. The front desk even checked road conditions for our return trip and suggested another route that would be faster than the one I was planning on. The beds were the best we have ever been in and came with two types of pillows. It has the most fantastic breakfast with sausage, eggs, and waffles. What more could you want. We were not disappointed with this hotel we will make this our regular hotel whenever we come to the Prattville, AL.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4017"
+  },
+  "name": "La Quinta Inn \u0026 Suites Dublin",
+  "categories": ["Resorts \u0026 Vacation Cottages", "Hotels", "Hotels \u0026 Motels", "Accommodations \u0026 Lodging", "Inns", "Vacation Packages"],
+  "location": {
+    "country": "US",
+    "state": "GA",
+    "city": "Dublin",
+    "postalCode": "31021",
+    "address": "101 Travel Center Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-82.938687, 32.487051]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Stay in Dublin, Georgia",
+    "reviewText": "Return every year same time for family reunion type function. Stayed at pretty much every thing descent in Dublin. I have found that this hotel as of July 2015 still is the best stay hotel in Dublin, GA. Not to mention the Long Horns restaurant literally a very short walk away. Zaby's and Taco bell.. Many other options available with... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Did not live up to advertising",
+    "reviewText": "This was a disappointing stay. We needed a place to break our trip from Florida to North Georgia and wanted a clean hotel with a pool for an evening swim. We hadn't stayed at a La Quinta in a while, but had found them generally nice, so we chose this motel. We found the pool closed on our arrival but... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Unexpected delight",
+    "reviewText": "I was only here overnight, but was really impressed with everything, from the room to the free breakfast (also very good). Room was clean, including the bathroom. Free wifi with a fairly fast connection, microwave, mini fridge, safe, blow dryer, etc...all the amenities you would expect from a budget hotel. But they also had an indoor swimming pool,hot tub and... More",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",

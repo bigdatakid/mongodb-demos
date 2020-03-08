@@ -1,0 +1,100 @@
+    "reviewText": "Our family took four of the twelve rooms at this charming lodge in Coronado. All the staff were unfailingly polite and helpful. The location was perfect, easy walking distance from restaurants, theaters and the great beach. We borrowed beach toys, towels and a boogie board from the Cherokee. The rooms were clean and light and comfortable. The shared kitchen was... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect location, Perfect price",
+    "reviewText": "It's all about location, location, location! Located in the heart of Coronado, just steps from restuarants and shops on Orange Ave., Hotel del Coronado, and the dog beach! Cherokee is a very comfortable B B, like Grandma's home. The price is very reasonable. Most importantly, Cherokee is dog friendly! Why not bring Fido on vacation",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "3 days at Cherokee Lodge",
+    "reviewText": "I enjoyed my stay very much. The room was large and comfortable. We had the room with the bathroom down the hall. I learned that I needed to put out the Make up the room sign out for the bathroom as well as the regular room. I will be back the next time I am staying in Coronado",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-10T00:00:00.000Z"
+    },
+    "reviewTitle": "3 days at Cherokee Lodge",
+    "reviewText": "The staff was very polite, and professional! Just what I needed! The area surrounding was quiet, and great for relaxing or long walks! Right near downtown to go shopping on foot!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great B \u0026 B only a block from Orange Ave!",
+    "reviewText": "This was an excellent location on Coronado Island. Being only one block from the main road, Orange Ave, where all the restaurants and shops were at was very helpful. The room was in excellent condition, and everything was in its place in the room. I had plenty of towels, the coffee packets were always refilled, and the TV worked great. The bed was very comfortable, so I had no complaints.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Charming Retreat!",
+    "reviewText": "We just loved this charming bed and breakfast! It was everything we were hoping for - lovely, comfortable and in a quieter neighborhood within walking distance to the shops and beach. The flowers and front door lull you in - hard to leave the porch seating! Our room was very clean sweetly decoated, filled with everything we needed for a wonderful stay. My daughter and I look forward to returning again. Highly recommend!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Had a great baby moon here in September, 2015",
+    "reviewText": "GREAT stay and reasonably priced. My husband, Tristan and I stayed here for our baby moon the third week of September this year. The staff were lovely, and the room was very comfortable. We were on the top floor with one of the king sized bed rooms. We were 2-3 blocks from the beach, about a 5 minute walk, which... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Relaxing",
+    "reviewText": "We checked in very quickly and got a quick tour of the lodge. We saw our room and it was perfect for our long weekend. We got breakfast vouchers at Panera Bread and it was very close to the lodge. This is a very relaxing place to stay. Its close to everything shops, restaurants and beach. Love it here.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Best BB in Coronado",
+    "reviewText": "Excellent accommodations, friendly staff, quiet, and great location to Orange Ave and the beach. The rooms and bathrooms are traditional Victorian and makes you feel like living the days of 1900's in Coronado. We love it and keep going back just to try a different room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Quaint hotel great for walking",
+    "reviewText": "Loved this hotel so much! It was super quaint and in a great location. We walked everywhere except the zoo which was only 15 minutes away. We will definitely stay here again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de401f"
+  },
+  "name": "Porto Vista Hotel",

@@ -1,0 +1,100 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely Property",
+    "reviewText": "I was very satisfied with this hotel. We were down in Hattiesburg for a baseball tournament and our whole team stayed here. Check in was fast and easy and the clerk was very nice. Rooms are larger than normal hotel rooms and very clean and updated. Bathrooms are large and water pressure in the shower was great. My daughter used... More",
+    "reviewerCity": "Corinth",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Bring back the breakfast",
+    "reviewText": "This is a great place to stay. Very friendly staff, convenient to all locations, very clean, etc... However, who ever made the discussion to do away with the continental breakfast and replace it with a 10 per person breakfast had lost their mind. It is a great place and I would definitely recommend it.",
+    "reviewerCity": "Corinth",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice....but minor updates would help",
+    "reviewText": "We very much enjoyed our stay here....location is very convenient to major highways, staff is extra super friendly and nice. From Receptionist the to the gals cleaning the rooms to the breakfast wait staff...they are friendliest you will find! While there are newer Marriott near by..some room amenities need to be upgraded. Bathroom lighting is so so....door lock wad broken... More",
+    "reviewerCity": "Webster",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for Business Stay",
+    "reviewText": "This was an great little hotel in a very quiet corner of Hattiesburg with restaurants everywhere. If dining downstairs, great breakfasts (and inexpensive). I enjoyed the customer service as well! From the front desk to the cleaning staff to the waitstaff! Great 2-day jaunt for travel.",
+    "reviewerCity": "Webster",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-28T00:00:00.000Z"
+    },
+    "reviewTitle": "This was a great overnight stop",
+    "reviewText": "This hotel was a pleasant experience. We only stayed for one night. The staff were pleasant and courteous. The room was a nice size. The beds were comfortable. It was clean. The commode felt as though it rocked and the lid slid around in our room, 102. We ate breakfast because of the convenience. It does cost 10 per person.... More",
+    "reviewerCity": "Tatum",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ff6"
+  },
+  "name": "Holiday Inn Express Gatesville",
+  "categories": ["Lodging", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Gatesville",
+    "postalCode": "76528",
+    "address": "111 Highway 36 Byp N",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-97.7154, 31.433666]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ff7"
+  },
+  "name": "Eldorado Suites Hotel",
+  "categories": ["Hotels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "AZ",
+    "city": "Bisbee",
+    "postalCode": "85603",
+    "address": "55 Ok St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-109.91349, 31.443132]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful views!!",
+    "reviewText": "This was our second time staying at the Eldorado Suites. We visit Bisbee often and have found this place to be a comfortable, clean with friendly place. It overlooks the town of Bisbee, with great mountain views too. Can be a little nosey at times, but Eldorado supplies ear plugs. We were in suite 5, our bedroom was in the... More",

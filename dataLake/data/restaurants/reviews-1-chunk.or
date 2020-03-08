@@ -1,0 +1,100 @@
+    "country": "US",
+    "state": "CT",
+    "city": "New Orleans",
+    "postalCode": "70130",
+    "address": "226 Carondelet St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.071143, 29.952146]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Mardi Gras",
+    "reviewText": "Quiet respite from the crazy Mardi Gras festivities.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Hampton Inn and Suites",
+    "reviewText": "I booked a suite that was supposed to be wheelchair-accessible. It was not. After we complained we were moved to an accessible room (not a suite). The bathroom was a little difficult to use.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Hampton Inn and Suites",
+    "reviewText": "It was great! Perfect location, clean hotel, great breakfast. Only thing is the elevators could be updated.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "New Orleans getaway",
+    "reviewText": "It was only one night but it was a great location for us close enough to the French Quarter to walk, near enough to the National WWII museum and train station. My reservation did say a tub option but I only had a shower.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "JoshEli",
+    "reviewText": "Hotel was centrally located, good bargain considering nearby hotels were a bit more expensive. Service was good. Complimentary breakfast a plus. Would recommend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "JoshEli",
+    "reviewText": "Fabulous!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Highly recommended.",
+    "reviewText": "Very courteous staff and the rooms were elegant. I enjoyed my stay. It's in the middle of the downtown area so, there is valet parking... But it's not cheap!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Highly recommended.",
+    "reviewText": "I love the hotel and the staff was always friendly. The only thing I wasn't happy with was the valet parking, 34.99 a night. Too expensive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Best night ever in New Orleans!",
+    "reviewText": "This room was so amazing!!!! It was the biggest room that I've ever stayed in other than a suite. The room and bathroom were both very spacious and the bed was sssooooo comfortable. I also liked that you had to use the room key to go up the elevators and to get into the hotel after certain hours. It made everything feel just a little safer. I will definitely be staying here again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5

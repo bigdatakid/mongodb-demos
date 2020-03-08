@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Shopping en San Marcos",
+    "reviewText": "Llegué a las 7 am al hotel y en recepción amablemente me hicieron el Check In cuando la entrada era a las 3 Pm :). El personal muy amable y el hotel de lo mejor. Regresaré pronto",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Shopping en San Marcos",
+    "reviewText": "Hotel facility is fairly new, room is clean, great location to San Marcos premium outlet",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd8"
+  },
+  "name": "Quality Inn",
+  "categories": ["Hotel \u0026 Motel Reservations", "Hotels", "Hotels \u0026 Motels", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "postalCode": "77092",
+    "address": "12439 Northwest Fwy",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.488039, 29.836717]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "What Happened to this Place!!!! I come this hotel 8-12 times a year and know it well. They did major updates to a property that looked good already. The place feels super-clean and fresh. The front desk staff is always friendly. I really enjoy staying here.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Budget-minded travelers appreciate amenities like complimentary breakfast buffet and a kids-stay-free policy. In ShortSince its 1952 debut in Memphis, Tenn., Holiday Inn has become one of the most recognized hotel brands in the world. In addition to the Kids Eat and Stay Free program, Holiday Inn Express offers amenities like free high-speed Internet access, in-room data ports and cable television. Upgraded showers feature multi-function shower heads, curved curtain rods and upscale bath products. A complimentary breakfast bar is available with warm cinnamon rolls and 100-percent Arabica coffee.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd9"
+  },
+  "name": "Hamton Inn New Orleans Westbank",
+  "categories": ["Lodging", "Hotels", "Bed \u0026 Breakfast \u0026 Inns", "Corporate Lodging"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Harvey",
+    "postalCode": "70058",
+    "address": "1651 5th St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.0578, 29.889694]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fda"
+  },
+  "name": "Quality Suites Intercontinental Airport West",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "postalCode": "77032",
+    "address": "15321 Vantage Pkwy E",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.362277, 29.940256]

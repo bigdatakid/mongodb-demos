@@ -1,0 +1,100 @@
+    "reviewTitle": "Pleasant experience!",
+    "reviewText": "Nice place, nice price. Friendly staff. I stay there each time I am in town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant experience!",
+    "reviewText": "Breakfast was actually very good and the lady who tended to it was very nice and kept the breakfast area immaculate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant experience!",
+    "reviewText": "Good value, good breakfast, clean room with everything working well",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant experience!",
+    "reviewText": "Quick trip to visit family. Great location. Nicely updated. Wonderful breakfast. Friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable Atmosphere",
+    "reviewText": "Hotel is close enough to a lot of sites in Florida like Disney and Daytona beach without having to fight crowds like you would if you stayed closer.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet retreat in DeLand, FL",
+    "reviewText": "We stayed 3 nights at the Comfort Inn and were very pleased. The staff was wonderful, the location and parking were great and it was so quiet at night. We enjoyed the full breakfast. The only problem we had was getting the A/C adjusted as we were not used to the climate in FL.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet retreat in DeLand, FL",
+    "reviewText": "I visited my children at Stetson with this stay. The location was great, only 20 mins from Daytona raceway. The bed was comfortable and the room was spacious. The breakfast was very good as well",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place in Deland",
+    "reviewText": "We stayed one night. We had stayed here before the remodel, and were pleased with the updates. The breakfast was just okay: for me the bran muffins, boiled eggs and coffee were good. They have a waffle maker, pastries, English muffins, hot precooked eggs, bacon (not cooked enough for me), cereals, coffee, juices, etc.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place in Deland",
+    "reviewText": "Staff was wonderful at check in. Breakfast was olay. Room was clean and bed was comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place in Deland",
+    "reviewText": "Staff was very friendly and accommodating! Hotel was very clean",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fcc"
+  },

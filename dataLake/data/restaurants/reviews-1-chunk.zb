@@ -1,0 +1,100 @@
+    "reviewText": "apparently, the water us supposed to be brown.",
+    "reviewerCity": "Muskogee",
+    "reviewerState": "OK",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-29T00:00:00.000Z"
+    },
+    "reviewTitle": "avoid hotel at all cost",
+    "reviewText": "avoid this hotel at all cost ,manager very rude does not care about the quest. quote 1 rate then say of this is our rate not the rate quoted you. overall they could careless if you stay there or not. I have never seen such a poor manager of a hotel in my life I stay on the road a... More",
+    "reviewerCity": "West Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de401a"
+  },
+  "name": "Quality Inn and Suites",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Bossier City",
+    "postalCode": "71112",
+    "address": "2717 Village Ln",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-93.70201, 32.52313]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad",
+    "reviewText": "It was horrible. Mirror had black stuff all over it. No fridge and no sleep because of the train.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "nice overnight stay",
+    "reviewText": "The rooms were clean and the beds were soft. New shower curtains and new shower head. The hotel could use some upkeep but was a pleasant stay. My one complaint would be that the coffe pot leaked all over the counter.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "nice overnight stay",
+    "reviewText": "if u need to stay anywhere near this area...this hotel is the best one there is!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Having fun in Bossier!",
+    "reviewText": "This hotel was great for the price! Our room was very clean. Yes, we heard one train, but that was it. This was a perfect location for us, close to the interstate. Breakfast was good for the low price of the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "more space needed",
+    "reviewText": "I found the staff to be very helpful and friendly. However, the amenities in the hotel...i.e. microwaves and refrigerators need to be in every room. More closet space would help also.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location not far from the shopping center.",
+    "reviewText": "My room was very clean and I enjoyed the friendly employees at this location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Long and slow",
+    "reviewText": "It took over 30 mins to check. There was no remote for my tv and they never got me one room had an odor. Mangement did not seem to care about my situation will never stay there again.",
+    "reviewerCity": "",

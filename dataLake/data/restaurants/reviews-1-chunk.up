@@ -1,0 +1,100 @@
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Our Stay in enterprise Alabama",
+    "reviewText": "We had a pleasant stay and the Hotel Staff was friendly and very professional. The only shortcoming ,as I said was the television programming, few local channels and no local news or movie channels were few.",
+    "reviewerCity": "COCOA",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant experience",
+    "reviewText": "Everyone at front desk were helpful and friendly. The extend continental breakfast was great. Scrambled egg with bacon/ham along with biscuits and gravy made my day. I would definitely stay here again.",
+    "reviewerCity": "Leavenworth",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "My Go-To Enterprise hotel!",
+    "reviewText": "My father is in the nursing home in Enterprise, and we always stay at this hotel when we come to town to visit him. The staff is friendly. The hotel is clean, and its right in the middle of everything!",
+    "reviewerCity": "Lucedale",
+    "reviewerState": "MS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice nook in Enterprise, Alabama",
+    "reviewText": "This hotel is very comfortable, very friendly staff and manager, great location and good price. The breakfast very nice with several hot items in it. I did not use the pol or the gym, but those were available also. Fairly new, three to five years.",
+    "reviewerCity": "Eufaula",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nothing to do but listen to snoring",
+    "reviewText": "The exterior of the building is inviting, but the walls of the rooms are too thin - you can hear everything going on next door to you. The hotel has a bar/lounge and a fitness center, but both were closed during our two day stay.",
+    "reviewerCity": "Eufaula",
+    "reviewerState": "AL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Holiday Trip",
+    "reviewText": "Good rate. Pleased overall with stay however, breakfast not as good as previous visits. Size of rooms a very big plus. Very good rate. Usually have comparable or better rates than comparable hotels in the area.",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay at Mirazur",
+    "reviewText": "I had an enjoyable stay there, the staff was very helpful. There were some issues, in the it was easy to hear the sounds in the next room, things like conversations were audible . Also the hotel didn't replace a bad light bulb even though I spoke to the front desk about it and they noted the problem.",
+    "reviewerCity": "Fayetteville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Family Visit",
+    "reviewText": "We stayed at this hotel while visiting relatives recently. The room was very large, clean, and the bed was comfortable. The continental breakfast was adequate and the staff were very friendly. I would stay in this location again.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Waste of Time and Money",
+    "reviewText": "WORST STAY EVER! at 12:00am a group checked in that must have been huge! i know the exact time because at 12:00am we were woken up and were kept up until about 3:00am. after 3 calls to the front desk about the noise, they quieted down only to start again at 5:00am!!! We had approx 4 hours of sleep that... More",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "A great find!",
+    "reviewText": "I was visiting family at a nearby Army base and wanted to stay at a hotel nearby...and the Mirazur in Enterprise was it! I was prepared for a typical place, but this was so, so nice! I got a room with one King Bed...which made the seating/lounge area of the room so incredibly spacious! I had never seen this... More",
+    "reviewerCity": "Port Orange",

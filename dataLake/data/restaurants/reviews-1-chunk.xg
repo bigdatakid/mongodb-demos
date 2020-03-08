@@ -1,0 +1,100 @@
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Great room. Large enough for two and large lab. Rooms are quiet. We were passing through so we didn't care for a lot of extras or entertainment. We will definitely room here again.",
+    "reviewerCity": "Lexington",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "worst wifi i have ever used at a hotel. didn't work half the time.",
+    "reviewerCity": "Lexington",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst hotel we ever had stayed",
+    "reviewText": "The hotel was not what we expected we had stayed in other Quinta in in other states and we never had a problem, this is the worst hotel we had ever stay at and the worst we stay in our road trip. The hotel was not in good conditions, it was not Clean so well, there were things missing, the toilet was not working well and we asked for help and the front desk person went to see the problem but he seemed like he was not willing to help, the beds were so hard and uncomfortable to sleep on, we didn't sleep much also the door, the lock was not working, we were concern and we didn't bother to tell the guy who was working that night because he said it was all booked he couldn't change us to another room. It was a nightmare.",
+    "reviewerCity": "Lexington",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Relax Eat and Drive On",
+    "reviewText": "Good place for relaxing after a long drive. Good Breakfast.",
+    "reviewerCity": "Lexington",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Inexpensive, and that's about it.",
+    "reviewText": "The place is indeed inexpensive. But it's a good thing my wife wasn't with me, because it was dirty. At first I thought the pool water was dirty, but this may have been due to the color of the paint on the walls and bottom of the pool. As for eating establishments, you're limited to a Waffle House next door... More",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Inexpensive, and that's about it.",
+    "reviewText": "absolutely horrible wifi!   30 minutes to download a 24mb file.  that should take about 30 seconds.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Surprisingly good road trip stop",
+    "reviewText": "On a road trip, we hopped online to find a clean, comfortable and reasonably priced place to stay and this La Quinta fit the bill. Although it's just off the highway we didn't hear road noise. The room was clean, the bed very comfy with fresh furnishings. In the morning we were a little late getting to breakfast and even... More",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-09T00:00:00.000Z"
+    },
+    "reviewTitle": "lovinlife",
+    "reviewText": "Very clean, comfortable and quiet. Staff provides good customer service. Good hotel amenities. Visible parking area in front of hotel. Easy access to highway.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Very good hotel",
+    "reviewText": "Clean room, fast service, bathroom needed a little painting but no big deal. Room smelled clean everyday. Staff was very helpful. Would stay here again if needed. Room was spacious and clean. Would recommend to friends and family.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient",
+    "reviewText": "Stay was very bad. Room stank, was next to elevator which banged all night. Smoke alarm went off when we tried to use heater to warm room. Room was very dirty.",
+    "reviewerCity": "Houston",

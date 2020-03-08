@@ -1,0 +1,100 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointed",
+    "reviewText": "I checked in for 10 days, but checked out after 2. My problem with the hotel was room size - particularly bathroom size. The bedroom was adequate. The bathroom ceiling is at about 6.5 feet. The door opens into the tiny bathroom which makes it necessary to close the door making it extremely claustrophobic.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "The bed was awful.",
+    "reviewText": "The king size bed was the most uncomfortable bed I had slept in for decades. I honestly thought I was sleeping on a sheet of plywood.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Most Over Rated hotel",
+    "reviewText": "This hotel is way over rated, it's nothing like the description or the reviews. Basically its Old (very old) building in the heart of apartment complex/parking lot jungle. Furniture is very old, hotel theme feel like 1850s, clean but old. Tge staff is friendly but you can tell they inexperienced , mostly in there 20s. Room it self spacious but old, old carpet and TV. Bathrooms similar to Motels, bedsheets clean, new sheets, but bed is saggy. Surrounding area is jungle, literally!! Misty and not well kept. Lots traffic once you leave parking. Ppl come from surrounding complex apartments to run on trail. Bottom line, money wasted, will never come again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Most Over Rated hotel",
+    "reviewText": "Staff were awesome. By 2 nd day knew our name and were so nice. Will definitely go there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Houston",
+    "reviewText": "Nice hotel, secluded so that you don't feel like you're in the city but convenient for business great exercise facilities for working out. swimming and tennis.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great resort facilities with several pools",
+    "reviewText": "Great resort facilities, several pools, including a lap pool and an enormous gym. Room was very comfortable. We went for the concierge package, which included complementary drinks, snacks and continental breakfast. Lovely.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Best of the Best",
+    "reviewText": "Fantastic hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great family visit!",
+    "reviewText": "We stop at the Houstonian every year on our way to ski and my 2 teenage boys just love it. We love the location, the food and the workout facilities. My kids especially love the basketball court!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel",
+    "reviewText": "Hotel is very nice. High end finishes. Friendly staff. Bed was comfortable. There was some noise both from other guests and maintenance of grounds. Amenities are exceptional. Food in restaurants was also very good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, great pool",
+    "reviewText": "Rooms and bathrooms are a little bit outdated, pool and spa is great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4

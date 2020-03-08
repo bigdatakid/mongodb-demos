@@ -1,0 +1,1000 @@
+    "reviewerCity": "Colony",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great experience",
+    "reviewText": "Very nice hotel just block off interstate. Had a king bed room which was huge separate seating area. My new favorite hotels is Wingate.",
+    "reviewerCity": "Colony",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great experience",
+    "reviewText": "pretty hotel, great staff. I didn't wake up early enough to try the breakfast but it smelled great.",
+    "reviewerCity": "Colony",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Stay",
+    "reviewText": "Very satisfied with this hotel, the entire family loved it.",
+    "reviewerCity": "Colony",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel",
+    "reviewText": "The facility is very nice, pool, hot tub, execise room are all clean as is the breakfast area. I was especially please that the breakfast was open at 5 AM. the room was very nice. The front desk staff was particularly helpful.",
+    "reviewerCity": "Pueblo",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel",
+    "reviewText": "Hotel was easily accessed from I-25. Very clean, but carpets were dirty and spotted and the walls very thin. Woke up to conversation in next room and heard singing from their bath. The mattress on the bed was not very comfortable. But overall, considering the price and location, this is an acceptable option.",
+    "reviewerCity": "Pueblo",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel",
+    "reviewText": "The room was dated and needed a deep cleaning. Breakfast was available but options were limited.",
+    "reviewerCity": "Pueblo",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, clean stay.",
+    "reviewText": "I stayed with my mother and 8 year old niece. Both of them really liked the room. The pool was perfect for my niece to use. The rooms were very clean and the bed was alright for two nights. My mom loved the bed. The hotel staff was very courteous and there were tons of filling breakfast options or quick items to take with you. Location is great. Near a gas station, coffee shop and lots of restaurants. What I need when traveling.",
+    "reviewerCity": "Pueblo",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-03-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic Friendly Staff Great Facility",
+    "reviewText": "This is the best place to stay in Pueblo for business travel or family stay. The breakfast includes mouth watering waffles, eggs, sausage or bacon, fresh fruit, juice, hot drinks and donuts. I was greeted with fresh batch cookies and a smile. I will say here again.",
+    "reviewerCity": "Pueblo",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Almost perfect",
+    "reviewText": "Everything was so clean and spacious and quiet. The only complaint we would have (didn't report) our pillows we're hard and lumpy and we both woke up with neck pain - which of course went away and we're fine. We will, however, love to stay here again we just might bring our own pillows.",
+    "reviewerCity": "Pueblo",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Almost perfect",
+    "reviewText": "Room was very clean",
+    "reviewerCity": "Pueblo",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Nice Experience",
+    "reviewText": "My stay at Wingate by Wyndham in Pueblo, CO was very nice. I was greeted cordially and quickly checked in. I appreciated the use of the luggage cart to take my belongings from the car to my room. I found my room to be clean and very comfortable. The heat and cooling were easily controlled. When I returned to my... More",
+    "reviewerCity": "Wichita",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Beds",
+    "reviewText": "Shower head was great and property clean with great bed. We had no problem finding the place and they were very polite. The breakfast contained a variety and there was no noise level to speak of in our room.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok hotel.",
+    "reviewText": "Nice hotel. The ac unit was very noisy and sounded like a jet engine idling on the runway.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice room and employees",
+    "reviewText": "I enjoyed my stay. The pillows where too fluffy for my taste but overall a nice hotel.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall comfortable",
+    "reviewText": "Two issues - 1) The furniture is Lilliputian (I can't raise the desk chair high enough to even get my legs to a 90 degree angle) and the armchair could use a higher back and 2) The powdered eggs for breakfast often end up tasting slightly gritty, and the only meat ever offered is cheap sausage that doesn't have much... More",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall comfortable",
+    "reviewText": "Traveled to Wyoming, Colorado , and Black Hills for work and play. This was a great hotel and was the nicest stay our trip. Cracker Barrel is across the street, best meal I ever ate. Excellent continental breakfast. Extra bonus was I had request reward credit .",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to freeway",
+    "reviewText": "Easy and quick check in and check out. Everything was nice at the hotel",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Outstanding Staff, Very Nice Room",
+    "reviewText": "Desk personnel were wonderful, and that can make or break a stay. The hotel is aiming at classy midrange and hits it dead on. Everything in the room works and is reasonably updated with a touch of style -- but not too much. Unlike really classy places, there is a fridge and microwave. Beds are great with plenty of pillows.... More",
+    "reviewerCity": "Los Alamos",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Average stay",
+    "reviewText": "Average stay. The rooms were quiet but a little outdated the beds were not very comfortable. But everything was clean and the staff was good.",
+    "reviewerCity": "Fort Worth Texas",
+    "reviewerState": "NM",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel",
+    "reviewText": "Very nice hotel.",
+    "reviewerCity": "Fort Worth Texas",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Cozy!",
+    "reviewText": "This hotel was easy to find, clean and cozy. Good location, close to shopping and restaurants. A refrigerator and microwave in the room. Beds very comfortable, complimentary breakfast, only disappointment was no outdoor pool.",
+    "reviewerCity": "Fort Worth Texas",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick overnight with kids",
+    "reviewText": "We just had a quick overnight in Pueblo, and we chose the Wingate because we have had wonderful experiences with the chain in the past--Pueblo definitely lived up to our expectations. We have 2 kids under 4 who both LOVE the water, so we were counting on the pool to wear them out so they'd sleep soundly in a strange... More",
+    "reviewerCity": "Littleton",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable, clean, and convenient.",
+    "reviewText": "Good rooms, great staff, great location The hotel sits just off of 25 and you can get almost anywhere in town in 15 minutes.",
+    "reviewerCity": "Pueblo",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay...",
+    "reviewText": "Great Stay... Near lots of restaurants. This areas hotels book up fast. Book directly with the hotel. You can reserve your room and if you don't like it. You can cancel with no charge. I paid 113 a night for a double queen room (pennies when you've been in the oil field for 2 months..lol) But this place has great... More",
+    "reviewerCity": "Richmond",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Zero stars",
+    "reviewText": "I would give this hotel zero stars if I could. After 15 hours on the road we arrived at 1:30am. Mind you, I called at 7pm to tell them we'd be late. When I walked in the door was unlocked, the desk was empty and some other guests in the lobby said no one had been working for about 4... More",
+    "reviewerCity": "Richmond",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "friendliest hotel in Pueblo",
+    "reviewText": "Staff are incredibly friendly. They have a great breakfast everyday. Rooms are very spacious. Pool is heated and big enough to swim short laps. It is close to everything and located right off the interstate.",
+    "reviewerCity": "Knoxville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay at Wingate Pueblo",
+    "reviewText": "The hotel was clean and close to I25. Attendant was curtious and gave us info we requested. Check out was pleasant and I would recommend this place for a stay.",
+    "reviewerCity": "Regina",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "Haven't stayed at very many Wingates but this is a very nice and clean motel. Had recliner plus chair and ottoman in the room. Which both were very clean. No stains. The room was very clean and had friendly staff. Will definitely stay at another Wingate. The room was spacious.",
+    "reviewerCity": "South Dakota",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "An Okay Stay",
+    "reviewText": "For the price of our room, we've better stays elsewhere. We were assigned a handicap room. Our room housed a king size bed and large bathroom. The bed was comfortable, but the bedding was stained. The breakfast in the morning was okay. Not something to get too excited about waking up for. The front desk clerks were nice.",
+    "reviewerCity": "South Dakota",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Pueblo",
+    "reviewText": "A nice hotel on the Interstate",
+    "reviewerCity": "South Dakota",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel with friendly staff",
+    "reviewText": "The hotel is nice, quiet and comfortable. The staff is very friendly and courteous. The breakfast is pretty good. My only complaint would be that the hotel does not have any guest laundry facilities on the premises. Our stay was extended so I had to do laundry. They do, however, own the Comfort Inn across the street which does have laundry facilities so they allow you to use those. Not as convenient but still workable.",
+    "reviewerCity": "South Dakota",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel with friendly staff",
+    "reviewText": "Convenient location, clean rooms.",
+    "reviewerCity": "South Dakota",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellence in service and comfort!",
+    "reviewText": "We were visiting Colorado Springs Garden of the Gods on our way towards the Grand Canyon. We booked this based on proximity (on our way) and past reviews and were more than pleased with this place. Excellent staff and the room/beds/breakfast were wonderful. A great way to start our trip!",
+    "reviewerCity": "Chicago",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay.",
+    "reviewText": "The only complaint was that there seemed to be a gathering of small black beetles, which was especially bothersome for my mother-in-law. We were on the second floor and there were 4 or 5 in our room that we saw and killed. Otherwise, we love this hotel and will stay here again!",
+    "reviewerCity": "Chicago",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay.",
+    "reviewText": "The Wingate by Wyndham in Pueblo was a very clean and welcoming location. The staff was very friendly and helpful. Unfortunately the gentleman who was in the room next to ours tried to get through the adjoining door which was followed by a very unpleasant, strong perfume odor coming from the adjoining door. It took a number of hours before the smell dissipated. The staff assured us that it was merely a deodorizing spray that they had used in the adjoining room. Additionally, at 5 o'clock in the morning, someone in a nearby room had set the alarm clock but failed to turn it off and so for a half an hour we heard nothing but very loud buzzing which unfortunately, woke us up. That said, the room was extremely clean and the bed was extremely comfortable...a very roomy well-equipped room.",
+    "reviewerCity": "Chicago",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay.",
+    "reviewText": "It was excellent and I appreciate the help of all staff in the hotel. Thanks Sajan",
+    "reviewerCity": "Chicago",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "overnight stay",
+    "reviewText": "hotel was clean ,beds comfortable, and the clerk was friendly. I would stay again at one of your hotels.",
+    "reviewerCity": "Rio Rancho",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay!",
+    "reviewText": "Super clean, very friendly staff, exceptional service all the way around! Breakfast was great with many choices, room was clean and very inviting and comfortable. Lots of pillows that were comfortable and the toiletries were great and smelled good. The pool area was very clean and well maintained. We will definitely stay here again!",
+    "reviewerCity": "Amarillo",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Pueblo Wingate",
+    "reviewText": "We were just passing through for the night. It was perfect for us. Clean friendly good breakfast. What more could we ask",
+    "reviewerCity": "Montgomery",
+    "reviewerState": "NM",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay!",
+    "reviewText": "The front desk staff was awesome! very helpful and friendly. The breakfast was very good hot biscuits, sausage, eggs, gravy, waffles, cereal, fruit, pastries and the coffee was good (which is rare for hotels) and we really liked the bed and pillows. Super comfortable.",
+    "reviewerCity": "Montgomery",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Gateway to the Rockies",
+    "reviewText": "We recently stayed at the Wingate. The bed was really comfortable, plenty of pillows. Great location for visiting either the Arkansas river area or Colorado Springs. Don't miss the Texas Roadhouse steak house located nearby. One of the best.",
+    "reviewerCity": "Montgomery",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel!",
+    "reviewText": "We were very pleased with our stay here. The room was extremely comfortable, clean and nicely decorated. The staff was friendly and helpful- even mailing us a computer cable that we inadvertently left in our room. We would definitely return here.",
+    "reviewerCity": "Cottonwood",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "There were many to choose from right next to each other.",
+    "reviewText": "Drove into town and couldn't go any further because we were heading into a storm. Stopped on the edge of town and there were a lot of choices. I went online and checked out it's rating on a few sites and it seemed to be pretty highly rated. Building and room was clean. Nice fluffy towels and a clean comfortable... More",
+    "reviewerCity": "Saint Cloud",
+    "reviewerState": "MN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy Road Warrior",
+    "reviewText": "Great hotel. Good location! Great staff. Perfect room for me the experienced business traveler.",
+    "reviewerCity": "Denver",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great clean convenient hotel",
+    "reviewText": "We stayed here three nights while in the area. The hotel is clean and well kept. The breakfast was good and the service was great also. We really enjoyed the stay. We will stay here again. Good breakfast and clean rooms.",
+    "reviewerCity": "Denver",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Business in Pueblo",
+    "reviewText": "Excellent hotel with well appointed rooms, immaculate, and amenities for the business or leisure traveler..",
+    "reviewerCity": "Denver",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't stay here just because they offer food",
+    "reviewText": "The room was not properly vacuumed, the chair, footstool, and pillow had stains on them. The cooked eggs and sausage were artificial and bland.",
+    "reviewerCity": "Denver",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de415d"
+  },
+  "name": "Mirazur",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Rohnert Park",
+    "postalCode": "94928",
+    "address": "6500 Redwood Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-122.714383, 38.345561]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Budget hotel offers standard amenities and low rates to road-weary travelers. In ShortSince 1946, this Phoenix, Ariz.-based hotel chain has provided guests with comfortable accommodations. Its BestRequests program offers 16 of the most frequently requested services and amenities, including complimentary in-room tea/coffeemakers, hair dryers, iron and ironing boards, free local calls less than 30 minutes and long-distance access. Complimentary toiletries, like toothpaste, razors and sewing kits, are also available upon request. Business travelers will enjoy the computer data ports in each room and photocopying services.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 8
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de415e"
+  },
+  "name": "Good Nite Inn Rohnert Park",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Rohnert Park",
+    "postalCode": "94928",
+    "address": "5040 Redwood Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-122.71498, 38.3636]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "this morning sucked I had no refrigerator or microwave no continental breakfast this was not mentioned in the looking unfortunately or we would not have looked there",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Motel 6 a tad worse.",
+    "reviewText": "Bed like sleeping on the ground. Extremely noisy. Ceiling fails to adequately block noise from above. Sounds like a herd of buffalo. Front door not insulated. Ear plugs essential. Water pressure and temp not adequate. Front desk barely friendly, no smiles. Overpriced. 274 for two nights, plus 50 deposit for essentially nothing. No amenities. Outdated. Rating: 1.5.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Nightmare",
+    "reviewText": "Worst stay ever",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Towed my truck away $400 to recover",
+    "reviewText": "My truck was towed away and it cost me 360 to recover it. Also any hotel that offers you complementary ear plugs should be enough of a clue to go anywhere else for the night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay",
+    "reviewText": "The sink faucet leaked so carpet was wet and musty smelling. Next to highway so loud traffic noise. They put ear plugs in the room and acknowledge the problem. Minimal towels and amenities. No hair dryer.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Bare bones!",
+    "reviewText": "Broken outlet, sink stopper did not close (important to contact wearers), and lousy tv reception/selection.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Total disappointment",
+    "reviewText": "The room smelled like a dog kennel. Cleanliness was marginal at best. The price was a total rip off. Enjoy my money because its the last you will ever see.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Away!",
+    "reviewText": "Don't stay here. It was horrible. Everything was old. The windows are single pane and thus you can hear everything outside. The hotel is behind a Burger King and Taco Bell, thus you get to hear everyone drive through their drive-thrus all night long. The staff didn't seem to care about anything. The faucet leaked. The TV is in SD and not HD and some of the channels didn't even come in. Overall, I couldn't wait to check out.",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Away!",
+    "reviewText": "Don't stay here.",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Away!",
+    "reviewText": "This place is pretty shady.. in my room now and a lil bit scared to go to sleep",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Bare bones Hotel",
+    "reviewText": "Wish you had complimentary breakfast so we don't have to look for a place to eat at 6:00 in the morning. Almost had to stand on the drain hole in the bathtub to take a shower. Water pressure was very low. Glad I didn't have to pay anymore then I did for the room. Would have liked two hand towels instead of just one for two people.",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Too many broken things for me to stay...",
+    "reviewText": "Did not stay after checking in and finding out about the pools and spa and no 1st floor rooms, only 2nd and 3rd. Elevator broken and no Bell Boy. Drove down the street and got a room for 20.00 cheaper.",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "conveinent and clean hotel",
+    "reviewText": "Walk in to room and smells like smoke yet there's a sign stating non smoking room. Found a dead roach near the bed. Light stopped working from the switch, had to turn it on manually.",
+    "reviewerCity": "Sonoma",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth $100 that I paid for one night",
+    "reviewText": "Talk about false advertising. The website makes it look really nice and inviting. However, it's not. The got tub had a tree planted in it so that was disappointing. And the noise was really bad. Motel 6 would have been better.",
+    "reviewerCity": "Sonoma",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Smoke, very basic.",
+    "reviewText": "I was assured by the very pleasant front desk staff that my room was non-smoking, in fact I signed an agreement that I would not smoke in the room. My room reeked of smoke. It was a mild smell when I first went in so I unpacked and then opened the bathroom door. The bathroom was so awful I could hardly stand to be in there. When I called the desk they said yes they knew. Sorry but they had not control over that. The manager was unapologetic. I have reason to visit Rohnert Park often, but will never stay here again.",
+    "reviewerCity": "Sonoma",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "To be avoided! It may be cheapest option, but it's SO worth it to pay a little more for another place.",
+    "reviewText": "My impression of this place is that they take full advantage of the idea that this is economy lodging. Any sense of customer service is wholly lacking here, starting with checking in. If you arrive later in the evening, you have to conduct business through a glass window. The guy who waited on us was not at all friendly. I... More",
+    "reviewerCity": "Sonoma",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "NOISEY and UNCOMFORTABLE",
+    "reviewText": "You might as well put a sleeping bag in the middle of the highway-it would be more comfortable.. Loud constant traffic from the highway. NO sound insulation in the room. All night Taco bell across from the hotel--room shook with truck noise and police pullovers. They leave you ear plugs--still could hear the roar of the highway. Bed was HARD-back... More",
+    "reviewerCity": "Salinas",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "NOISEY and UNCOMFORTABLE",
+    "reviewText": "This place is minimal but just fine!! It's by everything!! Arby's, Chilis, go kart racing, outback!! Was perfect for sleeping \u0026 showering. Who wants to stay inside in wine country?",
+    "reviewerCity": "Salinas",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "horrible",
+    "reviewText": "rude",
+    "reviewerCity": "Mandurah",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Dump",
+    "reviewText": "It was nasty and stinky",
+    "reviewerCity": "Mandurah",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Not enough bang for the buck at Rohnert Park Good",
+    "reviewText": "For 100 a night I should at least get a whole roll of toilet paper, aND non-smoking room to not smell like smoke.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for price but don't expect much!!",
+    "reviewText": "If all you need is a place to stay this is good, semi clean room, water was not hot in shower, some bugs in room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "On par with Motel 6",
+    "reviewText": "This motel really doesn't feel safe. The lobby is closed at night with only a small bank teller window to interact with the front desk staff. The parking lot had lots of trash from fast food restaurants next door. My room's metal door was kicked and dented so badly that it had a huge gap at the bottom through which daylight, and noise passed. The bed was rock hard. The carpet was dirty. The room smelled of stale smoke even though it was supposedly a non-smoking room. The shower head was underwhelming and too low for a man of average height. The elevator interior is just plywood and creaked as the elevator ascended. This motel offers no amenities other than a single bar of soap and a single bottle of shampoo. The motel is in the process of replacing room carpets. There was debris piled everywhere. Construction noise started at 7:30 a.m. each day.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Not impressed",
+    "reviewText": "Not real impressed by this place, we won't be back",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "It's ok",
+    "reviewText": "Only stayed there because we wouldn't be spending much time at the hotel. A little expensive for what it is.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to everything Casino, Free way",
+    "reviewText": "It was noisy becaue it's too close to freeway",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Only if necessary.",
+    "reviewText": "I stayed here when I brought my daughter to school at Sonoma State. The only good thing was the front desk staff and the cleanliness of the room. The front desk staff were very nice and efficient. But the room was overpriced for the value. There is free wifi and parking. There was no breakfast included. There were no amenities in the room except for one tiny bottle of shampoo. The mattress was hard as a rock I woke up with a sore back each morning. The neighborhood is sketchy and VERY loud. Police were stopping people all the time. The other guests were very loud. And cars went screeching by at all hours of the night. If all you need is a place to sleep, this will suffice. But you can get the same for less elsewhere.",
+    "reviewerCity": "Sunnyvale",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Looks OK outside but.......",
+    "reviewText": "No hot water in sink. Toilet plugged up, no maintenance person on site, front desk told us to come down and get plugger and fix it ourselves.",
+    "reviewerCity": "Sunnyvale",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Nothing Fancy Here Folks",
+    "reviewText": "You get what you pay for but this did meet all our basic needs of just a place to sleep coming in late in the evening and leaving the next morning It was a clean but very tight space. We had a room with only a queen bed and this is for a couple! It is by Highway 101, which... More",
+    "reviewerCity": "Sonoma",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "could be better",
+    "reviewText": "called the night before to request an early check . called in the morning to request early chec in again clerk said they will call when room is available. no one ever called. when we arrived to check in (late night) asked why no one called, the clerk said we were supposed to call. then they put us in a room on the first floor when we asked for a higher level room they said they didn't have any available.",
+    "reviewerCity": "Sonoma",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Acceptable hotel with a Great location",
+    "reviewText": "Stayed overnight for a getaway to Graton Casino. Location was very convenient since it is just a long block away. This is a motel not a hotel. It has exterior corridors and thin walls. Traffic noise was considerable but since I am a heavy sleeper, it was not a problem. The room was clean. There are many thrift stores in the area so stopping to browse on the way home was enjoyable.",
+    "reviewerCity": "Sonoma",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "You pay for what you get! Traffic noise!!!",
+    "reviewText": "A lot of casino people stay here and if you get a room at the back, prepare for a lot of noise as highway 101 is loud! The room was ok, very basic but new TV and bed was comfortable enough, again for the price I paid.",
+    "reviewerCity": "Salinas",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a 5 Star Hotel",
+    "reviewText": "Read the reviews and decided to try staying here.First room was creepy,hair in bed ,smelly damp odor and dirty rug.Second room was a bit cleaner but still creepy.We spoke to a policeman patrolling the surrounding parking lot and we expressed our safety concerns . He said they patrol all night and we should be ok.We decided to stay with some... More",
+    "reviewerCity": "Ventura",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good plain starting point for area",
+    "reviewText": "Grim little rims that reek of bleach. No amenities.",
+    "reviewerCity": "Melbourne",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "An Economical Motel.",
+    "reviewText": "Motel staff was friendly and helpful. There seemed to be a lot of vagrants but I never felt unsafe. The room definitely needed deeply cleaned. The pool was very nice as the courtyard. I would stay here again as the price was economical.",
+    "reviewerCity": "Mandurah",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Golf tournament",
+    "reviewText": "Convenient location. Noisy. Barely cleanly. Did not sleep well. Traffic noise (highway). Better hotel options very close by. I will not stay there again. Next time I will spring for the Double Tree! PD",
+    "reviewerCity": "Mandurah",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Room for the Price",
+    "reviewText": "Although our stay was short, I was disappointed that there was no hair dryer in the room. However I was impressed w/the quality toilet paper that was provided. Overall, the room was ok at a reasonable price.",
+    "reviewerCity": "Mandurah",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "One night stay only.",
+    "reviewText": "If you only need a place to sleep and you're traveling with a child or by yourself, then it is adequate. I went with my husband to participate in a race the next day, and I didn't get any sleep. The bed was more of a full than a queen and I kept getting woken up every time my husband moved. The room guests next door entered their room so late, and they were slamming doors and talking very loud and one could hear everything. In the early morning, I was trying to take a shower and the shower head was all messed up, so the water accumulated into a puddle outside of the tub and I had to use my towel to soak it up. We had to share a hand towel, also.",
+    "reviewerCity": "Mandurah",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Old in need of renovation.",
+    "reviewText": "We stayed here for one night as it was the cheapest way to be close to Sonoma / Napa on a Saturday night. We have stayed in motels for the last 2 weeks on our travels from Vegas to Oregon and then to Napa Valley. Most have been great. This one was by far the worst. It cost the same... More",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Some updates, but still very much low-end",
+    "reviewText": "I was looking for a relatively inexpensive place to stay for the weekend because I was playing in a local softball tournament and did not want to endure long drives between SF and Forestville. Sadly, the area also being near wine country, Inexpensive and summertime weekends are a contradiction in terms. The cost for this was 64/night--and this was through... More",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again",
+    "reviewText": "There were some decent reviews, so we'd thought we'd try it. Ugh. They were totally unwilling to make any accommodations for us. . (We really wanted a first floor room). Room is stark and sparse. The supposed queen size bed is just full size. Only Crummy flat pillows. Filthy chair - and only one. No bedside tables. One bedside lamp.... More",
+    "reviewerCity": "Sacramento",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Cheap. And now we know why.",
+    "reviewText": "They didn't clean the room for us (we stayed 2 nights). There was only one partially used roll of toilet paper. The phone in the room was broken and we reported it the first day, but they never fixed it.",
+    "reviewerCity": "Sacramento",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I have stayed here multiple times so it is nice enough for the price to keep me coming back. However, I have learned, some of the rooms have a refrigerator and some don't. I'm not sure it that effects the price, but it is something to be aware of it that is important to your stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok",
+    "reviewText": "Shower water was not hot.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Need better sitting",
+    "reviewText": "If a person needs just a place to sleep for the night, everything was ok. Only one chair to sit in, not comfortable. Need something besides a wood office chair so a person can relax.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-09T00:00:00.000Z"
+    },
+    "reviewTitle": "It's Okay",
+    "reviewText": "Although the room was clean and the bed comfortable, the room falls a little short to be excellent. The rooms don't have a refrigerator. The lobby closes early for security reasons. The place is close to a number of Sonoma Valley wineries in Healdsburg and Geyserville and elsewhere. It is reasonably close to Napa Valley as well. Rohnert Park also has one of the few Planet Fitness facilities in the area if you care to work out. When I needed quarters for THEIR own coin operated laundry I had to leave to obtain change. The nearby gas station only parted with 2 in quarters when I needed 5: For soap (1) the washing machine (2) and the dryer (2). Convenient it was not.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Not enough bang for the buck at Rohnert Park Good",
+    "reviewText": "Hotel is nice and clean but 182.50 for one night is way too expensive for a hotel that is rather plain and offers no free breakfast or even a coffee pot in the room!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Get an inside room",
+    "reviewText": "This is a basick hotel. The room was clean. Towels are thin and harsh. They did provide shampoo, a continental breakfast, and even a pool. The hotel backs up to the freeway, so the noise in those outside rooms was awful. They provided earplugs, which isn't helpful if you need to hear your alarm. I think if you get an inside courtyard room, you'll be fine and happy you saved a ton of money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {

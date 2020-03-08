@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Worth the price",
+    "reviewText": "I have stayed here on two trips and will be booking a third. When all I need is a clean, safe room to stay in, this fit my needs nicely. I don't want to pay exorbitant rates when my only need is just somewhere to sleep and shower. The staff has been efficient and so friendly. I would highly recommend this hotel for the business person who just needs the basics",
+    "reviewerCity": "Newport",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "There are better options",
+    "reviewText": "The motel is very basic, but clean and comfortable. The breakfast is mostly bread products. The wi-fi was unreliable. The motel is located among a number of more desirable and possibly less expensive properties clustered near the airport. Check those out before you decide on this one.",
+    "reviewerCity": "Denver",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Do Not Stay Here Based On Tripadvisor rating",
+    "reviewText": "DO NOT BOOK BASED ON TRIPADVISOR REVIEW RATING. That is the mistake I made. I booked this room based on a family of 3 listing on Priceline. To start at check in like most hotels they asked for a form of ID and a card for incidentals, I handed the lady my ID and a credit card, she asked me... More",
+    "reviewerCity": "Parrish",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay near everything!",
+    "reviewText": "We booked online a month before staying here, we stayed 2 nights for the UGA vs UF football game. The pictures online were exactly like the room we stayed in, the exterior and interior was clean the house keeping staff did a phenomenal job, the staff on both day and night shift was extremely friendly and helpful. We play to... More",
+    "reviewerCity": "Pace",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Cruising",
+    "reviewText": "The hotel was very nice, clean. Staff was friendly. Nice pond on the grounds that grandkids enjoyed.",
+    "reviewerCity": "Pace",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect Place to Stay",
+    "reviewText": "Every one is very friendly! But one lady is a super lady Amber ! I live in South Carolina and I go to this hotel very often because it's clean, safe, great rate's, close to shopping malls, restaurants, gas, the air port and to top that off it's eleven minutes from my mom's assistant living facility. No matter... More",
+    "reviewerCity": "Beaufort",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect Place to Stay",
+    "reviewText": "Room was not as portrayed. We have two small children we were traveling with and we could not bring ourselves to stay there. We went across the street the to the Mariott Courtyard and it was great.",
+    "reviewerCity": "Beaufort",
+    "reviewerState": "SC",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Very inferring",
+    "reviewText": "Marie Ayra are very good people. Good service Clean rooms Nice service Really fast Good people even better Great hotel Good sheets Good bed Clean environment Restaurants Parking Relaxing Nice Good looking views",
+    "reviewerCity": "Beaufort",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "I do not recommend this hotel to anyone",
+    "reviewText": "Me and my fiance stayed here over the weekend jus to get home and find out our account was charged an extra 200 and they claim it was for smoking damages in a non smoking room but neither my fiance or I are smokers the customer service was horrible there was no evidence of us smoking in the room other than them claiming to smell smoke they charged our account without any evidence or warning and refuse to replace our funds so I will be taking it to small claims court",
+    "reviewerCity": "Beaufort",
+    "reviewerState": "SC",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "I do not recommend this hotel to anyone",
+    "reviewText": "My husband and I drove from NY to Florida to go on a cruise. We did not get there until 1am. The lady behind the desk was VERY welcoming and friendly. The room was clean, the bed Was comfortable and the lady in the morning wished us a good trip. We were VERY happy the lady told us about the shuttle service !we will use this hotel in the future for all our cruises that we book ! Thank you!",
+    "reviewerCity": "Beaufort",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {

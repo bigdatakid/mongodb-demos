@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "Don't pay full price for drinks!  Head to the \"torch\" bar in the casino.  Order whatever you want for free and tip the bartender a buck!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "The casino allows smoking and some of the rooms were smoking. That smell seeps into all areas of the hotel and for that reason we will not stay at the IP again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "Enjoyed myself",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "Holy crap it was smokey in that place!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Short stay at casino",
+    "reviewText": "Great and easy access off of the highway",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Short stay at casino",
+    "reviewText": "I did not like the pool separated from the hotel. I did not like taking one elevator in the hotel, walk to another elevator to get to the pool above the parking garage.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "It was great. The room was nice and the hotel had everything we could possibly ask for. The only thing missing was a microwave in the rooms.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great",
+    "reviewText": "Two thumbs up",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great",
+    "reviewText": "To compare IP Casino Resort Spa for free, you can check Ticketwood.com, the free comparison search engine. Read more",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the trouble",
+    "reviewText": "Toilet overflowed in the am. Fight broke out outside our room. Had to call security. Room smelled of smoke even though non smoking room. Buffet line was an hour and a half. For 30 per person food was not good. Room was warm even though we lowered the thermostat.",

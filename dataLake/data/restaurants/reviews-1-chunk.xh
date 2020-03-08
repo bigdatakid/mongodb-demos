@@ -1,0 +1,100 @@
+    "reviewerState": "TX",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient",
+    "reviewText": "Absolutely horrible WiFi!   30 minutes to download a 24mb file.  That should take about 30 seconds.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-22T00:00:00.000Z"
+    },
+    "reviewTitle": "room not ready at arrival",
+    "reviewText": "Room was not cleaned and ready for check in at 6pm. Had to wait over an hour to get into our rooms. Waited outside in our cars with 2 dogs and children. This did not make our arrival a pleasant one. No discount was offered by the lady at the front desk either. Just an explanation that they were busy.... More",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't Bother Staying Here....",
+    "reviewText": "Underwhelmed. This hotel smells bad, has some loud, partying guests. Front desk was very nice, but the rest of the staff seems to let the riff raff run rampant. I didn't feel safe (as a female) being in the parking lot alone. As a frequent guest of La Quinta, this location was well below my expectations.",
+    "reviewerCity": "Melbourne Beach",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice But,...",
+    "reviewText": "Nice overall room.. nice size suit. But...... Sofa bed missing half the mattress supports. A single trash can with out a liner.... none in bathroom. No extra toilet paper in room. Pool needed cleaning.",
+    "reviewerCity": "Dallas",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice But,...",
+    "reviewText": "After checking in and assigned a room that was yet to be cleaned, a quick trip to the desk got us a different room that was clean and perfect for us!",
+    "reviewerCity": "Dallas",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice But,...",
+    "reviewText": "Hotel was not up to par...",
+    "reviewerCity": "Dallas",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place with great staff",
+    "reviewText": "We stayed at this LaQuinta while we were in town for a Rodeo and Church function. We were happy with our room and the staff were very helpful. We would recommend this LaQuinta to anyone looking for a place to stay. E Haire",
+    "reviewerCity": "Arp",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place with great staff",
+    "reviewText": "there is a dog area out back. they even have poop bags!",
+    "reviewerCity": "Arp",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel was convenient to interstate..",
+    "reviewText": "Staff was courteous and helpful. .",
+    "reviewerCity": "Arp",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Night",
+    "reviewText": "This was a great night's rest after a long day of meetings. The staff was very, very nice. The room was inviting and clean. Coffee was hot and breakfast was OK. I did not have time for waffles, but they smelled delicious!",
+    "reviewerCity": "Meridian",

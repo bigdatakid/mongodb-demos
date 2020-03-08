@@ -1,0 +1,100 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2004-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Could be better",
+    "reviewText": "Arrived early, but room was not ready. Was disappointed to see that the pool was shut down for the season already, (October) even though the temperature was in the mid 80's. Room was ok, but the furniture was worn, and one chair had a broken leg. Stains on the carpet, and a towel rack had been ripped off the wall... More",
+    "reviewerCity": "Searcy",
+    "reviewerState": "AR",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "wouldn't go back !!",
+    "reviewText": "We were heading to Mongomery to check out Hank Williams' museum and wanted to see his grave. We chose this hotel because of the location, and the price quoted from AAA. Also, it advertised it had wireless internet access and a deluxe continental breakfast. Well, the internet access was intermittant at best - kept getting kicked off - and had... More",
+    "reviewerCity": "Region of Waterloo",
+    "reviewerState": "AR",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4010"
+  },
+  "name": "Days Inn Tallulah",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Tallulah",
+    "postalCode": "71282",
+    "address": "143 Highway 65 S",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-91.19936, 32.38469]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Value-conscious hotel with the sunburst sign provides basic amenities to ensure travelers a comfortable stay. In ShortThis nationwide chain promises value-added amenities to its guests. King and two-queen guest rooms offer clock radios, hair dryers, shampoo, televisions with HBO or Showtime and complimentary copies of USA Today. The property is inspected three times a year for quality by an independent quality assurance team and assigned a Sunburst rating, so travelers can rest assured that their accommodations are clean and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4011"
+  },
+  "name": "Relax Inn",
+  "categories": ["Budget Hotels", "Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "CO",
+    "city": "Colorado City",
+    "postalCode": "79512",
+    "address": "1041 Westpoint Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-100.85452, 32.388258]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Editorial Review by Citysearch Editors National chain features reasonably-priced king-sized rooms with microwaves, fridges, irons, cable TV and wireless Internet access.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4012"
+  },
+  "name": "Hampton Inn Abilene",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Abilene",
+    "postalCode": "79606",
+    "address": "3917 Ridgemont Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-99.76546, 32.40399]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for the price",
+    "reviewText": "Was a nice place to stay",
+    "reviewerCity": "",

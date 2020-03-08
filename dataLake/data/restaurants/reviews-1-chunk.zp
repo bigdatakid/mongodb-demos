@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2015-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay at Super 8",
+    "reviewText": "Great, except there was no parking directly in front of our room. They had the space blocked with a car.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great night sleep",
+    "reviewText": "The room was very clean, quiet and cool. The bed was comfy and I got a good night sleep.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't go here!",
+    "reviewText": "Pool was a nasty green color. Blankets had stains on them from who knows what. I could fit my entire hand under the entry door because the threshold was broken. The toilet had spray foam coming out from around it and the seat had been glued back together. Breakfast was basically thawed ego waffles and old soft apples. Free wifi kept kicking us off.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "No AC",
+    "reviewText": "Every day when I left to go to work the management turned off the air conditioner from the front desk in my room so when I got home it was hot and sticky in my room. I had to call to get the front desk to turn the air conditioning back on. The staff quoted me one rate and charged me another they were unhelpful and unknowledgeable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Good rooms for the money",
+    "reviewText": "A fair hotel for the price, but the rooms had seen better days",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Personal time Get a way",
+    "reviewText": "quick trip for pleasure.. perfect location for the event I attended .Just wish I had requested a first floor room..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay elsewhere",
+    "reviewText": "When your room No-smoking room wreaks of cigarrette smoke, is hot all night, the A/C is cut off one hour before check-out, you have to borrow a plunger from the front desk to unclog the toilet and the key to your room doesn't work 15 minutes before check out I call it a BAD experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-18T00:00:00.000Z"
+    },
+    "reviewTitle": "A real dive of a hotel",
+    "reviewText": "The walls were patched up poorly and they didn't have pens in the room, I went to ask for one and the host laughed at me. We asked for a non-smoking room but clearly someone had been smoking in it and they didn't bother to completely clean up. The breakfast was slight and hardly edible. Even after all this the cleaning staff were courteous and thoughtful, but that doesn't mean I'll be back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room and location...",
+    "reviewText": "Our only problem was the water in the bath dripping all night long for two nights.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "pleasant",
+    "reviewText": "I had a good stay. Lady at front desk was very polite. Not many customers.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

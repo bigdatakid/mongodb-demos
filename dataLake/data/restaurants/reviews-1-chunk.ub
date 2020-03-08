@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Adequate",
+    "reviewText": "The motel room is small with a big space feel. This is because of lack of furniture. It does not have an armoire, a desk, a chest of drawers, or a closet and there is only a bed-side table and light on one side of the bed. It does have a table with a desk chair and a love seat and a shelf over the A/C unit to put suitcases. The rod for hanging clothes is very poorly placed in the approximate two feet between the bed and the wall, making it extremely awkward to get out of the bed on that side duck or hit your head. An iron and ironing board hang in the bathroom. The lavatory is in the bathroom and has little counter space. The room does have a refrigerator and microwave and a nice flat screen TV hanging on the wall. The bed was comfortable and the motel was reasonably priced for the area. They did charge an extra 5.00 plus tax for having a second vehicle. I was concerned about the proximity to the airport, but never heard a plane.",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Quaint and Clean Hotel",
+    "reviewText": "Nice place. Seemed like an upscale feel in the room. Some of the hotel felt outdated, but not distasteful Cars were parked on curbs. It was overall nice. I would definitely stay there again.",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what You pay for....",
+    "reviewText": "If you ONLY want a room for ONE NIGHT, and fly out, then this is a good place. No Frills, nothing exciting to write home about. A queen bed and bath and TV. Now, the shuttle service to/from Jax Airport was very good and very prompt in getting us to the airport and picking us up and taking us back.",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet and convenient",
+    "reviewText": "We came for the Jaguars game. Good place to rest and get an early start.",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "A great option for the budget-minded.",
+    "reviewText": "A friend and I decided to stay at this hotel on the way by car from Miami to Jacksonville, then to Georgia and back to Florida because of its convenient location, fair price and quiet setting. The property is situated 12 miles north from Jacksonville close to the airport off the I-95. It is also close the US-17, which we... More",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnight stay",
+    "reviewText": "After a late flight, I needed a place to stay before driving home. I wasn't looking for a pool, restaurant, or exercise facility. I just wanted to sleep. The room was small, but the bed was comfortable. And the cost of my overnight stay was excellent. My only criticism is that it needs a face lift. The wallpaper is lifting,... More",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Highly recommend",
+    "reviewText": "We just came home from Jacksonville and we stayed here for 3 nights. This hotel was very clean and the staff was very nice. Easy access to Rt. 95. The rooms were spacious. There were plenty of places around to grab something to eat and fill up on gas. Close to the airport. Overall we were very happy with our... More",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice and Friendly Location",
+    "reviewText": "A quick business trip at the last minute. The Staff made this short notice trip an easy trip. My room was clean and well prepared. The staff was on the ball and met my every need. The hotel has all the basics, if you have the time to use them, I didn't with 50 student waiting for a replacement instructor.",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for the price",
+    "reviewText": "We and booked this hotel because it was the only one we could find that would provide a shuttle to the cruise terminal early before 10am for my sisters cruise wedding. Ok basic hotel room. They only had 2 towels for my family of 4. They said they shuttle would be there before 10am since we were told to be... More",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Ehhhhhhh",
+    "reviewText": "We stayed here one night, the bed was VERY umcomfortable and somewhat itchy. It was really hot in the room when we first walked on which made the room have a weird smell to it. The TV was nice though....",
+    "reviewerCity": "Kissimmee",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {

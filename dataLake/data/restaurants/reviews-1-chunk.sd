@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "1 day Get Away",
+    "reviewText": "Quick one day get away with the family. Nice but crowded rooftop swimming pool.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "will come back",
+    "reviewText": "very enjoyable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "will come back",
+    "reviewText": "new point system is seriously confusing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "will come back",
+    "reviewText": "Better stay at Four Points. No fridge no microwave, I paid less and and got way more ammenities that this. Confortable Beds and lots of entertainment.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "never again",
+    "reviewText": "Long wait for valet parking. Long wait for check in. Reservation not right at first then after waiting got it straightened out.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice casino hotel.",
+    "reviewText": "Great, nicely appointed room and great price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice casino hotel.",
+    "reviewText": "ladies drink free on thursday nights!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice casino hotel.",
+    "reviewText": "Great wings @ storts bar",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice casino hotel.",
+    "reviewText": "Pays out better that the other casinos",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great getaway stay to recharge your batteries!",
+    "reviewText": "The IP provided a free upgrade in the room with a view",

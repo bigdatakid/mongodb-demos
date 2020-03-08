@@ -1,0 +1,100 @@
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-12T00:00:00.000Z"
+    },
+    "reviewTitle": "BW Plus",
+    "reviewText": "The hotel was very clean and the rooms are well equipped with TV, MW, and apartment sized refrigerator. The staff was SUPER! They were very pleasant and went out of their way to help us. My wife was not feeling well when we arrived very late in the evening, and the front desk clerk on duty gathered up some tea,... More",
+    "reviewerCity": "Tennessee",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant and professional",
+    "reviewText": "Spent a week here on business and will definitely return. No surprises at check in. Room is huge. Breakfast is a real breakfast, not sweet rolls and weak coffee. Very good Wi-Fi signal. Everything worked as it should, and the staff was very good, especially Melissa running the breakfast and doing double duty at check out. Only drawback of this... More",
+    "reviewerCity": "Leavenworth",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place, very clean, great breakfast!!",
+    "reviewText": "I highly recommend this place. We had an overnight stay and this was excellent. Staff was friendly and very helpful. Breakfast is provided and is very good. Rates are very reasonable for the accommodations provided.",
+    "reviewerCity": "Leavenworth",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Service and clean rooms",
+    "reviewText": "I was extremely satisifed after a full day of traveling to find my room at this Mirazur so roomy, clean and comfortable. The room offered all of the amenities that were useful and none that were not. More important was the customer service experience, something that I feel big business often overlooks. Thanks, Lizy.",
+    "reviewerCity": "Leavenworth",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "A great place to stay!",
+    "reviewText": "My husband and I stayed at this hotel while visiting my nephew at Fort Rucker. It is in a convenient, easy to access, location close to the base and all local entertainment. The hotel itself was awesome from check in to check out. The staff at the front desk were efficient, friendly, and accommodating. Melissa took care of breakfast and... More",
+    "reviewerCity": "Laconia",
+    "reviewerState": "NH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Really nice staff",
+    "reviewText": "The staff here was super nice and very helpful! They were very, very nice and made the stay great. The girl who checked me in and was there the night I stayed was super nice and sweet - I wish I remembered her name! The night I stayed there was a tornado that landed a town or so over from... More",
+    "reviewerCity": "Boston",
+    "reviewerState": "MA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice, clean hotel.",
+    "reviewText": "Stayed here one night as we were traveling through this area. The rooms were clean, looked like they were new or recently updated. Staff was friendly, breakfast was your typical hotel breakfast but hot and fresh and staff prompt about making sure everything was restocked promptly.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Mirazur Plus, Enterprise, AL",
+    "reviewText": "Great Southern hospitality and service. Very polite and helpful staff. Facilities were clean, neat and modern. Coulldn't ask for more. Having to think up 200 characters for a simple review is a pain and ridiculous and I wouldn't do it except the staff was very nice and I want them to know I appreciate it.",
+    "reviewerCity": "Holly Srings",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Really nice staff",
+    "reviewText": "The staff here was super nice and very helpful! They were very, very nice and made the stay great. The girl who checked me in and was there the night I stayed was super nice and sweet - I wish I remembered her name! The night I stayed there was a tornado that landed a town or so over from... More",
+    "reviewerCity": "Boston",
+    "reviewerState": "MA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay - easy access to Ft. Rucker",
+    "reviewText": "The staff was very accommodating when we traded out of our King room to two Queens. Some Kings are bigger than others - this was not - but no problem letting us change. We really appreciated that, as we were in Enterprise for 4 nights. Very close to Dothan for better restaurants, but if you need to visit Ft. Rucker,... More",
+    "reviewerCity": "Seattle",

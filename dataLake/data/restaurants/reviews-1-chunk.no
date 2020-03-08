@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay",
+    "reviewText": "Short but perfect for my needs",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-05T00:00:00.000Z"
+    },
+    "reviewTitle": "BED BUGS !! !",
+    "reviewText": "After a late night with family attending a wedding in San Antonio, we were looking forward to arriving at the hotel to get a good night's rest. Little did we know that a good night's rest would not be happening. As we opened the sofa bed we encountered a good amount of bugs crawling on the mattress. It was easy to see the bugs because of the white sheets. They were definately, without a doubt, bed bugs! Disgusting to say the least. That was where my twin 4yr old girls were going to sleep! Not a chance that was going to happen now! I went to the front desk and they told me the hotel was booked so nothing else was available. I didn't want to stay there period but my girls were so exhausted we all were! It was really late at night too. I was told I would get a discount only after I had asked how would I be compensated for this terrible experience. I still have not received any communication as to when that would happen. This has made me reevaluate the Hyatt standards for sure. This experience was horrible.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "BED BUGS !! !",
+    "reviewText": "the rooms are huge!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "BED BUGS !! !",
+    "reviewText": "Music can be a bit loud, and can be heard in the adjacent guest room. So exercise quietly! :-)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Location...",
+    "reviewText": "The room was humid, but this may be due to the fact that the room was too big for the A/C unit. The remote was broken and needed God's finger to change the channel. But the location was great for shopping and getting around.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Location...",
+    "reviewText": "nice place to stay near the airport. great value for money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Location...",
+    "reviewText": "great price on a very nice room!! staff is excellent and even has a bar at night. i'll stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "SA stay",
+    "reviewText": "The staff there was very friendly. We were a little misinformed when we were told we were on the quiet end of the hallway. There was an intermittent noise (sounded like a key card in a door) all night. We had to turn the fan on in the room to drown out the noise. The bathroom was not super clean. There was a lot of black mold on the ceiling walls and the floor of the bathroom in the corner had a lot of hairs. I have stayed at this hotel before and have been pleased with its cleanliness and quiet, but this stay was not the case. We come to San Antonio often and really like this hotel for its convenience, staff and clean rooms. It definitely fell short in the clean room category.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient to The Quarry",
+    "reviewText": "Great service and location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient to The Quarry",
+    "reviewText": "Curses! I've been ousted as Mayor!",

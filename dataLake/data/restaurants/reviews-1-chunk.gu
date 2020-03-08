@@ -1,0 +1,1000 @@
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Beyond kind staff",
+    "reviewText": "We had checked out and had a large mug of coffee. I managed to spill it all over me, soaking my blue jeans. I went back into the hotel and the man at the desk was very kind. He gave me back my key card so I could go back to the room, change, wash them out and then be on my way.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Yosemite hotel",
+    "reviewText": "I indicated the hotel is 2 star quality because higher levels are not available. I would rate it 3.75 to 4",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4129"
+  },
+  "name": "Blue Top Inn",
+  "categories": ["Hotel", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "MO",
+    "city": "Lamar",
+    "postalCode": "64759",
+    "address": "65 S E First Ln",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-94.29853, 37.486855]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Price is Right",
+    "reviewText": "For the money you can't go wrong. The 50 rooms are average but the 75 rooms are much updated and nice. The breakfast coupon that you get for Denny's across the street is fabulous and the service is excellent! Wi fi did not work.",
+    "reviewerCity": "Council Bluffs",
+    "reviewerState": "IA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant Stay",
+    "reviewText": "Having friends just outside of Lamar, my wife and I always stay here when visiting them. The rooms are dated, but clean. The beds are comfortable. A breakfast at Denny's is included. We will stay there the next time we visit.",
+    "reviewerCity": "Wichita Falls",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Hog Heaven!",
+    "reviewText": "What a great little place! We got 4 rooms for 5 nights a lot cheaper than the competitor with free breakfast at Dennys across the street. Heck that's worth about 8 bucks right there! The wifi worked great and the people were very helpful. The rooms are nice and have Micro/fridge hair dryer and are nice sized too. This is... More",
+    "reviewerCity": "California",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Could local spot",
+    "reviewText": "Good for the price, sheets a bit scratchy and mattress a bit springy/soft.free Denny's breakfast and military discount made it a good stay for weary travelers due to flight delays. Checked in at Sinclairs across street because it was after hours but man was very helpful",
+    "reviewerCity": "Wichita",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible service, bugs in rooms, manager Bob is unprofessional",
+    "reviewText": "We had to stay here due to the other hotel booking up, the beds were comfortable and their towels were nice and clean. Bob the manager didn't want to give you more than a few towels for the pool because he didn't have many (they didn't want you using the room towels) they were regular towels too, not like what... More",
+    "reviewerCity": "Kansas City",
+    "reviewerState": "MO",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good budget motel",
+    "reviewText": "Good motel for the price. Staff are friendly and outgoing. Breakfast is at the Denny's across the street. That makes the price of the motel a lot cheaper than the competitor. I would recommend splurging and getting the better rooms. They make you feel like you are in a luxury motel.",
+    "reviewerCity": "Lamar",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great staff",
+    "reviewText": "Very accommodatig staff today who allowed me an early check in. Breakfast is free at Dennys across the street. Room was clean and bed was very comfortable. I recommend highly and will return next time in area. Great Value",
+    "reviewerCity": "Lubbock",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Kathy Munston Greeley C.O",
+    "reviewText": "My husband and I stayed here to see friends in Lamar,we weren't quit sure of what we would find...and boy were we right.The room was disgusting!! Big pee spots right when we walked in on the carpet,lots of gross brown splatters all over the walls in different areas of the room,smashed bug guts,and black marks where people had put there... More",
+    "reviewerCity": "Lubbock",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Value",
+    "reviewText": "We like this little motel the price is right and the rooms are comfortable. In the past we have found the front desk personnel to be very warm welcoming but this time the super friendly clerk unlocked the lobby door and, as per the sign, explained that guests need to go to the truck stop C-Store to register.... More",
+    "reviewerCity": "Springfield",
+    "reviewerState": "MO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Met all of our needs",
+    "reviewText": "Glad to find this refreshing oasis on Trip Advisor! Saved us from a dreary stop at their franchise competitor. It was modern, clean, fresh, and they sent us across the street for a free breakfast at Dennys!",
+    "reviewerCity": "Kansas City",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de412a"
+  },
+  "name": "Hotel Borgo Verde",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "IT",
+    "state": "",
+    "city": "San Jose",
+    "postalCode": "95125",
+    "address": "S Via Nullo 5/r",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [15.060435, 37.52297]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Bon hotel",
+    "reviewText": "Htel trs sympa",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place.",
+    "reviewText": "Far away from the center but the 15 min.trip with the bus is ok..Staff were great..room as well..peaceful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Grazioso albergo in citt�� ma immerso nel verde",
+    "reviewText": "Il mio soggiorno in Sicilia stato molto bello e la cordialit , disponibilit del personale del Borgo verde lo hanno reso ancora pi piacevole",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Grazioso albergo in citt�� ma immerso nel verde",
+    "reviewText": "Il mio soggiorno in Sicilia stato molto bello e la cordialit , disponibilit del personale del Borgo verde lo hanno reso ancora pi piacevole",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Viaggio d'affari",
+    "reviewText": "Buonissimo hotel, non molto lontano da aeroporto e dal centro. Ha anche un parcheggio interno.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel f��r Autofahrer am Stadtrand",
+    "reviewText": "Unser zehntgiger Aufenthalt hat uns sehr gut gefallen, das Zimmer war schn (mit Balkon), das Personal sehr freundlich und hilfsbereit, das Frhstck auch fr Nichtitaliener mehr als ausreichend. Optimaler Ausgangspunkt fr Ausflge in die nhere oder weitere Umgebung, auch das Stadtzentrum von Catania war in einer halben Stunde zu Fu zu erreichen.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "ruhiges Hotel in der Peripherie von Catania",
+    "reviewText": "Man erreicht das Hotel nur bequem mit dem Auto. Es liegt in einer ruhigen Seitenstrae, die man ber den Stadtring ( circovalazione) erreicht. Das Hotel ist sehr gepflegt und hat eine angenehme ruhige Atmosphre. Das Abendessen ist in der Auswahl klein, aber sehr frisch und von sehr guter Qualitt bei kleinem Preis. Einen kleinen Abstrich muss man bei der Sicherheit geben, denn die Zimmer besitzen keine Sicherheitsschlsser und das Badfenster schloss nicht richtig, lediglich die Jalousie. Das Zimmer hatte jedoch einen Safe. Auerdem kommen regelmig Carabinieri, so dass man sich dennoch nicht unsicher fhlte.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "ruhiges Hotel in der Peripherie von Catania",
+    "reviewText": "Man erreicht das Hotel nur bequem mit dem Auto. Es liegt in einer ruhigen Seitenstrae, die man ber den Stadtring ( circovalazione) erreicht. Das Hotel ist sehr gepflegt und hat eine angenehme ruhige Atmosphre. Das Abendessen ist in der Auswahl klein, aber sehr frisch und von sehr guter Qualitt bei kleinem Preis. Einen kleinen Abstrich muss man bei der Sicherheit geben, denn die Zimmer besitzen keine Sicherheitsschlsser und das Badfenster schloss nicht richtig, lediglich die Jalousie. Das Zimmer hatte jedoch einen Safe. Auerdem kommen regelmig Carabinieri, so dass man sich dennoch nicht unsicher fhlte.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Soggiorno di lavoro",
+    "reviewText": "Struttura situata all'interno di un complesso tranquillo. Parcheggio limitato e a pagamento, ma non molto lontano c' uno slargo dove poter parcheggiare. Sembra un po' costretta come struttura a cominciare dall'ingresso dove si consuma al mattino la colazione a buffet abbastanza soddisfacente. Stanza pulita e confortevole anche se poco insonorizzata e con un fastidioso rumore proveniente dal sistema di climatizzazione. Gentile e cortese il personale.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Ottimo rapporto Qualit��/Prezzo",
+    "reviewText": "Ottimo hotel situato a qualche chilometro dal centro di Catania. Raggiungibile tramite il BUS Nr. 733",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Sempre gentili",
+    "reviewText": "la terza volta che vado e devo dire che il rapporto servizio/prezzo molto buono",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "fijn hotel buiten hrt centrum",
+    "reviewText": "Rustig hotel in een groene oase, op 5 autominuten buiten het centrum en goede busverbinding ..prima schone en rustige kamer met alle comfort en fijne badkamer. Sympathieke receptie",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "fijn hotel buiten hrt centrum",
+    "reviewText": "Personnel gentil et agrable petit djeuner insignifiant voir pire dommage pour un pays ou l on mange si bien..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Raccomandazione speciale ...",
+    "reviewText": "Ottima posizione registrazione amichevole. . . quattro variet di palma albero esterno la finestra professional soddisfare per la pubblicazione di errori: la nostra raccomandazione speciale! ... ... ... Gestione a catania del traffico un libro con sette guarnizioni vuoi per visitare il centro: lasciate che i migliori parcheggio nell'hotel. . . :)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Catania ist wild aber das Hotel eine Oase der Ruhe",
+    "reviewText": "Wir hatten ein schnes groes Zimmer mit einer tollen Terrasse. Der Service war echt gut und alle Mitarbeiter sehr freundlich und zuvorkommend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Catania ist wild aber das Hotel eine Oase der Ruhe",
+    "reviewText": "I booked the 2nd time and stayed some days private with my partner and some days for business. Regarding to the 1st stay (one year ago) the situation changed in the worse direction: Even I'm a re-booker and I booked early with the wish to have the room in the direction to the quiet garden side (like last year) the hotel put me to the street side which is horrible loud even in the night which makes it impossible to sleep with open windows. The breakfast is very poor in the scope and in quality. One day old and hard bread, another day the broken coffee machine. Lot of times empty plates in the buffet have been refilled not till we asked to do so. But the worse is that now there are cats allways in the breakfast room. I really like cats and they are sweet but when guests first touch them and later e.g. the bread of the buffet that is far away from simple hygienic roules. Other guests (e.g. with allergy) will be amused very much.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Out of the centro hussle",
+    "reviewText": "A pleasant surprise. Gated grounds with adjoining apartments. Secure parking and quiet surrounding. Both reception staff spoke English! and....directed us to the best fish restaurant of our two week visit. Nothing fancy here, typically European but clean and smart. The bed had a great memory foam mattress, welcome after all of the 'less soft' beds we have had. We were trying to get out of the downtown area and this hotel is a short drive away.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Sch��nes Hotel am Rande von Catania",
+    "reviewText": "Hotel hat uns gut gefallen. Anlage sehr schn. Parkplatz am Hotel kostet extra. Groes Bad und Balkon. Schne Anlage mit Palmen. Frhstck in Ordnung mit groer Auswahl.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Sch��nes Hotel am Rande von Catania",
+    "reviewText": "Hotel hat uns gut gefallen. Anlage sehr schn. Parkplatz am Hotel kostet extra. Groes Bad und Balkon. Schne Anlage mit Palmen. Frhstck in Ordnung mit groer Auswahl.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Sch��nes Hotel am Rande von Catania",
+    "reviewText": "Hotel hat uns gut gefallen. Anlage sehr schn. Parkplatz am Hotel kostet extra. Groes Bad und Balkon. Schne Anlage mit Palmen. Frhstck in Ordnung mit groer Auswahl.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Personale educato",
+    "reviewText": "Ci siamo trovati molto bene. Le camere sono accoglienti, il personale disponibile ed educato. Consigliato!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Personale educato",
+    "reviewText": "Bien l'cart du centre ville, l'htel Borgo Verde offre une trs grande tranquillit -mais ncessite une voiture pour y accder. La chambre avec balcon et salle de bain est agrable, le petit djeuner correct. Quelques difficults pour garer la voiture dans les environs (parking payant abordable propos par l'htel qui vous rappellera vos meilleures parties de Tetris)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Ruhig und gut",
+    "reviewText": "Sehr ruhiges, angenehmes Hotel. Leider schlecht erreichbar mit V.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel and quiet",
+    "reviewText": "Had a good time there and a good experience there,",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel and quiet",
+    "reviewText": "Had a good time there and a good experience there,",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Feeling at home",
+    "reviewText": "My second visit to the hotel. Had a warm welcome. Although far from the city centre,reception staff assitt you in getting takeaway food delivered from a nearby restaurant. Good breakfast and helpful staff. My only suggestion is to change the fixed shower to a hand held one as sometimes it is inconvenient. Will return again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Feeling at home",
+    "reviewText": "My second visit to the hotel. Had a warm welcome. Although far from the city centre,reception staff assitt you in getting takeaway food delivered from a nearby restaurant. Good breakfast and helpful staff. My only suggestion is to change the fixed shower to a hand held one as sometimes it is inconvenient. Will return again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "SERENE, QUIET AND OVERALL A BEAUTIFUL B\u0026B",
+    "reviewText": "MY PARTNER AND I STAYED AT THE HOTEL BORGO VERDE FOR 6 NIGHTS AND COULD NOT FAULT THIS. WELL A MINOR HICCUP, THE PARKING WAS NOT THAT GOOD, THERE WERE SPACES BUT VERY TIGHT FOR PARKING AND GETTING IN OUT OF THE BUILDING. OTHERWISE NOTHING ELSE WAS WRONG. VALENTINA MOIRA WERE EXCEPTIONAL RECEPTIONISTS WITH HUGE SMILES THAT WOULD HELP YOU IN ANYWAY. THE ROOM WE HAD WAS ROOMY, BATHROOM WAS GOOD SIZE AND WE HAD A BALCONY WITH A BARBECUE IN A QUIET PART OF THE BUILDING. THE BREAKFAST WAS LOVELY AS WAS THE SERVER BUT COULD NOT THINK OF HER NAME. LOCATION WISE WAS FINE, NOTHING REALLY IN WALKING DISTANCE BUT WAS ABOUT 15 MINUTE DRIVE TO DOWNTOWN. THE WHOLE EXPERIENCE WAS MADE SO MUCH NICER WITH VALENTINA MOIRA AND WOULD DEFINITELY STAY THERE AGAIN. THEY ALSO HAD ANOTHER BB WHICH IS SITUATED IN TAORMINA AND WAS THEIR FIRST PROPERTY AND WOULD LOVE TO STAY THERE AS TAORMINA WAS OUR FAVOURITE PART OF SICILY.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-29T00:00:00.000Z"
+    },
+    "reviewTitle": "SERENE, QUIET AND OVERALL A BEAUTIFUL B\u0026B",
+    "reviewText": "MY PARTNER AND I STAYED AT THE HOTEL BORGO VERDE FOR 6 NIGHTS AND COULD NOT FAULT THIS. WELL A MINOR HICCUP, THE PARKING WAS NOT THAT GOOD, THERE WERE SPACES BUT VERY TIGHT FOR PARKING AND GETTING IN OUT OF THE BUILDING. OTHERWISE NOTHING ELSE WAS WRONG. VALENTINA MOIRA WERE EXCEPTIONAL RECEPTIONISTS WITH HUGE SMILES THAT WOULD HELP YOU IN ANYWAY. THE ROOM WE HAD WAS ROOMY, BATHROOM WAS GOOD SIZE AND WE HAD A BALCONY WITH A BARBECUE IN A QUIET PART OF THE BUILDING. THE BREAKFAST WAS LOVELY AS WAS THE SERVER BUT COULD NOT THINK OF HER NAME. LOCATION WISE WAS FINE, NOTHING REALLY IN WALKING DISTANCE BUT WAS ABOUT 15 MINUTE DRIVE TO DOWNTOWN. THE WHOLE EXPERIENCE WAS MADE SO MUCH NICER WITH VALENTINA MOIRA AND WOULD DEFINITELY STAY THERE AGAIN. THEY ALSO HAD ANOTHER BB WHICH IS SITUATED IN TAORMINA AND WAS THEIR FIRST PROPERTY AND WOULD LOVE TO STAY THERE AS TAORMINA WAS OUR FAVOURITE PART OF SICILY.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "H��tel recommandable",
+    "reviewText": "Bon rapport qualit prix , le matelas un peu dur , un problme de chasse d'eau non rsolu ( sjour de 3 nuits quand mme et problme signale des notre arrive ) Malgr son cela htel bien agrable mais loin du centre historique !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfort e tranquillit��",
+    "reviewText": "Camera molto ampia e pulita, posto tranquillo, parcheggio a pagamento (3 euro)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "LOIN DE TOUT",
+    "reviewText": "LOIN DE TOUT PREPAREZ VOUS A PAYER PLUS DE TAXI QUE D HOTEL !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Delightful Oasis in Catania",
+    "reviewText": "Beautiful, quiet location tucked in a neighborhood away from hectic downtown Catania. Surrounded by palm trees and beautiful grounds, a great escape. Rooms were very comfortable, beds/bedding luxurious and our room had two patios on which we could sit and enjoy the outdoors. Shower/bathrooms well equipped and plenty of hot water available. Breakfasts were normal European but plentiful. Only negative, there were no restaurants within walking distance but the front desk was willing and able to order pizza delivery (and it was terrific)! Would definitely stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Soggiorno tranquillo",
+    "reviewText": "Soggiorno tranquillo e senza intoppi. L'hotel piccolo, ma ben tenuto e immerso nel verde.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Soggiorno tranquillo",
+    "reviewText": "Albergo in zona periferica di Catania ma nello stesso tempo molto vicina al centro solo se si ha un autoveicolo con cui spostarsi. Composto da una struttura centrale e da altro edificio adiacente , accogliente e pulito, giusto il rapporto qualit prezzo non posso dare un giudizio sulla colazione in quanto fatta.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Soggiorno tranquillo",
+    "reviewText": "Albergo in zona periferica di Catania ma nello stesso tempo molto vicina al centro solo se si ha un autoveicolo con cui spostarsi. Composto da una struttura centrale e da altro edificio adiacente , accogliente e pulito, giusto il rapporto qualit prezzo non posso dare un giudizio sulla colazione in quanto fatta.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Soggiorno tranquillo",
+    "reviewText": "Albergo in zona periferica di Catania ma nello stesso tempo molto vicina al centro solo se si ha un autoveicolo con cui spostarsi. Composto da una struttura centrale e da altro edificio adiacente , accogliente e pulito, giusto il rapporto qualit prezzo non posso dare un giudizio sulla colazione in quanto fatta.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for those with car hire",
+    "reviewText": "Great hotel, lovely helpful staff. It was just a shame their pool wasn't open during our stay. We would still highly recommend this hotel to anyone. It served us well as we had a hire car.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel circondato dal verde in un area tratranquill",
+    "reviewText": "Per chi come noi ha scelto di visitare la Sicilia prendendo sul posto una macchina a noleggio, questo hotel l'ideale:lontano dal caos del centro, parcheggio e garage privati. La nostra camera era anche dotata di balcone e finestra in bagno. Colazione abbondante e personale dispobibile.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Mediocre.",
+    "reviewText": "Tovaglie del bagno, vecchissime. Colazione molto mediocre.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de412b"
+  },
+  "name": "The Grove Seaside Hotel",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "GR",
+    "state": "",
+    "city": "Glen Burnie",
+    "postalCode": "21060",
+    "address": "Drepanon",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [22.890106, 37.531556]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Good location, friendly staff, perfect for a summer break",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Good location, friendly staff, perfect for a summer break",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Good location, friendly staff, perfect for a summer break",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "�� ��viter pour avoir du calme",
+    "reviewText": "Hotel rnov bas cots. Disons plutot qu'il s'agit d'un cache misre. Cet hotel sert de repre aux tour operators. Bienvenu l'usine ! Petit djeuner bufet pas de gamme, hotel globalement bruyant (meme hors saison). Pour le mnage, c'est revoir ! Cheveux dans la salle de bain, morceaux d'emballages de savon au sol, etc. En somme, viter moins que vous n'aimiez l'ambiance camping. Seul point positif, le personnel est sympa.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice budget hotel by the beach",
+    "reviewText": "The hotel seemed recently updated, the beach was right across the street, and beach chairs were provided. Breakfast was great, wifi was good, all rooms have a little balcony, perfect for drying bathing suits.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice budget hotel by the beach",
+    "reviewText": "The hotel seemed recently updated, the beach was right across the street, and beach chairs were provided. Breakfast was great, wifi was good, all rooms have a little balcony, perfect for drying bathing suits.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "������ ������������",
+    "reviewText": "!!!!!!!!!!!!!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "������ ������������",
+    "reviewText": "!!!!!!!!!!!!!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "������ ������������",
+    "reviewText": "!!!!!!!!!!!!!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "������������ ��������������",
+    "reviewText": "wifi.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Value for money",
+    "reviewText": "Value for money hotel right on the beach",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "������������ ��������",
+    "reviewText": ", . , . .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Quite a large hotel but quiet and very close to beach.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de412c"
+  },
+  "name": "Quality Inn and Suites",
+  "categories": ["Hotel", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "MD",
+    "city": "Richmond",
+    "postalCode": "23230",
+    "address": "3200 W Broad St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-77.47481, 37.56611]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent for short stay",
+    "reviewText": "Parking garage dark and spooky. Hotel is older and in need of updating. Elevators are scary! Room was ok for an overnight stay but wouldn't want to spend extended time there. All of the staff were friendly and helpful and this was a definite plus. I would recommend this hotel if you are in need of a reasonable rate for... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick trip to Richmond",
+    "reviewText": "The price was very good and staff was friendly. However they need to update the halls, rooms and beds. My wife started complaining about her allergies from the smell in the room. She thought there might be mold. I felt the bed was just O.K. but she found it uncomfortable. The remote was missing the back cover.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel undergoing renovation",
+    "reviewText": "Got a good price on Expedia because hotel is renovating Had to walk past the dehumidifiers broken ceiling tiles Room itself is good size, comfy king size bed WIFI is spotty Breakfast had scrambled eggs, pour your own waffles, bread items, coffee Exercise room not good Pool needs to be cleande upgraded",
+    "reviewerCity": "Somers Point",
+    "reviewerState": "NJ",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-09T00:00:00.000Z"
+    },
+    "reviewTitle": "A Facts of Life Motel: You Take the Good, You Take the Bad",
+    "reviewText": "The good: The staff here is very kind and accommodating. I found them always ready to be of assistance, always saying hello, especially in the breakfast area. There is ample covered parking. The rooms themselves appear to have been renovated with new furniture (microwave, fridge, new lighting) and a new bed, which was very comfortable. Unfortunately, nothing was done to... More",
+    "reviewerCity": "Wichita",
+    "reviewerState": "KS",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Fresh paint on a dilapidated building",
+    "reviewText": "This is a very old building in dire need of renovation. Many other reviewers give this place a lot of credit for having been freshly spruced up, but I think they're overselling it. The room I was in had been freshly painted, and the bed bedding was new and clean and comfortable, but all of these superficial improvements don't... More",
+    "reviewerCity": "Washington DC",
+    "reviewerState": "KS",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Kinda hard to rate this one...",
+    "reviewText": "We stayed here overnight. The Good: Friendly staff, Great price (AAA member), Pet friendly, Free Parking The Bad: Badly in need of a makeover. Stale,musty odors in carpeted areas. Not so fresh smelling linen....and the creepiest elevators outside of a horror movie! I have it a 3 primarily due to the welcoming staff and hot breakfast.",
+    "reviewerCity": "Washington DC",
+    "reviewerState": "KS",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for budget conscious.",
+    "reviewText": "Nice location, easy access to and around. Sufficient and convenient parking. Helpful, polite, and professional staff. Very tired and worn throughout - lobby, hallways, rooms. Elevators are old, slow, and small. Cleanliness is ok, but could be better.",
+    "reviewerCity": "Washington DC",
+    "reviewerState": "KS",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "good, but noisy",
+    "reviewText": "This hotel is hard to find from the south due to the terrain. Room, beds and shower were excellent, but the walls are so paper-thin that you are tempted to join in the conversation in the next room. pets are accepted, but there is no designated area to walk pets.",
+    "reviewerCity": "Orange City",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice employees, worn out building",
+    "reviewText": "The employees were extremely nice at this Comfort Inn. I would give the employees a rating of five out of five. The building is another story, and that's why I give this place an overall rating of three out of five. The building seems very old and is somewhat threadbare. When I walked in, I noticed an unpleasant odor. Perhaps... More",
+    "reviewerCity": "Vancouver",
+    "reviewerState": "WA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Surprised",
+    "reviewText": "On booking this hotel I wasn't expecting much how wrong I was. Check in nice and easy the guy on reception was great very helpful. The room was of a great size the bathroom also, the bed was very comfortable which made for a great nights sleep. Once we had settled into the room we got a call from the... More",
+    "reviewerCity": "Birmingham",
+    "reviewerState": "WA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointed in overall appearance.",
+    "reviewText": "We are regulars at Quality inn and never disappointed. This location just converted or taken over from another brand. We arrived after dark, no signage, and the one that was there was upside down. Very dark and very dimly lit parking area. Not the best (to say the least) neighborhood. Upon entering the very pleasant desk person had a surgical... More",
+    "reviewerCity": "Stanfordville",
+    "reviewerState": "NY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Almost rated it very good",
+    "reviewText": "We were pleased that our disabled room was large enough for us to get around in, that the shower was roll-in, and that the shower and commode had good grab bars. There was plenty of on-site free parking, and a hot breakfast was included. Staff was friendly, All that caused me to consider a rating of very good. But we... More",
+    "reviewerCity": "Arlington",
+    "reviewerState": "NY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Just an OK place",
+    "reviewText": "If you are looking for a cheap place to stay this is it. There is nothing fancy about the place. They tried to renovate but only updated some bedding and the bathroom sink. My pillowcases were yellow and there was a burn hole in the comforter in a non-smoking room. The mattress was not comfortable at all. Take the stairs... More",
+    "reviewerCity": "Gettysburg",
+    "reviewerState": "PA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Average Hotel",
+    "reviewText": "I stayed just one night during the World Cycling Championships. It is not the Ritz Carlton, but if you are budget conscious and are looking for a reasonably-priced hotel and don't have great expectations, this could be a good selection. The room was comfortable and clean. Breakfast is included. There is plenty of parking. However, the hotel is not in... More",
+    "reviewerCity": "Washington DC",
+    "reviewerState": "PA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful stay",
+    "reviewText": "The front desk staff of Stephanie, Kathy and Matt were absolutely wonderful attending to our needs. Kathy got us a room for an extra night and was so helpful with the rates. Room was clean and comfortable. Very close to town so we were able to walk around. Highly recommend this hotel.",
+    "reviewerCity": "Staunton",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good price value rate for a family room",
+    "reviewText": "Though the installations are a bit worn out, the hotel is clean and the staff is very friendly. Free parking and a great location was also very appreciated. We got a room for four people, with a small fridge, a microwave oven and an iron, which was exactly what we needed in our long stay with small kids. Also, there... More",
+    "reviewerCity": "Copenhagen",
+    "reviewerState": "VA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a Typical Comfort Inn - Avoid At All Cost!",
+    "reviewText": "This hotel is bad, really, really bad. Just when you thought that this place could not get worse it does. We selected the hotel because of the location and the Comfort Inn Brand. We should have left but tried sticking it out for a night. First the elevator (see other reviews) is terrifying... it looks like the elevator in a... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Quality",
+    "reviewText": "This hotel has an interesting layout. a covered parking garage with a second level that has an old swimming pool. There is tons of potential for that second level. Anyway, the hotel was nice enough and clean. Hotel staff were very helpful and polite.",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick Stay in a Central Location",
+    "reviewText": "Adequate service. The place is a bit dingy and in need of a good sprucing up. Elevator felt rickety and was banged up on the inside. I had a smoking room and it didn't stink like I thought it would. Vanity and shower had lots of cracks and bruises. But at least things seemed clean. Low, tiled ceilings feel very... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Good price for good sized room but carpets very tired looking.",
+    "reviewText": "Stayed here for 4 nights 2 weeks ago. I was first given room 428. I went to the room and was shocked to hear one room next to me talking and the other room kids bouncing on the bed and running wild. I went straight to reception and asked for a quieter room, being an insomniac, this would have driven... More",
+    "reviewerCity": "Barrow-in-Furness",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok",
+    "reviewText": "The hotel is ok, but the beds are horrible, they are not leveled so you will most likely have a backache. The lifts are not smart so make sure you press the right button otherwise it will follow the pushing order and not the floor order and you might end up going from bottom to fifth even though you are... More",
+    "reviewerCity": "Joao Pessoa",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad for the price",
+    "reviewText": "Not bad for the price, I booked hotel under employee rate. Over all i can give 4 star to this hotel for good breakfast, excellent customer service. Staff did good job both days we were there. Over all i can give A to this hotel.",
+    "reviewerCity": "Fayetteville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs serious renovations.",
+    "reviewText": "To look at some of the amenities of the Comfort Inn, one would think the hotel had not upgraded since the mid-90s. The elevators are very small, the pool was empty and looked as if it was unused for a year or more. I stayed on the fifth floor in what was supposed to be a non-smoking room, but the... More",
+    "reviewerCity": "Greensboro",
+    "reviewerState": "NC",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good budget hotel",
+    "reviewText": "I've been there two times in few days dated furnitures, unstable free wifi , poor free breakfast, not really clean in the common areas, rooms were instead fine. It's far from downtown, around 20 minutes with the bus (don't rely on their schedules). Despite all, it's quiet (maybe I've been lucky) and finally a good place at a convenient price.",
+    "reviewerCity": "vigevano",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel for the price",
+    "reviewText": "This hotel hasn't enjoyed the best of reviews on Trip Advisor but I fail to understand why. The place is easy to find and has adequate undercover free parking. OK the place looks a little dated but I have to remind myself I paid under US90. The reception was very professional and friendly, the room was large and had all... More",
+    "reviewerCity": "Clontarf",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Just ok",
+    "reviewText": "Room and hotel are just ok, beds are very small and old. it really could use upgrades. bathroom is fairly newer but still could use an upgrade. the blankets and sheets need to upgraded. Location is good and the lobby is fairly new.",
+    "reviewerCity": "Philadelphia",
+    "reviewerState": "PA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "What a disappointment",
+    "reviewText": "I was very disappointed when I checked into this hotel. I was in Richmond to attend the Jazz Festival and have had great experiences at Comfort Inn hotels in the past. This was unlike any other. I was given a smoking room because according to the clerk, I had booked on-line directly with Comfort Inn. Wouldn't this make my options... More",

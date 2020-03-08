@@ -1,0 +1,100 @@
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Place",
+    "reviewText": "We overnighted at Quality Suites and would do so again. Close to IAH and a very friendly staff. The room was huge and clean. The shuttle service was prompt in both directions. A shout-out to Sally and Joshua! Great representatives for this property.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great customer service!",
+    "reviewText": "I actually was not the one who stayed. Our daughter was stranded in Houston for almost 3 full days. We were many states away and the staff was so very helpful in allowing us to get her a room... both nights! We had issues with booking but they accommodated us at each obstacle. Thank you Quality Suites for making us feel secure when we had so much unknown.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Price Great Stay",
+    "reviewText": "It was close to the Airport , the shuttle arrived very promptly . This hotel isn't close to Restaurant's or Party stores in walking distance . Great clean room , suite was nice , I as flying in from Michigan to visit my Girlfriend she liked it also . Breakfast was the basic but they had plenty fruit , juice , eggs , sausages , waffles , etc ...free USA to today paper in the Morning as well .Great Service happy Smiling faces no problems .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "always nice",
+    "reviewText": "Enjoyable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "A Great Escape!!",
+    "reviewText": "I was very satisfied it is what I was looking for in rest and relaxation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "I would definitely be staying here again! The staff was really nice and very helpful! The rooms were so roomy and comfortable!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "Why advertise a pool is it is closed and dirty and the area around it is is falling apart It's one of the reasons we booked this hotel because it had a pool!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great staff but room for improvement with the room",
+    "reviewText": "I stayed for one Night mainly because it offered breakfast and an airport shuttle. The driver were great and the hotel staff as well. I loved the breakfast bar. The room could need some improvements. The showerhead for example barely let any water out. I am glad I didn't had to wash my hair. That woud have been impossible. The comforter on the bed had a burnhole in it. Its about small things like that. The room looked a little sparse especially the bathroom felt very empty for its size. But like I said the staff was great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great customer service!",
+    "reviewText": "When I arrived for checking Tara was so friendly and helpful. They even had a complementary shuttle that will take you to get food or go to the mall and Roberto was an amazing driver. When I checked in there was a mouse running up and down the hallway and slipped into one of the rooms, there was construction going on for the remodeling of the bathrooms and lots of drilling and hammering on the walls and floor, and the neighbors next to me were running around and banging on the walls but other than that it was a great expereince.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fdb"
+  },
+  "name": "Hampton Inn New Orleans - Downtown",
+  "categories": ["Hotels"],
+  "location": {

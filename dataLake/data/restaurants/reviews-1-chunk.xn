@@ -1,0 +1,100 @@
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel",
+    "reviewText": "The clerk was friendly and nice very helpful.",
+    "reviewerCity": "Coahoma",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Hampton Inn, Abilene, TX",
+    "reviewText": "We have stayed in Abilene a number of times when we've been passing through on our way to Austin or Houston to visit family. We love the Hilton Hotels and thought we'd try the Hampton Inn out for a change. We were very pleased with the accommodations and the room was very nice, clean and quiet. The bed was very... More",
+    "reviewerCity": "Amarillo",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable and convenient",
+    "reviewText": "Very clean, great beds, lots of good restaurants nearby. Only complaint was that there was way too much chlorine in the pool. Otherwise, a great stay!",
+    "reviewerCity": "Amarillo",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay!",
+    "reviewText": "Pleasant staff. The room was fresh and clean.",
+    "reviewerCity": "Amarillo",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel - Need a new breakfast lady!!",
+    "reviewText": "Great hotel and friendly service at the front desk and housekeeping on floor 2. I would totally give it 5 stars if it weren't for the unfriendly breakfast buffet woman. It was so not busy when we were there on 9/29 and I went up to the counter at 9am to see what was there and she didn't even seem to notice me come up right next to her. I said good-morning and she never even looked up or acknowledged me! Really! Such an impolite worker in such a great hotel. She never said a thing to me or my husband the whole breakfast long and we sat right next to the food (it's a small place). I don't need or even like lots of conversation or loud talking in the morning, but common courtesy and friendliness is paramount in hotel service. Also, there was a discussion going on between her, the front desk girl and another employee (manager) who wore a lanyard around her neck and no uniform. It was about the schedule and some issues with regard to it. The person not wearing the uniform actually came up to the breakfast bar, still talking to someone at the front desk and said, Well, you made the schedule, so I do blame you! Don't mind us customers here trying to have our breakfast folks. So, Hampton management, you lost a star because of unprofessional and unfriendly behavior of two employees. The rest of it was excellent!",
+    "reviewerCity": "Amarillo",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Pool broke and coffee pots empty!!",
+    "reviewText": "The swimming pool was broke and hot tub were broke. All the coffee pots were empty. The staff was standing around talking about the party from the night before. I would not return again!!!",
+    "reviewerCity": "Amarillo",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable and clean hotel",
+    "reviewText": "Hampton staff take great pride in their hotels. Excellent in every way! We enjoyed the complimentary breakfast and the internet connections were good. The rooms are well appointed and extremely clean The staff was very attentive and helpful. The pool and exercise room are nice and the rooms are quite",
+    "reviewerCity": "Amarillo",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable and clean hotel",
+    "reviewText": "Very comfortable",
+    "reviewerCity": "Amarillo",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "In town for a Family Wedding",
+    "reviewText": "We had a pleasant experience. Room was clean, beds were comfortable. Breakfast was decent. The staff did not let us know about internet access but we are Hilton Honor Members so we figured it out pretty quickly by signing in using our honors info. The only complaint I have is that hallway noise was intrusive at early hours (talking, vacuuming,... More",
+    "reviewerCity": "Denton",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Nothing working try the Fairfield",
+    "reviewText": "After a 12 hour drive with the kids. We were ready for a swim and hot tub. When we arrived both were under maintenance. This was not on the website when I booked I asked about it and was told that it was not, maintenance took longer and it was not on the website. My wife than wanted to run... More",
+    "reviewerCity": "colorado springs",

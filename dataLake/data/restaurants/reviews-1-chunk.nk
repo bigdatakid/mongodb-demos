@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Good price. Convenient location.",
+    "reviewText": "I stayed for business. Plenty of great restaurants on Broadway less than 10 minute drive from hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent",
+    "reviewText": "Excellent experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Love Hyatt Place Hotels",
+    "reviewText": "We stay at Hyatt Place hotels anytime we go on vacation. We like the layout of the hotel rooms. We have never had any issues with our stays. This was the first time we had a few issues arise. When we arrived check in was quick and easy front desk staff was very friendly. Our room was a handicapped room, which was not an issue for us. The room was missing some essential items. There was no toilet paper so I had to go down to get some and there was no spare blanket in the closet for the sofa bed. So I had to make another trip to get items that are almost always in the rooms already. The next night I needed to get some ice but I needed another ice bag so I went down stairs to ask for another bag and the front desk staff filled it up for me right there so I didn't have to make an extra trip to the ice machine. The staff was happy to help out with no issues. Overall it was a great stay just a few minor issues. I will stay at Hyatt Place again in the future.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Love Hyatt Place Hotels",
+    "reviewText": "music can be a bit loud, and can be heard in the adjacent guest room. so exercise quietly! :-)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Could be a home away from home.",
+    "reviewText": "Great room, great staff, late check out-no problem.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Marathon weekend",
+    "reviewText": "Very convenient location close to airport and quarry market",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "NEED TO IMPROVE ELEVATORS",
+    "reviewText": "AWFUL!!!! WORST ELEVATORS NEED TO CHANGE THEM IMEDIATLY",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Choice for Conveneince and Value",
+    "reviewText": "Like the ease of checking in, checking out, breakfast and snacks, parking right at door. Like the location. Convenient to Downtown, Airport and the Quarry. The hotel was obviously an updated older hotel. Only thing I would like different is a slightly larger bathroom. But all the positives make it a great choice. I would stay again. I really appreciated not having to deal with the parking issues associated with the downtown or larger hotels.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-12-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Choice for Conveneince and Value",
+    "reviewText": "BEST Value and INCREDIBLE price. Don't bother anywhere else.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Choice for Conveneince and Value",
+    "reviewText": "great rooms and meeting spaces",

@@ -1,0 +1,1000 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and clean",
+    "reviewText": "Need better coffee setup",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value in Napa. Very clean.",
+    "reviewText": "Very clean, nice breakfast (simple), this is a good value for Napa. It was a little noisy and the bed was firm for me, but I like a softer bed. Friendly staff and good location to get on the main highways. Definitely would choose it again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value in Napa. Very clean.",
+    "reviewText": "walls are paper thin. the snoring man lady night may as well have been in our room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "old fashioned motel at right price",
+    "reviewText": "Old School kind of place nicely remodeled will stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "In Napa for concert great price, location",
+    "reviewText": "All good except breakfast. Would have like to see some boiled eggs. No protein. Ate elsewhere.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de415a"
+  },
+  "name": "Comfort Suites Mount Vernon",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "IL",
+    "city": "Mount Vernon",
+    "postalCode": "62864",
+    "address": "404 S 44th St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-88.9489, 38.31069]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to overnight",
+    "reviewText": "After a long drive the comfort suites in Mount Vernon is well located, clean and comfortable and the breakfast wasn't bad. The staff were very friendly. We asked about staying with dogs and they are very dog friendly, so we're bringing the kids next time. Exactly what we needed in a hotel on the highway.",
+    "reviewerCity": "Bloomington",
+    "reviewerState": "IN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "had a famliy member in the hospital",
+    "reviewText": "had a famliy member in the hospital for some surgey on friday and i called and debbie talked with me what a great lady she booked 2 rooms for the famliy for thursday and one for friday night and held one back in case something did not go right but everything did this is a great place i will go... More",
+    "reviewerCity": "illinois",
+    "reviewerState": "IN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place, good people",
+    "reviewText": "Enjoyed our stay here. Clean and comfortable king suite. Heating/cooling system is a bit different. So make sure you ask at the desk. The breakfast was step above the normal hotel chain fare which was a plus. We'd come back here.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "The only negative was the check in gal. She would not honor the online rate, even when I showed her my phone. She said she must use the rate shown on her computer, even though it was almost 15 more. Other than that hiccup, the place was great. Clean, spacious, fresh popcorn popped, the pool was clean with lots of... More",
+    "reviewerCity": "Clearwater",
+    "reviewerState": "MN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Road trip",
+    "reviewText": "Best hotel on our road trip. Great room and happy there was a mini frog and microwave. Friendly staff and nighttime snacks of cookies and popcorn. We would definitely stay at this hotel in our next road trip.",
+    "reviewerCity": "Sycamore",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome Nice Convient",
+    "reviewText": "It was an awesome place to stay overnight. The pool and the spa was really nice and great temperature. The room was spacious and very clean. We really appreciate the nice bed that was comfortable and had a really nice rest. The room was quiet and comfortable. The breakfast was great including regular waffles and blueberry. The staff was kind... More",
+    "reviewerCity": "Bellevue",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Large enough room to accommodate my large family comfortably. Very clean and comfortable! Welcoming staff. A very good value. Ample breakfast options with several healthy choices available. There are many hotel options at this exit along I57, if you have a bigger family, consider Comfort Suites.",
+    "reviewerCity": "Bellevue",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Very clean, Very helpful staff",
+    "reviewText": "We drove for hours and called for a late arrival. When we arrived, the desk staff was very welcoming. The gentleman behind the desk impressed me because he took pride in the hotel and the service he gave to his guests. A nice twist to customer service which made us feel special. The room was so clean. Even the fixtures... More",
+    "reviewerCity": "Batavia",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient, very clean, nice stay",
+    "reviewText": "Nice quiet hotel off the interstate...very clean, comfy beds....we had a suite which was cheaper than a regular room. Usual free hotel breakfast with lots of choices. Staff was very friendly and helpful.",
+    "reviewerCity": "Racine",
+    "reviewerState": "WI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "A Real Blessing - Wish I could have stayed longer!",
+    "reviewText": "I checked out of Holiday Inn after a bad experience in the middle of my stay in the area. I called Comfort Suites and they assured me their hotel was newer and quiet. When I checked in they remember my call and the front desk person was sweet and friendly. They let me check in early and even gave me... More",
+    "reviewerCity": "Minneapolis",
+    "reviewerState": "MN",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de415b"
+  },
+  "name": "El Celler de Can Roca",
+  "categories": ["Hotels", "Bed \u0026 Breakfasts", "Hotels \u0026 Motels"],
+  "location": {
+    "country": "ES",
+    "state": "CA",
+    "city": "Napa",
+    "postalCode": "94558",
+    "address": "1815 Silverado Trl",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-122.276152, 38.315025]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2006-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Sophisticated blend of Europe and Asia, bedroom and spa. The SceneThis hotel's twelve romantic rooms lie on the banks of the meandering Napa River. The setting is peaceful and elegant, the hospitality phenomenal. Gourmet breakfasts are packed in picnic baskets for guests to enjoy on wine country jaunts, back at the hotel's waterfall terrace, or, an even more popular option, in their soft down-covered beds.The DetailsUnlike many of its wine country neighbors with their frilly Victorian lace and overpowering floral wallpaper, this elegant inn takes the clean, soothing ambiance of its spa into the bedroom. Not all rooms are the same, but all are sophisticated, and appointed with fireplaces, L'Occitane bath salts and fine Frette linens. In luxury rooms the white, khaki, lemon, and olive tones join palm fronds, gauze canopies, and Balinese fans to create a colonial Indochine flavor. In premium suites, guests can enjoy their own private spa with hydrotherapy bathtubs and a private riverfront terrace.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 8
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2003-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Hidden Treasure and 5 star Staff This inn is anything but little - the management and staff are larger than life - an inn that most delightfully recognizes the needs of the traveler in the new millenium. The new owners are not only friendly but they are so honest about providing the best in service. The rooms are decorated with great space and comfort, and with a deliscious breakfast every morning and a cheese and wine social in the evenings. Allows you to indugle and meet those just as lucky. Rumor has it this spring brings more improvement in the of rooms, flat screen tv's and more service's.......thank you to the staff for their dedication and thank you to the management for urge to revisit and experience this inn over and over. See you in the late spring..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 8
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2006-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Honeymoon Blues My husband and I stayed here back in September while on our honeymoon. While the inn is lovely, the service needs work. Here is a short list of the comedy of errors we encountered during our stay: our room was double booked when we arrived it took an hour for them to relocate us housekeeping knocked at our door 3 times in one evening when we had the 'do not disturb' sign on the door service staff calls prosucitto pro-scoot-toe and received apology note with huge typo among other things. We wrote a letter to the owners and never heard anything back -- bad customer service! The spa, however, is fabulous.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 8
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2002-12-15T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "First Night Great...Second Night O.k. The El Celler is a simple, elegant, and luxurious piece of property. On our first night we were able to upgrade to a nicer room--one that had a fireplace, jacuzzi tub, view of the river, and was very roomy. The room was worth the 295(normally 425) a night price tag. However, on the second night for the same price we were in a very cozy 300sqf room--that while it was nice--was not worth the money. Overall the experience was good, but not great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 8
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2005-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "As good as it gets Romantic atmosphere, spacious and luxurious rooms, tranquil setting, fantastic staff. Between the amazingly comfortable bed, the spa tub, and the fireplace, we found it extremely difficult to tear ourselves away from the inn long enough to actually go do some wine tasting.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 8
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2002-12-25T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "best in the wine country My wife and I travel extensively and I can honestly say this property easily ranks up with the best we have ever stayed at. The quality and sophistication of the rooms and deacutecor, the service and ultra attentive staff was a 10+. The premium rooms are pricy, however our experience is that the other comparable hotels were more expensive (600+) and not as refined. Our friends we traveled with felt the same and we plan to visit again next year.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 8
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Not Very Cordial While the website looks great and the backyard is like it is shown on the website, it is located right on a highway and the noise from the road is a factor. We flew in from the east coast and arrived at the Millikin Creek Inn around 3:00 PM, hungry from a day of flying and had jet lag. With that we asked if there was a nearby restaurant (the Inn does not have one). They sent us to a quaint place called Don Giovani's. Great food and atmosphere. Now the story about Millikin. We went to bed early around 6:30 PM because it was 9:30 on the east coast. Well needless to say we were up at 6:00 am west coast time. While walking around in our overpriced room we got a call from the owner (Sunday Morning at 6:45 saying we were bouncing around a making too much noise for the guest on the floor below us. Needless to say, I explained that going to the bathroom did not constitute bouncing around and suggested she fix the acoustics in their room and not blame the guests paying over priced rates. We said we would leave but she did not want to give us our money back for the second night. That night a wedding party showed up and we listened to them on the floor below making noise and taking a Jaccuzzi at midnight. Needless to say, it spoiled our trip to Napa. I would not recomend this Inn. Mush better places elswhere.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 8
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de415c"
+  },
+  "name": "Wingate By Wyndham Pueblo",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CO",
+    "city": "Pueblo",
+    "postalCode": "81008",
+    "address": "4711 N Elizabeth",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-104.618378, 38.32148]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Pueblo----stay",
+    "reviewText": "Great stay, different pillows would have made the stay even better",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Pueblo----stay",
+    "reviewText": "We had a great stay! The staff was SUPER nice and helpful. I would recommend them to anyone traveling with kids or by themselves. I felt safe and my grandkids did also!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "DO NOT get a queen pull out bed!!!!!!!",
+    "reviewText": "We were pretty disappointed in the comfort of the sofa sleeper. It was by far the most uncomfortable and lumpy thing I've even had to sleep on. I originally booked 2 queens and received a call the day before to see if we were willing to switch to a King size bed with a comfortable pull out queen bed on the house. She kept emphasizing that the room is slightly larger since we have 2 adults and 1 child. So we agreed. WORST DECISION EVER. The queen pull out was not only lumpy and slanted, but even our 3 year old said she was NOT sleeping on it! Obviously they've never slept on their own pull out because if they did, then it would've been thrown again 10 years ago!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Stay Ever",
+    "reviewText": "The hotel staff were very friendly and helpful. They went out of their way to provide assistance to my wife and I as we were trying to locate a house to rent. The food provided for the breakfasts were very good. The room was clean and comfortable with plenty of space to relax.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome Hotel",
+    "reviewText": "This hotel was very comfortable especially our room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet Comfy",
+    "reviewText": "Really great location right off the interstate - some restaurants close by. Nice large and clean rooms, typical chain, but well appointed with 'fridge and large TV. Free hot breakfast too - eggs, waffles, etc. I found the room on the third floor quiet even though the place was booked solid. Highly recommend!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Another great stay at Wyndham!",
+    "reviewText": "Very pleasant stay. Staff was great! Great location!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "pueblo",
+    "reviewText": "Passing through nice",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to get away",
+    "reviewText": "Nice place. Phenomenal staff. Worth the money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good but not great",
+    "reviewText": "The room was clean and the bathroom was great. However we found the mattress and pillows to be stiff and uncomfortable. Also maintenance was working on tiles in the pool area on Saturday morning. It was very noisy and I thought that work could have been done on a weekday morning when the pool would not have been busy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a bad choice",
+    "reviewText": "no issues - basic hotel but seemed expensive for the area",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-05T00:00:00.000Z"
+    },
+    "reviewTitle": "One of the Better Motels in Pueblo",
+    "reviewText": "The motel is well maintained, clean, and offers a lot of amenities. My stay was a free reward night so I can't speak regarding the room rates and value. The location is convenient to I-25 and Hwy 50 west.",
+    "reviewerCity": "Denver",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "One of the Better Motels in Pueblo",
+    "reviewText": "Our stay would have been perfect except the pillows are very small and hard as a rock. Also, the heater was noisy even after I turned it off.",
+    "reviewerCity": "Denver",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "One of the Better Motels in Pueblo",
+    "reviewText": "Walls were somewhat thin times, but great otherwise!",
+    "reviewerCity": "Denver",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay",
+    "reviewText": "Clean and comfortable room. Great service and decent breakfast. Overall, I would recommend this hotel.",
+    "reviewerCity": "Denver",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "cash deposit",
+    "reviewText": "did not like having to leave a cash deposit (100) and a valid credit card to check inn. also having to stand there and wait for the maid to check room before we could leave made me feel very unwelcome and will never stay their agin. thought i was renting a nice room for the night not checking in to roach motel",
+    "reviewerCity": "Denver",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent!",
+    "reviewText": "I stay at this hotel whenever I am in Pueblo on business, which has been quite often lately. Frankly, I am never disappointed in my experience.",
+    "reviewerCity": "Aurora",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Welcoming",
+    "reviewText": "Just an overnight stop to a destination, but so welcoming and convenient to shopping, restaurants and gas station. Greeted by an exceptionally nice front desk person. Continental breakfast the next morning was easy and quick with standard selection of waffles, biscuits and gravy, sausage, egg patties, cereals, juice, yogurt, fresh fruit. Hotel was clean, comfortable and safe. Nice stay.",
+    "reviewerCity": "Aurora",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Bring your own pillow.",
+    "reviewText": "The room was fine, but the pillows are horrible! They are hard as a rock and tiny. Only about 12 X 12 inches. Also, the boyfriend of the receptionist was hanging around, riding the elevator, walking up and down the halls, and he was creepy.",
+    "reviewerCity": "Aurora",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Bring your own pillow.",
+    "reviewText": "Brandon at the front desk is wonderful. He was friendly, inviting, and made sure all of our needs were taken care of. This is a great location for business travelers.",
+    "reviewerCity": "Aurora",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Bring your own pillow.",
+    "reviewText": "The hotel staff was very friendly and helpful. The room felt quite dirty, though.",
+    "reviewerCity": "Aurora",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Pueblo Wingate",
+    "reviewText": "I stayed at the Pueblo Wingate off of I-25 per suggestion of a co-worker. All employees are friendly, the breakfast is good, and the room clean. Weekends can get noisy with swim parties, but overall, the bed was comfortable and generally quiet.",
+    "reviewerCity": "Knoxville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel was nice, rooms were nice, the breakfast was great...",
+    "reviewText": "Hotel was nice, rooms were nice, the breakfast was great! We got in town in the evening, asked the night worker for a crib for our 7 month old when he came back in from smoking which he was out smoking every time we came in or out of the hotel, was told they don't have cribs. Thought that was... More",
+    "reviewerCity": "Edwardsville",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Peaceful in Pueblo",
+    "reviewText": "Friendly staff.... Nice pool and fitness center... Good breakfast with hot bar Don't miss old town with its River Walk. Great restaurants and brew pubs.",
+    "reviewerCity": "Edwardsville",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy Business Traveler",
+    "reviewText": "Clean Quiet hotel with great staff. Comfortable bed and pillows. Room to work. Everything you would want - an easy stay.",
+    "reviewerCity": "Edwardsville",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "The room is very comfortable and clean. Staff was very...",
+    "reviewText": "The room is very comfortable and clean. Staff was very friendly. Overall very nice accommodations.",
+    "reviewerCity": "Norfolk",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value",
+    "reviewText": "Very clean and up to date Hotel. Price was good and stay was wonderful.",
+    "reviewerCity": "Norfolk",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay!",
+    "reviewText": "last minute getaway to visit some family. Great pool -kids had a blast. Everything was clean and staff was super friendly. Would stay again as price was so reasonable. Free breakfast buffet was enjoyable!",
+    "reviewerCity": "Norfolk",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay!",
+    "reviewText": "Everything was amazing including the manager in duty, grate service!.",
+    "reviewerCity": "Norfolk",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent hotel and staff!",
+    "reviewText": "The Wingate in Pueblo was clean, very comfortable beds and friendly staff. When I told the employee at the front desk that I was in town to take a test, she took it upon herself to put me in a room with no neighbors in hopes of me having a quiet, relaxing night. The next morning when I came to the lobby for breakfast, she wished me luck on my test. I was so impressed that she remembered I had a test that morning! I highly recommend the Wingate.",
+    "reviewerCity": "Norfolk",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent hotel and staff!",
+    "reviewText": "WE got in late around 10:30p and by the time we went to bed and turned on the a/c for noise and some cool air, the unit made a terrible noise. Had to turn it off after 30 minutes because sounded like an old airplane w/engine problems ready to take off! Too late to complain so opened window for cool air since we were on 2nd floor. Noise from room upstairs and on floor. Walls thin. Beds very uncomfortable. Won't stay here again. Not a good experience!",
+    "reviewerCity": "Norfolk",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay",
+    "reviewText": "Hotel is well maintained, and staff was very pleasant. Breakfast was decent and a number of choices were available. The hotel was nice and quiet despite being in a busy area. The location was very convenient to what we needed.",
+    "reviewerCity": "Norfolk",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Home Away from Home",
+    "reviewText": "I stay at this hotel several times a year. Great people! Great management! Good location, a number of restaurants close! Value! Comfort! Friends. Seriously, EVERYBODY here is friendly and helpful - housekeepers, breakfast ladies, desk personnel, managers!",
+    "reviewerCity": "Newman",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for business, nice breakfast.",
+    "reviewText": "Hotel room smelled like someone had smoked it in previously in a damp basement. I had to wash all my clothes when I got home, haha.",
+    "reviewerCity": "Newman",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for business, nice breakfast.",
+    "reviewText": "the air conditioner in our room did not work well at all.",
+    "reviewerCity": "Newman",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "GOOD EXPERIENCE!",
+    "reviewText": "STAFF WAS FRIENDLY, HOTEL ROOM WAS MODERN AND CLEAN, ROOM WAS COMFORTABLE AND NEAR THE INTERSTATE AS NEEDED",
+    "reviewerCity": "Newman",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful stay...",
+    "reviewText": "The weather aside, the stay here was great. Easy to get to, close to lots of sites to visit and restaurants, stores etc.... Staff was friendly and we were lucky enough to be very close to the pool, spa, vending, ice machine....etc. Very nice and pleasant stay...",
+    "reviewerCity": "Newman",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "Got to the hotel late, gave us a discount at a near by restaurant. Maxine who worked the desk was just what I needed after a long drive from northern Utah. A friendly, warm greeting raises one's spirits. The room was nice, quiet and comfortable. I booked it thru Trip Advisor, a good way to book a hotel.",
+    "reviewerCity": "Southlake",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay for business in Pueblo",
+    "reviewText": "I traveled to Pueblo on business and stayed at the Wingate. There was ample parking and the hotel is easy to find. The front desk was very welcoming and the room was spacious and quite. The bed was comfortable and the room was very large and comfortable as well. The WiFi worked well and was fast. The breakfast was a basic hot breakfast with egg omelets and sausage, juice from a dispenser, donuts, coffee, tea, etc. Fresh fruit would have been a nice addition. All in all, a very good place to stay for business in Pueblo.",
+    "reviewerCity": "Southlake",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay for business in Pueblo",
+    "reviewText": "Very nice accommodations for the price. Very comfortable room with nice amenities.",
+    "reviewerCity": "Southlake",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay for business in Pueblo",
+    "reviewText": "This was a great hotel. Super clean!! Very quiet rooms",
+    "reviewerCity": "Southlake",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to csup",
+    "reviewText": "Nice hotel very friendly staff clean and affordable",
+    "reviewerCity": "Southlake",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-02T00:00:00.000Z"
+    },
+    "reviewTitle": "What a great place!!",
+    "reviewText": "From the moment we checked in to the moment we left, this hotel was amazing. Once we got into our room it was so comfy looking, the room was very very clean. I liked that when we checked in they had a little gift basket for us. With water chips, cookies and candy.. We had a great few from our... More",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "What a great place!!",
+    "reviewText": "Hotel was good except had bugs in my bed. Manager said they were beetles",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleased",
+    "reviewText": "Very comfortable quiet and excellent price. Clean!!",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Exceeds expectations",
+    "reviewText": "Second time staying here, staff is fantastic. No complaints. Will stay again.",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay",
+    "reviewText": "Very nice, very friendly, very helpful staff",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay",
+    "reviewText": "Very comfortable room. You wont be disappointed",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay",
+    "reviewText": "Room was very clean, bed was extremely comfortable and the staff was amazing.",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Passing through Pueble",
+    "reviewText": "Nice travel stop convenient to the Interstate. Good service.",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "I stayed ther before, and I would stay there again",
+    "reviewText": "The staff was considerate of the fact that I was a oxygen user, and gave me a room close to the lobby. I was very thankful for that.",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Another great stay",
+    "reviewText": "Love it. Everyone was very nice. I forgot my toothbrush no problem. They have you covered. Breakfast was great and pool was just the right size and temp.",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Another great stay",
+    "reviewText": "Great place. Would definitely stay again",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Super noisy and the room smelled like flatulence.",
+    "reviewText": "We stayed last minute while passing through to New Mexico. I asked for a quiet room and explained to the guy I am a chronic complainer of night noise. He chose to put us in a room with a shared door, under a bunch of high schoolers who jumped on the bed until midnight (because they woke me up) and loud lobby noise (which went away around 10:30). I heard every faucet being turned on, every thing the neighbors said and every door close and open. I think the walls between the rooms were an illusion because they certainly didn't block anything except who was in the room next door. It was of course the last room and we were so incredibly road weary. We to stuck with it. And the room smelled like someone had just gone in there and let one rip. Must have seeped through the imaginary walls.",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location!",
+    "reviewText": "Our overall experience was GREAT! Staff very friendly and helpful. Great location!",
+    "reviewerCity": "Rocky Ford",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "new facility - great location - excellent staff",
+    "reviewText": "New facility, great location, excellent staff, and all for a good price. This is not an ad - I stayed here while accompanying my mom thru cancer surgery in Feb 2016. I had enough to worry about without any hassle for accomodations. The Wingate folks greeted me when I arrived at like 4am, the room was clean and quiet, and... More",
+    "reviewerCity": "Rural Hall",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice accommodations and staff.",
+    "reviewText": "The hotel and staff were very acceptable. However, I had to change room keys every day. Expedia originally booked me for one night when I wanted two. When Expedia did a correction and added the second night it was a whole new booking. Then I had to extend one more night due to weather and that was another new booking, thus, three different room keys.",
+    "reviewerCity": "Rural Hall",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Very comfortable excellent hotel",
+    "reviewText": "I come back to this hotel often and tend to compare other hotels to this one. The staff always goes above and beyond to be friendly and helpful. The rooms are large, comfortable and clean, I use the pool after a long drive to help relax. Breakfast is free and there are local restaurants in walking distance.",
+    "reviewerCity": "Albuquerque",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "We were very happy with our room and the hotel condition and amenities in general. The staff was nice, especially in the breakfast room. It was a nice improvement upon our stay at another local hotel, for only a few dollars more. We would stay here again.",
+    "reviewerCity": "Albuquerque",
+    "reviewerState": "NM",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel to deliver relief from the drive",
+    "reviewText": "Great service from the time you enter the hotel. If you don't like there facility for your work out they offer a 2.50 to go down around the corner to a fully equipped gym. The room was nice with a fridge, bed was very comfortable. Sleep was great. breakfast was hot, and inviteful... You will enjoy your stay!",
+    "reviewerCity": "Bunbury",
+    "reviewerState": "NM",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel to deliver relief from the drive",
+    "reviewText": "Comfortable, quiet, easy, what else is there to say Great hotel.",
+    "reviewerCity": "Bunbury",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Everything was great.",
+    "reviewText": "We stayed here either 2 or 4 years ago, worry times run together. Loved it both times. All the staff were great and helpful. Room was large and clean and the free breakfast was very good.",
+    "reviewerCity": "Bunbury",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel!",
+    "reviewText": "Very nice place especially for the price. The rooms were clean and the bed was very comfortable. Would recommend this hotel to anyone needing a room in that area.",
+    "reviewerCity": "Bunbury",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel!",
+    "reviewText": "Great place great staff",
+    "reviewerCity": "Bunbury",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleased",
+    "reviewText": "We stayed for 3 nights and very peaceful sleep each night. Bed pillows was very comfortable. It's nice to have a refrigerator in the room. Breakfast was wonderful. Wifi worked great. Front desk and housekeeping was very friendly.",
+    "reviewerCity": "Bunbury",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "This place was very nice, conveniently located, staff was great, breakfast was good, rooms were nice and clean!",
+    "reviewerCity": "Bunbury",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-25T00:00:00.000Z"
+    },
+    "reviewTitle": "First Stay",
+    "reviewText": "We had not stayed previously at a Wyndham hotel but wanted to find something new. I was using a walker but did not ask for an assessable room. Much to my amazement the walker fit through the bathroom door. We did not participate in breakfast so I cannot review that portion of the hotel. Room was clean and comfortable. We... More",
+    "reviewerCity": "Westcliffe",
+    "reviewerState": "NM",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent",
+    "reviewText": "I stay at this hotel often am extremely happy with every experience. the rooms are clean and up to date. the staff is very friendly and helpful. I have never had a bad experience staying here.",
+    "reviewerCity": "Alamosa",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "just passing through",
+    "reviewText": "We were traveling and this was just an overnight stock. The hotel was very nicely appointed with a great breakfast serve our purposes well.",
+    "reviewerCity": "Alamosa",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "just passing through",
+    "reviewText": "Stayed one night for college visit. Very clean and quiet. Bed was super comfortable! Front desk was friendly! If in area would stay again!",
+    "reviewerCity": "Alamosa",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Howell Family Reunion",
+    "reviewText": "We lost a family member and gathered all family members together at the hotel. The staff was wonderful and very supportive of our difficult time.",
+    "reviewerCity": "Punta Cana",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-09T00:00:00.000Z"
+    },
+    "reviewTitle": "layover in pueblo",
+    "reviewText": "happy with overall stay, fast and friendly check in room was nice and clean mattress was a bit squeaky, might be time for new one but it was still comfortable. Good breakfast and early which is a plus.",
+    "reviewerCity": "Colony",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great experience",
+    "reviewText": "Stay was great staff was friendly and kind and room was good.",

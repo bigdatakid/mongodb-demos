@@ -1,0 +1,1000 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de417b"
+  },
+  "name": "Hyatt House Colorado Springs",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CO",
+    "city": "Colorado Springs",
+    "postalCode": "80919",
+    "address": "5805 Delmonico Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-104.82371, 38.916011]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "nice place to stay- front desk gal was very friendly and personable- I failed to get her name but was present at both check in and check out-complimentary breakfast was good-would stay again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "the desk staff is great and will help you with anything at all.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-18T00:00:00.000Z"
+    },
+    "reviewTitle": "hidden gem of convenience.",
+    "reviewText": "All was great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel, Excellent Staff",
+    "reviewText": "Such a convenient central location, easy to access anything you'd like to do in the Colorado Springs area",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Well done",
+    "reviewText": "Great stay, good staff and hotel. Awesome breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Family vacation",
+    "reviewText": "I love Hyatt and normally stay at Hyatt Place which is always great. However, I was disappointed with this Hyatt House. The room and kitchen was clean but the bathroom was very disappointing. There was mold on the ceiling and dust on the baseboards and cabinet doors. The staff was friendly and overall we had a nice stay but I... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful view",
+    "reviewText": "Staff was very helpful and polite. Clean. Let us check in early.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful view",
+    "reviewText": "It was a short stay but it was that her enjoyable. Oh room had the kitchen and it was nice to be able to make our own meals. There was no oven so don't plan on baking anything. It was a large room that was clean and comfortable. If I return to Colorado Springs I would totally return to this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great!",
+    "reviewText": "Great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Home away from home",
+    "reviewText": "This was my home away from home for 7 nights. I have never slept on a more comfortable bed! The staff went above and beyond to make me feel comfortable and welcomed. I never even heard the train everyone complained about in other reviews. The kitchen was stocked with everything one might need. The only complaints I have are that there were very few TV channels, not enough drawer space and no water pressure in the bathroom sink. But really, I loved my stay here. I looked forward to coming home each night after very long days in a lab. I would come back here in a heartbeat. Thank you Hyatt House!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Home away from home",
+    "reviewText": "by far the best choice stay in colorado springs!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Get-a-Way",
+    "reviewText": "Went for a get-a-way weekend and were very pleased with everything. The room was beautiful and clean. The kitchen was very handy and a bonus. The bed was comfortable. We were within 15 minutes of everything we wanted to see and do.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Memorial Day Weekend",
+    "reviewText": "Everything was fine except for the TV, the channel selection was lacking, and there was no Paperview to rent movies. Also there is no EZ checkout on the TV. Staff was very helpful though.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Memorial Day Weekend",
+    "reviewText": "The people who work there are the best in their field, all waiting and willing to make you as comfortable as possible. Mine was a special occasion. They made it even more special!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Memorial Day Weekend",
+    "reviewText": "The receptionist made us feel so comfortable. We will definitely be back!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Thanks",
+    "reviewText": "Very comfortable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the inconveniences",
+    "reviewText": "I had stayed here once before and had forgotten why I avoided this hotel. Getting there is a little weird (you have to go through an apartment complex) but the location is awful since it's next to the train tracks and, as others have noted, you can hear the trains going by. My room was also on the end and every time the door that goes outside would open and shut, the door to my room would shake. The thermostat didn't really hold the temperature (it was set at 72 but felt more like 68 or 69). The room was clean and the bathroom fixtures were acceptable. Check-in at 9:00 PM the night before took over 10 minutes, however. Given the fact there are a million other hotels nearby, this one should really be towards the bottom of the list.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "A great place",
+    "reviewText": "This was 40th room in the 30th hotel in the last few months, and I had really grown to dislike hotel rooms after all that. But the Hyatt House was terrific, no noisy fan unit in the room, a relaxing layout to the room, and a superb front desk staff made my stay here wonderful. One of the best hotels in Colorado Springs.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-01T00:00:00.000Z"
+    },
+    "reviewTitle": "A great place",
+    "reviewText": "On the website is rated as a 3-star hotel, but after actually staying there it is definitely not a 3 star. The remote for the TV in the bedroom would not work and or the TV was not functioning, even though I was warned that the thermostat has been turned down, the room was cold and I could not get it to heat up, and regardless of how long you ran the hot water in the bathroom sink it would not heat up. I love the layout of the suite and otherwise would have been quite nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, clean, affordable.",
+    "reviewText": "Had a nice stay despite having the railroad tracks nearby.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect for reunion weekend.",
+    "reviewText": "Our designated hotel was booked. It turns out this was much better. It was cheaper and had a fabulous breakfast included. The room was a mini suite with kitchen, full walk in closet with full length mirror, comfortable bed, coffee, tea, burners, microwave and dishes. Great set up! Great value! We will stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect for reunion weekend.",
+    "reviewText": "Nice-Wish Pool would have been open. Dates of pool availability would be helpful on the website-since it is outdoors.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Over night",
+    "reviewText": "worked for what we needed with kitchen",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Would def stay again",
+    "reviewText": "this place was awesome very clean and spacious and very affordable compared to other hotels in that area",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "We will definitely come again!",
+    "reviewText": "We arrived in the early morning hours, over the weekend right before Memorial Day, and still excellent service from All of the staff. All of our accommodations were met every time we asked. But they were cleaning the pool.... :( .... maybe next time :)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Not happy! Won't stay there again!",
+    "reviewText": "The entrance is not clearly msrked. You turn into an apartment complex without any hotel signage and ony a small sign in the apartment parking area tshowed to turn here for the hotel. Our room was right next to a railroad track and you could hear trains late into the night, making it hard to go to sleep and stay asleep!! The breakfast buffet was just ok. We had been told by a family member who had stayed there that there was an omlet station but it was in a separate area and there was no reference of it on the regular buffet line and we didn't see it until we were finished breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "The bed was extremely hard.",
+    "reviewText": "The bed was extremely hard. Did not sleep at all. Even had extra pillows, and. I still did not sleep. Never again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Room",
+    "reviewText": "I had a great time.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay, nice people",
+    "reviewText": "Overall the hotel is nice. It's newly renovated and the rooms and spacious and comfortable. The buffet breakfast consisted of mostly what seemed like previously frozen food. It was free though so I guess you can't complain. The staff were pretty nice also. My main complaint is the noise level. We were located on the second floor. The people located in the room above me had children that slammed closed cabinets and doors and ran back and forth in their room, that was the first nights the rest of my 5 day stay consisted of new upstairs neighbors that stomped around as well and that is what I woke up to each morning.... Not quite what I was expecting on my vacation but I guess the hotel can't control the noise level of other people. I reccomend asking to stay on the top floor just to avoid any noise disturbances.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for the view",
+    "reviewText": "Stayed for 4 days and enjoyed it, the room was neat and clean and the staff was great. They up graded my room to a room with view of pikes pike..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for the view",
+    "reviewText": "Our stay was great, but the hotel is right by railroad tracks and multiple trains went by at night. It was quite loud.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for the view",
+    "reviewText": "By far the best choice stay in Colorado Springs!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel for cost.",
+    "reviewText": "Great bar and breakfast. Will stay here again next year.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel for cost.",
+    "reviewText": "Interesting bfast selection; great fruit selection but their hot bfast leaves something to be desired.... Can't complain about free though!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "wonderful",
+    "reviewText": "Lovely stay, with views of Pikes Peak. Check in staff was helpful, friendly. Returned for second night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable room with nice amenities",
+    "reviewText": "One night stay. Room was nice and comfortable. Front desk service was a little slow but attendant was very nice. Hotel in great, quiet location. Would stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable room with nice amenities",
+    "reviewText": "Tv was way too small, breakfast lobby is way too small but overall nice place",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "great place",
+    "reviewText": "It was great. Staff is amazing and very nice. It's a great location and we wI'll definitely stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "great place",
+    "reviewText": "interesting bfast selection; great fruit selection but their hot bfast leaves something to be desired.... can't complain about free though!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic !!!",
+    "reviewText": "Just a great stay, wish we could have stayed longer.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Work trip",
+    "reviewText": "Stayed here for overnight business trip. Studio suite was large and very clean complete w a kitchen. 24 hr gym was small but did the job. Would stay here again if had to return for work. Breakfast was good and can be taken back to your room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Reasonably priced. Nice facility.",
+    "reviewText": "In town for a handball tournament. Didn't utilize hotel much at all. Would consider another stay, when next in town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Never Again",
+    "reviewText": "The room was nice...I would definitely ask for a room that is not on the side of the train since it goes by about every hour. There was black mold in the corner of the shower Also, be sure the window is closed all the way. Ours was open a crack which we did not know and the air conditioner did not work At one point it was 78 degrees in our room as we tried to sleep.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Sad",
+    "reviewText": "Booked king room with handicap Assessability for my parents and they ended up with a double bed. Was told that this Hyatt only has double beds in Assessability rooms. My mom slept on the sofa. On my king bed I had 4 little sad pillows. TV in my bedroom did work. Housekeeping ran the dish washer for the coffee maker and 3 dishes. Wastefulness!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful stay.",
+    "reviewText": "Mt family and I stayed 2 nights and would've stayed longer but got stuck in Pueblo due to the snow. We called to inform them and they kept our belingings in the room exactly where we left it. The staff was wonderful and the place was beautiful. Would definitely encourage others to try The Hyatt Place. We well definitely be returning.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful stay.",
+    "reviewText": "Very nice large room, pet friendly, very nice staff, need a few extra channels on the T.V. But when I return to the area the property will be my first choice",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "hyatt house railroad",
+    "reviewText": "The place I'd clean and comfortable but they should not charge so darn much for rooms right on the railroad.this was disturbing however room was nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "We will come back!",
+    "reviewText": "We stayed for 5 nights with 2 kiddos and 2 adults. We had a great stay, everything was clean and classy. The pool and gym were great and the kids liked the free breakfast every morning. The staff were always friendly and helpful. We will stay here again!",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-12T00:00:00.000Z"
+    },
+    "reviewTitle": "We will come back!",
+    "reviewText": "Near stores and restaurants, but not too newer if you want to get away. Also a great place for extended business travelers.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "We will come back!",
+    "reviewText": "nice big rooms with kitchenettes, great staff. but the breakfast stinks.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy we stayed at the Hyatt House!",
+    "reviewText": "F not desk host Christopher went out of his way to meet all our needs! Cleaning staff was extra helpful and friendly, which you don't find in most places. We would diffently stay again. We would recommend the Hyatt House to others. The breakfast was outstanding, many choices to choose from.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy we stayed at the Hyatt House!",
+    "reviewText": "Great hotel plenty of room staff was great room was clean",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy we stayed at the Hyatt House!",
+    "reviewText": "they have refrig, microwave, breakfast,  social hour that's very nice.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent!!",
+    "reviewText": "The hotel is close to our kids so easy access to them and shopping. Staff was very professional and accommodating. Our room/suite was immaculate and the cleaning crew is the best. Very comfortable bed. Can't say enough.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful/ Clean Hotel",
+    "reviewText": "The hotel is very nice with a small bar. It's about 8-10 minutes away from the big restaurants and stores so it's not too busy there. The hotel is very clean and new. I was very pleased with my stay. I wish all hotels were like this one.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice but disappointing",
+    "reviewText": "The room was nice and it was large. No complaints there. The bed was comfortable. Unfortunately the pool and hot tub were not in operation and there was no previous disclosure. We were very disappointed as the hot tub was one of the things we wanted to do on this weekend get away. The walls were thin and you could also hear everything that everyone said in the hallways. Perhaps some better acoustics would help. We will not go back to this hotel.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice but disappointing",
+    "reviewText": "Normally we don't spend a lot of time in hotel rooms, but for this trip, we had our family coming to us. The room was a nice size for entertaining family as they came and went. And having the ability to keep snacks in the fridge and prepare things for everyone to eat while they were there was nice. All and all, we enjoyed the room and our stay. And my kids made great use of the weight room.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Blood on shower curtain room 106",
+    "reviewText": "There was blood on the shower curtain in room 106. The bottom of the inner shower curtain was light reddish. Not even sure why because it was not mold.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable and quiet, great staff, full breakfast",
+    "reviewText": "We have been there a lot the past month, visiting a sick friend. The Hyatt House is a wonderful place to stay. The staff is very friendly and accommodating, and there is a great breakfast buffet.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable and quiet, great staff, full breakfast",
+    "reviewText": "Nice hotel, nice staff near a good breakfast spot. Close to the freeway overall a good choice for the choice!",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful Hotel with So Much to Offer",
+    "reviewText": "We were really surprised at this nice hotel with so many amenities and a great breakfast too!",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Relaxing stay",
+    "reviewText": "Big room and great location, very friendly staff",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel",
+    "reviewText": "It was good stay overall even the hotel was busy and almost full. Parking lot is big and room has a spacious kicken.Easy to get around since it's right by the I-25 and a Gas station. I'd 7saty again.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel",
+    "reviewText": "Nice big rooms with kitchenettes, great staff. But the breakfast stinks.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel",
+    "reviewText": "The desk staff is great and will help you with anything at all.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "fun weekend getaway",
+    "reviewText": "Great hotel for the money. Breakfast was exceptional, not your typical free hotel breakfast. Rooms are large with a small kitchenette. The only negative is the train tracks right next to the parking lot. Next time we will ask for a room on the other side of hotel, to avoid the constant train traffic noise. The staff was very friendly, and helpful.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Typical Hyatt House stay",
+    "reviewText": "My wife and stayed here on a quick vacation and it was exactly what we expected. Nice clean rooms but not luxurious, professional staff (although the toothless man working the H bar at night was rude and patronizing to my wife!), and standard amenities. I would recommend this hotel to families who are not looking for a full resort experience... More",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel great location",
+    "reviewText": "Stayed 2 days great location. But right next to railroad tracks, could hear the coal train at night.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-05-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel for 5000 hyatt gold passport points",
+    "reviewText": "I used 5000 hyatt gold passport points to get one free night in a one bedroom king suite. I rarely give five stars to any hotel but this vastly exceeded my expectations. I asked for room on west side since I was told other side can have train noisePROSVery good quality amenities and furniture; spacious suite; spacious bathroom; two large LCD TV and one DVD player but I did not use DVD player; many cable channels on TVFree daily breakfast and free evening snacks [Monday to Thursday]Very comfortable bed with lots of pillows; great towels in bathroomFully equipped kitchenette but I did not cook anythingHelpful front desk; I was sick so he let me check in at 2pmVery quiet and peaceful location yet close to I-25Has free business center with free computers with free internet access; great for printing out airline boarding passes in advanceCONSHot items in breakfast were not fresh but frozen stuff that had been heated up",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel for 5000 hyatt gold passport points",
+    "reviewText": "They have refrig, microwave, breakfast,  social hour that's very nice.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Hyatt???? Worst place",
+    "reviewText": "the rooms on the first floor are noisey due to railroad passing and traffic noise. My room was close to the outside door to the floor And was noisey all night with people going in and out. My husband spoke with the manager and guess what They knew about these complaints in the past and even though they knew they still sold the room to us. They did reimburse the cost of the night . Wouldnt it be better to not accept more clients than to apologize and reimburse for the mistake We went to the hotel looking for comfort and rest on our vacation trip. Very disappointing.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Hyatt???? Worst place",
+    "reviewText": "The train running noise made me no sleeping.",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice!",
+    "reviewText": "My first stay in a Hyatt House and boy am I surprised! The room is actually a suite with a kitchenette and living room with a separate bedroom. You could almost call the walk in closet another room! And here's the real shocker.... THERE'S A WASHER AND DRYER IN THE BATHROOM! What a surprise. Especially for some that often stays... More",
+    "reviewerCity": "Temple",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice looking, but...",
+    "reviewText": "Room was very cold and could not turn up heat. Was unable to connect to Wi-Fi and no help from staff, just said the password should work-but didn't. TV wouldn't come on in the morning. Staff just said, yea there have been issues because the TV's need to be replaced, but it hasn't happened yet. When reserved room, requested not on the train track side again. Check in clerk told me that was all he could give me because I booked it through Hotels.com.",
+    "reviewerCity": "Temple",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice looking, but...",
+    "reviewText": "I would definetly recommend staying at hyatt house",
+    "reviewerCity": "Temple",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place in Colorado Springs",
+    "reviewText": "Staff was wonderful and the pool and fitness facilities were nice. Close to good food and an outdoor mall/shopping center. The breakfast was great, but very crowded at 8:30 a.m. when we went to eat! Needs a much larger breakfast room.",
+    "reviewerCity": "Temple",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great 5 night stay!!!!",
+    "reviewText": "We loved it here. We stayed 5 nights. The staff was very friendly and helpful. The breakfast was outstanding! To help save on cost we were able to buy food and prepare it in the room. It didnt have an oven but it had a stove top, a microwave and a frig. It had all the utensils you would need... More",
+    "reviewerCity": "Chesaning",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great 5 night stay!!!!",
+    "reviewText": "This is the 2nd time we've stayed here. Great breakfast and outdoor pool.",
+    "reviewerCity": "Chesaning",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "2-night stay",
+    "reviewText": "This Hyatt House was great all around. Clean rooms w/ fridge, freezer, microwave, dishwasher, and all the silverware and kitchen accessories you could need. Big TV w/ extra external connections. Comfortable pull-out couch and beds. Open Wifi. Great breakfast spread with made-to-order omelettes and eggs. Extra friendly staff helps make the stay easy.",
+    "reviewerCity": "Chesaning",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Over Crowded",
+    "reviewText": "I enjoyed the hotel. My boys swam in the pool, which was full and there were no towels available when they were done. I have dietary issues and welcomed the chance to make my own meal in a full kitchen. My family chose to have the free breakfast offered with our stay. There was not a seat to be had in the whole place. The staff did their best to accommodate the over-flow, but my family wound up just bringing their meals back to the room.",
+    "reviewerCity": "Chesaning",
+    "reviewerState": "MI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Outstanding service at the Hyatt house in Colorado Springs",
+    "reviewText": "I arrived late evening on July 31,2016 to find out I did not have a reservation like I thought I did. I was insistent I did and I showed my confirmation number. (Which I realized later on that I had cancelled it) Turns out the staff, Keith and Nallely were the most patient and polite front desk workers in the... More",
+    "reviewerCity": "Chesaning",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de417c"
+  },
+  "name": "Holiday Inn Express \u0026 Suites Lawrence",
+  "categories": ["Hotels \u0026 Motels", "Wedding Sites", "Meeting Facilities"],
+  "location": {
+    "country": "US",
+    "state": "KS",
+    "city": "Lawrence",
+    "postalCode": "66046",
+    "address": "3411 S W Iowa",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.260979, 38.92157]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Budget-minded travelers appreciate amenities like complimentary breakfast buffet and a kids-stay-free policy. In ShortSince its 1952 debut in Memphis, Tenn., Holiday Inn has become one of the most recognized hotel brands in the world. In addition to the Kids Eat and Stay Free program, Holiday Inn Express offers amenities like free high-speed Internet access, in-room data ports and cable television. Upgraded showers feature multi-function shower heads, curved curtain rods and upscale bath products. A complimentary breakfast bar is available with warm cinnamon rolls and 100-percent Arabica coffee.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de417d"
+  },
+  "name": "Towneplace Suites",
+  "categories": ["Corporate Lodging", "Hotels-Apartment", "Lodging", "Motels", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "MT",
+    "city": "Bowie",
+    "postalCode": "20716",
+    "address": "3700 Town Center Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-76.73404, 38.94262]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de417e"
+  },
+  "name": "Rips Country Inn",
+  "categories": ["American Restaurant", "Restaurants", "Hotels \u0026 Motels", "Breakfast Spot", "Wine Bar"],
+  "location": {
+    "country": "US",
+    "state": "MT",
+    "city": "Bowie",
+    "postalCode": "20716",
+    "address": "3809 Crain Hwy",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-76.717039, 38.942771]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "For two dollars more you mind as well get the 16oz Prime Rib",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "the eggs made me feel like i was eating rubber and the maple syrup tasted like they put water in it to make it go further. definitely not eating here again.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Celebrating Grandma's 96th B-Day",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "the maryland fish fry is delish...",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The Maryland crab cake that my Mom had was excellent! Definitely worth a try!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Great comfort food",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "the \"buffet\" here is a joke.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Decent spot for lunch.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Good breakfasts. My wife liked tje eggs Benedict, I had the cod, eggs and grits (New Englander).",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "solid brunch and deli. i like rips.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "pricey and under seasoned food. don't  get the fried chicken",
+    "reviewerCity": "",
+    "reviewerState": ""

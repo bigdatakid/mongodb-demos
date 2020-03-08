@@ -1,0 +1,1000 @@
+      "type": "Point",
+      "coordinates": [-93.32655, 30.21369]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good price for quality",
+    "reviewText": "The lady at the front desk was very helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Utilitarian. Overpriced.",
+    "reviewText": "This was my third or fourth choice for a last minute booking late at night, as all the other models in town had no vacancies. The room was clean, the clerk's service was exemplary. But the pricing seemed high for the caliber of the property and amenities.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "cleanliness",
+    "reviewText": "Nice and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "disappointed customers",
+    "reviewText": "Television was not working, maintenance did come fix it. Phone did not work and we were told to come to main office to use phone. I told them that it was very inconvenient. A dead bed bug located on the television. The bed spread had holes in it and was unclean. The carpet was dirty also.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Gotta go ... just not here ... :-(",
+    "reviewText": "Everything ok 1st night. Next morning, toilet Kitchen light stopped working. Toilet was fixed after 5pm. Kitchen was never fixed, bad ballast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "it's alright if you looking for something cheap",
+    "reviewText": "it was OK even though some butt hole hit my car",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Not for us- But not too bad.",
+    "reviewText": "My expectations were not high when we booked this, considering the cost per night was under 50 bucks. You get exactly what you pay for- a place to crash. No amenitites. No frills. Poor houskeeping. No Ice machine. We didn't realize there would be many people actually living there. we considered checking out and going somewhere else, but honestly.. for under 50 bucks a night.... the air conditioner worked well, there was a refrigerator and microwave. And since there were people living there, with kids. Ours running around didn't bother anyone. The neighborhood was good! Perfect for truckers or people passing through.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a bad price but Not to Pleasant",
+    "reviewText": "when we first got into the room it seems ok since it was really late and we were exhausted. In the morning I noticed the not very cleanliness- looks like workers had been staying there and still had a lingering unpleasant smell. In the morning I woke up to the sound of an ice machine being used---not really the way I like to wake up",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-13T00:00:00.000Z"
+    },
+    "reviewTitle": "medical trip",
+    "reviewText": "room was adequate for a two nite gambling visit. didn't spend much time in room, but it was just ok. needs new carpeting and a paint job. everything else was ok",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "medical trip",
+    "reviewText": "it was just a place to stay. That's it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Won't be back",
+    "reviewText": "Water pressure in the shower was terrible! No more than a trickle except from the broken plastic that was spraying on the ceiling and dripping on me. Almost slipped in the shower due to the plastic being so slick. Cramped bathroom with terrible layout. Iron burns on the carpet. VERY disappointed and would not stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Won't be back.",
+    "reviewText": "Nearly slipped and fell in the shower because it was so slippery only to find out that the water pressure was so terrible it only trickled - except for the part that was spraying directly on the ceiling. Layout of the bathroom was poor and cramped. Iron burns on the carpet.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Won't be back.",
+    "reviewText": "When I arrived at the hotel , I was told the there were no rooms available. I gave them my reservation number for the room, which had already been paid through my credit card. This made no difference to them. I had to find another hotel and I am still waiting to receive credit back on my credit card.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Won't be back.",
+    "reviewText": "It was okay, not too bad. The rooms were small and I hated the sheets, they were rough. But everything else was cool. The workers were nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay anywhere else!",
+    "reviewText": "My son and I were an 8500 mile road trip across the US. This was by far the worst, dirtiest motel I've ever stayed in. he motel room was not ready when we arrived and I had asked for a ground floor because my son is handicapped. I made the reservations 2 1/2 weeks in advance and the motel still couldn't get anything right.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Too Noisy",
+    "reviewText": "The room was right on the end next to the freeway and was noisy from the traffic. There was no remote for the TV and when I called for one they brought one that wouldn't work.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Cracks in walls \u0026 ceilings",
+    "reviewText": "Walls and ceiling had cracks. Was terrified ceiling was going to cave in, so couldn't sleep. Bed not big enough for 2. Will not stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "disappointed",
+    "reviewText": "No internet",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad for the price",
+    "reviewText": "hotel was ok. It can use an upgrade or remodel. Not bad for the price but hey what do you expect at the last minute.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "it's good for the price",
+    "reviewText": "I liked the stay it was clean but needed fresh blankets ..... old blankets with burns on them.... rusted areas around it ,fridge was leaking,it just needed maintenance basically",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "it's good for the price",
+    "reviewText": "The stay was fine but the air conditioner wasn't cooling",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "it's good for the price",
+    "reviewText": "The hotel needs to be repainted, the tvs are old and the room had damage (peeled paint, hole in wall and looked like they started repairs but didnt finish",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Just like at home.",
+    "reviewText": "Asley at the front was the best. She out of her way to make my me feel like I was at home. Thank you Lance",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "dirty,noisy,unprofessional,NOT what's pictured!!!!",
+    "reviewText": "Trip began with unprofessional staff stating room 's guest names in front of other guests. Maid cart in the way and when asked to move it-rec'd an eye roll and slow move of the cart. Room was NOT what was pictured on line. If we had more time to find another hotel WE WOULD HAVE!!! Room smelled musty and outdated. Empty beer bottle in the trash. Overhead lights did not work, there were hanging wires where the smoke detector should be. There were facial shaving remnants all over the back of the bathroom sink. The space below the door was about one inch tall. This was NOT the room I viewed pictures of on your website before booking. This was the first time that I booked a room through Expedia-not a pleasant stay. We were VERY disappointed. Again, if it wasn't late on a Friday afternoon after a long drive, we would have attempted to locate another hotel to stay in.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "Nice location and comfortable rooms",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Surprise - no room your your confirmed booking",
+    "reviewText": "The hotel was fine for the price and the staff was nice. The problem was I had a prepaid reservation/confirmation and the hotel routinely overbooks resulting no room available. Hotels.com refunded my price but I got stuck getting another room in a different hotel for twice the price. Talked to staff and this happens all the time. Hotel is allowing guests to extend stays even if already booked resulting in this problem. Reported to Hotels.com",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Top notch!",
+    "reviewText": "This is a fantastic hotel with excellent customer service. During my time there, the front desk staff showed a lot of enthusiasm and positive energy. They welcomed me with smiles and showed they cared about my experience from the time I checked in to the time I checked out. The girls at the desk were extremely polite and professional and they made me want to come back the next time I visit. I strongly recommend staying here.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Stay",
+    "reviewText": "It was good but they need a ice vending machine",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Not the worse",
+    "reviewText": "Good value, older rooms staff friendly",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for",
+    "reviewText": "I know it was a cheap motel but trip wasn't for leisure. Booked a non-smoking room and once I got there was given a smoking. Called to inform them and was told that booking online didn't guarantee any specific just a room. The cigarette saturated room was so disgusting. I had a headache the entire trip from the stench. My entire suitcase and even my hair smelled so nasty because of the smokey room. I cut my trip short and checked out a few days early. Oh and not in the 4 days I stayed did any kind of room service come. No clean linens or towels were brought to my room. Not even to change the trash cans.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "The main negative is smoke smell in bathroom",
+    "reviewText": "Picked non smoking room. But bathroom smelled of smoke due to ventilation system. I had to keep door closed. You can hear cars on the highway, but not too bad. Bed is what you would expect to get in motel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "The staff is the best",
+    "reviewText": "The staff is willing to help you with anything they can",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "The staff is the best",
+    "reviewText": "Don't have the word I don't like this part what do you want",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "The staff is the best",
+    "reviewText": "Rolling floors will not clean head dog food left in the bathroom also hair on the floor had a couple fleas roll up gate could be a lot neater",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "retro",
+    "reviewText": "The room was outdated. It had an old box TV and everything in the room look really old.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Room shown on internet was NOT the room we had!!!!",
+    "reviewText": "If we weren't so tired and short on funds, we would have looked for another hotel!! Staff was unprofessional-from check in to asking the maid to move her cart so that we could pass on the narrow balcony to get to our room. Room was musty and old looking. There was an empty beer bottle in the trash can upon arrival, facial shaving remnants in the bathroom sink. The hotel was SO close to the freeway, that we got/had to hear 18 wheelers all through the night. Probably didn't help that there was a 1 inch gap under the door-first time to book on Expedia-not a good experience at all. Very disappointing. Would have expected better.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible Experience never experienced",
+    "reviewText": "This was the most horrible experience I have never experienced at a hotel. I took a group of 20 boys to Lake Charles for a basketball tournament. We arrived to be told that there no rooms available. I reserved 5 rooms. The only explanation I received is we have nothing to do with Hotels.com and that he was new.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for.",
+    "reviewText": "The hotel itself looks like it is falling apart. There was a box tampons and a bar of soap already in the shower like if the room had not been cleaned correctly. Also, I have not been to a hotel room who still uses old style tv's in over two years and this one has a tv from the early 90's",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for.",
+    "reviewText": "Had to take a smoking room and had bad sinus problems all weekend",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Place needs to be  demolished",
+    "reviewText": "Booked a non smoking room the comforters had cigarette hole all over. The place was over ran by construction workers up till the wee hours of the morning drinking and barbecue pits being used on the stairs. The rooms walls were peeling and ceilings were falling in. We slept in the car and was more comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleasant staff",
+    "reviewText": "I had to change rooms three times before there was a room had the amenities promised. First room the deadbolt lock didn't work. Second room was was not clean at all bed was unmade upon check in. Third room the deadbolt worked the room was clean but there was no refrigerator. I was really in awe and bout ready to cancel but to tired from my drive so I stayed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Lake Charles Casino Trip",
+    "reviewText": "There was no noise issue even though the location is next to I-10. Even though facility doesn't furnish breakfast, the room has a small kitchenette and facility furnish cooking equipment upon request. The room had lower rate than others around and with kitchenette equipment it saves money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "unwanted pals that live with you for free",
+    "reviewText": "it's alright for the price. u might have unwanted friends that live with you though. they have roaches that live with you for free. if they gone be in there with me at least pay half. I could have gotten two beds. one for me and the other one for them.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Get away weekend",
+    "reviewText": "Relaxing stay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad",
+    "reviewText": "Had a good stay here. Defiantly got what I paid for. Only downside was the walls were paper then and could hear literally every person through every wall. Wasn't too happy about the people partying above us all night. Kept hearing loud noises keeping me up until 2 am.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-23T00:00:00.000Z"
+    },
+    "reviewTitle": "ok",
+    "reviewText": "Ok",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Bring clean sheets and everything else",
+    "reviewText": "It was by far the worst place I have ever stayed! I have been to different countries but even this place in the United states was in worst conditions than in most. Only reason why we stayed here is because it was a last minute thing and needed to sleep for a couple of hours. Sheets were dirty, the drawer was broken, towel rack is bent, toilet was disgusting,the bathtub looked like someone had gotten in a fight in there by the holes, and there was no blow dryer. I know that it was not very costly but I would have been better off just sleeping in my truck or in a tent.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Noise",
+    "reviewText": "The carpet was dirty people was hanging out all night long.i checked out early wasn't any one the office",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Sucked",
+    "reviewText": "I didn't like it tossd and turned the whole time therw. Disrespectful night staff... Lazy house keepers",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Sucked",
+    "reviewText": "It was a good stay. For the price I couldn't believe that ee also had a fridge and stove.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Louisiana room review",
+    "reviewText": "Had a good time, just wish it said ahead of time pets were 25.a night. All it said was pets welcome. And no coffee pot in room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for.",
+    "reviewText": "The room was small and the bed was even smaller. It was OK for the price but I wouldn't stay more than one night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "In need",
+    "reviewText": "Not that great but not at mothers",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "In need",
+    "reviewText": "It was kind of a funky motel, but fine for the roughneck workers that use it. I would never bring my gf there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Place needs to be demolished",
+    "reviewText": "Booked a non smoking room the comforters had cigarette hole all over. The place was over ran by construction workers up till the wee hours of the morning drinking and barbecue pits being used on the stairs. The rooms walls were peeling and ceilings were falling in. We slept in the car and was more comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Filthy",
+    "reviewText": "Did not stay here after looking at two rooms that were both filthy. Thus far I have not received a credit on my Visa card used when booking through HOTLES.COM",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Filthy",
+    "reviewText": "Never will stay here again. Dirty towels shirts behind restroom door. Smoke detector hanging from ceiling w/wires exposed. Rust paint peeling from wall. Clerk dry rude. No towels or trashcan n room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Filthy",
+    "reviewText": "This is the worst hotel I've ever Done!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Not good parking for long trucks.",
+    "reviewText": "Wasn't anything like it shows online rooms are in bad condition an they have box tv's. in serious need of attention!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "get what you pay for....",
+    "reviewText": "the hotel was ok for the price.the room was in much need of repair...carpenter needed..no room or maid services..lots of noice from i10 all night long...i felt safe and the shower water was great temperature wise.not worth a penny over 50 dollars per night...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs update",
+    "reviewText": "The hotel was badly out of date . We didn't even have blankets on the bed just sheets .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs update",
+    "reviewText": "Was the worse hotel i have ever been,dirty pillowd,dirty blankets.alot of rouches,real bad oder",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible old and dirty.",
+    "reviewText": "This hotel so horrible I refused to stay. It should not be on this website",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fe2"
+  },
+  "name": "Sleep Inn Slidell",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Slidell",
+    "postalCode": "70458",
+    "address": "142 Oak Ct",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-89.78667, 30.22415]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Room",
+    "reviewText": "Our room was clean and the staff were friendly and helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Slidell's best little secret!",
+    "reviewText": "Loved the hotel! Wasn't to far from New Orleans... Staff was nice and friendly! We checked in pretty late at night. Check in was quick! There was a problem because they thought I booked 1night but I had paid for 2. They found it quickly and apologized. Breakfast was ok...crowded! Need more variety to choose from, but overall enjoyed my stay and would stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Peace of mind for NOLA cruise passengers",
+    "reviewText": "Very convenient for going to cruise ship next day. Fantastic seafood restaurants in Slidell, too. We loved extensive choices for breakfast and friendly staff. Will definitely stay here again and avoid disappointments of New Orleans hotels with parking fees and rooms that never look like what you saw on line !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "good night sleep",
+    "reviewText": "The staff was great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-24T00:00:00.000Z"
+    },
+    "reviewTitle": "good night sleep",
+    "reviewText": "great hotel friendly staff i recommend. easy access",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Great Price",
+    "reviewText": "Wanted two rooms at decent price within 30min drive of New Orleans. Fit the bill perfectly. Although we didn't use it, property has a nice looking pool. It's also close to shopping in Slidell.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for the mone",
+    "reviewText": "Nice hotel for the money. Carpet near the side door was wet from rain coming in the open door. The carpet in the hallway also smelled bad due to being wet. Took a long time to get hot water in the shower and sink. Breakfast area is also small, especially when there are a lot of hotel guests.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome",
+    "reviewText": "I really enjoyed my stay!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "CONVENIENT AND COMFORTABLE MOTEL",
+    "reviewText": "This was not my first time to stay at Sleep Inn. For me, it is convenient to whatever reasons I visit Slidell. In my next trip to Slidell I will first try to get a room at Sleep Inn. Parking is good, location is good and hotel amenities are very good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Room and breakfast",
+    "reviewText": "Room very nice, would like to have a small refrigerator in room. Breakfast was very good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "5-Apr",
+    "reviewText": "This hotel was a very convenient location. The room was a little cramped feeling, but the bed was comfortable. There was a big shower, we go to enjoy some fireworks that night. You could easily get to many locations in good time.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotels for NOLA if you're on a buget",
+    "reviewText": "Room was ready on time, staff was friendly, room was clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "generally okay",
+    "reviewText": "It was a good hotel in total. The pillow covers looked a bit dirty though...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "It's OK",
+    "reviewText": "No refrigerator or microwave. Air wasn't properly working. Shower was stained and didn't appear clean. I really can't say about the service because I didn't ask for anything after I checked in. I was there for a night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Amazing staff and great rooms. Will add to places stay when traveling.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place--will return",
+    "reviewText": "The hotel was quiet and had a great hot breakfast. Beds were confortable and everything was clean!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "A great hotel!",
+    "reviewText": "A friend and I stayed here for 4 nights. We decided to stay outside of new orleans due to the price and was very satisfied with everything. The room was nice and clean, shower was awesome, and while the breakfast isn't anything fancy it still was pretty good. Would definitely stay here again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst Sleep Inn",
+    "reviewText": "I have stayed at Sleep Inns at different locations in the past and after this past weskend it is confirmed that they are not all the same. Carpet was dirty and fhere was a foul order that hit you right in the face every time you entered the room from outside.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a bad little hotel",
+    "reviewText": "This was an nice little hotel in Slidell. The staff was very wonderful and helped in anyway they could. The beds were pretty comfy. The shower had plenty of hot water. It was a quiet neighborhood with a few resurants and a gas station near by.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Phantom Phone Calls",
+    "reviewText": "Booked the hotel due to the price and proximity to New Orleans. The location was right off the freeway with a Gas station and Waffle House within walking distance. Up the freeway an exit or two is a Walmart, and strip mall with several dining options nearby. The hotel itself is slightly dated but I really only felt this way due to the bathroom, which had a sliding door that made me nervous about not being able to open it, and an old shower, but it had great water pressure and temp so no complaints. They offered breakfast in the morning but I never tried it. They did allow us to check in several hours early without any advanced notice which was unexpected and very much appreciated. My one real complaint is this, apparently there was some kind of ongoing issue with the phone causing it to ring in certain rooms but the line would go dead whenever you answered it, well we didn't find this out until the middle of the night after several hang ups. We called the front desk and they advised us to unplug the phone which we did, only to discover at 2am the next night that housekeeping had plugged the phone back in. While I was not overly bothered it did have my girlfriends nerves on edge.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-20T00:00:00.000Z"
+    },
+    "reviewTitle": "disappointing",
+    "reviewText": "First room had strange odor so asked to switch. Next room had no hot water... Had to shower across the hall. Breakfast was supposed to start at 630...still no coffee at 7 am.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "disappointing",
+    "reviewText": "The stay was quiet and relaxing so we got a good nights sleep after driving. Just what we needed. One exit up is a lot of fast food. Two exits up are several good restaurants and shopping. The hotel is at the edge of a neighborhood so it is excellent for safe jogging. The physical property was not in as good of shape as the Sleep Inn in Greenwood Village, Co. but it was acceptable. The first room was a little beat up and lacked a refrigerator, but they quickly changed us to an excellent room. They were very accommodating and the staff was very nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Purpose Served",
+    "reviewText": "My friends and I planned to spend most our time enjoying New Orleans so the room served it's purpose. We spent enough time in the room for naps and showers!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderfully comfortable beds.",
+    "reviewText": "I was pleasantly pleased with the beds in this room. They felt like luxury. The hotel doors were a little shabby so I balked at first but it was slight cosmetic problem. Didn't like sliding bathroom door as I was traveling with grandson and had to close it each time I used facilities. I would stay here again without hesitation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderfully comfortable beds.",
+    "reviewText": "Good value",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Would stay again.",
+    "reviewText": "We were on our way to New Orleans. Very comfortable. We had a problem with the TV but it was shortly fixed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Just one night",
+    "reviewText": "Good price. Clean , friendly facility. Convenient to freeway.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place for a couple of days",
+    "reviewText": "We stayed at sleep inn because there was nothing available in New Orleans. The is a good place just for that reason. Very convenient from interstate and you can be downtown NOLA in less than 30min. The staff was very nice and the breakfast was good. We ask for a non smoking room but we are quite sure it was in the past a smoking room. It had that odor and the smoke detector was yellowed from nicotine. The walls in the rooms seem to be very thin or our neighbors were extremely loud. These negatives are not enough for me not to recommend this hotel though. Would stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Consider this Inn for your stay.",
+    "reviewText": "Just an overnight stay. Room was large, clean and beautifully furnished. Large shower in bath and spa quality toiletries. Very friendly staff. We love Sleep Inns. Will use again when we cruise from New Orleans.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible",
+    "reviewText": "beat up and dirty. Toilet paper holder half way odd wall. Paint worn and dirty. Shower floor covered with dirt. The front desk clerk said she would refund money but Hotel.com would just keep it so I won't use them again either.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible",
+    "reviewText": "It was just a quick overnight stay for us. But was pleasantly suppressed when my daughter called back because she had left her hair straightener there and they were holding it for her. Items like that are easily stolen but not in this case.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Breakfast area to small",
+    "reviewText": "Hotel good in general and contents of Breakfast buffet good but Breakfast area far to small for number of guests",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to were we wanted to be,good price",
+    "reviewText": "Rooms could us a little work, but overall not bad, breakfast was good but seating area was small and crowded",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Right by the bridge and just want we needed.",
+    "reviewText": "I went down to New Orleans to celebrate my Birthday weekend which happened to be Memorial Day weekend so all of the reasonable priced rooms in New Orleans were booked. I know I would be traveling between New Orleans, Abita Springs, and Slidell all weekend long so booking this reasonably priced hotel by the bride that you cross before you get to Chalmette (and it's right by the interstate) was AWESOME. Check-in was a breeze (clerk was nice and knowledgeable), room was cleaner and more comfortable than I expected and water in the shower gets mega hot...WIN, WIN! The only one complaint I have is that there are only 3 hot items (besides coffee) on the breakfast menu (sausage, eggs, and you can make a waffle). All I ask is that they get another waffle making machine because when there is a crowd making a waffle or two a piece, it become a tedious, tiring process. Overall, I would stay again because even the other guest who were staying there was courteous of the other guest. Thank you for a wonderful stay!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice area",
+    "reviewText": "Hotel is in a safe clean area. Room was clean and hotel was as well. However, the room has a very bad smell. It seems as if it's in the air and water. The room smelled of it, clean towels did, and so did the bedding. I brewed coffee and place coffee cups in the room to mask the smell. If they could get rid of the smell it would be a great hotel to stay in.",
+    "reviewerCity": "",

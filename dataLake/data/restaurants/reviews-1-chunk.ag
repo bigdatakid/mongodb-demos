@@ -1,0 +1,1000 @@
+    "reviewTitle": "Great resort, disappointment in rooms",
+    "reviewText": "We stayed in building 6, which had only been open for 1.5 months. I loved the idea of a new building which were all supposed to be suites. The rooms were not what I would call a suite. It did have a sofa which was a cheap round unusable sofa only good for laying clothes on. The room was clean, but was not what I would call a suite. We had a tough time sleeping as we could hear people walking above us and doors opening and closing all the time. We loved the views and the idea of a pool just outside our balcony, but the water was always cold, so we never used it. We loved the resort size, nice restaurants/bars, the wait staff was wonderful as well! If the rooms were more accommodating, we would go back, but with the room being so uncomfortable, we will most likely not return to this all inclusive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "El Dorado Seaside Experience",
+    "reviewText": "From the time we arrived the staff went above and beyond to make our trip special. The facilities are exquisite, the food was excellent at all the restaurants. Every single person on the staff greeted us with smiles and were genuinely happy and cheerful. The staff seemed to be as happy as the guests, which made it so fun for us. Even the iguana living on the grounds seemed cheerful and well fed. The beaches were amazing and we took a snorkeling tour which was really super at Maroma beach at the other El Dorado hotel. It was overall one of the best experiences of our life and we plan to return as soon as we can.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Totally unexpected BS!",
+    "reviewText": "We had a great stay and on the last day expedia and the hotel held us for another 1500!!! It was an amazing resort but a total sham! Not impressed",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "You get all that you paid for and more. Romantic.",
+    "reviewText": "We loved our stayed, spend there our anniversary and was worth every penny.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente para decansar",
+    "reviewText": "Muy buena comida y excelente servicio. El personal es muy atento. La playa es muy bonita,",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Go Here",
+    "reviewText": "Very simple review, if you are looking to stay at one of the nicest resorts in the Maya Riveria this is the place. Food is great, staff is great and the rooms are great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Stay,love the tropical outdoors",
+    "reviewText": "EXCELLENT!! just can't say that enough. We stayed in a junior jacuzzi suite 3rd floor, it was wonderful. The grounds are so beautiful and well kept. I have never been to a cleaner vacation spot. The variety and quality of the meals and drinks are excellent. I would recommend anyone who wants a great tropical experience to visit El Dorado Seaside Suites by Karisma - All Inclusive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Stay,love the tropical outdoors",
+    "reviewText": "My favorite resort! Love coming back to this place",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing all-inclusive.",
+    "reviewText": "First time to ElDorado Seaside and it was amazing. Infinity pool suite in the new building was incredible. Staff went out of their way to help and the make the stay so great. Only negative was the construction still being done on part of the building but that will be done soon. Great restaurants to choose from. We only had to wait for a table one time in the whole week. Spent the days relaxing in a cabana and in the pool. Highly recommend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3f98"
+  },
+  "name": "City Express Irapuato",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "MX",
+    "state": "",
+    "city": "Mobile",
+    "postalCode": "36670",
+    "address": "Blvd Villas De Irapuato 1362",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-101.380828, 20.683032]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-10T00:00:00.000Z"
+    },
+    "reviewTitle": "���������������������������",
+    "reviewText": "",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "���������������������������",
+    "reviewText": "Great hotel! Loved the breakfast provided everyday.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "���������������������������",
+    "reviewText": "Comfortable rooms. Room was always clean. Close to mall and restaurants. Bathroom was a bit small (no tube). But enjoyed my stay there",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "TODO BIEN",
+    "reviewText": "comodo, accesible el lugar y cuenta con lo necesario para una visita",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Buena opci��n",
+    "reviewText": "Muy buena estancia. El problema del hotel es su muy pobre oferta de canales de televisin y los televisores muy pequeos. Por lo dems, todo bien o muy bien",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Para el q va de paso",
+    "reviewText": "Es un ligar cmodo y de fcil acceso. Desayunos muy completos! Sin espacios especiales!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great 2 weeks!",
+    "reviewText": "Awesome breakfast,I didn't mind eating chilaquiles every morning,kitchen ladies very friendly they even call my daughter by her name everyday, reception staff super kind and friendly, room was good, beds a little to firmed for my self but no big deal. cleaning lady missed some stuff, like the toilet a couple times Overall experience, very good I will for sure come back to this hotel..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel agradable, cerca de plaza comercial",
+    "reviewText": "Agradable estancia, solamente en cuanto al desayuno que ofrecen el espacio del restaurante es muy pequeo y tuvimos que esperar varios minutos para que se desocupara una mesa, fuera de ese detalle, el hotel y las habitaciones son cmodas.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Estancia agradable",
+    "reviewText": "Me pareci muy bueno el trato de los empleados, el deSayuno sabroso y nutritivo . Todo muy bien .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Everything is about convenience.",
+    "reviewText": "The price was convenient, the room was convenient, the location was convenient. In General, this hotel is not glamorous, but it's convenient.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "City Express Irapuato,",
+    "reviewText": "Great Hotel,, Location is perfect, Hotel general conditions are in pretty good conditions, Staff if very kind, Rooms are clean, not big but price vs service is well balanced. Thank you to all the people in the Hotel. Cesar",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "City Express Irapuato,",
+    "reviewText": "En general muy bueno",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-28T00:00:00.000Z"
+    },
+    "reviewTitle": "hola",
+    "reviewText": "Excelente",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Poca agua por ahorrar",
+    "reviewText": "Bien en general per cada vez usan menos agua en la regadera para ahorrar pero ya es demasidao poca",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "hotel con vista agradable y ubicacion.",
+    "reviewText": "la limpieza de la habitacion estuvo terrible, principalmente el bao.y se efectuaban trabajos de mantenimiento en el acceso principal sin medidas de seguridad e higiene a la hora de cierre de habitacin.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������������������",
+    "reviewText": "la limpieza de la habitacion estuvo terrible, principalmente el bao.y se efectuaban trabajos de mantenimiento en el acceso principal sin medidas de seguridad e higiene a la hora de cierre de habitacin.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad experience",
+    "reviewText": "Small, very crowd. very small water stream. Not cheap consider its condition.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad experience",
+    "reviewText": "small, crowd, little water stream. Only location is fine.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad experience",
+    "reviewText": "small, crowd, little water stream. Only location is fine.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-27T00:00:00.000Z"
+    },
+    "reviewTitle": "My Opinion of this hotel is Mediocre",
+    "reviewText": "The internet on the sixth floor almost never worked. The did however give me another room on the fourth floor. But this didn't solve my problem of the cleaning staff of replenishing my towel after removing them from the room. I stayed for 14 days at least seven of those days I asked for towels. At least four times I had to ask for new room keys because the room access cards quit working. The printer in the business center printer did not print properly. The front desk called my room to tell me my taxi was waiting for me, whom I thought a friend sent to me. Turns out no one never called a taxi for me. The motel sent me someone else's taxi who I gladly took a ride in to my friends house to find out they never sent me a taxi. I paid for a taxi ride I didn't need because my friends were getting ready to come pick me up. I checked out early and the motel didn't want to comp me for checking out early. Guess I will stay somewhere else next time.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for the price",
+    "reviewText": "Very good, clean hotel for the price, excellent loction. Good service",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "COMENTARIOS SOBRE MI ESTANCIA EN IRAPUATO",
+    "reviewText": "ME AGRADO EL HOTEL Y TODO ESTUVO BIEN",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Here for work",
+    "reviewText": "Very nice room with very good service. I will stay here again when I am in town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "room service \u0026 service actitud",
+    "reviewText": "I have a late arrival looking for a light dinner and the only alternative that the hotel offers is a vending machine full of junke food In order to use the elevetor I had to wait for four elelvator due that it was full with hotel staff that never offer to let me in Very poor service actitud which has nothing do with price",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Agradable",
+    "reviewText": "Todo bien !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Sugerencias aplicadas",
+    "reviewText": "Muy contenta porque ya tienen almohadas nuevas y confortables y cobijas en el cuarto. La ultima vez que me hosped ah, fueron mis sugerencias. De hecho yo haba llevado mi propia almohada.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-02T00:00:00.000Z"
+    },
+    "reviewTitle": "banco para la maleta",
+    "reviewText": "Le hace falta donde acomodar tu maleta no es suficiente el espacio del closet",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "������",
+    "reviewText": "Le hace falta donde acomodar tu maleta no es suficiente el espacio del closet",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient Ok Hotel to stay for a couple of days.",
+    "reviewText": "Over all it was pretty good, Rooms are small, Great Location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, simple Hotel",
+    "reviewText": "This is a great Hotel for a few days of business.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean rooms and helpful staff",
+    "reviewText": "The hotel is not fancy but spotlessly clean. Staff is very helpful and even went as far as calling a staff member at home to help with our inquiry when nobody at the front desk spoke English",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Estad��a en Irapuato,",
+    "reviewText": "La persona de recepcin muy amable, la atencin para registramos fue rpida, la habitacin amplia, limpia, cmoda, el desayuno bueno, suficiente, el acceso al hotel muy bueno, ya que est en una zona de avenidas principales, la salida sin problemas y muy rpida, Si recomiendo este hotel. Lo nico deficiente el WIFI, se perda la seal muy seguido",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente relaci��n Calidad - Precio",
+    "reviewText": "Tiene lo suficiente para una estancia agradable y confortable, ya sea por turismo o para negocios. La Ubicacin del hotel y La atencin del personal son excelentes.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel Recomendable",
+    "reviewText": "Todo estuvo muy bien",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������������",
+    "reviewText": "Todo estuvo muy bien",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Agradable estancia",
+    "reviewText": "Tuvimos una buena estancia en City Express Irapuato, el personal fue muy amable y organizado, las instalaciones estn en buen estado y el servicio de internet fue eficiente.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Agradable estancia",
+    "reviewText": "Hotel cmodo, limpio, cerca de zonas comerciales y restaurantes.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel muy recomendable",
+    "reviewText": "Excelente personal, tanto en la recepcin como en todos los dems servicios. Buena calidad y cantidad de alimentos para el desayuno. Habitacin muy limpia y confortable, aunque un poco ruidosa por parte de los huespedes de la habitacin superior.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "CAMPEONES",
+    "reviewText": "MUY BIEN",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "recomendable.",
+    "reviewText": "Muy agradable la estancia Limpio.. Fresco..amable personal . Lo volveria a reservar",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-04T00:00:00.000Z"
+    },
+    "reviewTitle": "El personal despierta con sus fuertes toquidos..",
+    "reviewText": "Las mujeres de limpieza pasan gritando en cada habitacin: limpieza, limpieza.... es horrible que hagan eso! si pagas un hotel es para descansar no para que te despierten a la hora que se les d la gana las personas de limpieza. El desayuno X, pero ms que eso la actitud de las personas de cocina. Arrebatan las cosas a las 11 en punto de la maana. Mala actitud. El personal de recepcin muy decente y amable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "El personal despierta con sus fuertes toquidos..",
+    "reviewText": "small rooms but comfortable. Located right across a mall and restaurants make it convenient. Helpful and friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Cerca del evento al que asist�� (expoagroalimentari",
+    "reviewText": "Agradable, cercano a todo lo que necesitaba, sin mucho bullicio y buena tarifa",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Muy buena",
+    "reviewText": "Los cuartos muy limpios! El desayuno excelente! Solamente el internet se cortaba mucho",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel agradable",
+    "reviewText": "Hotel agradable,muy limpio, el personal amable y muy atento",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value hotel",
+    "reviewText": "I was in Irapuato for three nights. I decided to stay at this hotel because of its proximity to the church and wedding reception venue. The location couldn't have been better. It's right across from the Cibeles Mall and if you happen to miss the complimentary breakfast, which I did once, there's a convenient Starbucks right outside the hotel. People in the reception were friendly. We were offered a ride to the church in one of the hotel shuttles. At drop off, I found out it was complementary and gave the driver a tip. The area feels very safe as it is in one of the wealthier parts of Irapuato. The room was very clean and the pillows felt quite comfortable. The AC was quiet and the TV was the right size for the room. I was concerned with some reviews about noise and thin walls but I didn't hear any other guests perhaps because I requested a room in the 5th floor, or maybe there weren't that many guests. In any case, I was pleased it was pretty quiet. Also, I'm glad you get to mix your own chilaquiles at the complimentary breakfast area.. They keep the eggs, salsa, and tortilla chips separate. This is good for the international traveler who is not used to spicy food as my companion is. I enjoyed their healthy options like yogurt and fruit. Overall, great value!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-13T00:00:00.000Z"
+    },
+    "reviewTitle": "quand meme bien",
+    "reviewText": "quand meme propre , tres bon dejeuner corect !!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "HOTEL AGRADABLE CERCA DE PLAZA COMERCIAL",
+    "reviewText": "Fue muy agradable mi estancia en el hotel, el personal muy profesional y amable, las instalaciones muy limpias y cmodas, el servicio excelente!!! el desayuno muy rico tambin, todo el personal muy servicial, tuve muy buena experiencia, adems de que se encuentra muy bien ubicado, ya que est enfrente una plaza comercial",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "HOTEL AGRADABLE CERCA DE PLAZA COMERCIAL",
+    "reviewText": "Todo muy bien, solo encontramos basura en unos cajones.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "HOTEL AGRADABLE CERCA DE PLAZA COMERCIAL",
+    "reviewText": "En general Todo Muy bien, la limpieza y calidad de la habitacin, la atencin del personal y el servicio del desayuno, (solamente que los chilaquiles estaban muy picantes). El Hotel me queda cerca de los lugares que tenia que visitar.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "El ��rea de desayunar es peque��a",
+    "reviewText": "Bueno",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "cumple con el objetivo de acuerdo al precio.",
+    "reviewText": "todo bien",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel mediano en calidad",
+    "reviewText": "No serva el telfono, estaba sucio el bao, ped camndula queen y era una matrimonial. Afortunadamente las personas del Lobby eran muy serviciales pero el hotel mal.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3f99"
+  },
+  "name": "Menehune Reservations",
+  "categories": ["Condominiums", "Condominium \u0026 Townhouse Rental \u0026 Leasing", "Hotel \u0026 Motel Management", "Vacation Homes Rentals \u0026 Sales", "Real Estate Management", "Hotels", "Lodging", "Condominium Management", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "OR",
+    "city": "Kihei",
+    "postalCode": "96753",
+    "address": "760 S Kihei Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-156.458353, 20.763436]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Condo 218 - Home away from home in Maui",
+    "reviewText": "We just returned from spending 2 weeks at the Menehune Shores Condo in Kihei, Maui and was so glad we picked this property. We were traveling with 7 people so the three bedroom, 2 bath unit was perfect for us. (We were 7 ranging in ages of 17, 21, 22, 24, and 51). We had condo number 218 which is... More",
+    "reviewerCity": "Wantagh",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Stayed in 2 different units",
+    "reviewText": "We stayed in unit 512 (a one bedroom). It was ok, fairly clean but had old furniture and needs a good update done to it. But the view was amazing. The moved to unit 105 (a two bedroom). It was filthy and outdated very badly with bugs all over inside (especially if it rained). There was old food and dirt... More",
+    "reviewerCity": "Edmonton",
+    "reviewerState": "NY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Unit 604 - nice view but overpriced.",
+    "reviewText": "We booked this unit on VRBO and stayed for two weeks. The owner was very responsive and answered all emails quickly. The unit has a very good view but is very basic - needs some updating and maintenance to make it feel more like a home. There are beach toys provided, and plenty of towels. There is air conditioning but... More",
+    "reviewerCity": "Fort McMurray",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful home away from home",
+    "reviewText": "My family and I ( husband and two kids) along with my Mother and Sister had the pleasure of staying in the beautiful Hawaiian home from Oct 4-18. It was a beautiful first floor access with stunning views of the ocean from almost everywhere in the suite. The Unit was stocked very well with everything we could need including beach... More",
+    "reviewerCity": "Calgary",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "amazing views / sad condo",
+    "reviewText": "We spent 10 days in unit 107...the property is well equipped a located in a quiet part of town. Plenty to see and explore the sunset we so amazing and a short trip to Lahina and Hana road. However.... this unit was not the best example, Upon arriving we were so excited, and the longer we stayed the more we... More",
+    "reviewerCity": "Bullhead City",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location and nice people.",
+    "reviewText": "I will try to review this in the most honest way as I am a property manager.... We stayed for two weeks in unit 526. Two bedroom and two bath condo. From what my husband told me we received a nice price for the length of our stay. We chose this unit due to our friends being a couple doors... More",
+    "reviewerCity": "Bullhead City",
+    "reviewerState": "AZ",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay in This Condo",
+    "reviewText": "We are from Oahu, HI and spent a week on Maui. We chose this condo, Unit 124, because it is on the ground floor, great location, 2 bed/2 bath, and had good reviews. The condo did not disappoint. It was exactly as described. We took long walks along the beach (even tho the area of the beach by the condo... More",
+    "reviewerCity": "Honolulu",
+    "reviewerState": "HI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointing and expensive 625",
+    "reviewText": "We have stayed in this complex before, but had a poor experience in this unit, which was touted as worth the extra expense because was recently remodeled. 1. The outside of the unit where we were was being painted. For four days, we had painters right outside the living room/kitchen and could not use the lanai. The drop cloths on... More",
+    "reviewerCity": "Highland",
+    "reviewerState": "UT",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great waterfront location",
+    "reviewText": "We stayed in 312 and we liked it very much. It was tastefully decorated and well equipped. The kitchen had everything you might need and more. The washer and dryer were large and worked well. The bath was bright and had tub and nice shower. The bed was comfortable. The view from the lanai was great. The beach in front... More",
+    "reviewerCity": "WA",
+    "reviewerState": "UT",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3f9a"
+  },
+  "name": "Excellence Riviera Cancun - Adults Only - All Inclusive",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "MX",
+    "state": "",
+    "city": "Mont Belvieu",
+    "postalCode": "77580",
+    "address": "Carr Federal 307 Chet Pto Juarez",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-86.86814, 20.87549]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Another Wonderful Time",
+    "reviewText": "Second time to this resort and absolutely love it. Staff are extremely helpful and attending. grounds are beautiful and close to the beach. Pools are large and kept clean. Rooms have been renovated to include glass shower doors, upgraded bedding and patio and lounge furniture. always enjoy the restaurants, upgraded night shows and grounds. Would definitely recommend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Lives up to its name...",
+    "reviewText": "A wonderful resort....excellent food with a professional wait staff, plenty of activities and nightly entertainment. Rooms are beautiful and very comfortable. In addition to daily maid service, there is an evening turn down service, where towels are replaced a second time. Good quality drinks. Be sure to enjoy a message at the spa. You will be asked to arrive an hour early, where you will be guided through about ten stations of water therapy jets, steam, sauna, etc. You'll be very relaxed BEFORE the message itself. Well worth the cost, and discounts are offered daily.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Relaxation in the sun",
+    "reviewText": "Food was good but not great. Wide selection, but simpler fare would be a nice choice as well. Coffee was no bueno, but better at Aroma than in restaurants. Alcohol selection was awesome, off the charts! Top shelf all the way if you wanted it. Great tequila selection Mimosas every morning. Crepes and omelets made to order. Room was very spacious and clean. Shows were good as well. Tons of bars but no nightlife to speak of. Enjoyed the stay and met some great people.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "EXCELLENT STAY AT EXCELLENCE",
+    "reviewText": "Excellent stay at an affordable price. We will definitely visit again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Serene \u0026 Relaxing",
+    "reviewText": "Liked everything. This was our 10th trip to Mexico and our second visit to this resort. We've been very happy and satisfied with every resort we've visited as all have been highly rated. However, we can say this resort is one of our favorites. It just does everything well. And it must be said that its easier on the budget than all the rest. Its also closer to the airport than most of our other resorts. Liked their gym, liked their yoga and stretching classes, At breakfast they offered the daily USA Today I have searched high low for any newspaper at several really high rated resorts, or had to pay3.50 US.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Fabulous experience.",
+    "reviewText": "We were happy with everything. Great food, entertainment, loooved the room, beautiful beach and pools!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Fabulous experience.",
+    "reviewText": "Overall very good value - - except the only Red wine available in room our bars was Cab and/or Merlot. A Pinot Noir should be part of the inclusive rate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Fabulous experience.",
+    "reviewText": "Must get two story roof top and enjoy ur private pool upstairs!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place, but check the beach conditions!",
+    "reviewText": "Hotel was excellent. Everyone was very nice and the room was clean and comfortable. Food at the Grill was great at dinner, the rest of the time and the other restaurants were ok...nothing to brag about, but not bad either. The beach was horrible, but this is no fault of the hotel. All of Cancun is apparently having issues with seaweed and they are working hard to take care of the issues. I would stay here again and would recommend, but check to see if the beach is better before going!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "The name Excellence is exactly was this hotel is!1",
+    "reviewText": "This vacation and hotel was by far the best we have ever had. The hotel surpassed every expectation!! From the time you walk out of your car to the wonderful greeting and just overall entry to room, restaurants view of the beach, food, staff all was outstanding!! Our housekeeper was amazing. The room was always spotless and you never had to ask for anything. The staff was always accommodating and fulfilled all our requests. It was such a relaxing, quite place and peaceful stay we didn't want to go home!! We will be booking our trip for next year!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "The name Excellence is exactly was this hotel is!1",
+    "reviewText": "There for 2nd time. Rooftop pool suite, club level...great time, premium liquor, friendly staff, tons of very good food options.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to vacation!",
+    "reviewText": "Myself and my wife stayed at this resort Oct.18th-24th, 2015 with a total of 4 couples. Pros: Overall, we loved this resort. The standard rooms are amazing, the resort grounds is wonderful. My wife is a very picky eater and had concerns that she wouldn't be able to find many options for her to eat, which has been a problem at other resorts in the past. She had no problems with the food. The restaurant food was great. The staff was always there to help. At times it seems like there was more staff than patrons. Cons: We had very few complaints. The beach does have a seaweed problem, which is all over the area currently. The resort was out everyday removing seaweed. The resort was doing everything they could to take care of the problem. I can't blame the resort for this issue. The resort has 5 hot tubs. The hot tubs were never very hot, especially during the daytime. We were disappointed in that area. Currently the closest men's restroom to the pool was under construction, so you had to walk a long way from the pool area to find a restroom. The last complaint we had was the pools and hot tubs closed at 8pm. This would be a easy fix. Overall, we enjoyed the resort and plan on returning in the future.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to vacation!",
+    "reviewText": "Resort was absolutely beautiful the staff was beyond attentive. There were only 2 things my boyfriend I agreed could have been better - a more private toilet (swinging glass door with gaps above below no privacy) and stronger air conditioning (never felt like we could completely get rid of the humidity so the sheets always felt damp).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice relaxing adult only resort",
+    "reviewText": "Good food, pleasant staff, well maintained, but pricey for what you get. I wouldn't upgrade to swim up or club Excellence room as perks not worth it and all rooms are basically the same inside just some beach views and perks For example the swim up is just a 1st floor room where you can walk out through the slider to the pool area but there is a hammock in the way which isn't removable and you can't go around it so you have to crawl under it, very awkward. Other swim up room amenities include a standard size jet tub outside your slider which no one uses as you have a big jet tub in your room and outside tub has little privacy. Club Excellence just has a separate pool area which is the same as all other pools and some nicer(but not much nicer) seating and lounges on the club beach area. Also when they come around for drinks they offer snacks like shrimp. Also a small club only room where you can get drinks and food but resort has many restaurants so not a big perk to me. All level rooms I saw have a step down to the slider inside the room which is unsafe fall feature. The entertainment is weak but some of the musicians were pretty good. Need more activities. Beach is narrow and was covered with seaweed, a common problem for the area. I give the place a 3.5 to 4 stars out of 5.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing getaway",
+    "reviewText": "From the moment we arrived, they received us with a cold wet towel and a glass of champagne. Our room wasn't ready because we arrived 2 hours before check in time but they told us that we could wait in any of the bars or go to any restaurant while our room was ready so we did. We went to a buffet restaurant Barcelona and the food was very good, over there Mario our waiter was extremely nice i ask for cheese quesadillas that wasn't in the buffet but we ask the chef and they actually made me some quesadillas :) They had a variety of amazing shows every night around 9-9:30pm on the dot and they will last around 30-45 minutes. The beds at the beach were extremely comfortable, the waiter will go to the beach to take our drink orders, every day at the restaurant at the beach had different themes for food ( mexican, asian, american) Perfect vacations!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent resort",
+    "reviewText": "We stayed here early February 2016 for our honeymoon. Overall our experience was fantastic. Spice was our favorite restaurant for dinner. Barcelona has an awesome breakfast buffet. The staff was always ready to take our order at all bars and servers on the beach visited often to make sure drinks were full. We stayed in a ocean view swim up pool excellence club room. We didn't use our outdoor bed and the pool as much as we thought only because the sun was gone by noonish, which was too bad. Our room did have a musty smell that I was unfortunately excited to leave by the 7th day so I would stay in an upper level ocean view next time. We will definitely go back!! The room just wasn't 100 worth the upgraded cost for the club and the swim up portion of it. We didn't utilize the excellence club as much as others might.. So probably wouldn't do that again either. Many daily activities. The shows at night were great, for the most part.. We were looking forward to the Michael Jackson show which they advertised was going to be happening the Thursday night we were there but they changed it to the following Thursday, out of our control but I was disappointed as we heard such great things about it. We met many people who were visiting for the second time so that was encouraging to hear. We also heard from many others in all their travels elsewhere similar, this was the best place! Which I could definitely understand. Everything is a short walk away from your room! I suggest a visit! :)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-16T00:00:00.000Z"
+    },
+    "reviewTitle": "awesome relaxation",
+    "reviewText": "My wife and I had a great time",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Gorgeous resort on the beach",
+    "reviewText": "We absolutely loved staying at Excellence Riviera Cancun. The buildings, pools, bars, restaurants and grounds are very well kept and cared for everyday, all day. The food was ok. Mostly strange to us and odd flavors. But with room service and 5 restaurants we were able to find food we really liked. The bars are well stocked and you can order almost any drink you can think of. Our room was stunning, with granite floors, tall ceilings, beautiful architecture design, a huge shower with granite floors and walls, a jacuzzi tub and a beautiful view from our private balcony patio. We upgraded to the rooftop suit (because I loved it) which has a small pool, bed and patio furniture on the open roof. They took us to the room first so we could see if we wanted it before officially upgrading. The only complaints I had were these the room keys would go bad and we were locked out twice. Also once (that I know of) room service ignored our Do not disturb sign and came into our room anyways. The other is the Coco Loco drink, which is made from and in a fresh coconut. They only make this drink once a day, for a 30 minute timeframe. But no one knew when. We were told on 3 different occasions, 10:30-11am, 11-11:30am and 11:30-12pm. It was only offered on the beach and everyday we tried to get down there, we were told no, that we missed the timeframe. I was very irritated that no one could give us the correct time. It was like the drink didn't exist and they would tell us a time that was past",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent!!!! But...",
+    "reviewText": "Perfect!!! But... There isn't a lot of activities to do. My husband and I have got to all three resorts now and the activities and night life is the lame. All around excellent though the staff remember your name and make it personal!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Second stay great but not as good as the first",
+    "reviewText": "We had a wonderful time here for our second trip. The resort was not as crowded due to renovations and the seaweed problem but still the staff was excellent. Food and drinks were very good. Room cleanliness was rated less than excellent because our room was not cleaned one day and the other days it wasn't cleaned until 5pm. Also the shower smelled and we never had a hot shower.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Best all inclusive around!",
+    "reviewText": "We have never been treated so good!!! Absolutely beautiful rooms, we had the 2 story rooftop. We can't say enough about how awesome the staff was! So accommodating! Anything we needed...they provided for us. We can't wait to go back! Been to Sandal's, Beaches ..Excellence was by far more luxurious! This is the place to go!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely retreat!",
+    "reviewText": "Staff and service is excellent. The food was off the charts delicious. The only thing I would really try to correct if possible, is the room had a bit of a funky mildewed scent, but being as how it's constantly humid I can kind of see why, and they had incense in the room I'm sure to help. The swim up room was perfect. Highly recommend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "The BEST resort out there!",
+    "reviewText": "My husband and I stayed at the Excellence Punta Cana for our honeymoon in 2011 and loved it so when Expedia had a special one day deal (deals are legit, dropped 1000 and was back up the next day) we jumped on it hoping it would be similar. Excellence Riviera Cancun was even better! Rooms - Buildings 1-5 circle the lazy river. We were in building 4 in a swim-up suit and it was amazing. The gorgeous spa is located right across the lazy river in the center so every morning we heard spa sounds and smelled awesome spa smells. You could barely hear the main pool. The rooms were emaculate, the shower ginormous with a rain shower head, the bed was super comfortable, and you could freeze the room out if you wanted. I don't feel the Excellence Club would have been worth it here (we did it in the DR). Pools - Super clean and fun. The lazy river doesn't move fast but it's fun and relaxing. The main pool closest to the beach has all the activities and swim up bar. It got a little crazy but if you are in the mood it's a blast. Restaurants - Honestly everything was delicious especially in dinner restaurants. Breakfast and lunch were fine, buffets are always eh, but have a great variety. DINNERS WERE AMAZING! No reservations needed/taken. We only had to wait for the French and Asian restaurants one 30 min the others under 10 min. Everything else no wait. Spice was our favorite (went twice!)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellence more than a name",
+    "reviewText": "We were in search where to celebrate my husbands 60th birthday and we defiantly hit the nail on the head. We were overwhelmed with the friendliest of the staff, the beauty of the room and just how much the resort had to offer. From the check in with an offer of champagne to check out that consisted of hugs Excellence did not disappoint. We only had 3 nights so we did not even crack the surface of all the variety in restaurants or bars or even entertainment, all we did sample was great. Top shelf liquor and the food was delicious. Our last night we joined in on the Mexican fiesta and it was spectacular. Honestly if you want to feel pampered this is the place. We will return.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {

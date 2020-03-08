@@ -1,0 +1,100 @@
+    "reviewText": "Felt welcome. Most important, the room was very clean with nice decor. Temperature was adjustable and muffed the freeway noise. Hallway was spotless, well-lit, and the lobby was also spotless.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay while passing through",
+    "reviewText": "Felt welcome. Most important, the room was very clean with nice decor. Temperature was adjustable and muffed the freeway noise. Hallway was spotless, well-lit, and the lobby was also spotless.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Buon rapporto qualit�� prezzo",
+    "reviewText": "una struttura di medio livello, stanze pulite e letti comodi. La colazione povera, poca scelta. Inoltre l'aria condizionata ha un getto diretto sulla schiena di chi occupa il tavolo. Essendo l'area riservata alla colazione molto ridotta, non c' modo di sottrarsi",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Buon rapporto qualit�� prezzo",
+    "reviewText": "Only stayed one night clean easy breakfast personnel good-- only hotel that we had to pay A tax on the pet fee.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Buon rapporto qualit�� prezzo",
+    "reviewText": "We enjoyed our stay. Free danish/cereal breakfast was not worth getting up to. Definitely sleep in.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-02T00:00:00.000Z"
+    },
+    "reviewTitle": "clean",
+    "reviewText": "Good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Cheap, clean, \u0026 comfy.",
+    "reviewText": "It was comfortable, clean. Housekeeping was very friendly and always asked if anything was needed in my room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Cheap, clean, \u0026 comfy.",
+    "reviewText": "It was comfortable, clean. Housekeeping was very friendly and always asked if anything was needed in my room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4002"
+  },
+  "name": "Homeplace Inn and Suites",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Jacksonville",
+    "postalCode": "75766",
+    "address": "1407 E Rusk St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.254599, 31.964827]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "A lodging staple for budget-minded road-trippers and business travelers. In ShortSince the Ramada brand made its debut in 1954 in Flagstaff, Ariz., the hotel franchise has been offering dependable accommodations with budget-wise perks. Families appreciate the kids-stay-free policy for children 17 and under staying with their parents. Other amenities usually include a swimming pool, full-service restaurant, lounge, in-room data ports and voice mail. Group rates--for wedding parties, corporate groups or family reunions--are available for parties requiring 10 or more rooms per night.",
+    "reviewerCity": "",

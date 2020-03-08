@@ -1,0 +1,1000 @@
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nicely renovated",
+    "reviewText": "I've been to this hotel many times before the renovation. This time I almost didn't recognize the hotel. The renovation was very nicely done! This hotel is clean and bright. I had a room with a separate living room area. It was great! There is a refrigerator, wet bar and pull out couch as well as a separate flat screen... More",
+    "reviewerCity": "Washington DC",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Just another good experience",
+    "reviewText": "Doubletree are a great value-option if you are on the row. Specially the proximity to the airport. Well I think the number of character for this survey are excessive 200 character is too long. Maybe next time don't limit the number of characters",
+    "reviewerCity": "North Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place to stay",
+    "reviewText": "This is a nice hotel, appeared to be very clean. Hotel staff was very friendly. Restaurant/Bar staff were very pleasant to deal with on a daily basis. We stayed 4 days so they learned our names and we learned theirs...For the most part it was a great stay... the only down side would be a noisy ac in our room... More",
+    "reviewerCity": "North Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place to stay",
+    "reviewText": "Oops Ken just told me if i asked for a microwave they would give one  :-)",
+    "reviewerCity": "North Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place to stay",
+    "reviewText": "Avoid this hotel, the staff is rude and rooms are dirty.",
+    "reviewerCity": "North Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "West Palm Beach Getaway",
+    "reviewText": "When we checked in I didn't think the man working the desk was very helpful. Everyone we dealt with after that was very helpful and friendly, I was disappointed in the breakfast. Did not feel it was worth 15.00. We only ate there once then went out for the rest of our meals.",
+    "reviewerCity": "Titusville",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful Service!",
+    "reviewText": "I recently took my daughter to college at Palm Beach Atlantic University. I stayed at this property August 19-22 while I was there. The front desk staff (Mercedes) and the Bell people were wonderful as well as the breakfast attendants. Special thanks to the Assistant General Manager, Mr. Omar Johnson. He was extremely accommodating and extended a warm welcome. The... More",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Doubletree - GREAT Service and Staff",
+    "reviewText": "I've been doing this a long time. I've learned that Marriott and Hilton hotels are consistently capable fo meeting my basic requirements so more often than not I'll stay in a Marriott or Hilton. This property is very close to Pam Beach International, easily accessible to I-95, and downtown Palm Beach. Parking is free and there is plenty of it.... More",
+    "reviewerCity": "USA",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Doubletree - GREAT Service and Staff",
+    "reviewText": "Friendly staff, but forgot to clean my room)",
+    "reviewerCity": "USA",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Doubletree West Palm Beach Review",
+    "reviewText": "Hotel staff was courteous. The room was clean and comfortable, with the exception of a malfunctioning air conditioner and the road noise from I-95. A word of advice to other travelers: book a room on the opposite side of the interstate!",
+    "reviewerCity": "USA",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "Quick trip for business. Room was large and clean. Check-in girl Was friendly and made me feel welcomed. The hotel was clean. No noise issues which were nice. I would stay here again. Internet seemed a little slow but still happy with my stay.",
+    "reviewerCity": "Frederick",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "Great hotel with great rooms! Out there alone, but Uber and the taxi's knew where it was. Very close to the airport. Clean rooms, nice gym, and a nice setup for dining with them. Overall a very nice stay.",
+    "reviewerCity": "Port Orchard",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst stay I've had at a Hilton property",
+    "reviewText": "First, I know they are slowly renovating but they have a lot of work to do. I felt like I was driving up to an old run down hotel as I drove up. It took 15 minutes to get checked in and the worst part, the hotel forgot who they put in my room so they called my room at... More",
+    "reviewerCity": "Port Orchard",
+    "reviewerState": "MD",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Every one was helpful, couteous professional",
+    "reviewText": "customer service friendly environment, the people really make you feel welcome, all in all I was really satisfied. I will go back there next year and recommend my family and friends. I hope all the other hotels do the same. 1- clean environment. 2- customer service friendly-3- all workers make people feel welcome.",
+    "reviewerCity": "Port Orchard",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet night at a hotel for a change",
+    "reviewText": "Hotel was very private and quiet. Will stay there again.",
+    "reviewerCity": "Port Orchard",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Remarkable Customer Service (Evelyn Jorge)",
+    "reviewText": "Evelyn and Jorge provided remarkable customer service. They are both a great asset to DoubleTree by Hilton Hotels. It was a pleasure staying here, we will be sure to recommend this hotel to our friends and family. A job well done! -Maggie AND Ashley",
+    "reviewerCity": "Port Orchard",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "South Florida in the Summer",
+    "reviewText": "The staff that helped us at this location were great! The staff, Gessica and Mercedes bent over backwards to make sure our visit to south Florida was the best it could be. I will absolutely be staying here the next time I am in the West Palm Beach area.",
+    "reviewerCity": "Port Orchard",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel",
+    "reviewText": "The suite was great with a giant jacuzzi in the room, living room and seperate bedroom. Very comfortable and clean. Hotel is close to Cityplace and Clematis and if you Uber than it is approx. 5 trip each way. Staff very friendly and helpful.",
+    "reviewerCity": "Port Orchard",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Very convenient to airport",
+    "reviewText": "We had a late arriving flight and decided to stay near the airport our first night in FL. This hotel was great. We had a great room and never heard any airplanes even though we were so close to the airport. The room was very clean and bed was very comfortable. Of course we were given great hot cookies upon... More",
+    "reviewerCity": "Connecticut",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful customer service",
+    "reviewText": "I was flying with Delta last week and I was waiting at the airport for many hours until they told us our flight had unexpectedly been canceled. So they sent me to doubletree by hilton and from the moment the shuttle driver (Jorge) picked me up I knew I was in better hands. He was incredibly nice and very courteous... More",
+    "reviewerCity": "Connecticut",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "One of the best DoubleTree properties.",
+    "reviewText": "This DoubleTree appears to have been newly renovated and updated. One of the best I've seen. Beautiful lobby and dining areas with very clean rooms. The customer service upon check in was also fantastic. Mercedes checked me in, kindly upgraded my room, and did so quickly and politely. Thanks!",
+    "reviewerCity": "Connecticut",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Omar mar mar mar Johnsonmar Johnson",
+    "reviewText": "To Manager Omar Johnson - The Hilton 1808 S Australian Ave West Palm Beach, FL My cousin and I stayed at your Hilton and were so happy with the Service we received there. Kayon, at the front desk, was there the day we arrived the day we left and she was so accommodating helpful to Us! One of... More",
+    "reviewerCity": "Pennsylvania",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "bad service",
+    "reviewText": "HHonor member given worst room in hotel. Sofa bed not made up. Supervisor dismissive when informed of condition of room. Not apologetic and clearly not well trained. Damaged air conditioner. Linens were tread bare and discoloured.",
+    "reviewerCity": "West Palm Beach",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Doubletree-Wesst Palm Beach",
+    "reviewText": "Great place to stay-nice and clean, very friendly and helpful staff-The location is wonderful with easy access to expressway and airport but far enough to be peaceful. Only place I stay when in West Palm Beach",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay!",
+    "reviewText": "I booked 5 rooms for my daughter and her friends after prom. Staff was very helpful, rooms were clean and comfortable. Everything went smoothly and was just as expected. Perfect way for the kids to end their high school years!",
+    "reviewerCity": "West Palm Beacvh",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Late night arrival.",
+    "reviewText": "Upon arrival after long day travel and work,Bar area is extremley bright and stark almost cafeteria like. Prefer less lighting so to relax and enjoy late night drink and food..especially if sitting at the bar with co workers and patrons.",
+    "reviewerCity": "ny",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a great stay at the DoubleTree by Hilton at West Palm Beach Airport",
+    "reviewText": "On the positive side - the restaurant staff was awesome. They did not have iced tea made for breakfast, but whipped some up for me. The were prompt and very friendly. The front desk staff were not very accommodating. They checked me into a dirty room, and then wanted to discuss if it was really dirty (the sheets were rumpled... More",
+    "reviewerCity": "ny",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel close to PBI",
+    "reviewText": "I went to PBI to visit my grandparents who live close by but needed a good property to stay in the evenings as well as one with a shuttle to take me back to the airport. This hotel did a great job with that! The beds were comfy and rooms clean and fresh. Food at the hotel is a bit... More",
+    "reviewerCity": "ny",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "Our stay here was great overall. The room was clean, nice and up to date. The only problem we had was the a/c. The fan would shut off and on about every 3 minutes. So between that and the loud road noise we had trouble sleeping. I would suggest asking for a room away from I-95.",
+    "reviewerCity": "Plant City",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Loved it!",
+    "reviewText": "This was a very nice hotel and was located near shopping in town. The staff was very helpful for the most part a few bad attitudes did not spoil our trip :-) the breakfast buffet was above-average for hotel breakfast and I would definitely stay here again!",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Didn't feel welcomed",
+    "reviewText": "The facility, rooms, cafe, cafe service, cleanliness, and fitness center were all exceptional. The front desk staff gets two thumbs down, as a gold member I expect certain things from a Hilton property as I stay exclusively with them. The front desk was not friendly, very condescending, and down right not engaged in my transaction. Not a good first impression,... More",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great front desk",
+    "reviewText": "I was very impressed with The top grade customer service The front desk provided for me The receptionist was very friendly And quick to answer all my questions and suit my accommodations at the last minute. Evelyn was truly a pleasure to deal with and made my stay absolutely Wonderful I am very appreciative",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Experience",
+    "reviewText": "Everyone employee was very friendly and wanted to ensure all of our needs were met during our stay hospitality at its best! The rooms and facilities were clean and brand new. We will utilize this hotel again!",
+    "reviewerCity": "Fort Pierce",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyed stay",
+    "reviewText": "On business trip for my organization. Single night stay. The hotel was a good deal with excellent staff. Front Desk staff made me feel welcome. Room was very clean and comfortable. Enjoyed the brief stay. Clean and convenient....meeting all of my business needs.",
+    "reviewerCity": "Miami",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Stay",
+    "reviewText": "Hotel and staff were very good. I was able to check in early. Loved my warm cookie that I was given. Room was clean and smelled cleaned and crisp. Check out went very smooth.AC in room was not cooling properly though.",
+    "reviewerCity": "Miami",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "PLEASANTLY SURPRISED",
+    "reviewText": "Usually don't expect much from the Doubletrees, but this place was a nice surprise. Super friendly staff, comfortable rooms, and the biggest surprise was the delicious food. Great location and would definitely come back",
+    "reviewerCity": "Greensboro",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "PLEASANTLY SURPRISED",
+    "reviewText": "the pot smoking is becoming out of hand... really annoying for anyone with a real job!",
+    "reviewerCity": "Greensboro",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay with great staff!",
+    "reviewText": "We had a great stay at the DoubleTree Palm Beach Airport. Thank you to all of the staff at this hotel for making a one day business trip into the area a pleasant one. Everyone was accomodating and friendly. Ordered room service and it came very quickly and the food was great. The favorite part of my stay was the... More",
+    "reviewerCity": "Greensboro",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad experience",
+    "reviewText": "We found cockroaches on the bed the morning after our stay. We are still trying the get the issue resolve with the hotel management. We even took a video of the cockroaches on the pillow and showed it to the manager. Overall we are not satisfied with this facility.",
+    "reviewerCity": "Deltona",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, poor maid service.",
+    "reviewText": "As one would expect of a Hilton location, the room was well kept, updated and clean. The entire hotel was 'quality', except for the maid service. we stayed there five days. We used a bath towel the second day and left it lying across the top of the microwave. Three days passed without the maid picking it up and replacing... More",
+    "reviewerCity": "Monsey",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent !!!!",
+    "reviewText": "My stay here was amazing. The staff was beyond friendly and sweet. I have to say a huge thank you to Gessica, Mercedes and Rosan!!!!! They made my boyfriend birthday weekend the best ever, they set the room up and sent us a fruit plate, plus the cutest little card ever ! My man was so impressed and it made... More",
+    "reviewerCity": "Monsey",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent !!!!",
+    "reviewText": "The pot smoking is becoming out of hand... really annoying for anyone with a real job!",
+    "reviewerCity": "Monsey",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "Good hotel in line with what you would expect from the Hilton brand. Nicely situated between airport downtown. Fitness centre is adequate although you can end up peddling in the dark alone if on an exercise bike as lights are on a motion sensor. Only real complaint is that you get 2 small complimentary bottles of water on checkin... More",
+    "reviewerCity": "Nottingham",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Dirty Sheet",
+    "reviewText": "They left the same sheet from the night before. They didn't have a microwave in the room. They house keeping people look like they were rushing in my room. They didn't organized anything in the room or take out the trash we had the night before.",
+    "reviewerCity": "Nottingham",
+    "reviewerState": "NY",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Keith at double tree room service is awesome",
+    "reviewText": "I ordered a steak well done which was not done properly. I was working and did not feel like waiting for a new meal so I ate what I could. I called down and spoke to Keith informed him of the mistake. My check was closed out so all he could do was offer me a free entree. I declined.... More",
+    "reviewerCity": "Nottingham",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel Near Airport",
+    "reviewText": "No complaints whatsoever! Friendly check-in Room-Upgraded to a suite as Diamond HHonors member Room was huge! Comfortable bed Bathrooms- 2 bathrooms, large shower Large dining room table, sofa Shuttle-airport and takes you to City Place Now, this is a real Doubletree! Price: 111 for one night stay-Friday night",
+    "reviewerCity": "Hattiesburg",
+    "reviewerState": "MS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient Hotel",
+    "reviewText": "The hotel was great. We ate dinner at the restaurant in the hotel. It was recommended that we get the fish dinner that came with asparagus and coconut rice. The fish: horrible...not edible...maybe even microwaved. The coconut rice:delicious The asparagus: straight out of a can or just plain old they were bitter and gross. The waitress apologized and gave us a free dessert. Key Lile pie......smh",
+    "reviewerCity": "Hattiesburg",
+    "reviewerState": "MS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Doubletree ever, clean rooms, quality furnishings",
+    "reviewText": "This hotel is a pleasant surprise and I will be back. Right off I95 but that is no problem with noise (the hotel guests are more of a problem especially noisy kids). I don't think they allow dogs that is good and keep the rooms and grounds clean. They offer breakfast and staff is very attentive, Wi-Fi free and great... More",
+    "reviewerCity": "Hattiesburg",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing!",
+    "reviewText": "I've never staid in this hotel, but we decided to make a four night reservation there on June 16 during our Florida trip, and the first day that we arrived, everything went smooth and enjoyable. We checked in early and didn't have no problems. Our room was super clean everyday! There was no stressing about our room being clean everyday.... More",
+    "reviewerCity": "Hattiesburg",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfort and class",
+    "reviewText": "Great group, great location , great property. Just a very nice experience . I,be heard from family and friends telling me to start staying with the Hilton group and cut back on IHG. Only issue there is your limited locations in the NC AREAS THAT I TRAVEL",
+    "reviewerCity": "Fort Washington",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, comfortable Stay",
+    "reviewText": "We've stayed here multiple times and have always enjoyed our stay. This trip it had been remodeled, which made it even nicer. The rooms are neat and clean and comfortable. My daughter and I are highly allergic to down, which is used in their pillows. However, I called down to the front desk and they were able to send some... More",
+    "reviewerCity": "Palm Harbor",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Recommend",
+    "reviewText": "The hotel was in a quiet location and easy to get to. The room was so clean you can smell it the minute you walked in. The price was also right for the type of room that we got. I would stay here again when in the area.",
+    "reviewerCity": "Palm Harbor",
+    "reviewerState": "MD",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Receptionist",
+    "reviewText": "Night Receptionist Mercedes is very welcoming and professional 2 thumbs up. Hotel is awesomely renovated very comfy stay! Great location close to airport ambience in this place is amazing! Great for personal and or business trips!",
+    "reviewerCity": "Palm Harbor",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Will give another try",
+    "reviewText": "Good for short business trip. Too close to the highway for romantic get away. Most of the employees do not smile. Nothing beats a sincere welcoming smile when checking in at a hotel after a log drive or a long fly. This should be the minimum of any basic training for any hotel employee.",
+    "reviewerCity": "Oviedo",
+    "reviewerState": "MD",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Exceptional Service",
+    "reviewText": "My flight into West Palm Beach landed at close to midnight. I called the hotel for the shuttle and the phone was answered on the second ring. She told me the shuttle would be there in 10 minutes and it arrived even sooner than that. Upon arriving at the hotel I found out that my reservation was not in the... More",
+    "reviewerCity": "Oviedo",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Exceptional Service",
+    "reviewText": "Everyone here has been beyond nice and generous - get Robert to drive you and if you are nice the security guy will give you some extra pool time after  11!  Cookies and a great pool = amazing",
+    "reviewerCity": "Oviedo",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "The best!",
+    "reviewText": "Stayed at the Doubletree for my Anniversary, and it was beyond perfect. From the staff to the room and the area. It was amazing. The breakfast was delicious and the staff were all very friendly and attentive. Will definitely stay again AND SOON!",
+    "reviewerCity": "United States",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "PBI Doubletree",
+    "reviewText": "The staff at this hotel is excellent! Evelyn at the front desk was most accomadating and friendly during my visit. Olivea in the bar/reataurant was the best at making food choice recommendations. Everything she recommended was spot on. Great customer service!",
+    "reviewerCity": "United States",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "6 Minutes Away from WPI",
+    "reviewText": "Had just landed from Madrid via Charlotte, a loong day. The hotel was conveniently located 6 minutes if not less from the airport. Check in was quick, warm cookies for every guest, the room, clean, quiet, bed pillowly soft, I would stay at this location again.",
+    "reviewerCity": "United States",
+    "reviewerState": "MD",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel! Amazing Staff!",
+    "reviewText": "This hotel is amazing. The staff was extremelly friendly since day 1. I had no problem checking in a little early because of my newborn baby, and the staff was always very helpful. I even forgot some things on the hotel, and the people at the hotel were kind enough to send them over to my house! I will stay... More",
+    "reviewerCity": "United States",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Impeccable Customer Service!",
+    "reviewText": "The staff there is AMAZING!!! They made our stay very comfortable. The front desk agent, MJ was courteous, friendly, professional with a lovely smile. My husband had a conference call and was in need of an extended late check out, the Manager on duty, Evelyn was more than accommodating. The restaurant staff was very attentive. Especially, our server Keith was... More",
+    "reviewerCity": "United States",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful and Clean",
+    "reviewText": "Visiting family in the area for Christmas, we stayed at this hotel. Staff was nice at both check in and check out. Loved the cookie at check in! Room was clean, updated and somewhat quiet for being right off I-95. The AC made a lot of noise but other than that, very nice place to stay.",
+    "reviewerCity": "Florida",
+    "reviewerState": "MD",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": ".",
+    "reviewText": "Only one of the desk attendants was somewhat rude but otherwise EVERYTHING was perfect! Id come back. :) They offered a shuttle service to and from the airport as well as to City Place which is a huge plus as Ubers can get pricey lol",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Just OK",
+    "reviewText": "Was taken here after an evening flight was cancelled out of PBI. It was very much a middle of the line hotel. The staff told me it was within easy walking distance of City Place, etc., but that's not accurate it's somewhat of a distance on the other side of I-95 take a cab! Overall OK, but I wouldn't stay... More",
+    "reviewerCity": "Wellington",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Just OK",
+    "reviewText": "None",
+    "reviewerCity": "Wellington",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3fb5"
+  },
+  "name": "La Quinta",
+  "categories": ["Hotels", "Lodging", "Motels", "Meeting \u0026 Event Planning Services"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Jupiter",
+    "postalCode": "33477",
+    "address": "34 Fishermans Way",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-80.08641, 26.934633]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-11-28T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3fb6"
+  },
+  "name": "Inn \u0026 Suites",
+  "categories": ["Hotels \u0026 Motels", "Budget Hotels", "Resorts"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Englewood",
+    "postalCode": "34224",
+    "address": "2540 S Mccall Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-82.318704, 26.935162]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-12-08T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "we'll be back to inn suites great service. great hotel. Thanks",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Staff were extremely friendly. Bathroom was clean which is very important to us.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-11-08T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very pleasant surprise Arrived at hotel a little earlier than anticipated on Friday. A quick call to the hotel assured us there would be no problem with an early check in. The front desk clerk, Mary, was very polite and helpful both on the phone when I made reservations as well as in person. It appears this facility may no longer be affiliated with Day's Inn. It's now listed as Englewood Inn Suites. I have to admit I was a little nervous about booking there from the previous reviews. Something must have changed since the last negative one in Oct of last year. While Englewood Inn Suites is still not a five star hotel it is a nice place to rest your head. Rooms were a nice size, very clean with updated furnishings. Plenty of towels and toiletries. The only complaint I had is that the beds were a little on the small side. We had 2 double beds in our room. But that wasn't really that big of a deal. The hotel has a pool. My daughter and I enjoyed that both days we were there. Beaches are about 5 minutes away, there's grocery stores and a Wal-Mart nearby but not many chain restaraunts to choose from. Overall, our stay at the Englewood Inn Suites was a very pleasant surprise",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Value-conscious hotel with the sunburst sign provides basic amenities to ensure travelers a comfortable stay. In ShortThis nationwide chain promises value-added amenities to its guests. King and two-queen guest rooms offer clock radios, hair dryers, shampoo, televisions with HBO or Showtime and complimentary copies of USA Today. The property is inspected three times a year for quality by an independent quality assurance team and assigned a Sunburst rating, so travelers can rest assured that their accommodations are clean and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Arrived at hotel a little earlier than anticipated on Friday. A quick call to the hotel assured us there would be no problem with an early check in. The front desk clerk, Mary, was very polite and helpful both on the phone when I made reservations as well as in person.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-27T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Had a microwave and refrigerator in the room.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-27T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Overall, our stay at the Englewood Inn Suites was a very pleasant surprise.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "It's nice room and clean.they renovated all rooms.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The front desk clerk, Mary, was very polite and helpful both on the phone when I made reservations as well as in person.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "A pleasant stay Very accommodating, clean very friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Nightmare! Putrid, run down, filthy, toxic hellhole. Approach at your own risk! Citysearch, please visit this hotel again! We arrived at 12:00 PM and left sick at 2:00 AM. Room had such a horrible smell we couldn't sleep. Sheets covered stained and brown pillows and mattresses. Obviously a smoking renter had a long term stay in this room and the hotel is being used as apartments. Must not stay here.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Liked the Closeness to beach.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Overall it was a nice stay, big room and quiet.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3fb7"
+  },
+  "name": "Hampton Inn Sarasota - I-75 Bee Ridge",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Sarasota",
+    "postalCode": "34232",
+    "address": "5995 Cattleridge Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-82.450461, 27.300319000000002]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Still agsin plumbing problems",
+    "reviewText": "There agsin different room it still plumbing problems thid one ghd toliet would not flush when j checked coming into the room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Just stay away",
+    "reviewText": "The carpet was very old and several parts were torn. The room smelled like mold. Front desk service was very good. This was not a 2.5 star. It was terrible. I had a bad feeling when we pulled in and half the neon sign that says 'Hampton Inn' was out. I would not recommend this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Four Sisters Trip",
+    "reviewText": "This hotel had the basic qualities that I would expect from a 2.5/3.0 facility.It was a little crowded the weekend we were there due to some soccer teams in town. I would say, many 12-15 yr. old boys. The pool was very crowded as was the fitness room and breakfast room in the morning. I also feel that for the price, a room with 2 Q beds, for 4 people, should be a little larger and include more seating options.....and, should have 2 part bathroom with 2 sinks.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Four Sisters Trip",
+    "reviewText": "Enjoyed our stay in Sarasota area. Bathrooms at hotel need vent fans to exhaust heat from shower. Caused floor to be slippery.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Never any surprises.",
+    "reviewText": "I always stay at this hotel when I visit Sarasota. The staff is friendly and accomodating. Older hotel that has been updated as needed. Beds are comfortable and my rooms have always been very clean. Easy location. Restaurants close by. Hotel offers a good breakfast. Nice pool area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great breakfast!",
+    "reviewText": "Great place for business travelers. Close to I-75,surrounded by places to eat and shop if needed. Loved starting the day off with a good breakfast and fresh coffee. Check in and out was easy. Nice staff.",
+    "reviewerCity": "Dunedin",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Hampton Inn Sarasota - I-75 Bee Ridge",
+    "reviewText": "My wife and I were on a 10 day road trip around Florida and wanted to stay in a Hampton Inn close to Siesta Key Beach. We decided to stay here though it is still a bit of a drive to the beach. We had a nice room overlooking the small lake out the back. The room was clean and... More",
+    "reviewerCity": "Darlington",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful setting , beautiful grounds, nice pool,",
+    "reviewText": "Great stay",
+    "reviewerCity": "Darlington",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean clean clean",
+    "reviewText": "The only issue was the ice machine on the third floor didn't work and the hot tub didn't work so it was far from a hot tub. Staff was pretty nice and the rooms were very clean. The complimentary breakfast was really good and fresh.",
+    "reviewerCity": "Orlando",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-04T00:00:00.000Z"
+    },
+    "reviewTitle": "AS STATED ABOVE",
+    "reviewText": "For 210/night the room was not what I had expected. There was dust on the table between the beds, plastic bags were not in the trash cans and I had to put our trash on the counter in the bathroom. There was dust on top of the head boards and the lights. I was very surprised that there was not a microwave in the room as nowadays most places do.",
+    "reviewerCity": "Orlando",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room, great value",
+    "reviewText": "The room was perfect with updated furnishings and was very clean. The service was excellent from check-in to check-out. One of the best hotel stays I have had. A full course breakfast including sausage and eggs was icing on the cake.",
+    "reviewerCity": "Orlando",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome experience, we will be back!",
+    "reviewText": "Had a great stay after a long day of traveling with my family. We will be back again!",
+    "reviewerCity": "Orlando",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome experience, we will be back!",
+    "reviewText": "Great stay!",
+    "reviewerCity": "Orlando",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome experience, we will be back!",
+    "reviewText": "Bathroom was dirty",
+    "reviewerCity": "Orlando",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Spring mini vacation",
+    "reviewText": "This Hampton does not measure up to others I have stayed in I payed more to have a 'pure'room. It included a air purifier. The first impression was very negative as the maid had left a wash rag from a previous visitor hanging wet on the shower rod. I grabbed a clean towel and threw it on the floor. Bed... More",
+    "reviewerCity": "Orlando",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Overpriced",
+    "reviewText": "The hotel was clean and updated, but we stayed for two nights and they did not clean the room. We called and they said the manager would get back to us but never did. We mentioned it at checkout and not even an apology. The location was disappointing. Overall it was not worth the rate we paid.",
+    "reviewerCity": "Orlando",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Our family of 5 was happy with our stay.",
+    "reviewText": "We liked coming back from our day trips and unwinding in the pool. Also had a great breakfast. Room was clean and beds were comfortable.",
+    "reviewerCity": "Orlando",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {

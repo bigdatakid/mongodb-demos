@@ -1,0 +1,100 @@
+    "reviewerCity": "Firestone",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely",
+    "reviewText": "Beautifully appointed rooms all redone with loving detail to each room. Walking distance to several restaurants and the Fort. Breakfast was outstanding and the chef easily accommodated my gluten and lactose dietary needs. A bit of traffic and train noise but still slept very well.",
+    "reviewerCity": "Firestone",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "You can not miss breakfast!",
+    "reviewText": "We were so lucky to receive an upgrade to the Bridal suite and it was completely amazing, the most comfortable bed, lovely furniture, all in great shape and beautifully decorated. Immaculately clean. The little street with all the Victorians is a real treat and you are close to great dining - we had dinner at the Dumbwaiter, another definite recommend... More",
+    "reviewerCity": "Firestone",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Luxury and History with Great Service",
+    "reviewText": "We only stayed one night, but wish it could have been longer. Everything was perfect. The detail in the romantic rooms is exquisite and true to the historic building. Little expense was spared. Our room, the Margaret, had a huge bathroom with a great tub and big shower. We had seafood Eggs Benedict for breakfast, which was great as well.... More",
+    "reviewerCity": "Glastonbury",
+    "reviewerState": "CT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Luxury and History with Great Service",
+    "reviewText": "The place is beautiful and fufullied our vision for what we wanted for our wedding day. We did have issues with our out of town guest trying to book a room for our wedding day, many of them had to book a hotel room else where because they kept saying all the rooms were booked. It got taken care of about a week before my actual wedding, which was just a little too late. Communication was a bit difficult to through email and phone, but improved once it got closer to the wedding. Even though we had these issues, the day of the wedding made those issues obsolete. Brandon and the crew worked their butts off to help us and ended up having a beautiful wedding and everything flowed perfectly. No regrets going with Fort Conde Inn for our big day",
+    "reviewerCity": "Glastonbury",
+    "reviewerState": "CT",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Outstanding BB in every way!",
+    "reviewText": "The Fort Conde Inn is a treasure -- and great value! This lovely inn is the second oldest home in Mobile, located near the waterfront. The property is an easy walk to the convention center and transportation museum. The home is beautifully restored and offers new carriage house rooms in the home's courtyard. We opted for a carriage house room,... More",
+    "reviewerCity": "Apex",
+    "reviewerState": "CT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "FAR Exceeded Our Expectations!",
+    "reviewText": "This is the most beautiful BB with a hundred small touches adding up to a wonderful experience. The beds are comfortable, the decor is beautiful, the room is spotlessly clean, there are soft fluffy robes, quality bath products, big towels, good air conditioning, water bottles and coffee in the room. We booked for one night and wish we could stay... More",
+    "reviewerCity": "Mesa",
+    "reviewerState": "CT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "A great find!",
+    "reviewText": "This is a delightful and charming BB which has been beautifully restored with attention paid to detail. Close to Battleship Park and within walking distance to downtown restaurants and the downtown brewery.",
+    "reviewerCity": "Mesa",
+    "reviewerState": "CT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic overnight stay",
+    "reviewText": "On recent road trip to New Orleans, we decided to stop overnight at the Fort Conde Inn in Mobile. The staff had just finished a wedding the day before and may have been fatigued, but you would never know based upon the exceptional service we received. The bedroom was luxurious (especially the sheets and bathroom) and the location allowed us... More",
+    "reviewerCity": "Greenville",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic overnight stay",
+    "reviewText": "I would like to thank David Posner and his staff at Fort Conde Inn for not only providing a beautiful space for our daughter���s wedding, but also for the true hospitality. David and his staff were more than accommodating for us. They created a friendly and hospitable environment for our daughter and guests the entire weekend. If you are looking for a simple weekend getaway or an event venue, you cannot go wrong with Fort Conde Inn. It is beautiful!",
+    "reviewerCity": "Greenville",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Hidden treasure",
+    "reviewText": "Classic southern charm with great staff and comfortable accommodations. The rooms were very clean and updated with high end linens and toiletries yet the house maintained the historic beauty of a bye gone time. The outdoor seating was filled with colorful flowers and complete with Smudges the cat. The location is not directly in down town but you won't be... More",

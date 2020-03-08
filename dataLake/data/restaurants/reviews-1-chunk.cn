@@ -1,0 +1,1000 @@
+    "reviewText": "The room was clean and big enough but for those who like a well-lit room, this isn't it. Breakfast was another issue. There weren't enough choices (only one kind of oatmeal, broken pancake machine, bananas which were too old both days we were there, etc.). This is not at all what we expected when the cost of the room is... More",
+    "reviewerCity": "Little Rock",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Hotel and Staff!!",
+    "reviewText": "We were in town for funeral arrangements. Although we were early, the staff had the room ready and it was exceptionally clean, comfortable and trust me, extremely inviting after a very trying day. Everybody from the manager to the cleaning service people were friendly and accommodating.",
+    "reviewerCity": "Anacoco",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent HI property to stay at!",
+    "reviewText": "I cannot say enough good about the staff at the West Monroe, LA property! From the moment we checked in for our week-long stay, they were so very welcoming and accommodating. It was like staying with family, only without the embarrassing stories and bickering! We were checked in by Becky, who took very good care of us, but each and... More",
+    "reviewerCity": "Anacoco",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Very disappointing",
+    "reviewText": "This hotel came highly recommended by friends who are Ex-military and also dog people. However, the entire experience was quite disappointing. First off, no military discount although my husband is retired military I had no spouses military ID and so I was given a 2.00 discount although I offered to provide my husband's DD2. Secondly the room I was provided... More",
+    "reviewerCity": "Mount Pleasant",
+    "reviewerState": "UT",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Friendly",
+    "reviewText": "Everyone was so friendly from the front desk at check in, house keeping and the breakfast attendant. The rooms were comfortable and clean and the service was excellent. What more can you ask for. I would definitely stay here again when in the area.",
+    "reviewerCity": "Lawrenceville",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-31T10:00:28.000Z"
+    },
+    "reviewTitle": "Very Friendly",
+    "reviewText": "Reception was very welcoming. Complimentary water \u0026 fruits on arrival to our room, I think it might have something to do with giving the lovely Wes at reception a shot glass.",
+    "reviewerCity": "Lawrenceville",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Very disappointed!!!",
+    "reviewText": "I travel for a living and hotel arrangements were made for me. With that being said,...I had stayed at this location about 3 years earlier and it was a great hotel with no complaints at all. This time it seems like there were numerous issues to deal with. On checking in I found much of the hotel to be in... More",
+    "reviewerCity": "Muskogee",
+    "reviewerState": "OK",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Very disappointed!!!",
+    "reviewText": "there's a pretty nice park/running path behind the hotel.",
+    "reviewerCity": "Muskogee",
+    "reviewerState": "OK",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Very disappointed!!!",
+    "reviewText": "not too bad of a place. clean, staff is friendly and easy access to i-20",
+    "reviewerCity": "Muskogee",
+    "reviewerState": "OK",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Very disappointed!!!",
+    "reviewText": "Not too bad of a place. Clean, staff is friendly and easy access to I-20",
+    "reviewerCity": "Muskogee",
+    "reviewerState": "OK",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Very disappointed!!!",
+    "reviewText": "apparently, the water us supposed to be brown.",
+    "reviewerCity": "Muskogee",
+    "reviewerState": "OK",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-29T00:00:00.000Z"
+    },
+    "reviewTitle": "avoid hotel at all cost",
+    "reviewText": "avoid this hotel at all cost ,manager very rude does not care about the quest. quote 1 rate then say of this is our rate not the rate quoted you. overall they could careless if you stay there or not. I have never seen such a poor manager of a hotel in my life I stay on the road a... More",
+    "reviewerCity": "West Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de401a"
+  },
+  "name": "Quality Inn and Suites",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Bossier City",
+    "postalCode": "71112",
+    "address": "2717 Village Ln",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-93.70201, 32.52313]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad",
+    "reviewText": "It was horrible. Mirror had black stuff all over it. No fridge and no sleep because of the train.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "nice overnight stay",
+    "reviewText": "The rooms were clean and the beds were soft. New shower curtains and new shower head. The hotel could use some upkeep but was a pleasant stay. My one complaint would be that the coffe pot leaked all over the counter.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "nice overnight stay",
+    "reviewText": "if u need to stay anywhere near this area...this hotel is the best one there is!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Having fun in Bossier!",
+    "reviewText": "This hotel was great for the price! Our room was very clean. Yes, we heard one train, but that was it. This was a perfect location for us, close to the interstate. Breakfast was good for the low price of the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "more space needed",
+    "reviewText": "I found the staff to be very helpful and friendly. However, the amenities in the hotel...i.e. microwaves and refrigerators need to be in every room. More closet space would help also.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location not far from the shopping center.",
+    "reviewText": "My room was very clean and I enjoyed the friendly employees at this location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Long and slow",
+    "reviewText": "It took over 30 mins to check. There was no remote for my tv and they never got me one room had an odor. Mangement did not seem to care about my situation will never stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "I hear that train or someone is taking a shower",
+    "reviewText": "The staff was great. Room was clean ( a little heavy on air freshener). The only thing louder than the shower head / water pipes was the occasional train that rolled by.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Satisfied! Nice place!",
+    "reviewText": "Staff was friendly, rooms were clean. Pool was Great! Breakfast and Happy hour was very good! Beds were comfortable. Over all Great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-19T00:00:00.000Z"
+    },
+    "reviewTitle": "clean",
+    "reviewText": "Just passing thru, but it was nice to stay in a nice, clean hotel and not have to worry about anything.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "nice place",
+    "reviewText": "Desk clerk was courteous and helpful,beds were very comfortable the only downside was we were placed next to a connecting room and the person was on the phone talking very loud very early in the morning",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "nice place",
+    "reviewText": "We 3 ladies had a safe trip . hotel was very best and clean breakfast and the little lady were wonderful. Young man on night shift was so sweet . would stay again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Bossier City stop over",
+    "reviewText": "We were traveling to KS from south LA and stopped in Shreveport. It was late, and the checkin was slow due to computer issues but the clerk was nice and was able to confirm the reservation. The room was clean but there were no towels or soap and we waited at the front desk a bit while the night clerk searched for requested items. There were lots of the standard breakfast offerings and the coffee was good. For the price, it was an acceptable hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Bossier City stop over",
+    "reviewText": "the room was great for relaxation and the room was very clean",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay needs updating",
+    "reviewText": "My overall stay was good. However this hotel I can tell was bought by Quality Inn and Suites but not updated. The service was great. The room was clean. The room was very outdated. This was a last minute stay so I can not complain,",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "call to verify",
+    "reviewText": "Stay was fine, however hotels.com forgot to reserve my room, pouring me in line twice, and 45 minutes behind schedule",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "The hotel was located next to the Outback restaura",
+    "reviewText": "The room smelled musty and the phone and clock dud not work. If you flushed the toilet during the night it was so loud it would wake everyone in the room. Breakfast was advertised as 7 to 10 and we went down at about 8:30 and they were just starting to set up for breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "The hotel was located next to the Outback restaura",
+    "reviewText": "Everyone was friendly and very helpful. Computers were on the blink and they kept on working manualy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Luv it",
+    "reviewText": "I really enjoy my stay the room was so nice the beds was nice I slept like a baby the sheets was fresh and clean I will be staying there again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Mixed",
+    "reviewText": "faucets were loose in the bathroom. The battery went dead in the door lock it took almost an hour before anyone showed up who was able to get us back into our room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Mixed",
+    "reviewText": "The receptionist was not very personnable. It was like I was intruding on her day to ask questions of her, she never smiled or gave the impression that she was interested in our stay. The hotel was nice and close to the things we were involved in, but I am not sure we will be back at this particular motel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Mixed",
+    "reviewText": "OK, they shut down the breakfast service too early, though.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-16T00:00:00.000Z"
+    },
+    "reviewTitle": "good",
+    "reviewText": "it was good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Laura's stay",
+    "reviewText": "Great",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Worth it for the price and short visit.",
+    "reviewText": "Great stop over. Buffet breakfast, pool, gym and free wifi are our requirements and they were all great. But it is right next to the train tracks and it is loud and shakes the building. I slept with earplugs and was fine. The staff was super friendly!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Valentines stay away from home!",
+    "reviewText": "Room was comfortable, breakfast was lousy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay away - too much crime!",
+    "reviewText": "I had a brief overnight stay here on the way back home. The hotel itself was fine, but somebody tried to break into my room the next morning around 10am while I was still sleeping! Is the area really that bad that somebody would try to do that in broad daylight",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay away - too much crime!",
+    "reviewText": "The breakfast was good, but the hotel was not clean and the floor were uneven and needed repairs. The entire hotel smelled so bad like smoke it gave me a headache.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay away - too much crime!",
+    "reviewText": "some of the nicest people around!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "TREASURER",
+    "reviewText": "STAY AT THIS MOTEL WHILE IN TOWN FOR BUSINESS GREAT PLACE TO STAY",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome stay",
+    "reviewText": "When we arrived we were able to check in early, which was really nice after such a long drive. The refreshments and company was nice in the evening. Breakfast was nice and hot. The staff was very friendly and helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome stay",
+    "reviewText": "Realize that there are train tracks very close to the hotel. The train woke me up at 4 am with it's horn blaring.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Bowling trip",
+    "reviewText": "We came for a Youth Bowling Tournament. It was close to the Bowling Alley. The breakfast was good, room was nice. My son enjoyed the pool after he bowled.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value for very nice room.",
+    "reviewText": "This hotel was very clean and comfortable. Clean being my most important criteria for a motel room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value for very nice room.",
+    "reviewText": "Friendly staff",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend stay for Barksdale Air Show",
+    "reviewText": "Have stayed here several times. The hotel is in need of renovation. Rooms are old and as are the mattresses. Friendly staff. Breakfast food was cold and the eggs and sausage and biscuits needed to be heated up in the microwave. Very convenient to Barksdale AFB and shopping and restaurants and casinos. Decent value for the money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend stay for Barksdale Air Show",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend stay for Barksdale Air Show",
+    "reviewText": "Great visit. Very comfortable. Very convenient to all of our planned visits on this trip.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-11T00:00:00.000Z"
+    },
+    "reviewTitle": "A Very Good Valu and Great Location",
+    "reviewText": "I stayed here for business and chose this location because it is 100 ft from an Outback. I met a co worker at the hotel and had a 1 hour meeting before walking across the parking lot for dinner at Outback. Its an older hotel and needs updating but the room was well priced and the staff friendly and the... More",
+    "reviewerCity": "Pearl River",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "A Very Good Valu and Great Location",
+    "reviewText": "it was okay for one night. hallway smelled of cigarette smoke. large trucks took up multiple parking spaces near entrance.",
+    "reviewerCity": "Pearl River",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "My son an I and a friend check in on May 2 and check out on May 3 at 8:30 Am. The told us the cost would be 55.00.",
+    "reviewText": "After returning home my son was charged 150.00. After calling and telling him they would not speech to him and talking to management he was told they would not do anything about it and would not speech to him. This is a rip off!!! I would recommend no one to check into this MOTEL. I guess our next thing to... More",
+    "reviewerCity": "Houma",
+    "reviewerState": "LA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "My son an I and a friend check in on May 2 and check out on May 3 at 8:30 Am. The told us the cost would be 55.00.",
+    "reviewText": "Pretty good- just there for a family reunion- Coffee was cold at breakfast - no coffee in room the second nite- filter in bathroom was dirty.",
+    "reviewerCity": "Houma",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value in Bossier City",
+    "reviewText": "I stay at this Quality Inn several times a year. Consistently good service, clean comfortable rooms and a pretty good free hot breakfast. Location is right off I-20 but you have to turn on a couple of dife streets. Wouldn't stay anywhere else (unless they were booked up).",
+    "reviewerCity": "Austin",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value in Bossier City",
+    "reviewText": "it was nice I enjoyed the stay.",
+    "reviewerCity": "Austin",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-22T00:00:00.000Z"
+    },
+    "reviewTitle": "charged twice, both by hotel and hotels.com!",
+    "reviewText": "The stay was wonderful, hotel rooms clean. However, we were charged both by the hotel and hotels.com and despite repeated calls to clarify the issue, neither refunded us. We ended up paying double the amount due to something that could have been corrected by one of those organizations. We were disappointed that despite repeated calls to the hotel to address the charge, no one returned our call out of courtesy. We liked the hotel but will not return or recommend to anyone due to the double fee, that was not our fault. We were told that the manager will return the following week and resolve the issue, but we never got a call.",
+    "reviewerCity": "Austin",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "charged twice, both by hotel and hotels.com!",
+    "reviewText": "ask for nathan and you might get a discount on your room!",
+    "reviewerCity": "Austin",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "charged twice, both by hotel and hotels.com!",
+    "reviewText": "Me and a friend Saturday over night we have bites all over you may want to check for bed buds",
+    "reviewerCity": "Austin",
+    "reviewerState": "LA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "charged twice, both by hotel and hotels.com!",
+    "reviewText": "My best friend and I stayed for the Garth Brooks concert that weekend. Although there were a lot of people checking in, the service was quick and courteous. The location from the hotel to the Centurylink was very convenient. we enjoyed our stay and will return if another concert comes through Bossier City. Thanks!!",
+    "reviewerCity": "Austin",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-15T00:00:00.000Z"
+    },
+    "reviewTitle": "charged twice, both by hotel and hotels.com!",
+    "reviewText": "The staff was extremely helpful. the first room that we saw had problems and they were very happy to put us in a room that was very nice. The beds are wonderful. I usually have problems sleeping in a strange place but the beds were so comfortable that I slept like a rock",
+    "reviewerCity": "Austin",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenience",
+    "reviewText": "Check in was horrible the lady didn't know how to run my debit card so I had to use the hotel atm to get money to pay for my room. And cleaning staff turned the heat on when they cleaned it was over 100 out side",
+    "reviewerCity": "Austin",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Visiting Family in Hospital",
+    "reviewText": "We arrived around 9 p.m without a reservation. We were in town visiting family in the hospital. We were tired and the Outback next door was convenient for a late and quick dinner. Rates were reasonable. Our room was clean and the staff was accommodating. Just what we were looking for!",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "reasonable priced hotel",
+    "reviewText": "Made reservation on a spur of a moment. Hotel was okay, lady serving breakfast was super sweet. Price was reasonable.",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "What hotel not to choose",
+    "reviewText": "Room smelled. Very small. Bad choice on my part. Won't be making that mistake again.",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "nice place to stay",
+    "reviewText": "stayed new years eve, as for room, was clean, beds comfy. we didnt get up for the breakfast, so not sure how it was, for the money it was overall very good. wasnt a 5 star vegas strip hotel, but neither was the price. liked the fact that it was inside acess to room.(hotel vs motel)i would stay here again no question. only a short trip to casinos. (less than a mile)",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "One might.",
+    "reviewText": "Staff was very helpful.",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok",
+    "reviewText": "When making reservations, I requested a first floor room. When we arrived we were assigned to the second floor. No explanation although a first floor number was noted on card. Hotel is close to railroad tracks. We were awoken 3 times during the night. I can say employees were extremely kind. No complaints there. Breakfast was adequate.",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "You may want to stay somewhere else",
+    "reviewText": "A combination of factors made this stay less than what we had anticipated. There were weird, wrinkled curtains in our room, a rock hard bed, and at breakfast, items ran out and were not replenished even though it was still supposed to be open.",
+    "reviewerCity": "Harrogate",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Cleanliness Issues",
+    "reviewText": "I consider this a low to medium priced hotel. No matter what the cost, I always expect cleanliness. Black mold around the tub is not acceptable. A shower head that leaks significantly when running bath water is not acceptable. We had to change rooms because our water heater was not functioning properly. The staff was very accommodating on this issue. In the end, however, I cannot say my visit was anywhere near satisfactory because of the issues in the bathroom of the room we did stay in.",
+    "reviewerCity": "Harrogate",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "Friendly, clean, conveinant. Only complains: arrived in town around noon... Couldn't check in til 3:45, And noisy train close by.",
+    "reviewerCity": "Harrogate",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "week-end entertainment trip.",
+    "reviewText": "only overnight but very nice and I would recommend it to friends and I would stay there again.",
+    "reviewerCity": "Harrogate",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Waste of money",
+    "reviewText": "The first room had a noxious smell, the carpet was wet, so we change it. The second room had a din loud sound, the AC unit fan was not working, so we change it again. The third room was little stinky but we decided to stay, we were tired of the trip and from moving. The price was pretty high around 75, I could pay that for much better hotel.",
+    "reviewerCity": "Harrogate",
+    "reviewerState": "TN",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality stay and a great price",
+    "reviewText": "My wife and I have stayed at this hotel several times over the past two or three years. It is a clean, well-kept property that is conveniently located. The staff is always helpful and accommodating. It is a good value for the price, too.",
+    "reviewerCity": "Louisiana",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "No extra towels",
+    "reviewText": "Hair in the shower and when ask for extra towels the clerk said they were completely out",
+    "reviewerCity": "Louisiana",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Wifi snafu",
+    "reviewText": "The only real problem encountered was the wifi would not stay up and useable. It was very erratic.",
+    "reviewerCity": "Louisiana",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "great room",
+    "reviewText": "very comfortable, huge bed, quiet, and a big tv!",
+    "reviewerCity": "Louisiana",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to shopping",
+    "reviewText": "Great location. Beds could have been better. But overall a good stay",
+    "reviewerCity": "Louisiana",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "nice but sorry!!!",
+    "reviewText": "Lady at desk nice but had to apologize that the hotel had no more clean towels and hair was left in shower",
+    "reviewerCity": "Louisiana",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "All OK here except...",
+    "reviewText": "No TV scroll to see what's on each half hour and the 4:45 am train blowing awaking all. There were no more until about 6am but the track is very close to the motel. Great friendly staff, clean fresh rooms.",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "needs renovating",
+    "reviewText": "It needs new carpeting because alot of it is stained and some spots felt sticky. The bathroom needs renovated. It has dark moldy looking spots in the cracks and corners, the AC didn't get very cold. It all together needs a make over.",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "needs renovating",
+    "reviewText": "nice rooms!  here's a tip though. bring some air freshner for the \"non smoking\" rooms.",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "All OK here except...",
+    "reviewText": "No TV scroll to see what's on each half hour and the 4:45 am train blowing awaking all. There were no more until about 6am but the track is very close to the motel. Great friendly staff, clean fresh rooms.",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for business.....",
+    "reviewText": "In Bossier/Shreveport for work and stayed for three weeks. Hotel is just on the verge of needing an update, but still very nice. I personally think the room rates are a little high, but they do have smoking and pet friendly rooms unlike many other chains. The GOOD: Great location, restaurants nearby you can walk to, right off the interstate... More",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for business.....",
+    "reviewText": "Room was a little dirty Murrow needed to be replaced with new mirror",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality Inn, not so much quality",
+    "reviewText": "Quality Inn has always been our pick while visiting the Bossier area. Though it's been only a years since our last stay, we were highly disappointed with the quality of the hotel. The lobby looks aged, and the rooms were smelly with mold in bathroom.",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Dingy Dated",
+    "reviewText": "I'll preface this by saying I paid 74 for the room so I wasn't expecting anything fabulous but overall it's pretty crummy. We arrived at 5:00 after driving 7 hours and even though the check in time was 3:00 the room wasn't ready, due to a Jehovah's Witness convention. I mentioned a discount and the front desk and she was... More",
+    "reviewerCity": "Chincoteague Island",
+    "reviewerState": "VA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Trip home from Texas",
+    "reviewText": "This was one of the best places we have stayed in our travels. The facility was immaculate. The staff was wonderful. We will try to stay there on our next trip. We will be going through this area on our next trip.",
+    "reviewerCity": "Galesburg",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Its clean just old.",
+    "reviewText": "Great location for us. We were there for baseball. Price was the best thing about this hotel. The breakfast was non existent. I took my family to McDonalds down the road because they didn't replenish the sausage and eggs and the waffle machine was broke. I never saw the girl that was working the kitchen til we were leaving.",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de401b"
+  },
+  "name": "Suburban Extended Stay Warner Robins",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "GA",
+    "city": "Warner Robins",
+    "postalCode": "31093",
+    "address": "2727 Watson Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-83.67237, 32.61835]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "N/a",
+    "reviewText": "N/a",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome",
+    "reviewText": "Had a problem with the heat at check in notified front desk and it was taken care within 20minutes.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice",
+    "reviewText": "The room was clean and everything worked. The only complaint I have is that the air conditioner was off when we went to the room, and it took hours to cool down in that South Georgia heat! Any other time of year except the hottest part of the summer would probably be okay. I would recommend this hotel and would stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice",
+    "reviewText": "The room was clean and everything worked. The only complaint I have is that the air conditioner was off when we went to the room, and it took hours to cool down in that South Georgia heat! Any other time of year except the hottest part of the summer would probably be okay. I would recommend this hotel and would stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice",
+    "reviewText": "It's what you expect for the price. They also had a roach problem. Also the staff were very rude and I won't be back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Good choice",
+    "reviewText": "Cheaper than local motels but I felt the 75 pet fee was excessive. Only pet friendly in area. Staff ignored my first complaint(blinking message light) so I did not tell them that the dishes were missing or the ring around the toilet or the fitted sheets which were too small for the bed. It was comfortable though and did I... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Good choice",
+    "reviewText": "Cheaper than local motels but I felt the 75 pet fee was excessive. Only pet friendly in area. Staff ignored my first complaint(blinking message light) so I did not tell them that the dishes were missing or the ring around the toilet or the fitted sheets which were too small for the bed. It was comfortable though and did I... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Ya cant be a wimp and stay at this hotel!",
+    "reviewText": "I had to break up a fight in the hotel bathroom .......kinda rugged...staff was nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3

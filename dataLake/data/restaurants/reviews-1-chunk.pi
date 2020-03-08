@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2016-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "ENJOYED IT",
+    "reviewText": "Killed two birds with one stone. Went to check out some investment opportunities as well-as to tour the city. We had a great time, and we enjoyed the stay. The location was perfect, and the staff was great.",
+    "reviewerCity": "MOSS POINT",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Location",
+    "reviewText": "The hotel has all the basic necessities and is located just off the French Quarters. We loved that fact that we could walk to Bourbon Street and that the hotel was just far enough from all of the crazy when we were ready to walk away and return to the hotel for the night. I am assuming that sleep might... More",
+    "reviewerCity": "Modesto",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay in the French Quarter",
+    "reviewText": "The hotel is in a great location close enough and far enough from Bourbon street. Plenty of construction on the street but once complete it would look beautiful. Breakfast is great. The bar is great. The service is great. Nice size TV in the room and everything in the room was nice.",
+    "reviewerCity": "Modesto",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay in the French Quarter",
+    "reviewText": "Hotel was older but very clean, staff couldn't have been nicer, rooms were very clean and breakfast good!",
+    "reviewerCity": "Modesto",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Mixed review",
+    "reviewText": "Location is okay, but the hotel itself is noisy. Our air conditioning / heater was incredibly loud and the foot traffic outside our room was noisy. The check in was moderately informative but done by rote with little awareness of the responses. Room was comfortably large but could use a refurb.",
+    "reviewerCity": "Brisbane",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Service was great location not bad",
+    "reviewText": "The service was great and the hotel was pretty. We got a suit and it was very spacious! Location was good as far as getting around to places. 3 minutes walking to Bourbon Street, 8 minutes to Canal Street, 10 minutes to Cafe Du Monde (Really good! Don't let the line scare you. It goes faster than it looks. Stay... More",
+    "reviewerCity": "New Orleans",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel",
+    "reviewText": "While it includes the name French Quarter, it is on the very outskirts of it, and a very long walk to the festive areas of the quarter and convention center. Would recommend cabbing it to those areas, which is cheaper than another parking fee. That said, it s a quiet location. Rooms are about what one can expect for a... More",
+    "reviewerCity": "New Orleans",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, fun and accessable",
+    "reviewText": "I was a little concerned about the location of the hotel, but was absolutely fine. All in all, I enjoyed my stay there! Tucked away in the north eastern part of the French Quarter this Mirazur provided a free breakfast, free internet, a comfortable lounge/bar and very helpful staff. The courtyard was nice and has a pool (that could... More",
+    "reviewerCity": "Los Angeles",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-29T00:00:00.000Z"
+    },
+    "reviewTitle": "NOLA vacation",
+    "reviewText": "Good price. Comfortable. Only negative was the street was very torn up in construction at the time we stayed.",
+    "reviewerCity": "Los Angeles",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful time",
+    "reviewText": "We booked via booking.com looked at many hotels even thought of changing at last minute. But once we got there staff was great, rooms great. Easy to get to downtown. Could get picked up at hotel for tours. Will stay again",
+    "reviewerCity": "Hebron",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

@@ -1,0 +1,100 @@
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4003"
+  },
+  "name": "Masters Inn",
+  "categories": ["Motels", "Hotels", "Lodging", "Bed \u0026 Breakfast \u0026 Inns"],
+  "location": {
+    "country": "US",
+    "state": "GA",
+    "city": "Savannah",
+    "postalCode": "31408",
+    "address": "4200 Augusta Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-81.1486, 32.10299]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "REALLY!!!!!!!!!!!!",
+    "reviewText": "Stayed here the July 4th weekend (7/3/09 - 7/5/09). This hotel was horrible starting with the intial check person to the lady working the front desk on our first night RUDE RUDE and RUDE. The room was filthy. The microwave and mini refrig need to be scrubbed or updated. The were smushed bugs on the wall next to the bed and next to the mirror over the sink. The box springs of the beds were filthy and the hole for the air conditioning unit was too big. But, worse of all the were ci...view moregarette buds on the floor next to the bed. There isn't any 24 hour maintenance nor are you able to get clean towels once the cleaning crew has left for the day. Of all the hotels I have stayed in the was the worst. Pay a few extra bucks and stay somewhere better.view less",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "REALLY!!!!!!!!!!!!",
+    "reviewText": "Stayed here the July 4th weekend (7/3/09 - 7/5/09). This hotel was horrible starting with the intial check person to the lady working the front desk on our first night RUDE RUDE and RUDE. The room was filthy. The microwave and mini refrig need to be scrubbed or updated. The were smushed bugs on the wall next to the bed and next to the mirror over the sink. The box springs of the beds were filthy and the hole for the air conditioning unit was too big. But, worse of all the were cigarette buds on the floor next to the bed. There isn't any 24 hour maintenance nor are you able to get clean towels once the cleaning crew has left for the day. Of all the hotels I have stayed in the was the worst. Pay a few extra bucks and stay somewhere better.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4004"
+  },
+  "name": "Hampton Inn Tucson-airport",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AZ",
+    "city": "Tucson",
+    "postalCode": "85756",
+    "address": "6971 S Tucson Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-110.934519, 32.124926]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, very comfortable accommodations",
+    "reviewText": "Excellent hotel. Rooms very clean and beds comfortable. Staff accommodating. Breakfast above average - waffles, eggs, some kind of meat almost every day, juices, cereal along with pastries, breads, etc. Location next to airport very convenient. Did hear a lot of air traffic starting about 7 a.m. each morning, which was not a concern to us but might bother some.... More",
+    "reviewerCity": "Trimble",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good but limited options for vegetarians",
+    "reviewText": "The rooms were good and clean, though, a proper closet and some more space in the room would be better, especially for a family of four sharing a room with two queen beds. There were not too many options for hot breakfast for vegetarian diet. The scrambled eggs or omelettes had meat in them. The toaster was not working properly.",
+    "reviewerCity": "Tucson",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Best greeting yet!",
+    "reviewText": "What a fantastic hotel and the friendliest staff you could ever wish to meet. Brittany has to be the bubbliest member of staff you could ever wish to meet. The staff laid food and drink on in the evenings. We were collected from the airport, taken to Pima air and space museum and taken back to the airport when we... More",
+    "reviewerCity": "Staffordshire",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "We had a great experience there",
+    "reviewText": "We had a great experience there",
+    "reviewerCity": "Staffordshire",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {

@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-27T06:00:00.000Z"
+    },
+    "reviewTitle": "respect for disabled",
+    "reviewText": "First Time staying and it won't be my last.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-11T06:00:00.000Z"
+    },
+    "reviewTitle": "respect for disabled",
+    "reviewText": "No complaints, my stay was a pleasant experience.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fe8"
+  },
+  "name": "Hilton Garden Inn Austin Nw - Arboretum",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Austin",
+    "postalCode": "78759",
+    "address": "11617 Research Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-97.744278, 30.416106]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Ants, Ants, no apologies, No Service",
+    "reviewText": "I had ants in my room and service desk people did not apologize nor did they resolve the problem. I asked them to knock softly as to not wake my family when they came in . They rang the room 7 min. later to make sure it was the right room woke everyone up and didn't even come to take care of the issue until after my husband and then myself had to go downstairs to the front desk. They wiped away the ants by the time we came back to the room they were back in full effect. I just packed and left it was a horrible experience. Oh and the front desk said they were to busy to help us. Wow!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "no breakfast sucks",
+    "reviewText": "No free breakfast Come on! The whole experience is not the same thing without being able to enjoy breakfast in the morning....",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend getaway",
+    "reviewText": "The hotel was clean and the manager was very nice. Would definitely stay again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Room/Great Price",
+    "reviewText": "Weekend visit to spend some time with our recently graduated son. Hotel was in nice area close to many restaurants and entertainment. Hotel room very nice lobby area had nice spots to spend time.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "The fire alarms work!",
+    "reviewText": "We woke up Saturday morning to the sound of the fire alarm. Someone in the breakfast area apparently burnt some toast and it set of the alarm (no lie!). But overall our stay was good (and what could the hotel really do about the burnt toast!). The lobby was pretty, the staff was pleasant, and the room was clean and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location by Bone Daddy's",
+    "reviewText": "I rated the hotel excellent overall because the staff was very friendly and the hotel itself is nice. However, the AC in my room was very noisy and the bedding was horrible. Mattress was way to spongy and the sheets way to hot, do not breath. The rest of the room was great. I did not get. Dry good sleep both nights because of AC and bed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

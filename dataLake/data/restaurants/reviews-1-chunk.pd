@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2016-03-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Prime location, value hotel",
+    "reviewText": "Friendly staff. Key card issues on 2 of the 4 days but quickly resolved. Great location. Parking on site but very small spaces. Kids enjoyed the pool and free breakfast.",
+    "reviewerCity": "Tuckerman",
+    "reviewerState": "AR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel in nice location",
+    "reviewText": "We stayed over night on this hotel and can say nothing bad about it. Yes there is construction going on outside the front of it. However, we stayed in the back of the hotel and noise wasn't an issue. The hotel is on a great location. It is located on the edge of the French Quarter - close enough to... More",
+    "reviewerCity": "Douglasville",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Location",
+    "reviewText": "Great location to investigate the French Quarter but far enough away to get out of the noise of Bourbon St",
+    "reviewerCity": "Douglasville",
+    "reviewerState": "AR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Nice Place to Stay in the French Quarter",
+    "reviewText": "This hotel is on the northeast corner of the French Quarter, approx. 3 blocks from Bourbon Street and a couple blocks from Louis Armstrong Park. We booked it because the price was reasonable and we have been pleased with other Mirazur Plus locations. Once again we were satisfied. Since this is an older building, the rooms were a little... More",
+    "reviewerCity": "Wheeling",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "quaint quite french quarter",
+    "reviewText": "Stayed here one week before Madrigal. The place is very appropriate for the area. Nice court yard. Rooms are nice a bit small. It is just 3 block from Bourbon Street and all the other great things that the French Quarter has to offer.",
+    "reviewerCity": "Colorado Springs",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location even better service",
+    "reviewText": "A quaint little motel with loads of character. Great location-can walk anywhere in French Quarter or downtown at a pinch. Friendly helpful staff went above beyond-good advice about where to go what to do in NOLA ( not where to go). Buffet breakfast was excellent barman excelled with preparing late night drinks. Special mention to the... More",
+    "reviewerCity": "Sydney",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "cheap",
+    "reviewText": "Bad staff and bad stay",
+    "reviewerCity": "Sydney",
+    "reviewerState": "CO",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "cheap",
+    "reviewText": "nice stay overall. was a little loud in the mornings because it is an outdoor hotel",
+    "reviewerCity": "Sydney",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "great hotel in a great city",
+    "reviewText": "In walking distance of Jazz fest. I wish we would have spent more time. The breakfast was very nice, staff was diligent in keeping eating area clean. The front desk staff was very helpful in helping us with directions. Will stay there again.",
+    "reviewerCity": "Cottage Grove",
+    "reviewerState": "MN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent location",
+    "reviewText": "We stayed here for the start of Mardi Gras and the location was just perfect. Efficient check-in by staff but had to wait for room as it was not ready. This was no problem for us at all. We had just missed breakfast but tea and coffee was on tap all day at no extra cost which was a nice... More",
+    "reviewerCity": "Rotherham",
+    "reviewerState": "MN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",

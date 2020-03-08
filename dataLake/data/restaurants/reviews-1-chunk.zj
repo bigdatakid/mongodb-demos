@@ -1,0 +1,100 @@
+    "reviewerState": "LA",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de401b"
+  },
+  "name": "Suburban Extended Stay Warner Robins",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "GA",
+    "city": "Warner Robins",
+    "postalCode": "31093",
+    "address": "2727 Watson Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-83.67237, 32.61835]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "N/a",
+    "reviewText": "N/a",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome",
+    "reviewText": "Had a problem with the heat at check in notified front desk and it was taken care within 20minutes.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice",
+    "reviewText": "The room was clean and everything worked. The only complaint I have is that the air conditioner was off when we went to the room, and it took hours to cool down in that South Georgia heat! Any other time of year except the hottest part of the summer would probably be okay. I would recommend this hotel and would stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice",
+    "reviewText": "The room was clean and everything worked. The only complaint I have is that the air conditioner was off when we went to the room, and it took hours to cool down in that South Georgia heat! Any other time of year except the hottest part of the summer would probably be okay. I would recommend this hotel and would stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice",
+    "reviewText": "It's what you expect for the price. They also had a roach problem. Also the staff were very rude and I won't be back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Good choice",
+    "reviewText": "Cheaper than local motels but I felt the 75 pet fee was excessive. Only pet friendly in area. Staff ignored my first complaint(blinking message light) so I did not tell them that the dishes were missing or the ring around the toilet or the fitted sheets which were too small for the bed. It was comfortable though and did I... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Good choice",
+    "reviewText": "Cheaper than local motels but I felt the 75 pet fee was excessive. Only pet friendly in area. Staff ignored my first complaint(blinking message light) so I did not tell them that the dishes were missing or the ring around the toilet or the fitted sheets which were too small for the bed. It was comfortable though and did I... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Ya cant be a wimp and stay at this hotel!",
+    "reviewText": "I had to break up a fight in the hotel bathroom .......kinda rugged...staff was nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3

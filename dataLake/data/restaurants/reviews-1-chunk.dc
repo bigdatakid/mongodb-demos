@@ -1,0 +1,1000 @@
+  },
+  "name": "Thunderbird Executive Inn and Conference Center",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AZ",
+    "city": "Glendale",
+    "postalCode": "85306",
+    "address": "15249 N 59th Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-112.185661, 33.620773]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Old Address For Thunderbird",
+    "reviewText": "This is the old address for Thunderbird. The new one is:Thunderbird School of Global Management1 Global PlaceGlendale, AZ 85306-6000 USASee their website:http://www.thunderbird.edu/about_thunderbird/contact_us.htm",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4046"
+  },
+  "name": "Park Terrace Suites",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AZ",
+    "city": "Phoenix",
+    "postalCode": "85023",
+    "address": "2577 W Greenway Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-112.113521, 33.625296]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The hotel lobby was gorgeous and the staff was great but there was a lot of construction being done to the hotel. The first room we got had a issues with the front door being able to close securely. We were given a second room which had the electrical messed up. When the kitchen light was turned on, the bedroom closet light also turned on and the bathroom lights were also connected to the other kitchen lights. The coffee pot did not work either even though it was plugged in. The room was very nice though and clean. I believe once all the construction and updates are finished it will be a very nice hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Not an Embassy breakfast as they say.",
+    "reviewText": "This hotel is not an Embassy Suites. They had changed recently but still advertise as of they have to save quality. We picked this hotel after thry said try had a ready to make breakfast just as the Embassy's have. To our surprise, we were to serve ourselves a buffet style breakfast. We could have saved our money and stayed at a Hampton for what we got. They also would not allow my husband to check us in even though he carried my phone inside to show them m confirmation. After a long summer day in phx heat, I was not pleased to have to get out and handle it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4047"
+  },
+  "name": "Quality Inn and Suites Irvine Spectrum",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Lake Forest",
+    "postalCode": "92630",
+    "address": "23702 Rockfield Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-117.715975, 33.628221]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Customer Service = F",
+    "reviewText": "Every single one of the employees need training. Period.",
+    "reviewerCity": "Redding",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Poor poor poor",
+    "reviewText": "Phone and the door lock didn't work. When we called about the door lock and phone not working a worker answered but hung up after I told her our problem. One of the downstairs doors to get in the hotel doesn't lock. Third floor smelt like weed the entire night. We asked for a different room but no changes were made.",
+    "reviewerCity": "Goleta",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location, terrible customer service. ..",
+    "reviewText": "The manager was on his personal cell phone for about 15 minutes before he noticed we were there. ... he was very rude with a new trainee, and very rude to us..... and other customers. .. For that reason I will not recommend this hotel to friends and family. ..",
+    "reviewerCity": "Goleta",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenience",
+    "reviewText": "That was horrible experience , I wish I could have stayed other place at that night , but the receptionist said I can't get refund !",
+    "reviewerCity": "Tucson",
+    "reviewerState": "AZ",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "HORRIBLE",
+    "reviewText": "This place was horrible. The staff did not great us in a good way after standing there for 10 min waiting to be called to counter. When we got to our room there was feces in the toilet and the room stunk. They wouldn't give us a different room or clean it. We paid 200 for this room and I would have rather stayed at a motel 6. I will NEVER stay here again and I would urge others to not stay here as well",
+    "reviewerCity": "Winnemucca",
+    "reviewerState": "NV",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Overvalued",
+    "reviewText": "The elevator always smelled like roach spray. The shower made noise when the pipe was turned on and throughout the shower. The refrigerator and microwave were substandard and not housed in a cabinet.",
+    "reviewerCity": "Winnemucca",
+    "reviewerState": "NV",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "As long as MAJ or JIM are working... It's all good",
+    "reviewText": "one of the worst hotels i have ever been to the place is old nasty filthy the staff was completely rude the manager was extremely rude and very unprofessional",
+    "reviewerCity": "Winnemucca",
+    "reviewerState": "NV",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst Hotel Ever",
+    "reviewText": "Be aware of this hotel, the man works at the reception desk was rude and always sat inside of the office every time I saw him. You will hear people talking in the connecting room just like talking right next to you in YOUR room and the front desk person didn't care. Overall, you are paying the money for inn but more like staying in the motel. This is the first time I stayed at Quality inn, and this will be the last time as well. Great quality!!!",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst Hotel Ever",
+    "reviewText": "Hotel at best could be described as arrested decay. Poorly maintained, needs remodel and new carpets, balconies falling apart. The desk clerk was confused and not all that versed in the English language, the lay out was confusing to get to our room, doors locked that are supposed to be fire doors and emergency exits. This was advertised on your site as a 3.5 star, when its more of a one or two. I wouldnt stay there again, poor value for the 127 per night, cant say who is the bigger crook, the management or the city who tax but apparently do not inspect.",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Travel Agent Review",
+    "reviewText": "As a Travel Agent/Owner of CruiseOne - Erik Fischer Associates I would have to say this is on my top 5 of worst properties I have ever stayed at. Upon arrival in the early afternoon the employee (unknown when we drove up) was smoking and looked agitated when he put it out and walked inside behind the desk. They... More",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible",
+    "reviewText": "Bed bugs",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "I feel embarrassed.",
+    "reviewText": "I booked this room for one of my employees coming from St Louis because it is one of the two hotels close to pur Lake Forest Office beaides Holiday Inn. He told me that the lights were not working, staff didnt care, shower head was almost coming out of the wall, roaches, and not clean. He complained to the desk but they did not care. Never again. And mind you paid over 110 a night. Never again. He took photos i will try and share if he send them to me. I normally do not write reviews but i felt i had to now.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "I feel embarrassed.",
+    "reviewText": "100 deposit? Wth? It's a b-",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "I feel embarrassed.",
+    "reviewText": "Nice breakfast spread, rooms are mediocre for the price, with old, loud air conditioning units. Hot tub with no working jets. So far housekeeping has been bold and rude. Desk staff is helpful.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "I feel embarrassed.",
+    "reviewText": "Stay on the 3rd floor",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "CA",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Awful",
+    "reviewText": "When I arrived I was greeted by a sign in the counter saying someone will be back in five minutes, should have said ten. My credit card imprint for incidentals was taken on an old imprinter on a piece of paper which now sits who knows where I had to walk through a wall of water pouring through the ceiling... More",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Old noisy and smelly hotel",
+    "reviewText": "For the price paid (100) and compared to other similarly priced hotels in the area, this hotel was bad. Its a slight step up from Motel 6, but below comparable budget chain hotels. First of all, the hotel is named Quality Inn Suites Irvine Spectrum. This hotel is 3 miles from the Irvine Spectrum and the neighborhood is a... More",
+    "reviewerCity": "Buckeye",
+    "reviewerState": "AZ",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, But...",
+    "reviewText": "I was disappointed in our room and service. The room smelled like cat urin.complained twice and was told they would have the room cleaned. That never happened. They asked if we wanted another room but beings I had a small dog they didn't have another room available. Since we were only there at night we stuck with it. The shower sprayed all over the place. And we were charged 70.00 for the two nights for my dog.",
+    "reviewerCity": "Buckeye",
+    "reviewerState": "AZ",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Title",
+    "reviewText": "When we arrived tHere was no one to check us in. I called and has to wait 10 minutes for a clerk to appear. He refused to give two room keys. Location is very noisy -- loud traffic.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Jackhammering Cement on Saturday Morning.",
+    "reviewText": "The jacuzzi and weight room were closed. On Saturday, they jack hammered cement, starting at 7 am.",
+    "reviewerCity": "Redding",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Jackhammering Cement on Saturday Morning.",
+    "reviewText": "Location is ok.The hotel is dated.The maintenance is not kept up with, mold in tub and a bad patch repair above shower head. Also had a bad smell upon check in",
+    "reviewerCity": "Redding",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Room was too hot",
+    "reviewText": "Staff not very friendly, Room was too hot when I arrived, by the time it cooled down enough to sleep it was 3:30 am and I had to get up at 5:30 am, the web site they said they offer a free shuttle within a 5 mile radius and when I asked they said we don't do that.Had I known... More",
+    "reviewerCity": "Redding",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Safety caution",
+    "reviewText": "When we arrived to the hotel we thought it was an abandoned building. The curtains in the windows were in disrepair. There were boards in the windows. It looked like it was a live-in hotel. It is located directly next to a Mcdonalds which is to say they shared a parking lot. The television service was 90 oriental and Hispanic television and we had trouble finding a channel that we could understand. Upon walking into the hotel, we did see a sign that they were doing remodeling. However, we considered going to another hotel because of the shape of this one. We did like the bed which was very comfortable and the room itself was dated but clean.",
+    "reviewerCity": "Goleta",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Low Expectations",
+    "reviewText": "Gave us a regular double queen instead of suite with king size bed. One of bed covers has 2 holes. Staff could have corrected room but to fix room would mean switching to room at back of building. Shower does not have a hand held and shower head not very good if trying to give shower to children. Nonetheless bed was comfy and breakfast decent.",
+    "reviewerCity": "Goleta",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "updated",
+    "reviewText": "The hotel needs to be updated.",
+    "reviewerCity": "Tucson",
+    "reviewerState": "AZ",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Poor recommendation for Quality Inn \u0026 Suites.",
+    "reviewText": "The breakfast food was poor. The room was noisy due to all the children going to Disneyland since the Anaheim Quality Inn overbooked causing people to be bused back and forth. The buses started at 6:00AM causing sleep impossible. The gas station along side was open all night causing additional noise. Our stay was not Quality at all.",
+    "reviewerCity": "San Jose",
+    "reviewerState": "AZ",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Meh, not my lucky trip",
+    "reviewText": "Free parking, decent rates, with free breakfast and (super crappy) free Wi-Fi. I had a three day stay. On day two, the workers replaced all the beds in the hotel with new ones, not mine of course, because I was already checked in. So, needless to say, so-so bed at best. The pillows are HORRIBLE! I woke every morning sore... More",
+    "reviewerCity": "Las Vegas",
+    "reviewerState": "NV",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "HORRIBLE",
+    "reviewText": "Hotel was worn out and used. Maintenance cart in hallway wasn't moved in 12 hours. 4 gallons of drano in cart",
+    "reviewerCity": "Winnemucca",
+    "reviewerState": "NV",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Right off the freeway!",
+    "reviewText": "Right off the freeway, easy to find. Hotel needs a remodel. Rooms are dated but functional. Beds are ok. Shower is good. Pool is nice, outdoor. Staff need a training in customer service. Looks and acts like they don't want to be there. Not very focused on customer service. Free computer and printer access. Parking is free. Chinese restaurant at... More",
+    "reviewerCity": "Lakebay",
+    "reviewerState": "WA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Not the Best",
+    "reviewText": "If you are on a budget it will be okay but I wouldn't stay too long. Here are some of the issues that may be a concern to you. First the lobby and hall ways are not air conditioned making hot days in these areas unbearable. This might make the staff cranky as well... Second the keys to the room... More",
+    "reviewerCity": "Lakebay",
+    "reviewerState": "WA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Bugs",
+    "reviewText": "We booked last minute needing somewhere for the night on a business trip. Good location right off the freeway. We arrived late and got right in. The room is okay. The bathroom had somewhat been renovated leaving old with new. I had left my purse on the dresser and in the morning picked it up and it was filled with... More",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't like motel rooms with flying insects",
+    "reviewText": "Flying nats in the room the entire time we were there and the bathroom floor and tub were less than acceptable.",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Poor hot water service.",
+    "reviewText": "This is an old building that has been reasonably maintained, but shows it's age in some common areas like the garage, stairwells and pool area. I would have given this just an okay review, but for the 4 days I stayed there was always a problem with the hot water in my third floor room. On two mornings there was... More",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Rude GM",
+    "reviewText": "I didn't have any issues with the staff-- in fact the morning crew was fantastic! The only bad experience I had was at check in. I know it was a general manager checking us in, I believe her name was Penny, but she was extremely rude and condescending when she spoke to me and the rest of my party. There was a mistake with the booking on my end, but she did not handle the situation professionally at all. instead she spoke down to us like we were trying to trick her or something. The room was decent and the breakfast was good, as well as the gentleman working the breakfast rush!",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Skip it if you can",
+    "reviewText": "I stayed at the Quality Inn and it is in need of an overhaul. I had a suite, which was large and quiet but the rooms are very rundown. My room had ants in the bathtub and sink. It had a dingy smell and was very old and outdated. There are a lot of families there and a Starbucks nearby.... More",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs a facelift.",
+    "reviewText": "This hotel was ok for our purposes. it was a place to shower and sleep. We did not intend to make it a resort stay. It was really convenient to the freeway, shopping, and the place we were going each day. The hotel needs refurbishing. Everything was worn, but clean, except for the long black hairs on the bathroom floor... More",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "I was disappointed at the amount of time I had to wait to get checked in. There was only one clerk at the front desk. She was very nice, but there where a lot of people checking in and no one to assist her. I'm also very annoyed at the fact that, even though I payed in full for my room online, I was required to put an additional 100.00 room deposit, in case I decided to trash the room, I guess. They said it would be refunded to my card after my stay, but that it would probably take a week to go through. Over all wasn't happy.",
+    "reviewerCity": "Chandigarh",
+    "reviewerState": "AZ",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Slept great!",
+    "reviewText": "Customer service was so-so, but bed was amazing. Front desk was very loud during busy times during the day...could hear up in my room due to acoustics and location of my room, but quieted at night, so sleep was not affected. Hotel was pretty dated but was under remodel. I was lucky to have a nicely remodeled room and again....wonderful bed and pillows!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to family",
+    "reviewText": "Needs to be updated",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to family",
+    "reviewText": "The room is clean enough, with a decent bed and tiny bathroom. Basically a serviceable room at a fairly high price. When we checked in our agent was efficient but the manager Bonnie was checking in another guest next to us and both my wife and myself felt that she was very rude to another guest who had special request and she didn't want to help this person out at all.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and clean",
+    "reviewText": "un trained staff at the front desk no one had any clue as to do there jobs",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Value but Dated",
+    "reviewText": "Near freeway and not too far from Irvine. Rooms are dated and front desk staff was generally polite but not great. The breakfast was adequate and the lobby was relatively clean though not used to seeing so much fake greenery and flowers everywhere. We did not use the pool and I hardly saw the restaurant open though we were gone... More",
+    "reviewerCity": "Redding",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenience and Customer Service",
+    "reviewText": "Without going into allot of detail. Manager was courteous and diligent in addressing my concerns. She accommodated me respectfully and assured my comfort. Food is within walking distance the property has an Asian Restaurant located in the building that delivers at minimal cost. This was very convenient. I will definitely return for business or pleasure.",
+    "reviewerCity": "Oceanside",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Shows Promise",
+    "reviewText": "We pre-arrnged to have our room either on the first floor or near an elevator on floors 2 or 3. However, when we arrived this had not been done. The person on duty really was quite cordial and nice to work with on arranging our stay. We were placed on the 3rd floor, but upon trying to settle in, several things did not work and we did not have a bolt lock on the door. The gentleman placed us in a room next door (335) and everything seemed to work. When my husband dropped the broken knob from the refrigerator, he found it under the cabinet, along with some dirty paper plates :( . During remodeling, things are iffy. We had a hard time accepting the facility garbage and mattresses in the back garage, also. The continental breakfast in the morning was wonderful! We think that when the facility completes the renovation project, it will be a lovely place to stay as it has/will have many amenities for those looking for extras in their hotel stay.",
+    "reviewerCity": "Oceanside",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel manager was a nightmare.",
+    "reviewText": "I was staying with my two young children and we had a small issue with the condition of the room as the hotel was under renovation. The female manager (Australian, I believe) was quick to offer to comp us a night which I thought was odd. Fast forward to our last night: the comp was only a credit for a partial night but in turn she drastically increased the rate of our last night making the room 3 times what we booked for. She locked us out of our room and refused to give us access to our belongings until we paid the inflated amount. We were left on a Friday night with the option to pay or leave. We had no choice but to pay but refused to stay the final night due to her hostility. My kids and I quite uncomfortably were forced to slept on my sister's couch.",
+    "reviewerCity": "Goleta",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Safety caution",
+    "reviewText": "Stayed based on price and proximity to family we were visiting. There is a security issue. The parking garage is dark and not easily seen if there's a problem, and the door into hotel says to use room key - but not only do you not need a key, the door doesn't even latch, and it appears a new handle was put in place to override the latch/lock handle. Interior is accessable to anyone and there did appear to be someone in the garage area who didn't seem to have any business there. We could park in front and go in that way, the room was big enough and comfortable, but this security issue isn't worth saving a few when there are reasonable and good hotels nearby.",
+    "reviewerCity": "Goleta",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and low cost",
+    "reviewText": "I needed a place for a quick in-out one night stay. My class was nearby and started earlier than I could arrive by air, so the only choice was to fly down the night before. I did a search on TripAdvisor for places nearby and the Quality Inn popped up. I have stayed at Quality Inns before, and while not... More",
+    "reviewerCity": "San Jose",
+    "reviewerState": "AZ",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-17T00:00:00.000Z"
+    },
+    "reviewTitle": "What...No HD?",
+    "reviewText": "If you just need a place to rest/sleep, this is just fine. Room was clean and neat. Front desk service was excellent. My only complaint would be the television accommodation. The room I was in had a flat screen set. One would expect to enjoy HD viewing, ah but not so. No HD and very few channels and reception was poor at best. Also, my room had no TV channel line up...not printed of on screen. Other the TV all was good.",
+    "reviewerCity": "Las Vegas",
+    "reviewerState": "NV",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "address rental issues at  restal properties.",
+    "reviewText": "Close to freeway noise was a real issue. Air conditioning was poor. Free breakfast less then average.",
+    "reviewerCity": "Las Vegas",
+    "reviewerState": "NV",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "FIRST IMPRESSION IS NOT SUPPORTED BY AMENITIES",
+    "reviewText": "My wife and I stayed at this hotel recently when attending a concert at the Verizon Ampitheater (now Irvine Meadows). The first impression is that this is a very nice place as the lobby area is beautiful. However, once we got into our room it was apparent that this is an older hotel that has had some cosmetic improvements but... More",
+    "reviewerCity": "Las Vegas",
+    "reviewerState": "NV",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Average",
+    "reviewText": "This is a decent hotel, right off the freeway, so it's easy to find. Traffic is horrendous, but depending on time of day, it's a pretty short drive to Laguna Beach and some shopping centers. There is not much in the neighborhood of the hotel. Nothing in walking distance, except a Mcdonalds next door. The hotel is clean, and the... More",
+    "reviewerCity": "Winnemucca",
+    "reviewerState": "NV",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "HORRIBLE",
+    "reviewText": "Ants in the bathroom. Screen door to the outside balcony was broken.",
+    "reviewerCity": "Winnemucca",
+    "reviewerState": "NV",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel and best value I've found when needing to travel to OC",
+    "reviewText": "The first night I was there, hotel staff slid a note under the door at 9:30 that evening letting us know that they would be coming into the room the next morning at 9:00 am to do some sort of construction, and they would come in even if we had the Do Not Disturb sign up. Nothing was said to us when we checked in earlier that day at 3:00 pm, which would have been a nice warning. The way they let us know was extremely unprofessional and rude.",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "The place to stay!",
+    "reviewText": "The internet did not work for 2 of the 3 days we were there. The room had an odor to it. We will not be staying here again. The staff was very nice tho.",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Short Stay at Quality Inn",
+    "reviewText": "Personnel were friendly and breakfast in the morning was quite good.",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Its a cheap clean bed.......",
+    "reviewText": "The Quality Inn is a budget hotel for people looking for a cheap place to stay....the have free wifi and a free fill your tummy continental breakfast which is a better option than buy breakfast at McDonald's next door. There's a pool and a cheap Chinese restaurant in the lobby. Its actually a decent deal for what you pay",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Cheap, clean, free WiFi, and breakfast.",
+    "reviewText": "Like my namesake, Jonathan H reviewed, this hotel is clean and cheap and sometimes that's all you need. We just cleared out a house that we sold so we were tired, it was raining, and the Quality Inn was in front of us. The rooms are large enough and definitely clean. We originally were only going to stay for two... More",
+    "reviewerCity": "Capistrano Beach",
+    "reviewerState": "PA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Sufficient place to stay on a budget",
+    "reviewText": "I was traveling with a very budget conscious group for a conference in the area. The hotel was fine, but worn. It definitely needs a cosmetic updates. Some of the King bed rooms on the interior hall of the 3rd floor of the front building have cool vaulted ceilings so they seemed more spacious. The outer rooms are just plain... More",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "Quick check in, they are remodeling but my room was very good clean. Hot breakfast, is ok.",
+    "reviewerCity": "Lakebay",
+    "reviewerState": "WA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Budget Hotel",
+    "reviewText": "Parking: Free lot with plenty of spaces. Staff: Very friendly and helpful. Location: Off the 5 freeway and easy to find. Lots of things nearby, McDonald's is literally next door and so is a Shell gas station. But plenty of other eateries and shopping nearby. Hotel: Beds are so so, rooms are adequate. In terms of budget, this hotel fits... More",
+    "reviewerCity": "Rancho Cucamonga",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice and super comfy hotel next to the beach",
+    "reviewText": "Typical breakfast with scrambled eggs and bacon .. nothing fancy . There is McDonald right next door to it just in case your kids need something better for breakfast.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Very average hotel. Needs some updates",
+    "reviewText": "The area the hotel is located in is not great. Check in was fairly quick and i took the old elevator to the second floor. Upon entering my room I got a smell of Damp and the room was dark and poorly lit. The room was very dated , but it was pretty much what i expected for the price,... More",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, But...",
+    "reviewText": "I picked this hotel because of its close proximity to the Irvine Amphitheater and the fact that they had shuttle service. I booked ahead as the weekend was a surprise birthday present for my wife. I called two days before to confirm everything and was informed they no longer did any shuttle service. Alright, we'll work around the inconvenience. Upon... More",
+    "reviewerCity": "Buckeye",
+    "reviewerState": "AZ",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, But...",
+    "reviewText": "A great place for free breakfast and pet friendly!",
+    "reviewerCity": "Buckeye",
+    "reviewerState": "AZ",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great budget hotel",
+    "reviewText": "Stayed one night while attending a concert at Irvine Meadows. Two miles from venue, easy to Uber to and from. Honestly, I had read the bad reviews and took a chance. It maybe in the midst of renovation, but our room, above lobby, was quiet, very clean, and the air worked great as well as everything else in the room.... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and clean",
+    "reviewText": "Very good location, right I5 and I405 junction. Many restaurants in walking distance. Quiet, even though renovation taking place. Sadly, ice machines not working, but manager went out and bought ice and brought it to the room. Wonderful service! Good breakfast and breakfast area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "California trip",
+    "reviewText": "Only stayed two nights and it was convenient to the airport and to family",
+    "reviewerCity": "Redding",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality hotel",
+    "reviewText": "Front desk wonderful. rooms fine. free breakfast ok but eggs pretty bleak, spongy, watery etc. the layout of the breakfast line could be much more user friendly as well as easier to restock if the toast/pastry part was not heading into corner of walls. Also, maybe a sign asking patrons to help themselves to the pancake machine but to please bring all butters, syrups, jellies etc to be used on pancakes back to table to avoid causing a logjam so others could get to the machine. May be minor point, but would improve the whole breakfast experience commensurate with the hotel quality. Thanks, Glenn Secola",
+    "reviewerCity": "Goleta",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient",
+    "reviewText": "Was very close to the business I had to do while in town. The restaurant inside had some great food. Did not have any transportation so I can't tell what was nearby. Staff was very friendly and helpful to get me to where I needed to be when checking out. Was pretty quiet slept OK",
+    "reviewerCity": "Goleta",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Safety caution",
+    "reviewText": "Was very nice",
+    "reviewerCity": "Goleta",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Business Trip",
+    "reviewText": "Since this was a business trip, I did not spend much time at the hotel, but it was quiet and I was well rested for each day, Thank You!",
+    "reviewerCity": "Goleta",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Better than expected!",
+    "reviewText": "Mnay have given this hotel a bad review. I found that for the price it was more than I expected. It was very clean and the bed was super comfy. The breakfast was what it was- hotel continental style, but there is fresh fruits and yogurt to, so not bad. I had no problems with this hotel and will return on my next trip down there. It is better than the average budget hotel.",
+    "reviewerCity": "Goleta",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-07T00:00:00.000Z"
+    },
+    "reviewTitle": "good value",
+    "reviewText": "clean",
+    "reviewerCity": "Tucson",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenience",
+    "reviewText": "Great location, great price. Carpet needed some cleaning but overall happy with hotel.",
+    "reviewerCity": "Tucson",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenience",
+    "reviewText": "The rooms were fine but the hotel staff was very unfriendly and not very accomadating.",
+    "reviewerCity": "Tucson",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "The deal in the area",
+    "reviewText": "We liked the continental breakfast.",
+    "reviewerCity": "San Jose",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly staff, great location!",
+    "reviewText": "The staff is very friendly and helpful. The room was fine for my purposes (business meeting in area) although it did have a stuffy feeling and musty smell and the linens could be updated. The Chinese restaurant on site was delightful, staff very pleasant and very good food.",
+    "reviewerCity": "San Jose",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent hotel in Lake Forest area, Orange County",
+    "reviewText": "close to John Wayne Airport nice lobby and room adequate parking",
+    "reviewerCity": "San Jose",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "relaxing",
+    "reviewText": "good",
+    "reviewerCity": "Las Vegas",
+    "reviewerState": "NV",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel and best value I've found when needing to travel to OC",
+    "reviewText": "In short, the best value I've found when work takes me to Orange County. This hotel is a border-line 2.5 star/3 star. It does have a restaurant (banker hours though so I've never been), but it does offer a free HOT breakfast that I've always enjoyed (especially their eggs and sausage). There rates have been the best I can find... More",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "safe and moderate hotel with hot breakfast",
+    "reviewText": "I stayed for 13 days on a business trip. This hotel is greatly priced, with good hot breakfast, lots of parking and big lobby. I feel a lot safer compare to motels with exterior room entrance. onsite laundry facility is also a must for me... I will book this hotel again for the upcoming trip.",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Travel Agent Review",
+    "reviewText": "We were there for an event at the Amphitheater.",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Average hotel with higher end feel",
+    "reviewText": "Easy on/off freeway and perfect location to reach all food or shopping we needed. Room rate very reasonable. Buffet breakfast was fine - nothing special. Would definitely return if we needed to be in the area!",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-16T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay in Irvine",
+    "reviewText": "I am pretty satified with my stay at Quality Inn . The location is great, it's very close to the freeway and varieties restaurants close by. The room is clean and quiet.The only thing needs improving was the showerhead was loose,difficult to adjust",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay with Soccer Team",
+    "reviewText": "I booked 6 rooms for my soccer team and their families because we were participating in a tournament in Mission Viejo. The location was excellent due to it being a short drive to Oso Complex. Each party had a minimum of 2 parents plus 1 teenager and we checked in Saturday evening around 5pm. Check in was great and no... More",
+    "reviewerCity": "Lakebay",
+    "reviewerState": "WA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place for Irvine Amphitheatre",
+    "reviewText": "This hotel is fine... clean, comfortable and nothing fancy. The parking lot is shared with a McDonalds but there was plenty of parking. Small pool and patio area... the staff didn't mind that we came back from a concert and hung out at the pool chatting/playing music till early in the AM... the layout is perfect since the restaurant and breakfast bar border the patio area. We didn't bother anyone and no one bothered us. Easy check in and check out... good all around.",
+    "reviewerCity": "Lakebay",
+    "reviewerState": "WA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for the price",
+    "reviewText": "Stayed here two nights on business. Decent place for the price. Not fancy but at 85 or so, it's fine. Wish they had a business center with a working printer though.",
+    "reviewerCity": "Lakebay",
+    "reviewerState": "WA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice!",
+    "reviewText": "Nice area, felt safe...would stay at this hotel again. Central location for where we needed to be. Breakfast was good and low cost on the rooms. Didn't enjoy pool (little cold outside) or hot tub this trip..... but this hotel worked for us.",
+    "reviewerCity": "Rock Island",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely hotel",
+    "reviewText": "We really enjoyed our stay here. It has a beautiful lobby to begin with! Our room was nice and clean. We brought our little dog and they were very welcoming. We had a little trouble having to wait to check in because the computer system was down butt that was not their fault. Nice hot water! There were signs saying... More",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice and super comfy hotel next to the beach",
+    "reviewText": "Nice hotel great beds very comfy outdoor pool hot tub close to lots of restaurants",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice and super comfy hotel next to the beach",
+    "reviewText": "Friendly staff, clean rooms \u0026 a nice pool area. Definitely one of the best hotels I've ever had the pleasure to stay in.",
+    "reviewerCity": "Wisconsin",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Rude GM",
+    "reviewText": "Happy with the service . Room recently renovated. Smelled good.",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 4

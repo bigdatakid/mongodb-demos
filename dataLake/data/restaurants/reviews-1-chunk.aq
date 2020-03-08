@@ -1,0 +1,1000 @@
+  },
+  "name": "Comfort Inn",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Bonita Springs",
+    "postalCode": "34135",
+    "address": "9800 Bonita Beach Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-81.787918, 26.331369]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Newly renovated hotel rooms.",
+    "reviewText": "Newly renovated. Convenient location to family in Bonita Springs.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Newly renovated hotel rooms.",
+    "reviewText": "The hotel was under renovation. We were not told in advance. There were materials stacked in the hallway from elevator to our room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Workzone",
+    "reviewText": "I Can't stay, the Hotel was a Workzone",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "WORST HOTEL EXPERIENCE EVER !!!!!!!!!!!!!",
+    "reviewText": "Worst Hotel Experience of My Life!!!!!!!!!! Spent one night there on 1/11/2016. When we checked in, the desk clerk gave us out two room keys cards and told me, in a threatening manner, that if I did not return both key cards upon checkout, I would be charged 3.00. When we arrived at our floor, there was room furniture stacked along the walls of the hallway on both sides. I plan to notify the building inspector about this because I believe it violates fire and safety codes. The phone in the room made buzzing and vibration sounds all night. I finally had to disconnect the phone. Went to take a shower and there was no hot water. When I went to check on my car in the morning, it was parked in by an 18 wheeler. I went to the desk, but they were no help. It took me about 45 minutes to find the driver to ask him to move the truck. He told me that the hotel staff allowed him to park there because he was delivering furniture to the hotel. When were checking out at 10:30 AM, we waited about 15 minutes for the elevator. The delay was due to the hotel staff using the elevator to move new furniture to the upper floors. This would have been OK between 11:30 AM and 3:00PM (after checkout time and before check in time). But the staff in this hotel allowed the move to take place during prime checkout time. I NEVER HAD A SINGLE APOLOGY FROM THE HOTEL STAFF. MOSTLY BLANK STARES. I will never, ever stay at this place again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "WORST HOTEL EXPERIENCE EVER !!!!!!!!!!!!!",
+    "reviewText": "Clean great location staff friendly my fourth time here loved",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Will not stay here again.",
+    "reviewText": "Heat in room did not work, hotel was under renovation (for good reason), phone had short in handheld connection, wi-fi very poor. Workers / maids entered room even with do not disturb sign on door.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-30T00:00:00.000Z"
+    },
+    "reviewTitle": "nice stay",
+    "reviewText": "Nicely remodeled rooms. Bathroom still seems a bit outdated, but all in all nice room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel",
+    "reviewText": "This was a great room for the price. We highly enjoyed having sinks in both the bathroom and outside of the bathroom. The continental breakfast was average. We would definitely stay here again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfort and convenience",
+    "reviewText": "We stayed in mid march and found the area to be very overcrowded (spring break and all the snowbirds). The Comfort Inn was a breath of fresh air to us. The location was ideal for driving to the beach (also very crowded) or connecting with US41 or I-75. Amber at the front desk was a wealth of information about how... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Just the basics -- clean, quiet, simple facility",
+    "reviewText": "Stayed at the hotel a few days. It's a no-frills place: No fitness center no vending machines as far as I could see balcony slide door lock didn't work, though there was a safety bar very small lobby housekeeping came after the first day and thereafter only to take old towels. And no dining or bar facility on site. But the hotel is up-front about all that, so no real penalty. Also, the hallway carpet was missing because it is being replaced, but hey, at least that means that they refresh the facilities every so often. Most importantly, though, the room itself was clean and quiet. And there is free breakfast. So take it for what it is: a clean, basic facility that will save you some money compared to most other hotels in the area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant Surprise!",
+    "reviewText": "A pleasant surprise to say the least! They were swapping out the furniture in the rooms while I was there so there was alot of activity. I thought maybe I made a mistake in booking but it turned out to be a great 5 days. The staff was friendly and helpful. The hot breakfast and coffee were good. I was traveling solo but I could have fit a family of five in my room. The restaurant recommendations in the hotel info binder in the room are spot on! Best night sleep - comfortable bed and linens!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "great hotel, newly renovated. TV channels were fuzzy but serviceable. Breakfast was very good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Value price for this expensive area in high season",
+    "reviewText": "Friendly staff",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Location ,and comfort",
+    "reviewText": "Clean and comfortable great location for Naples and BSrings",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice hotel!",
+    "reviewText": "Very nice hotel, which is newly remodeled, very nice large rooms, nice carpets, furniture and comfortable beds. The hotel is clean, cozy and quiet, can not hear the guests of the side rooms, breakfast is also very tasty with a large selection. On the next visit Florida will definitely come back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for the price",
+    "reviewText": "At least they need to add basic need for customer like a botter of water , ice , I don't know but when u get up there there is nothing to drink",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Pretty awesome stay",
+    "reviewText": "Excellent",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, being renovated throughout",
+    "reviewText": "Nice hotel, when we were there in March 2016 they were in process of renovating with new carpeting and beds being installed throughout. All the staff we encountered were friendly efficient. The breakfast provided at hotel was pretty blah, but the restaurant across the street, Dolly's Produce Stand, was great for breakfast and lunch.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "It was nice. Everything was being updated, new beds, furniture etc...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Stop Over",
+    "reviewText": "This was an over night stay enroute to Key West and we were pulling a trailer. The hotel manager was very helpful in giving us a room where we could park outside the room to keep an eye on our kayaks and fishing equipment. The room was very clean and comfortable and the staff friendly. We were just stopping for the night and it was perfectly comfortable for what we needed. We arrived earlier than check in after a 12-14 hour drive and the management was gracious enough to allow us early check in.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Stop Over",
+    "reviewText": "Very clean, very comfortable. We enjoyed our stay. The staff was helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect all around",
+    "reviewText": "Great location- close toNaes. Great pool. Quiet hotel. Highly recommend!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect all around",
+    "reviewText": "We had a very comfortable stay, room was big , we got pool view which was great. The only thing the breakfast area was very small, it was very crowded and basically was the hall. Everything else was great, free parking, good size swimming pool. we enjoyed it",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Bonita Springs Stay",
+    "reviewText": "Our stay at Comfort Inn was great. The hotel was clean. We had a king room facing the pool. The fridge size was good. The bathroom was normal hotel bathroom. small bathtub and sink. there was an additional sink outside of the hotel room for additional people to use to get ready or what ever the needs are. coffee avail in room. Breakfast was great. you can make regular waffles or blueberry waffles. eggs, sausage, fruits, danishes, muffins, toasts, yogurts. coffee, apple juice, orange juice. all you can eat. The only thing the hotel should invest in is a shuttle or someway to help get the out of town people can get to and from the beach. Also maybe upgrade the cable. Some movie channels and a guide of somesort would be nice. since it is so HOT it would be nice to stay in some a/c and watch a good movie. We were down for a wedding and did not have a car. I had read on other reviews that you can walk places and there are things to do. That is not even true. You can not walk to anything quickly. And you don't want to because it is so hot that it is miserable to walk anywhere. You need a car. Also on the way to your hotel stop and get water. The water all over Bonita Springs is awful. Get bottles.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Bonita Springs Stay",
+    "reviewText": "Hotel Wifi doesn't work",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Could have been better",
+    "reviewText": "There was construction taking place on my hall in various rooms. This made it a noisy place beginning around 8:00. The fan setting on the air unit did not work.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "two day relaxation",
+    "reviewText": "everything was find",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfort [able-price] Inn",
+    "reviewText": "They are renovating the lobby so it's quite busy with that up front. The Wi-Fi was very weak. Had to go to my mobile Hot Spot. Enjoyed the price. Beds were comfortable and room felt updated and roomy. Like the extra electrical outlets and fridge and microwave. For the price, I would still stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfort [able-price] Inn",
+    "reviewText": "Great, some remodeling in lobby and dinning area bot manged well.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to the beach w/ car",
+    "reviewText": "Stayed initially for one night, extended for 2 more. Would have stayed longer if weekend rate wasn't going up 25. Very clean and quiet, nice pool, hot breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to the beach w/ car",
+    "reviewText": "This was a convenient location for our purposes. Staff was efficient. It was what we anticipated, no luxury. Pool was not heated for cooler days and no hot tub available. We were aware prior to our stay that they were renovating, however we did not expect workmen to be entering our room while we were checked in but away and this was disconcerting to return to our room and find things moved around. The hallways were cluttered with furniture and construction materials. Unsafe for children in my opinion.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value.",
+    "reviewText": "Good value for prime season. Rooms newly decorated and quite large. Nice breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Very scary",
+    "reviewText": "Teribble Hair in the bed Bugs in the room Very dangerous area I had at least 10 people ask me for money The manager and house keeper excellant but it does not make up for the safety issue. I felt I was going to get shot or killed",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Acceptable.",
+    "reviewText": "A few miles to beach. This hotel was fine. Not fancy, but it was convenient enough for restaurants and the prettier areas. The breakfast layout needs some rethinking. Very crowded. The wifi never really worked, and tv was limited. Accommodations were good enough, and it was very quiet.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "great place for price",
+    "reviewText": "great place for the price, good free cont breakfast in the AM. close to the beach and shopping if needed. clean bed and sheets, nice size room, many have balconies. the outdoor pool is nice, in May 2015 it looked as if they might be adding an outside bar area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "one night wonderful",
+    "reviewText": "Wonderful! Friendly knowlegeble staff, excellent service. Great deal for a room by the pool super clean super comfy room. We will definitely book this hotel again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Vacation Stay",
+    "reviewText": "Nice hotel. Great staff. Clean room and facility.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Work in progress",
+    "reviewText": "No one told us when we booked or when we checked in that they were replacing the carpeting in the hallways. Paint masking tape and concrete in front of our room. Mad.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Staff issues",
+    "reviewText": "Sadly the staff at this hotel do not have a clue. Booking issues, Lied to. Promised call backs that failed to materialize. The hotel has clearly had renovations recently to make the appearance better - now to change the staff and things may improve overall.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for the price",
+    "reviewText": "The price was right for the place. They were making renovations , we come back to see the renovations finished",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for the price",
+    "reviewText": "Nice clean quiet hotel. Reasonable price for the area. Nice breakfast choices.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for the price",
+    "reviewText": "nice place, staff, breakfast. little noisy street side",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for the price",
+    "reviewText": "Totally just redone it is awesome still needs to update furniture",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value",
+    "reviewText": "Great value for the area!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value",
+    "reviewText": "I have stayed here more than 10 times and I love it. This is my number one choice for hotels. You get a great price for a beautiful hotel room. I also use this hotel when I want to be alone and recover from a very stressful week.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel for the money",
+    "reviewText": "My family and I stayed at this hotel for one night. The place was newly renovated and sparkling clean. Great Stay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel for the money",
+    "reviewText": "Good stay, quiet neighborhood- they were renovating, but it was still nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Outstanding!",
+    "reviewText": "Newly renovated and very clean excellent deal!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect sleeping quarters for visting SW Florida",
+    "reviewText": "All was good. Lights over sink basin were out. Hopefully they were replaced before the next guests.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "awful house keeping",
+    "reviewText": "Room and breakfast were fine, pretty much what you would expect from a comfort Inn. The housekeeping was awful. When they made room, didn't replace towels, cups, shampoo etc. the final day they made the beds but didn't replace the towels, so we were left with two bath towels, and no hand towels, wash cloths and shampoo. Tube hadn't been cleaned bar of soap, empty shampoo containers were still there. The next morning when I when to take a shower I realized that there was no shower curtain. They had taken the curtain but hadn't replaced it ( this was pretty much typical thehouse keeping experience for our 5 day stay).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay for the money",
+    "reviewText": "Comfortable and clean room. Breakfast had a variety of hot and cold items where you'll find something for everyone.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "clean, easy to find, nice balconies",
+    "reviewText": "This hotel is nothing special, but it was a clean safe place to spend a couple nights while we drove to various beaches and sights in the area. Staff was helpful and friendly. While the breakfast bar had a closing time at 10, that meant you need to be there by 9:45 to get any food, as they stopped supplying... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for the money, clean, close to restaurants and the beach at 1/2 the price.",
+    "reviewText": "Located in Bonita Springs and only a few miles from Bonita beach, this value hotel offers travelers a clean, reasonably priced hotel with an excellent free breakfast. We stayed here for a night prior to taking the fast cat to Key West ( 30 minute drive away). The hotel is only 3 miles from bonita beach ( a straight shot... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Stay",
+    "reviewText": "Very comfortable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Family getaway",
+    "reviewText": "Loved the hotel , very clean and updated - beds very comfortable and pool area clean - nice pool the children had a very good time in the pool . No towels at pool area . Could of used umbrellas . My only complaint is being from a near county I was charged an additional 100 deposit - never stated that when booking , was upset over it at first - but got to say the receptionist was patient with me while I vented my frustration - I was scared to have a hanger out of place or would be charged 100 . But since I know about the 100 deposit if you are considered a local - I will recommend and return to this hotel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Concerned about Safety",
+    "reviewText": "The room was nice enough. A ground floor room with a sliding glass door and a balcony area. After spending one night there I realized the sliding glass door would not lock and the security bar was broken. Here I was, a woman staying alone, in an unlocked room. The maintenance man came and fixed the bar. I told my... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Respectable and nice staff...clean and very nice r",
+    "reviewText": "It was great I will stay here again and recommend this hotel to all my friends and family",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "nice pool",
+    "reviewText": "the price was very affordible florida residence and AAA get a discount hotels .com said they were booked but when i called i was able to get a room huge pool free breakfast clean room i have and would stay here again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Real deal",
+    "reviewText": "This hotel has everything you can expect from a low budget hotel. Breakfast has varied item. There's a lot of space in the breakfast area. Room are clean and has been renovated. We were there only one night and we ended saying that we should have stayed longer.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Real deal",
+    "reviewText": "15min drive to the beach. Hot breakfast -nothing fancy, but it is always nice to have eggs and waffles in the morning. Pool seems to please the other kids (we only opted for the beach). Restaurants around (a lot available in a 10-15min drive) including nice ones, but none of them were accepting reservations (at least 1h to 1h30 wait for the Christmas period) -good to know when traveling with young kids.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Nice Stay",
+    "reviewText": "The rooms are very spacious and well appointed. It appeared newly refurbished. 2 sinks is very helpful for a family. It would be nice if the breakfast was extended a little later than 9:30. The eating area is a little cramped. The breakfast was simple but good. Overall, I enjoyed the hotel stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location",
+    "reviewText": "The lights in the room were not bright--hard for my husband to shave.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Outstanding Review",
+    "reviewText": "Wonderful, outstanding, and everything was perfect.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-13T00:00:00.000Z"
+    },
+    "reviewTitle": "New Carpet at Height of Season",
+    "reviewText": "This hotel is really ok... the rooms are clean and comfortable. The only problem we had, though, was that management decided to rip up the hallway carpet and install new carpeting -- a laudable endeavor but not at the height of Bonita Springs' season, March!!!! The noise from the drilling and hammering was AWFUL, and the SMELL from the new carpet glue made it difficult to sleep at night. We did complain to management, and they agreed to give us 15 off for two nights to compensate us. I really thought they should have comped us a night. I can't believe that no one else complained. The hotel seemed pretty full.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Average hotel",
+    "reviewText": "The hotel is average.room was clean. The bed and pillows were very comfy and the free breakfast was somewhat larger than other hotels I've stay at. There is one elevator that is adjacent to the lobby so if you had the misfortune of getting a room on the third floor on the opposite end of the hotel, as I did,... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant surprise! Excellent value for the price!",
+    "reviewText": "The rooms have been remodeled and look great! We were wowed when we walked in and saw how large the room was, that it had a table with 4 chairs (that NEVER happens and was a definite plus since there are 4 of us!), a balcony, and a sink outside the bathroom as well as inside it. Beds were a great size. Breakfast was ok- one waffle maker, pastries and cereal, also egg patties and meat- we dont eat meat though. The location was only 10 mins from the beach!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Near, but not on, the Beach and Priced accordingly",
+    "reviewText": "Nice place, shout out to Grace for the great attitude and smile! A few miles west of I-75 and 4 miles to Bonita Springs Beach with some decent eateries in the area. Every room has a balcony/Porch. Dolly's restaurant is across the street. Nice, slightly cramped, breakfast area. Outdoor pool. Our room was opposite the road and very quiet. We... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Refunds",
+    "reviewText": "This hotel charges for your room keys if you do not leave them. 2 per key and when I recv'd my credit bill I was charged 33.30. Called the hotel twice and both times was assured a credit would be issued. That did not happen and I had to go through my credit card co. and let them handle it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Bonita Springs Trip.",
+    "reviewText": "Great stay. Recently remodeled. Friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Bonita Springs Trip.",
+    "reviewText": "Very nice addition of hot tub in pool area would be great",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Bonita Springs Trip.",
+    "reviewText": "This hotel is still going through renovations but the work did not get in our way. I would stay here again! The staff, room and location were great. I would recommend this hotel to family and friends.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Very comfortable beds",
+    "reviewText": "The beds were the best part. Nice and comfy. The room overall was okay. There were a few lights out and a few ceiling tiles were a bit shoty. But overall again, it was a nice hotel with friendly staff (Grace). The pool was very nice and and the pool with the surrounding area was clean. Oh, as well as... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Borderline Acceptable",
+    "reviewText": "The hotel is well positioned off the main highway, and close enough to the beach. They are going to rip out all the bathrooms soon, so that will help a lot as the bathrooms are just okay. The breakfast, which granted is included in the price, not free, is poor. I have a hatred of all things plastic on the... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Borderline Acceptable",
+    "reviewText": "Gave a 4 for condition because there was still some remodeling going on.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst Innkeeper Ever",
+    "reviewText": "My wife and I decided to explore the SW Florida area for our 26th Wedding Anniversary. We are loyal Choice Hotel customers and this hotel was perfectly located. All went well the first day except for some lights not working in the room and the TV remote needed batteries. That problem was cordially taken care of at the front desk.... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay with a problem.",
+    "reviewText": "We had a great time, the staff was super friendly. The breakfast was delicious (eggs, sausage, waffles, pastries, and toast) but the only had one woman working so there was a huge wait for everyone. It was Memorial Day weekend, lots of people complained about how they wished they went to holiday inn express because there was such a wait.... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean \u0026 friendly hotel",
+    "reviewText": "We stayed here while visiting our daughter who attends FGCU. We wanted to try something a little further away and in a different area than we normally stay. This place was perfect. The facility was clean, staff was friendly and the free breakfast (which can sometimes be inedible at hotels) was better than expected. We would recommend this hotel and will probably stay there again on our next visit.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice comfortable",
+    "reviewText": "We were pleasantly surprised at how nice the room was that it was a large room. We had 2 queen beds that were very comfortable, and the many fluffy pillows were great. Our room was pool side so that was nice. Breakfast was waffles, sausage, eggs, fruit, yogurt, muffins, etc. More than enough to get the day started. Staff... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Typical Modest chain hotel",
+    "reviewText": "Because we were in high season and last-minute, the cost was extremely high. Other than that complaint, this was a clean and pleasant hotel with a good location. Beach road is the main road to the beaches and the hotel in just a few blocks from the main north-south route through the city. The included breakfast was generic but was... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Wow!",
+    "reviewText": "As with the rest of our trip across the country.........we were going to be getting into the everglades the next day and needed a good nights sleep. Got it! This room was fantastic! Every room (that we could see) had either a patio or balcony right out of the doors. Even though we were really tired we took advantage of... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great property, great staff",
+    "reviewText": "Grace was so helpful and has a contagious personality which made our stay a pleasure. The property was clean even though it could use some cosmetic updates. The breakfast was more than expected. This is our second stay at the hotel and expect to return again next year. Thank you for a wonderful start to our vacation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Good enougj",
+    "reviewText": "Came down here for a wedding and let's face it, there not that many places in Bonita. The place was good enough for an inn. Front desk lady was rude one day when a pipe broke and the water was shut down but other than that I would stay here again. Breakfast was decent.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Will come back!!!",
+    "reviewText": "Great place! Breakfast was plentiful and varied. Great service!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "5****** stars and funccional",
+    "reviewText": "I just love this hotel , very clean , and very clean pool and pool area. Breakfast its amazzzing very good ...,,chorizos, huevos, pasteles dulcitos, cereal, pan, waffels, fruta(bananas) yogurt, jugo de naranja , tea caf decaf........just on breakfast you put 20 on your pack .... You go to the beach full alredy. Its 8 mn to bonita beach... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3fb0"
+  },
+  "name": "Comfort Inn",
+  "categories": ["Hotels", "Budget Hotels", "Hotels \u0026 Motels", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Edinburg",
+    "postalCode": "78539",
+    "address": "4001 Closner Business 281",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-98.248491, 26.33373]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-12T00:00:00.000Z"
+    },
+    "reviewTitle": "It was close to venue....",
+    "reviewText": "The hotel was nice and clean....however I had an issue with the dead insects and crickets throughout the room. The room could have also had a more pleasant smell.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Well worth the price.",
+    "reviewText": "We travel frequently with short overnight stays. As we're retired, I generally look for bargains and have found that you generally get what you pay for when it comes to lodging. So, for our stay in Edinburg, Texas, my wife persuaded me to pay a bit more, and I'm glad that I did. The free breakfast was quite good with an outstanding number of choices for everyone. The one exception was the scrambled eggs, which were obviously not directly from the shell. The omelettes more than compensated, however. The room was spacious, clean, comfortable, and odor-free. Every staff member we encountered was courteous and friendly. Parking was convenient. The nicest touch was the choice of pillows in the room: firm or soft. We both slept quite well, unusual for us without our own pillows and on the first night of a stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Well worth the price.",
+    "reviewText": "This Hotel was built sideways to avoid facing the busy highway. When I checked in, I was assigned the room facing the highway on the side of the building. I asked for another room and the Clerk not only graciously changed my room, she gave me a bigger room for the same price. I was impressed with the outstanding customer service. The breakfast is better than what is offered in most hotels. I found the bacon wasn't cooked enough and asked if they could make some crispier for the following morning. When the Clerk saw me arrive to breakfast, he immediately had the Kitchen staff make crispy bacon for me. I can't say enough about the staff and how accommodating they are. Tuesday through Thursday, they offer Happy Hour from 5:30 to 7:30PM. Great variety of cold beers as well as wine. The appetizers were different each night. This Comfort Inn is expanding by doubling their size and making suites. The addition is supposed to be ready by July. I never heard the construction from my room. I already booked this same Hotel the next time I am in Edinburg for business. Tons of nearby restaurants and shops. They offer 4 pillows for each bed. Two pillows are firm and two are soft. Love this Comfort Inn. They know how to distinguish themselves.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "Comfortable and close to things",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Worse service ever n they running a scam .",
+    "reviewText": "It was a bad experience .. I rented the rooms cause of pool n it was under contraction, my children was very disappointed .. Also watch out people .. Take pictures of everything the wanted to charge me 100 for a comforted that they said it was stain after I left even tho it wasn't stain by us.. But when I went back to look at it they already had it on the bedroom .. For someone else to used., they figured cause I was from out of town I wld come back n check . It's a scam.. Don't fall for it !!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Satisfied",
+    "reviewText": "Comfortable bed. Huge shower. Large bathroom. Standard breakfast fare.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Satisfied",
+    "reviewText": "Staff was great, minor issues with room were promptly fixed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Front desk give me the wrong key/ smoking room",
+    "reviewText": "give me wrong room number so im was there trying to open a room that was already occupied and the person inside room got upset. When I booked online, I did not have an option to choose smoking or non smoking so when I got there they give me a smoking room and I have Asthma problems. Try to change it but no rooms were available.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Highly recomended",
+    "reviewText": "We have a good experience at this hotel, good conditions, sevice ok. Highly recomended.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Cigarette Smoke",
+    "reviewText": "I can't stand cigarette smoke, and even though I asked for a non smoking room, we could smell the smoke down our hallway and in our room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Very comfortable stay",
+    "reviewText": "Staff very friendly. Bed, pillows comfortable. They do allow pets - FYI. Breakfast was good. No complaints.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Customer Service This is it",
+    "reviewText": "Whever I'm in the Rio Grande Valley area, this is the place I stay. It may not be a First Class hotel but it is clean, spacious, quiet and at an ideal location. The customer service is always super. My last experience was especially memorable. We arrived late at night and our room had been saved not on the first... More",
+    "reviewerCity": "Texas",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "WPSC Business",
+    "reviewText": "Excellent location, service, very satisfied with the accommodations. Wife accompanied me on this business trip and she was very satisfied with the accommodations also, If she is happy, everybody is happy.",
+    "reviewerCity": "Texas",

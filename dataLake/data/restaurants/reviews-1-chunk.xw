@@ -1,0 +1,100 @@
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, clean hotel",
+    "reviewText": "We were traveling through to NM and this was a convenient hotel for the route. Nice and clean, good breakfast, friendly staff. Nothing super special, but we were there only for a quick night's stay. I would stay here again.",
+    "reviewerCity": "Boerne",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Traveling with teens",
+    "reviewText": "We were traveling to a teen leadership conference. Staff was very accommodating. That's not usually the case when a group of teenagers is involved. Breakfast was ample. Rooms were comfortable and clean.",
+    "reviewerCity": "Texas City",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortsble",
+    "reviewText": "My daughter and I were there for just one night during the West Texas Fair for the stock show. Staff was very friendly and helpful. Breakfast was good and started early enough.",
+    "reviewerCity": "Texas City",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Abilene Hampton Inn",
+    "reviewText": "Professional and friendly Staff. Clean rooms with all the amenities you need. The Hampton Inn located on Ridgemont is ideal, the mall is walking distance and plenty of places to dine for individuals or families.",
+    "reviewerCity": "San Antonio",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Abilene Hampton Inn",
+    "reviewText": "Enjoyed our stay, quiet and clean.",
+    "reviewerCity": "San Antonio",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Abilene Hampton Inn",
+    "reviewText": "It was a great place to stay!! Nice people clean rooms and very comfortable!",
+    "reviewerCity": "San Antonio",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Abilene Hampton Inn",
+    "reviewText": "I wanted privacy and peace and quiet and I got it!",
+    "reviewerCity": "San Antonio",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "business travel - 1 night stay",
+    "reviewText": "Typical Hampton, I am HHonors Diamond have stayed in a bunch of these. decent breakfast, staff is above average, definitely west Texas friendly. Great location for food and most business activity in Abilene. I would return",
+    "reviewerCity": "San Antonio",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay at Hampton Inn",
+    "reviewText": "The staff was very friendly and helpful. This hotel was very close to restaurants and shopping mall. The rooms, lobby and pool area were very clean and in excellent repair. We have stayed at several different Hampton Inns and are always pleased!",
+    "reviewerCity": "Golden",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Hampton Inn- Abilene by Mall",
+    "reviewText": "Very nice location, excellent care by staff. During the height of a Texas summer, the AC managed to keep up nicely. Room clean, ADA accoutrements were not fancy, but entirely adequate and thought out. The staff were friendly, helpful.....they did good. Would go back in a heartbeat, and almost certainly will.",
+    "reviewerCity": "Golden",

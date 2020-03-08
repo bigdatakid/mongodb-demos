@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2010-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Comfortable, Clean, and Friendly",
+    "reviewText": "Great Swimming Pool and Sub-tropical Gardens Read more",
+    "reviewerCity": "Lake Worth",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic!",
+    "reviewText": "My wife and I went to a concert at The Saenger Theater. It was very close and the stay was all around wonderful! Beautiful house, pool, room, it was quiet, delicious breakfast, fabulous service, and we met some great people too. Conversation with Steve (innkeeper) is intelligent as well. Ty Steve! We will be back!",
+    "reviewerCity": "Lake Worth",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place, thank you Steven!!!",
+    "reviewText": "We spent part of our honeymoon trip here, and we loved it. The house is astonishingly beautiful and Steven prepared us an amazing breakfast everyday, gave us great advice on where to go and what to see and was in general a perfect innkeeper! Thanks again!!!",
+    "reviewerCity": "Lake Worth",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ff0"
+  },
+  "name": "Fort Conde Inn",
+  "categories": ["Hotels", "Bed \u0026 Breakfasts", "Hotels \u0026 Motels", "Lodging", "Bed \u0026 Breakfast \u0026 Inns", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "AL",
+    "city": "Mobile",
+    "postalCode": "36602",
+    "address": "165 Saint Emanuel St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-88.04079, 30.68811]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Had a wonderful stay!",
+    "reviewText": "Loved the Fort Conde Inn. Location was close to downtown and the Marde Gras parades. Breakfast was really good. My husband is normally not a fan of French toast but loved it. Beautiful historic house. Rooms were clean and cozy. Large bathroom. Staff was very friendly.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great choice in Mobile!",
+    "reviewText": "Great location, beautifully restored buildings, and very responsive staff. Our TV didn't work, so the staff upgraded us to another room. A wide range of gourmet breakfast choices were offered, and breakfast was exceptional.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great choice in Mobile!",
+    "reviewText": "This is a gorgeous location. I highly recommend renting the entire venue for your big day. The rooms are beautiful and the whole experience will be very memorable for you. They do have someone who helps plan your day, everything from when to start and how to end. This helped us tremendously, as she directed the event. They are very strict on catering, so keep that in mind. They don't have in-house catering, but whoever you have had to be well staffed and licensed. They can help you pick your vendors as well. The staff is very professional.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautifully restored historical property!!!",
+    "reviewText": "I came down with my tennis team and we stayed in the Gonzalez and Blakely cottages. They were both lovely!!! Wonderful beds and luxurious towels and toiletries. Beautifully decorated bedrooms and sitting rooms which adjoined each bedroom. Breakfast was served at the Fort Conde Inn which adjoined the property. The chef cooked a very elaborate assortment of main dishes as... More",
+    "reviewerCity": "Birmingham al",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "An Historic Treat",
+    "reviewText": "This fully restored mansion is tucked away in a corner of downtown Mobile near I-10. It also comes complete with its own little group of restored antebellum buildings. While not right in downtown, getting there is an easy walk. The inn also has an elevator, which we appreciated. This old house is charming and the breakfasts were first-rate. We also... More",
+    "reviewerCity": "Hillsboro",
+    "reviewerState": "OR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-05T00:00:00.000Z"
+    },

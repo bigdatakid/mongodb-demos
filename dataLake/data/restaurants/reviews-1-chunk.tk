@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "I do not recommend this hotel to anyone",
+    "reviewText": "The pay at the hotel option does not work. They draft your card as soon as you check in to reserve room. The rooms are very small. They are ok for the price range. There is no pool, also there is no ironing board in the room. Customer service was ok, one was having a bad day I think. Would consider staying again for a quick get a way.",
+    "reviewerCity": "Beaufort",
+    "reviewerState": "SC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Disgusting Black Molded room",
+    "reviewText": "The room or hotel itself is nothing like the pictures. It's a horrible rundown hotel. I'm so confused why they are even advertised on Expedia. The walls the smell was just horrible. This room/hotel should've been 20 max. It was so nasty. There was black mold on the torn wallpaper walls. The bed smelled. It was so uncomfortable. It didn't even feel clean. I didn't get under the covers. I sleep on my own travel blanket on top of their covers. I seriously hated it. I felt so tricked. Cigarettes marks on the counter. I felt like I was in some drug invested crapy building. I couldn't get my money back because of the no refund thing. I booked bc I missed my flight. Just horrid. I want my money back.",
+    "reviewerCity": "Beaufort",
+    "reviewerState": "SC",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Disgusting Black Molded room",
+    "reviewText": "The check in we fast and easy. The room was Very clean and well maintained. The pillows were a bit soft, but just our opinion. Others may love them. But beyond that the place was like a 200.00 per night hotel at 70 less cost! Would stay anytime back in jacksonville",
+    "reviewerCity": "Beaufort",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Disgusting Black Molded room",
+    "reviewText": "We chose this hotel because it got fairly good reviews on Expedia and we needed a place to stay near the airport for an early morning flight. The room was much smaller than anticipated the bathroom was tiny with bath towels that were thin and so undersized that they were only slightly larger than hand towels. The room was clean,however, and we slept ok. Our biggest complaint was that we did not get the wake-up call we asked for and the airport shuttle was more than 15 minutes late. The person at the front desk was dismissive, saying that she ordered the call and that was all she could do and that the shuttle driver would be there. Thank heavens we woke on our own and had given ourself a 30 minute cushion in addition to the two hours that we had planned for our international flight. We do not recommend this hotel. There are plenty of other options.",
+    "reviewerCity": "Beaufort",
+    "reviewerState": "SC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Smallest hotel room I've ever seen",
+    "reviewText": "The staff was friendly and the bed comfortable, but this was the smallest room I've ever slept in (1 queen bed and only 2 ft on each side and about 3 1/2 feet between the end of the bed and the wall). Breakfast area was tiny with only a long counter against the wall with a few bar stools to... More",
+    "reviewerCity": "Beaufort",
+    "reviewerState": "SC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Quiet and comfy. No Frills.",
+    "reviewText": "I stayed here a full week while closing on a house. It is a great deal for the money. Close to the airport with a free shuttle provided. Amenities are plenty, whatever food or drink you want is within a mile. The staff is kind and dont bother you. Rooms are slightly dated which shows through the new upgrades, but... More",
+    "reviewerCity": "Washington DC",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "one night stay",
+    "reviewText": "Booked the hotel early July 7-16 I do my research months before we leave on a trip, according to it advertisement it was what I was looking for, great price, bottom floor, breakfast, free parking, easy on and off highway, the place was clean, staff very friendly from the time we checked in, our friends booked at the same time,... More",
+    "reviewerCity": "New Stanton",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Just fine for the night",
+    "reviewText": "After reading many reviews we decided to book two rooms at this hotel for one night. I was not expecting much and we were not really disappointed. I didn't feel particularly welcomed upon our arrival with the evening clerk quite cold and aloof in doing our check-in. We had booked one room with one bed and one room with two... More",
+    "reviewerCity": "Greenville",
+    "reviewerState": "SC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "I enjoyed the perfect size room, friendly front desk employees, and relatively low cost",
+    "reviewText": "In my pleasant experience at The Plaza Inn and Suites, I noted the cozy, even ergonomic, feel of the single queen bed room, which harmonized nicely with the conscientious and friendly employees at the front desk.",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Cruise sleep park",
+    "reviewText": "Hotel was clean convenient. Asked about local seafood recommendation we were given a choice of 2. One of which, we had tried before had a bad experience. We tried the latter. BAD DECISION! 40 later, the food was frozen and not plesant. Will not make this mistake again.",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {

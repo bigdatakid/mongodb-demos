@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Good overall stay!",
+    "reviewText": "32 is the best Resturant. Awesome food!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Good overall stay!",
+    "reviewText": "Terrible vibe in this hotel. People and staff were unfriendly, room was stuffy compared to others we stayed in during our trip for the same price. Bed was uncomfortable. Did not enjoy our stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Good overall stay!",
+    "reviewText": "Club is okay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Good overall stay!",
+    "reviewText": "Nice clean rooms with great beds!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Experience",
+    "reviewText": "The room, location, and activities were great",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room,  great value for my money.",
+    "reviewText": "Me and my 2 grandchildren went. 1 st time here. The game room needs to be bigger and security needs to be in game room at all times. I rented a cabana that was very nice. The bathroom and bathtub needed to be bigger. A luxury bathtub would have been nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-03-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room,  great value for my money.",
+    "reviewText": "Try the Cheesecake Martini. It's absolutely fantastic!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room,  great value for my money.",
+    "reviewText": "It was great but your slot machines were to darn tight.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room,  great value for my money.",
+    "reviewText": "very enjoyable granddaughter loved the pool elevators were a little inconvenient but for a relaxing vacation it was great",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room,  great value for my money.",
+    "reviewText": "The room was clean and comfortable but I found that the staff was extremely unfriendly and almost rude.",

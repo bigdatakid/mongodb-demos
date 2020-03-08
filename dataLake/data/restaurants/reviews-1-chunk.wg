@@ -1,0 +1,100 @@
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "excellent in all respects",
+    "reviewText": "This was my 3rd time staying at this hotel and each stay has been flawless. Love this hotel. Free breakfast menu is one of the best with a lot of choices.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable for my kids",
+    "reviewText": "We had a great stay, and will make this our new place to go when we go to Tucson. They were welcoming and great to my kids fun and friendly, they even had a BBQ dinner for free to.guest and it was in own but tucked out of the way of the busy streets. Restaurants all around! Shopping up the road! Great Time, if I could we would of stayed another day!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Staff and property",
+    "reviewText": "When I checked in I asked about food delivery that was not pizza and was given a recommendation for Risky Business. The man at the desk assured me the food was good and he was dead on. When I commented I had been traveling since 3 am and it was now 9pm he told me not to worry. he put me in a room with no neighbors and on the top floor so I would be sure to have quiet. Its little stuff like that. The entire stay was filled with a great friendly staff that never hesitated to anticipate what I would want before I did. Coffee was always hot and breakfast was good. This will be my new place to stay when in town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Staff and property",
+    "reviewText": "When I checked in I asked about food delivery that was not pizza and was given a recommendation for Risky Business. The man at the desk assured me the food was good and he was dead on. When I commented I had been traveling since 3 am and it was now 9pm he told me not to worry. he put me in a room with no neighbors and on the top floor so I would be sure to have quiet. Its little stuff like that. The entire stay was filled with a great friendly staff that never hesitated to anticipate what I would want before I did. Coffee was always hot and breakfast was good. This will be my new place to stay when in town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel",
+    "reviewText": "It was a good hotel, but on expensive side. You can get a luxury hotel for 200+ a night, but guess they were charging high price due to gem shows in the town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value",
+    "reviewText": "The room was spotless, staff very accommodating and our stay was most enjoyable. The breakfast was very good but the hotel did not seem prepared for the number of people. A little chaotic!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Stay",
+    "reviewText": "Excellent Stay, Hotel and rooms are everything they should be. Clean , comfortable and well priced. Plenty of shopping and dining near by. Staff was great. Breakfast is decent. Definetley will stay here on my next visit.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent location for business or local travel.",
+    "reviewText": "The hotel was very well located for our purposes with a number of restaurants within walking distance. We felt very comfortable walking to them. Having both a bedroom and sitting room was very convenient when one of us wanted to sleep late. Nice breakfast included in the room price. Would not hesitate to stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent location for business or local travel.",
+    "reviewText": "The hotel was very well located for our purposes with a number of restaurants within walking distance. We felt very comfortable walking to them. Having both a bedroom and sitting room was very convenient when one of us wanted to sleep late. Nice breakfast included in the room price. Would not hesitate to stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-29T00:00:00.000Z"
+    },
+    "reviewTitle": "������",
+    "reviewText": "The hotel was very well located for our purposes with a number of restaurants within walking distance. We felt very comfortable walking to them. Having both a bedroom and sitting room was very convenient when one of us wanted to sleep late. Nice breakfast included in the room price. Would not hesitate to stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",

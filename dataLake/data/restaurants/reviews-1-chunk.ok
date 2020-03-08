@@ -1,0 +1,100 @@
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great size room!",
+    "reviewText": "Stayed for one night. Room was really big! Requested king bed and it was true to its size. Bed was comfortable. Definitely had a good night sleep. Shower head worked great plenty of water spray. Dining area was adequate for breakfast plenty of food to choose from esp had a waffle maker. Location was right great since it was right off the highway and within minutes from the airport. I truly enjoyed my stay here as a single young female felt safe during my stay. So i do recommend this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Not very good",
+    "reviewText": "The entire stay was awful... When we checked in, they gave us a room that had people in it! Went back to get a different room and then she gave us a double bed room, for my wife and I. Because she didn't have any others. It wasn't very pleasant!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Satisfied",
+    "reviewText": "Due to our flight have a long lay over, we had to stay at the hotel. They were very courteous, picked us up, stopped so we were able to get something to eat. Accommodated us right away. We were comfortable and we were very relaxed. Everything was clean. I just think that the paint needs to be updated and little minor repairs have to be updated. But over all I thank them for the attention they gave to us in making our stay welcomed",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Family/pets",
+    "reviewText": "Husband was here on business we tagged along. Family of 5 with pets. The rooms are perfect for a full family specially with the pullout couch plus two queen beds. and to bring pets. I love how the beds are seperated buy a wall and there was 2tvs for a big family. The pet fee was steep but at least it wasn't per day per pet.50 The staff was super great and nice. Although,they need to update and fix things but seems like they are already starting. The room was really clean. There was a whole in our ceiling above our bed from a leak it looked like and the chain lock was broken there was still a deadbolt. but those didn't matter to much to us as it was the cleanliness that meant the most for us. And it was a safe hotel. Breakfast could have been better but wasn't bad.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Family/pets",
+    "reviewText": "Everything was really good. The complimentary breakfast was good so was the price for our 2 night stay. The only thing we found wrong with our room was the coffee maker had used bags still in it and the iron had some pink sticky stuff on it. Other than that nothing really major. Friendly front desk clerks.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price close to airport.",
+    "reviewText": "Good room great price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "The Best Get Away",
+    "reviewText": "The staff was great very professional and kind",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for the price",
+    "reviewText": "Good overall and a nice room but the hotel overall could be unkept a little better, chipped paint, new ceiling, etc.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Pretty good",
+    "reviewText": "This hotel was great. My only issue was that there was hair on the walls of the shower, holes from a cigarette in the bed comforter, and the doorknob to the bathroom was almost broken off.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Very spacious room",
+    "reviewText": "Great room that fit our family. I would have loved more choices for breakfast, but we got a great deal on the room, so I can't complain-)",
+    "reviewerCity": "",

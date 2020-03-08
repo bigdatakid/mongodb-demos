@@ -1,0 +1,100 @@
+    "reviewerState": "LA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "charged twice, both by hotel and hotels.com!",
+    "reviewText": "My best friend and I stayed for the Garth Brooks concert that weekend. Although there were a lot of people checking in, the service was quick and courteous. The location from the hotel to the Centurylink was very convenient. we enjoyed our stay and will return if another concert comes through Bossier City. Thanks!!",
+    "reviewerCity": "Austin",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-15T00:00:00.000Z"
+    },
+    "reviewTitle": "charged twice, both by hotel and hotels.com!",
+    "reviewText": "The staff was extremely helpful. the first room that we saw had problems and they were very happy to put us in a room that was very nice. The beds are wonderful. I usually have problems sleeping in a strange place but the beds were so comfortable that I slept like a rock",
+    "reviewerCity": "Austin",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenience",
+    "reviewText": "Check in was horrible the lady didn't know how to run my debit card so I had to use the hotel atm to get money to pay for my room. And cleaning staff turned the heat on when they cleaned it was over 100 out side",
+    "reviewerCity": "Austin",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Visiting Family in Hospital",
+    "reviewText": "We arrived around 9 p.m without a reservation. We were in town visiting family in the hospital. We were tired and the Outback next door was convenient for a late and quick dinner. Rates were reasonable. Our room was clean and the staff was accommodating. Just what we were looking for!",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "reasonable priced hotel",
+    "reviewText": "Made reservation on a spur of a moment. Hotel was okay, lady serving breakfast was super sweet. Price was reasonable.",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "What hotel not to choose",
+    "reviewText": "Room smelled. Very small. Bad choice on my part. Won't be making that mistake again.",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "nice place to stay",
+    "reviewText": "stayed new years eve, as for room, was clean, beds comfy. we didnt get up for the breakfast, so not sure how it was, for the money it was overall very good. wasnt a 5 star vegas strip hotel, but neither was the price. liked the fact that it was inside acess to room.(hotel vs motel)i would stay here again no question. only a short trip to casinos. (less than a mile)",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "One might.",
+    "reviewText": "Staff was very helpful.",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok",
+    "reviewText": "When making reservations, I requested a first floor room. When we arrived we were assigned to the second floor. No explanation although a first floor number was noted on card. Hotel is close to railroad tracks. We were awoken 3 times during the night. I can say employees were extremely kind. No complaints there. Breakfast was adequate.",
+    "reviewerCity": "Monroe",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "You may want to stay somewhere else",
+    "reviewText": "A combination of factors made this stay less than what we had anticipated. There were weird, wrinkled curtains in our room, a rock hard bed, and at breakfast, items ran out and were not replenished even though it was still supposed to be open.",
+    "reviewerCity": "Harrogate",

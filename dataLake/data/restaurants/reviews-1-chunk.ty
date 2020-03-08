@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Very clean nice little hotel",
+    "reviewText": "Missed my plane and has to find a place for the night found this hotel thru Expedia. For 70 this was a very clean and nice place to stay for the night. I'd definitely stay here again Just no restaurants within walking distance. But shuttle service was very prompt and speedy.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value.",
+    "reviewText": "Great value. In town with friend for quick stop and overnight. Rooms were Clean. Hotel is older. Front desk is very helpful and friendly. Decent breakfast - cereal, toast, bagel, juice, coffee. Only note: Could hear everyone in the hallways - but not too bad.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Just Bad",
+    "reviewText": "Needed a quick place to stay to get to airport very early. From the moment I walked in I knew it was a mistake! The front desk area is an absolute mess and the smell was terrible. It got worse. The elevators smelled like I don't know what. Thankfully we found the side door to go in and out of and used the stairs, as to avoid lobby and elevator.Even things that were nice, like the tile floor, was covered in a dirty all weather rug. I realize that not all hotel owners care about appearances, it was my error in judgement! The bedroom was okay, effort was put into decorating. I guess they are in the middle of reno or just decided to quit on it!",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Fine for the price.",
+    "reviewText": "Room small and dated. Lots of shopping ad dining choices.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Fine for the price.",
+    "reviewText": "Where is the closet and dresser?",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Wouldn't return!!!",
+    "reviewText": "The room was clean but i really wouldnt stay here again. Was very intimidating. There was a bunch of guys outside our window revving their engines, playing loud music and smoking cigarettes. The lobby area is v run down. Its v basic. Its fine if u are staying for a few hours before going to airport but avoid if you... More",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Lets's Do it again.",
+    "reviewText": "I wan very pleased.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad, but not quite what I expected. Tiny!",
+    "reviewText": "The place looked nice when I drove up. Didn't like that there wasn't a temporary parking area to check in. I had to park way far away. Staff was a bit rushed when I checked in. I asked for a luggage cart for all of my stuff and the girl just shrugged her shoulders. I said that I guess I'll... More",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice place",
+    "reviewText": "Very nice place to stay staff were very nice and very helpful. The only complaint we have is the amount of parking but that has nothing to do with the hotel or staff. Would stay here again for sure. Beds are comfortable rooms are clean. They need a pool.",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent hotel for price",
+    "reviewText": "Jacksonville Plaza was a very clean hotel. The staff was helpful and pleasant. The hotel was quiet. Good location. We just needed an overnight stay and got it with the plaza. Great value for an excellent price. Would happily stay there again. Only complaint would be the continental breakfast. All carbs.",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {

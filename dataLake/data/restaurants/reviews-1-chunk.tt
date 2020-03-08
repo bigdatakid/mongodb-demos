@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Eh",
+    "reviewText": "In need of renovations. Smelled of cigarettes and mildew.",
+    "reviewerCity": "Tampa",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Will not return",
+    "reviewText": "OK for just a one night stay but we won't return. We did not want to take a 8 hour drive early in the am so we just drove 2.5 hours here and finished up our drive to Miami the next day. No pool. Non smoking hotel...that's a plus. Lake/pond on property to feed the fish. Very Small/compact room and... More",
+    "reviewerCity": "Hinesville",
+    "reviewerState": "GA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice small hotel",
+    "reviewText": "We stayed here for one night before our cruise. Booking, locating, and check in were all a breeze. This is a nice hotel for under 75 a night. It is located very close to shopping and restaurants. It's only about a 10 minute drive to the cruise terminal. If we were to leave out of Jacksonville again we would stay... More",
+    "reviewerCity": "Tennessee",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Room okay.",
+    "reviewText": "Room was extremely small. Bed small but comfy. Fridge and coffee maker. Bathroom a decent size. All clean. Continental breakfast included but very limited. Allowed an early check in which was great. Staff very friendly. Jacksonville it's self was a little poor and we wouldn't return.",
+    "reviewerCity": "rossendale",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Much ado about nothing",
+    "reviewText": "This hotel was lacking in basic hotel room features. There was no dresser,there was no closet, there were no kleenexes, there was no water pressure in the shower, there was no instruction book including no listing of TV channels and the sink took forever to drain. Also the breakfast was the most basic we have ever encountered with no protein whatsoever and only room for 4 people to sit and eat.",
+    "reviewerCity": "rossendale",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Affordable, Nice and clean..but..",
+    "reviewText": "The hotel was very affordable for us as we simply needed a place to rest in between a long road trip. We checked the bed for bugs and it passed, everything seemed nice and clean.. but, the blow dryer was filthy, after I Cleaned the handle for like 5 min to the point where I can touch it (the handle... More",
+    "reviewerCity": "rossendale",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for the price",
+    "reviewText": "It was ok. Had modern furniture and the room was clean. It smelled like mildew before we turned on the air conditioning.",
+    "reviewerCity": "rossendale",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for the price",
+    "reviewText": "Good, the employees were friendly. Quick check in, no hassle. Great location",
+    "reviewerCity": "rossendale",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean \u0026 comfy hotel near to the airport. Breakfast",
+    "reviewText": "Clean and comfortable hotel near to the airport. The breakfast was included and wasn't bad however I was ready to eat some waffles or pancake instead they offered pre packed Danish sweet bread, so we ran to Denny's (it is pretty near). If you like to sleep till late, my suggestion is to ask for a room situated in an upper floor. The first one is a little bit lousy after 8 a.m.",
+    "reviewerCity": "rossendale",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnight before cruise.",
+    "reviewText": "This was the perfect hotel for us! We stayed here the night before we departed on a cruise. Very clean small and basic. But all we needed .staff was delightful and very attentive. There were plenty of restaurants close by for dinner. The hotel allowed us to leave our car in their parking lot and uber over to the cruise... More",
+    "reviewerCity": "rossendale",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {

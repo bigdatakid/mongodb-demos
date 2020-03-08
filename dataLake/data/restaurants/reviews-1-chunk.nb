@@ -1,0 +1,100 @@
+    },
+    "reviewTitle": "Fiesta inn suite SanAntonio",
+    "reviewText": "The stay was good, great location, need inproventment on room service, never had towels, the motel was clean",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "a great getaway",
+    "reviewText": "The staff is friendly and helpful, the kitchen was equipped with what we needed, there was always someone around property cleaning something, the rooms have ocean and bay views. The hotel is within easy walking distance to CVS, shopping, and dining. We were very pleased and we are making this hotel our home away from home when in South Padre Island.",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "It was filthy,and had cockroaches",
+    "reviewText": "It was the filty,roach infested, the sheets had not been changed sence the last guest or more, there was mold every wher! HORRIBLE CONDITIONS!",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "It was filthy,and had cockroaches",
+    "reviewText": "Don't stay there please. Drug  activity and prostitution arround that place",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Did not stay",
+    "reviewText": "Decided to not stay, very bad vibe when we got there. Asked for a refund right after we checked in. Get what you pay for",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "worst stay of my life",
+    "reviewText": "Should change the name of the place to the shady crap stain inn",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "NASTY",
+    "reviewText": "This place was Nasty. There were roaches crawling around. My room had no light in the front living room, no tv, had mattresses on the floor, the door to the bedroom looked like it was kicked in, the room had an odor...it was Nasty",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "\"Wish I could go back in time on this one\"",
+    "reviewText": "For this establishment to give the name of FIesta Inn and Suites is a bad form of advertisement. The ONLY association they have with the Theme park is that it is not that far from there... Also in my opinion any 4-5 star reviews this hotel gets I believe were posted by staff/owner! Two words for this place is Gross! Gross! This hotel well if what we had was a suite then....I just don't have words because 2 weeks later and I am still stunned and finding it hard to believe I stayed there 1 night. Breakfast made me ill to my stomach. I did not feel like I was in clean hotel when it came to the room. The appliances in suite were from 1960 and fridge was leaking water from icebox. Stove was well not sure what it aspired to be but i would not cook anything on it or in it. Plugs did not work through out and no AC in room...it is is living area so to get this AC air you have to sleep with door open. The bathrooms although for most part clean the tub was dingy, the sheets appear decades old (along with lumpy mattresses, flat pillows and decore from the 60's). This establishment is great for a budget minded person but I predict foul practices from not so savory citizens happen here (as evidenced by our room door having been kicked in on numerous occassions-it was hard to open and when you did get it open the door at bottom where frame and door meet was split). I was this close to sleeping in my car with my family instead. Never will I stay here again. Nice staff but not nice hotel!",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "bugs dirty stinky",
+    "reviewText": "That was the worst nightmare in my life,roaches, dirts I even took pictures ,that was hell ,they make you sign a paper that they re not responsible for any lost belonging in your room , people trashy smoking by your window ,wifi doesn't work .i never recommend no one to stay there ,I was supposed to stay for 7 days ,I checked in at 11 pm and I checked out at Midnight and they kept my money",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "hotel deterirado y sucio",
+    "reviewText": "muy deteriorado, sin mantenimiento, de hecho estaban en reparaciones, pero necesita una remodelaci��n total.",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"

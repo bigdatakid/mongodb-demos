@@ -1,0 +1,1000 @@
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-03-01T11:20:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "I must say, wow!!!  I stayed a few extra days in Houston, and decided I wanted to spend some time downtown.  I stayed at the Hilton Post Oak earlier in the week, but decided to change hotels to be closer to everything downtown.  What can I say besides, FABULOUS!  Everything was FABULOUS!!!!!!  I WILL BE BACK....",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "This staff is over the TOP, they met every need. The food was FABULOUS, we had breakfast, lunch and dinner we were there for a four day meeting and every attendee had a good experience, we had 800 women from all over the US, we would highly recommend this hotel for your next meeting, or banquet. We can't say enough about the STAFF!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "They were great! We changed my mind and almost the ENTIRE menu at the tasting and they went with it. More than that, the chef came out, ask and listened to our requests, and came up with a fantastic alternative. The guests were raving about the food - which doesn't always happen at receptions hosted at hotels.We worked with Claudia and she was also great. Responsive. Willing to work with our needs and budget. Professional. The room is beautiful on its own...add some uplighting, flowers or table decor and it's warm and elegant. We were very pleased!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2005-07-02T00:05:44.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "My husband and our two small kids decided it would be fun to stay at the Hilton one weekend to swim, eat, and relax.  We were quite surprise...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "Great Hotel Bar Stopped in a couple weeks ago after a day at Discovery Green. What a wonderful bar staff! Drinks were great! Service was great! A great place to go if you are looking to have a couple drinks without messing with the downtown crowd.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-11-06T19:46:45.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "beautiful hotel, comfy beds!! staff is only okay, and bar staff is pretty bad. but overall huge and very very pretty and well kept.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-02T13:54:58.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "Hilton America's is one of my favorite hotels within the Hilton chain. When you walk in, the hotel just looks gorgeous from the lobby to...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd4"
+  },
+  "name": "Embassy Suites By Hilton Houston Downtown",
+  "categories": ["Wedding Receptions \u0026 Parties", "Conventions Conferences \u0026 Trade Shows", "Convention \u0026 Meeting Facilities \u0026 Services", "Conference Room", "Hotels", "Conference Room", "Meeting Room"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "postalCode": "77010",
+    "address": "1515 Dallas St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.361488, 29.752848]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Brand new menu today has a vegan pasta entr��e!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "great happy hour and very comfortable lounge and restaurant on the second floor.  very convenient to the convention center and the house of blues!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "breakfast is tasty",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Great happy hour and very comfortable lounge and restaurant on the second floor.  Very convenient to the Convention Center and the House of Blues!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Quite convenient location",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Awesome happy hour from 5:30-7:30 with beer, wine, \u0026 cocktails. Excellent bartenders. Probably nicest Embassy I've stayed at",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "great hotel. nice rooms, great breakfast.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "very comfortable hotel, great service, and awesome hot breakfast buffet with omelets!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "awesome facility great breakfast and happy hour",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Great hotel. Nice rooms, great breakfast.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The breakfast and Happy hour are awesome!!! Great deal and free! ������������������������������������������",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "awesome happy hour from 5:30-7:30 with beer, wine, \u0026 cocktails. excellent bartenders. probably nicest embassy i've stayed at",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "quite convenient location",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Super comfy rooms and the breakfast and happy hour are awesome!!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very comfortable hotel, great service, and AWESOME hot breakfast buffet with omelets!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "happy hour is great.  free wells, and more importantly half price top shelf.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "brand new menu today has a vegan pasta entr��e!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Rooms are very nice.  Service is good. I personally prefer the Hilton across the street, primarily because the service there is outstanding.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "the breakfast and happy hour are awesome!!! great deal and free! ������������������������������������������",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "rooms are very nice.  service is good. i personally prefer the hilton across the street, primarily because the service there is outstanding.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "super comfy rooms and the breakfast and happy hour are awesome!!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "electric vehicle charging stations installed!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Happy Hour is great.  Free wells, and more importantly half price top shelf.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Electric vehicle charging stations installed!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "the breakfast and happy hour are awesome!!! great deal and free! ",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Awesome facility great breakfast and happy hour",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-05-01T09:37:53.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Hubby reserved a room here for a Birthday weekend getaway...This place is sweet! close to everything you need, if you're attending a ball game or basketball the stadiums are literally a block or two away...Discovery Green is across the street and House of Blues is 2 blocks away...great location, great decor, awesome service! Managers reception with open bar and made to order breakfast all included!! The pool has a great view and is a great size...the rooms rock!! Def a must for us again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "i loved everything about this hotel and the staff",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "brand new menu today has a vegan pasta entrée!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Anything tastes good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Terrible service.  Been waiting 45 minutes an still don't have brunch.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-13T06:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Having a beer",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-02T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The breakfast and Happy hour are awesome!!! Great deal and free!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-02T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Brand new menu today has a vegan pasta entree!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-22T06:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I loved the Grilled Kobe Dog, the very definition of gourmet comfort food. It's served in a Slow Dough Pretzel Bun that's been deep fried to give it that extra oomph of crispness. Read more",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-04-27T05:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "This place is ah-MAZ-ing!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd5"
+  },
+  "name": "The Houstonian Hotel",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "postalCode": "77024",
+    "address": "111 N Post Oak Ln",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.459631, 29.768461]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Why go anywhere else?",
+    "reviewText": "The only place i'll stay in Houston. Fantastic service, incredibly friendly staff, great food and the best fitness options in the entire city. The rooms are a bit small and bathrooms are not luxurious by today's standards, but they are more than adequate and everything else about the place more than makes up for any shortcomings in that department.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Smell",
+    "reviewText": "The room smelled as soon as you walked in. Smelled very humid.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic family weekend!",
+    "reviewText": "Loved everything about the Houstoinan from the very attentive car valets to the door greeter. My only complaint concerns the bed pillows. Unfortunately they were very thin flimsy! Loved the pool area gym too!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic family weekend!",
+    "reviewText": "wonderful acomadation !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Classic Houston hotel in park-like setting",
+    "reviewText": "Stayed one night to attend a meeting held the next day. Dined at in-house restaurant, The Olivette, where the wine list and the meal were excellent and the service was very good. The attractively decorated rooms are very quiet with a forest view out the windows. It is hard to imagine you are in the middle of a major city here. The room was very clean and there was nice turndown service. The room was adequately lighted and there were outlets to charge electronics. There were nice pillows on the bed and the linens were crisp and new-looking. Check in and Check Out were a breeze. The front desk verified my expenses and gave me a print out of my charges.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Classic Houston hotel in park-like setting",
+    "reviewText": "Really enjoyed the spa. Great facial!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Definitely Coming back to this hotel",
+    "reviewText": "Quiet, friendly staff, no issues",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Mother/Daughter Christmas Spa Weekend",
+    "reviewText": "Excellent service, beautiful Christmas decor, wonderful time at the Trellis Spa",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Houston fall break",
+    "reviewText": "Met up with our daughter and had a great time in Houston. The hotel was easy to find and was quite lovely--especially the spa!! Would highly recommend taking time to use the Trellis Spa while in Houston.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-25T00:00:00.000Z"
+    },
+    "reviewTitle": "A touch of class",
+    "reviewText": "Everyone at the hotel made our stay so amazing. We were there in time to see the harvest decorations being put away and the magnificent Christmas decor being put up. They all did an amazing job. It is definitely more for couples and grown ups. It would feel too stuffy for children",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Houstonian Hotel is #1",
+    "reviewText": "We have been staying at the Houstonian hotel for 20 years now and it's never let us down!!! When the staff calls us by our names year after year.... What does that tell u about the hotel management",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Stop in the way to Galveston.",
+    "reviewText": "Hotel was awesome. Service was beyond anything I've gotten before. Room service and food was EXCELLENT.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Mom/yogi",
+    "reviewText": "Great place to enjoy relaxing family time. 3 pools! Several restaurants and very friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel is great, family pool needs improvement",
+    "reviewText": "Hotel and hotel staff are amazing, 5 stars. Family pool was awful, our neighborhood pool is 100x's cleaner, better service personnel and life guards that enjoy their job. Great get away for couples or business, leave family at home.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great mini getaway for mid 50s couple",
+    "reviewText": "25th anniv mini getaway. Secluded yet in the Uptown area, great, restrained service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great mini getaway for mid 50s couple",
+    "reviewText": "Loved the Houstonian!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great mini getaway for mid 50s couple",
+    "reviewText": "We loved it!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Tranquil Getaway",
+    "reviewText": "We live on the other side of Houston and felt that our stay at the Houstonian was a wonderful getaway. It really felt like we were on holiday. We loved the comfort, the view of the woods and the tranquility of the place.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "A country club im the city",
+    "reviewText": "Very comfortble, traditional, and family oriented",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Another Great Stay",
+    "reviewText": "Great stay as always. Superior accommodations, food, fitness classes(31/day)with excellent instructors, grounds, swimming pools. The best in Houston by far.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful wonderful",
+    "reviewText": "The most relaxing beautiful hotel in Houston. Service is exceptional and staff is excellent. Spa is the best inTexas....",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel, location and amenities.",
+    "reviewText": "The hotel was nice but is very outdated. The bathroom for a family for very, very small. We had a deluxe king room which is good for 4 people but the bathroom was the size fit for a standard room for 2 people.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel, location and amenities.",
+    "reviewText": "Return guest. Accommodation was great as usual.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome retreat!",
+    "reviewText": "Wonderful stay! Great couples retreat. Make sure you stay a couple of days to take advantage of all of the amenities including the Trellis Spa. Will definitely be back for our anniversary. Staff is superb and don't forget to eat at the restaurant downstairs Olivette.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value and experience",
+    "reviewText": "The Houstonian may not be the cheapest hotel in the area, but I believe it's the best. It's still a great value when you look at the service, amenities, and location. The grounds make it a wonderful oasis in a busy part of the city. Everything is kept up immaculately and is first class. The rooms have everything you could need for a comfortable stay. I loved walking the beautiful and easy to walk path around the grounds each morning and seeing/hearing all the birds. I didn't use the pool areas, but they are gorgeous and spacious. Highly recommended hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy Birthday to our Triplet grandchildren",
+    "reviewText": "We always have a pleasant stay at the Houstonian, love the atmosphere, the rooms are also dark in the morning due to the lush greenery so we are able to get a good nights rest. We were celebrating our triplet grandchildren's 6th Birthday (their favorite hotel) and they were surprised by the hotel with a plate of fresh cookies and milk! Thank you Houstonian!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointed",
+    "reviewText": "I checked in for 10 days, but checked out after 2. My problem with the hotel was room size - particularly bathroom size. The bedroom was adequate. The bathroom ceiling is at about 6.5 feet. The door opens into the tiny bathroom which makes it necessary to close the door making it extremely claustrophobic.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "The bed was awful.",
+    "reviewText": "The king size bed was the most uncomfortable bed I had slept in for decades. I honestly thought I was sleeping on a sheet of plywood.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Most Over Rated hotel",
+    "reviewText": "This hotel is way over rated, it's nothing like the description or the reviews. Basically its Old (very old) building in the heart of apartment complex/parking lot jungle. Furniture is very old, hotel theme feel like 1850s, clean but old. Tge staff is friendly but you can tell they inexperienced , mostly in there 20s. Room it self spacious but old, old carpet and TV. Bathrooms similar to Motels, bedsheets clean, new sheets, but bed is saggy. Surrounding area is jungle, literally!! Misty and not well kept. Lots traffic once you leave parking. Ppl come from surrounding complex apartments to run on trail. Bottom line, money wasted, will never come again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Most Over Rated hotel",
+    "reviewText": "Staff were awesome. By 2 nd day knew our name and were so nice. Will definitely go there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Houston",
+    "reviewText": "Nice hotel, secluded so that you don't feel like you're in the city but convenient for business great exercise facilities for working out. swimming and tennis.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great resort facilities with several pools",
+    "reviewText": "Great resort facilities, several pools, including a lap pool and an enormous gym. Room was very comfortable. We went for the concierge package, which included complementary drinks, snacks and continental breakfast. Lovely.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Best of the Best",
+    "reviewText": "Fantastic hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great family visit!",
+    "reviewText": "We stop at the Houstonian every year on our way to ski and my 2 teenage boys just love it. We love the location, the food and the workout facilities. My kids especially love the basketball court!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel",
+    "reviewText": "Hotel is very nice. High end finishes. Friendly staff. Bed was comfortable. There was some noise both from other guests and maintenance of grounds. Amenities are exceptional. Food in restaurants was also very good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, great pool",
+    "reviewText": "Rooms and bathrooms are a little bit outdated, pool and spa is great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Need a relaxing getaway weekend, this is it!",
+    "reviewText": "So relaxing and nice atmosphere. I took my pregnant girlfriend here as a last minute getaway in our hometown before her 3rd child arrived... we relaxed, rested, and enjoy the quite. The spa serices near by were on point...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Need a relaxing getaway weekend, this is it!",
+    "reviewText": "Room and bathroom were extremely small considering the amount we paid per night to stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great weekend getaway",
+    "reviewText": "We have stayed at the Houstonian before and it's always top notch. Their holiday decor is amazing, and the staff is always so helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Luxurious, comfortable hotel \u0026 spa",
+    "reviewText": "We were in Houston for a family event so several families were staying at the Houstonian. We took advantage of the bar for nightcaps and the large fireplace and comfy sitting area off the lobby for complimentary coffee and conversation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Luxurious, comfortable hotel \u0026 spa",
+    "reviewText": "Great hotel! The pools were amazing. We will be staying here anytime we go to Houston",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Luxurious, comfortable hotel \u0026 spa",
+    "reviewText": "Wonderful stay with my boyfriend",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent and great gym.",
+    "reviewText": "Been staying there for 25 years. Great food, great gym, grounds amazing, staff super. Enough said!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "FABULOUS",
+    "reviewText": "5 star accommodations as well as service. Even during the floods- they had staff to help us. We LOVED our time there",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Miles from New Orleans.",
+    "reviewText": "Combination business and family. Really liked the exercise facility and service all around.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Business conference",
+    "reviewText": "Good hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Service was impeccable, nice delight.",
+    "reviewText": "My husband and I took a stacation here and it indeed is a five star from the amazing service to all the updated amenities, pools, gym everything was almost perfect. We chose this hotel after I verified that their shuttle went within 3 miles also viewing this on their website. Well time to take off and there was ' no shuttle ' available on Sunday after 6pm which I could not verify. That put a twist on things, we drove around the corner anyhow.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "A Country Club with a little touch of Hotel!",
+    "reviewText": "We stayed a couple of nights for our daughter's bday and Father's day weekend for me as well. Everything was topnotch! From the courteous staff and great service down to every little detail. Our rooms were clean and well kept as well as all the public spaces. Our room had a nice view that seemed like we were in the woods. Indoor basketball and tennis court as well outdoor tennis courts just to name a few. Even has a lap pool (not sure if it was olympic size though). All gears and equipment are provided free of charge so no need to bring racquets, balls and even shoes. Just make sure to wear or bring socks but worry not as they sell socks if you happen to forget. We all enjoyed our stay. From my wife getting pampered inside their spa for most of the time to me and our teenage kids working a lot of sweat playing all sorts of sports. The only thing that was somewhat awkward for us was that their recreational pool was filled wth mostly small kids and toddlers with their Soccer Moms or the Rich Wives of Beverly hills type of women. Not really encouraging for a full grown man who likes to drink his cold beer by the pool or teenage kids/young adults doing their horsing around or whatever. Their lap pool is always occupied and Waiting a while for a lane to be vacant somewhat takes the fun out of it. Over all, It's a magnificent place to stay with so many things to enjoy while you're at it. And as my title says, It's a Country Club with a little touch of Hotel!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "A must to go for a staycation!",
+    "reviewText": "We stayed at The Houstonian to celebrate our 17th Wedding Anniversary and are so glad we chose this hotel. There were a few hiccups in our stay, but we had such a nice time that the things that did go wrong are forgiven. The staff did try their best to makeup for the mishaps, which shows that they do care about their guests. I will say the bathrooms are very small (when you open the door there is only about 5 inches from the door to the toilet). The vanity and mirror is spacious, but definitely not for 2 people at once. The Trellis Spa and service from its staff is impeccable, and the gym and outdoor amenities makeup for the age of the hotel. It is hidden away from the busy roads and noise of the surrounding area, so you really feel like you are able to relax as if you were somewhere far away. The views out the windows all around the hotel are views of beautiful tress, as if you were in a secluded rainforest. As other reviewers mentioned, the valet service was really top notch and on their game. We will definitely be returning for a staycation at The Houstonian again. Thank you for making it a memorable Anniversary!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "On the Return List for Sure",
+    "reviewText": "We came in for wedding. The staff was exceptional. Loved the workout facility. Will definitely stay again next time we are in Houston.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Ultimate Old School Luxury",
+    "reviewText": "The Hotel and its grounds are beautiful, to say the least. Very warm, very welcoming, very grand. The staff were incredibly professional and welcoming as well. Everyone from the front desk to the spa to the bar - same level of amazing service. Speaking of the spa - I have never had a spa experience like this. Unbelievable! The ultimate in luxury in relaxation. Due to the flooding in the area we left a night early, just to be on the safe side. They did not charge us the extra night. I am seriously looking for excuses to stay at this hotel again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Getaway Escape",
+    "reviewText": "What a fabulous hotel and resort property . Incredible amenities made our family time relaxing and enjoyable, providing us with the perfect getaway escape and memories !!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Getaway Escape",
+    "reviewText": "This is a beautiful hotel with great views and excellent amenities. The Spa staff are extremely friendly and helpful. The hotel front desk staff are not as friendly, yet they are professional. I would definitely recommend this hotel for a luxurious weekend getaway.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Hidden oasis in the Galleria neighborhood.",
+    "reviewText": "The valets here are awesome. They greet you with a smile and a sense of urgency to help. They provide cold bottles of water each time you leave. While it may look like this hotel is off the beaten path, I assure you that it is easy to get to and really gets you out of the fray of the Galleria traffic without leaving the neighborhood.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome place",
+    "reviewText": "We had a great time there- beautiful place with wonderful staff. Would love to go again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for families",
+    "reviewText": "The hotel room was a lotttt smaller than I thought it would be. We ordered room service and there was a hair in the crab cake! Then it took an hour for us to get any kind of manager or staff member to actually help us. Once we finally talked to someone that could help, Kevin, he was extremely short and unpleasant. When we came down for dinner at the restaurant he didn't address us but talked to every other table around us. Hotel was nice, amenities even nicer but I was disappointed at the services especially given how expensive everything is!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3

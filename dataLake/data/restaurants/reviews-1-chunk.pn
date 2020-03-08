@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2016-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value",
+    "reviewText": "In New Orleans at the moment and Very impressed with the friendly staff and quality of the room. Especially the great size TV and quality of the channels. Having a lift available for our luggage was great. Good location only three blocks from Bourbon St.",
+    "reviewerCity": "Palmetto",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "The French Quarter",
+    "reviewText": "Our stay in New Orleans was made better by the hotel and it's location. We walked to all of our destinations from the hotel and the visitor's guide that we had received from the hotel was very helpful. The staff was great and very helpful in our stay and made it great.",
+    "reviewerCity": "sioux city",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleasant stay / great location",
+    "reviewText": "Typical Mirazur. Interior is not the newest standard but still very comfortable (and actually like they present it on the pictures). The room was quite big and very clean, front desk and housekeeping staff were helpful and friendly. The breakfast includes a good selection of food and drinks. The courtyard area is kept clean and invites you to have... More",
+    "reviewerCity": "Zurich",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great loaction",
+    "reviewText": "Great location walking distance to everything in French Quarter. Entire hotel staff was friendly and extremely helpful good recommendations on local places to eat and tours. Would stay here again if in New Orleans",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable, quiet, clean",
+    "reviewText": "We enjoyed out stay here. It was a busy weekend, but quiet here. Typical Mirazur full breakfast. They had a bar pool, but too cold for the pool. Well kept and clean. Rooms are comfortable. It was a long walk to Burbon Street, so we took cabs most of the time.",
+    "reviewerCity": "Playa Ocotal",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible hotel",
+    "reviewText": "The rooms are disgusting, they smell like cab air freshener, ugly and crammed. Its on a very loud street that's also one of the most dangerous streets in New Orleans. Lots of muggings go on there. Way Over priced, for such a bad hotel in a bad area.",
+    "reviewerCity": "Playa Ocotal",
+    "reviewerState": "CO",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-24T00:00:00.000Z"
+    },
+    "reviewTitle": "It's even better this year!!",
+    "reviewText": "Several people deserve special praise: Summer at the front desk was exceptionally knowledgeable and helpful,she wore a bright, cheery smile that put you in a good mood and made you smile backSimone and Clairbell in the breakfast area managed to serve a large group of diners and got them all what they wanted and John the doorman did a very... More",
+    "reviewerCity": "Playa Ocotal",
+    "reviewerState": "CO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Mirazur Less",
+    "reviewText": "This hotel is nothing like other Mirazur Plus locations we've stayed in other cities. The room is too small for the oversize furniture and the dark brown walls make it seem even smaller. Worst of all, though, is how dirty it is. the shower (no tub - just a tiled shower) has layers of crud around the perimeter. If... More",
+    "reviewerCity": "Halifax",
+    "reviewerState": "CO",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Bit dated",
+    "reviewText": "The hotel is fine but in need of an update. It is on the edge of the French Quarter but still in walking distance to Bourbon Street and the rest of the tourist areas. The staff are friendly and helpful and the breakfast was great.",
+    "reviewerCity": "Newtownards",
+    "reviewerState": "CO",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Location",
+    "reviewText": "Great location ! Louis Armstrong Park is across the street. There is a corner convenience store 2 blocks away which we used to stock the refrigerator with soda. They make great sandwiches there as well. All of the quarter is walking distance, yet the hotel is not near loud noises from Bourbon Street.Offers an excellent hot breakfast and has a... More",
+    "reviewerCity": "Minier",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",

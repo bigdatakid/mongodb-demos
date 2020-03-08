@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Short but Sweet",
+    "reviewText": "We stayed over one night prior to boarding our cruise. Our flight arrived early. The staff allowed us to store our luggage there and introduced us to UBER which saved us some money for transportation. The room was standard, the breakfast was basic continental, the hotel staff were phenomenal!",
+    "reviewerCity": "Saint Augustine",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "I was spending the night for an early flight out the next morning. The room was nice, although small. It was quiet. It was a quick ride to the airport and other fast dining. Staff was nice. Bed was comfortable.",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-01-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "the rooms are very small.  staff is really friendly!!  staff outweighs the bad with their friendliness!!! (room does have fridge and microwave, and longest hott showers.. ever! enjoy!)",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "friendly staff, ok for the money. found bites on my arm/face, turned on light found 3 bed bugs!!!  manager apologized a lot and refunded part of my money. reassured it would be taken care of.",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "VERY bad service",
+    "reviewText": "We arrived from Curaao on 26th of June to go to Atlanta. We booked this hotel for a one night stay to drive to Atlanta the next day. After a long 5 hour drive from Miami International airport we arrived exhausted to the hotel. We did make reservations through Hotwire. 2 double rooms. We are the six of us. We... More",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "VERY bad service",
+    "reviewText": "One night.. Two star property, clean, basic... Front desk folks were friendly.",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great visit",
+    "reviewText": "Stayed here the night before a carnival cruise, great they had an airport shuttle (24hours) and offered transportation to the port, do jot use uber as they are not licensed to drop off there. Breakfast was good, coffee and cereal and bagels, very nice and helpful front desk and close enough to walk to some restaurants. Booked based upon tripadvisor... More",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "When you need a place to stay.",
+    "reviewText": "Very clean, friendly service a fair price. Didn't care for the heavy smell pot smell when walking to my room (in the no smoking wing), nor the heavy cleaner smell to cover the mold smell in the room.",
+    "reviewerCity": "Tallahassee",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-29T00:00:00.000Z"
+    },
+    "reviewTitle": "The front desk staff is poor.",
+    "reviewText": "We had trouble at check in and at check out. I booked two rooms about 2 months before myself, my fianc and my family were to cruise out of Jacksonville. The gentleman who was at the front desk at the time said it was too early to check in, so we went and had a bite to eat. We returned... More",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "The front desk staff is poor.",
+    "reviewText": "where is the closet and dresser?",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {

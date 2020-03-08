@@ -1,0 +1,100 @@
+    },
+    "reviewTitle": "Decent budget hotel, good loacation",
+    "reviewText": "We go to San Felipe 4-6 times a year (drive from So Cal), and although we now have a small house in nearby Club De Pesca, we have stayed at El Cortez in the past, and we regularly eat at the restaurant and drink at the bar. The rooms are a little dated, but adequate and comfortable, and the bar... More",
+    "reviewerCity": "Costa Mesa",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointed in the town.",
+    "reviewText": "Been trying to get to San Felipe for the past 25 years and finally made it there for spring break '16, or the week after during semana santa. The motel wasn't so bad in retrospect compared to the town. or the beach for that matter. The motel building is on the beach but behind a walk and the swimming pool,... More",
+    "reviewerCity": "San Diego",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Guests beware......",
+    "reviewText": "Let's start with the good things about this property, it's on the beach which is very nice, the restaurant and bar are right off the beach and there is great seating outside to enjoy your view. The food was pretty good which made it nice. There is a funky bar down the way on property which is a cool hang... More",
+    "reviewerCity": "Ladera Ranch",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Do not stay at El Cortez!",
+    "reviewText": "Do not waste your money or ruin your stay by booking at El Cortez. I stayed there for 3 nights and I have bed bug bites all over, 12 in just my left arm. It ruined my weekend. Honestly I would prefer camping next time over staying there. Also the management is no good. Our neighbors were blasting a stereo... More",
+    "reviewerCity": "Brawley",
+    "reviewerState": "CA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "On the Beach",
+    "reviewText": "The casitas are modest and on the beach, did not stay in the regular rooms. We have stayed there 3 times and always request a casita. The beach and palapas are great. The Resturant is very good and located on the water. The bar and pool area are very good also and are expectations are generally met. We will stay... More",
+    "reviewerCity": "Rosarito",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Surprisingly good experience here despite bad reviews",
+    "reviewText": "Had a pleasant stay at Hotel El Cortez. Our hotel room was cleaner and a lot larger than we expected--we had a single room on the second floor with a king size bed. We were a little concerned that the door didn't have a deadbolt, so we did put a chair in front of the door when we went to... More",
+    "reviewerCity": "Seattle",
+    "reviewerState": "WA",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ff3"
+  },
+  "name": "The Booker-lewis",
+  "categories": ["Hotels", "Lodging", "Bed \u0026 Breakfast \u0026 Inns", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Leesville",
+    "postalCode": "71446",
+    "address": "106 E North St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-93.26334, 31.144867]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great service",
+    "reviewText": "Food is amazing and the staff is great. I'll definitely keep coming back. Best and most professional staff. Always had a great experience. Food is the freshest and best prepared. Great all the way around. Jared",
+    "reviewerCity": "Leesville",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Cool rooms and great food",
+    "reviewText": "Been to Leesville twice and have stayed here both times. Three weeks the first time, 16 days this time. This is a bed and breakfast that has traditional style rooms in the main house and above the restaurant and there are a multitude of other types elsewhere. Several accommodations are away from the main 'campus'. My stay this time was... More",
+    "reviewerCity": "Fort Drum",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality Starting to Slide",

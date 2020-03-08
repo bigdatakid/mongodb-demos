@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-12-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay!!!!!!!!!!",
+    "reviewText": "Parking gridlock!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay!!!!!!!!!!",
+    "reviewText": "The Spa, the Restaurants, the Gaming Facilities, the pool, all top notch.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room for the price",
+    "reviewText": "Outside of our hotel room which is great, the rest of the hotel needs a little updating. The kitchen staff serving breakfast seem tired and never smiled.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "Room was a lot bigger than expected, we stayed in a room with 2 queens and there was still plenty of room. Sink didn't drain very well and the hotel sent someone up to fix it immediately. The only complaint was the temperature of the room. We tried adjusting it to make it cooler, but it didn't seem to matter.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "Everything was good with the exception of Back Bay Buffet... The price of the buffet was not worth the poor selection of food...30 per person jst too much and not tasteful at all",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "Dont go without mothballs",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "The alarm going off continuously over a cigarette in an elevator and expecting people to run die 25 flights was ridiculous",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "It was for 1 day but we loved this resort",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "My only complaint was valet parking upon check in and check out...I felt that it was very chaotic..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "I had booked a non smoking room. Unfortunately when we arrived we were booked in a smoking room. We thought it would be ok but it was actually gross and we hated it. We asked to be switched to a non smoking room and they told us they couldn't do it due to availability. By the time we departed, we all had sinus infections.",

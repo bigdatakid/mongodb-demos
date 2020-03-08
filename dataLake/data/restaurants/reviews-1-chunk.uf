@@ -1,0 +1,100 @@
+    "reviewTitle": "Overnight stay",
+    "reviewText": "Excellent! I ride a motorcycle and it was raining when I arrived. The manager and staff were very nice and accomodating. The rooms were very nice, I was very pleased with my stay.",
+    "reviewerCity": "Norman",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place to Stay",
+    "reviewText": "I have had a good stay at Super 8. And still am enjoying my stay there. Polite and friendly staff. It's been really good.",
+    "reviewerCity": "Opelousas",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fee"
+  },
+  "name": "Lexington Inn",
+  "categories": ["Hotels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Hammond",
+    "postalCode": "70401",
+    "address": "46053 N Puma Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.50095, 30.517838]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fef"
+  },
+  "name": "Berney Fly Bed and Breakfast",
+  "categories": ["Bed \u0026 Breakfasts", "Hotels", "Hotels \u0026 Motels", "Lodging", "Bed \u0026 Breakfast \u0026 Inns", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "AL",
+    "city": "Mobile",
+    "postalCode": "36604",
+    "address": "1118 Government St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-88.062045, 30.684177]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable and safe",
+    "reviewText": "We stayed in the poolside room for one night and loved being in the backyard by the pool. The grounds are beautifully landscaped with trees and vines and flowers inside a privacy fence. It was a comfortable and very safe feeling for two ladies traveling alone. The shower was brand new, and our room was extremely clean. Our host was... More",
+    "reviewerCity": "Muncie IN",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant garden, no wifi in poolside room",
+    "reviewText": "We would really like to give five stars to that place, because the house is really beautiful and well renovated, the garden is wonderful, peaceful, and the vegetation is great, our host was very kind and helpful and gave us a lot of advices about where to eat and what to see, the place is well located and easy to... More",
+    "reviewerCity": "Muncie IN",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Berney Fly Bed Breakfast",
+    "reviewText": "My wife and I spent our 25th wedding anniversary at this wonderful BB. Our host, Steven, was excellent and very helpful when deciding on sights and events to take in. The room was beautiful and large. The entire BB was clean and decorated for Mardi Gras. We had never been to Mobile, but after this trip, we have decided that... More",
+    "reviewerCity": "Lake Worth",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice location, knowledgeable host. Good price.",
+    "reviewText": "This was a perfect place to stay during our first time ever in Mobile. I would recommend a couple nights as this city has so much to offer. Great food, museums, walks along old historical areas ect. This BB is located on a main street lined with old homes and most are in great condition. I figured this must have... More",
+    "reviewerCity": "Portland",
+    "reviewerState": "OR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

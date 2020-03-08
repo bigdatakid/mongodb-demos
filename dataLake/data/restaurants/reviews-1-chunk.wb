@@ -1,0 +1,100 @@
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice room and great breakfast",
+    "reviewText": "Luxurious room and excellent breakfast buffet!",
+    "reviewerCity": "Tucson",
+    "reviewerState": "NE",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Good and bad.",
+    "reviewText": "If more than 1 person in room, do not expect to spend much time in room other than to sleep. New remodel looks nice but is not very practical. Staff were quick, efficient and eager to take care of you.",
+    "reviewerCity": "El Paso",
+    "reviewerState": "NE",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Good and bad.",
+    "reviewText": "Great staff, ok rooms, awful breakfast. The eggs were terrible and the meat wasn't gross.",
+    "reviewerCity": "El Paso",
+    "reviewerState": "NE",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "This was a great place to stay after flying in, late. They had a lot of choices for breakfast, and the rooms were very nice. We also got a suite at a great price. We would definitely stay here again. In addition, they had a nice choice for breakfast, and the staff was very nice.",
+    "reviewerCity": "Halstead",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Great service",
+    "reviewText": "Upon arrival staff was very kind and courteous. Rooms were very clean and crisp. Complementary breakfast was great...we enjoyed every minute of our stay looking forward to visiting again soon. Thank you Hampton inn (Tucson)",
+    "reviewerCity": "Tucson",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-20T00:00:00.000Z"
+    },
+    "reviewTitle": "1 day stay, good",
+    "reviewText": "I stayed only one night due to business. I was very happy with the accomodations. older hotel but still in good shape. Staff very friendly, they recommended dinner across the street at the restaurant in the Hyatt as there are limited on local restaurants, if i needed to stay again in the area i will. Good price as i was... More",
+    "reviewerCity": "Hurst",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Visiting our children",
+    "reviewText": "We stayed here with our son and his wife and our other son lives in Tucson we stayed because it was convenient and priced very well. What a surprise the staff super friendly the rooms were recently remodeled and very nice. The bathrooms are next to be remodeled we were told they were older but clean and average . The... More",
+    "reviewerCity": "Buffalo",
+    "reviewerState": "NY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Small but comfortable room",
+    "reviewText": "One night stay before going to the dessert museum. Room was small with a king bed and no closet. Clothes could be hung behind a drape next to the window (It was very different). Clean sheets and lots of pillows. Shower had lots of hot water. Breakfast was a little more than continental. Desk clerk was friendly. We saw security... More",
+    "reviewerCity": "austin",
+    "reviewerState": "NY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "TUCSON BUSINESS TRIP",
+    "reviewText": "Overall... a very good experience. I would stay here again. The entire STAFF was outstanding professional. A couple of minor problems with the room, but nothing extreme. Very close to the airport... which means you would hear the standard airport noise, but the National Guard shares the airport too. The FIGHTER JETS bring the noise level up a couple... More",
+    "reviewerCity": "Kunia",
+    "reviewerState": "HI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice, especially for the price",
+    "reviewText": "We stayed two nights with the specific goal of visiting the PIMA Air and Space Museum. The room was clean and quite, which I found amazing with its proximity to the airport and the air force base. We had a problem with the toilet stopping up and they corrected it quickly, which we found to be uncommonly efficient. The breakfast... More",
+    "reviewerCity": "San Diego",
+    "reviewerState": "HI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {

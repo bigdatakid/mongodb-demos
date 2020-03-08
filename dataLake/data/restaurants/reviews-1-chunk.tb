@@ -1,0 +1,100 @@
+    },
+    "reviewTitle": "Terrible",
+    "reviewText": "Bad house keeping, we didn't get either dat that we stayed",
+    "reviewerCity": "Ackerman",
+    "reviewerState": "MS",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible",
+    "reviewText": "no frills but clean and comfortable, reasonable accomodations for the cost",
+    "reviewerCity": "Ackerman",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Some trouble with the tub",
+    "reviewText": "The tub, whirlpool, feature didn't work and I could not get the tub to drain.",
+    "reviewerCity": "Ackerman",
+    "reviewerState": "MS",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Motel accomadations",
+    "reviewText": "On trip to Disney world We stopped and I booked two rooms , Room rates were higher than I have paid at other quality inns. but it was late and we needed to get some sleep. Rooms were average in size the floors were dingy and did not look too clean, Breakfast was average.The coffee cups were very tiny but... More",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, good breakfast, close to freeway.",
+    "reviewText": "Great hotel for the price. The room was a basic hotel room. Everything was clean. The bed were comfortable.",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, good breakfast, close to freeway.",
+    "reviewText": "Good place to stay the night...clean",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, good breakfast, close to freeway.",
+    "reviewText": "This was a quick weekend getaway and the room was very comfortable and clean. Great place for the price.",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Musty and not Clean",
+    "reviewText": "The Hotel room was 85 Degrees and VERY musty. The Desk chair had a film on it and the carpet was dirty and stained. If there was any other hotels with rooms I would have left.",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "It ok need remodel",
+    "reviewText": "The bed r not comfortable and the doors wont lock right carpet had lots of stain",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "It ok need remodel",
+    "reviewText": "Air conditioner did not work properly, door stuck making it hard to open.",
+    "reviewerCity": "Bandera",
+    "reviewerState": "TX",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-25T00:00:00.000Z"

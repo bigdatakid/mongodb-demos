@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly, nice, warm",
+    "reviewText": "Hotel staff was super friendly and helpful. The staff was wonderful. The sheets seem to have had some stains. But overall every thing was great.",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "3.8",
+    "reviewText": "We needed a place to stay while our RV was being repaired. The Plaza was very convenient to where we work. The personnel were very sweet. When we asked for extra service, they were immediate to respond.",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Best in its class of low price, high amenity.",
+    "reviewText": "This hotel is best in its class of low cost yet relatively high amenity and quality. A small room, but well equipped (microwave, decent TV, refrigerator, decent bathroom, hairdryer, great bed), all you'd expect in a good hotel except size and luxurious decor. All at almost half the price for the better decor. And it was quiet: I heard no one from inside my room, but in the hallway I could hear TVs on as I passed in front of doors While walking down the hallway. Parking was right iutside, so no long walks out obscure doorways to get the luggage in. Elevator was there centrally. Ok breakfast: the advertised continental with oatmeal added. Lots of great restaurants nearby, as well as other amenities I needed (very conomical oil change at RPG, and new tires with great advide at DiscountTire), and right on I-295 to easily get back on the road home. Thanks, Plaza Jacksonville!",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome stay...",
+    "reviewText": "I will stay again in this hotel.Everything was so perfect...",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Like the Picture",
+    "reviewText": "Pretty disappointing to say it nicely. Looked like a poorly remodeled microtel. Wall paper Peking in shower along with mold like sunstance in crevices. Walls paper then could hear next door. Towels needed to be bleached and mattresses old and squishy. Staffs were pigging out on contenintal breakfast and it was extremely light for the price paid. Nothing like the promo picture. Worst stay recommended by hotels.com we ever had!",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Little Rock",
+    "reviewText": "I always enjoy my stay at this property because its close to everything and its reasonably price. The front desk clerk is always very helpful and friendly. The shuttle service is much appreciated. The drivers are professional and you don't have to wait any long period of time to be picked up",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-06T00:00:00.000Z"
+    },
+    "reviewTitle": "2 Star! 3.8 reviews are not accurate its a solid 2",
+    "reviewText": "I looked on multiple apps to book a room in Jacksonville close to 95. I saw this place and it was a good deal 54 for a single queen, last minute as I read 3.8 rating on expedia and the 2000+ reviews that 91 of people would recommend. I thought great. Well it's a good rate but it might as... More",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Experience!!",
+    "reviewText": "Me and my Family took a day to visit the Zoo and decided to stand the night at this hotel. What a Great experience!! The staff were so kind. I would do it again.",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall a nice experience",
+    "reviewText": "Booked this hotel for a quick business trip. Located near the airport and close to I95. Very short drive to plenty of food choices. Limited items for free breakfast but I didn't expect anything else. Bed and linens were clean.",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Still my top choice",
+    "reviewText": "Clean, decent breakfast. Staff friendly, helpful. No problems at all with parking, shuttle, charges to credit card, or anything else. Can't beat this place if you're a cruiser or flying out of Jax airport. Don't plan to stay anywhere else.",
+    "reviewerCity": "Fort Walton Beach",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {

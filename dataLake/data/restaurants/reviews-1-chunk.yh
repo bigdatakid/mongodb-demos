@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Couldn't wait to leave this hotel!",
+    "reviewText": "Hotel looked very nice, but.....carpets were filthy. Our socks were black just from walking around in our room. NO ac in corridor. Was like walking in a heat wave. Ac was Only up front around check in area. Ac in room was barely ok. Iron was defective and kept cutting off. Didn't know it was pet friendly until we were... More",
+    "reviewerCity": "Johns Creek",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "Overall exoerience at LaQuinta Dublin Ga was excellent. Good location, good accomodations and a good breakfast. Enjoyed the hot tub and pool as well. Staff seemed a little overwhelmed but over all this was an excellent experience.",
+    "reviewerCity": "Springboro",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place",
+    "reviewText": "I stay here at least once per month and have never had an issue. The staff is very friendly and knowledgeable. It is on a dead end street and across the road from Longhorn so you can walk to dinner. The rooms are very clean and I feel safe leaving my vehicle and belongings in the parking lot.",
+    "reviewerCity": "Douglas",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Be Back!",
+    "reviewText": "This is a great hotel! Denise and all the front desk staff are first class!! The breakfast is very good. I have been staying at this hotel since it opened about 8 years ago. I come every month and I always enjoy my stay. I can count on the La Quinta in Dublin!! I'll be back!!!",
+    "reviewerCity": "Douglas",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "UNJUSTIFIED",
+    "reviewText": "Avoid this hotel AT ALL COSTS. I had to cancel my trip at the last minute but well within my cancelation window however, La Quinta corporate never notified the hotel directly. SO.. the manager states that I owe the first night and charged my credit card--And LQ Corporation did nothing to stop him.",
+    "reviewerCity": "United States",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "UNJUSTIFIED",
+    "reviewText": "Great Hotel! Great hotel! Held a business meeting there the last few days. The staff was friendly, extremely helpful, and went out of their way to accomodate us. The suites were outstanding, very comfortable and clean. The location is awesome too, 1 minute walk to 2 restaurants, Longhorn Steak House and Cracker Barrel in addition to a gas station and convenience store. The breakfast was complimentary and very good, both hot and cold food. This will be my choice whenever I visit Dublin in the future. Thanks La Quinta!",
+    "reviewerCity": "United States",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice hotel",
+    "reviewText": "This hotel was clean, rooms very nice, and breakfast was not bad at all. In fact, much better then one would expect. It really was a full breakfast. The hotel staff was very friendly and helpful. We encounter no problems. The location of the hotel is right off the interstate which makes it easy when traveling thru.",
+    "reviewerCity": "United States",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Visiting for a wedding",
+    "reviewText": "We booked this hotel over others in the area due to a prior positive experience. Since our last stay a couple of years ago, the property is showing some wear but the room and especially the bathroom was clean. Staff was polite, especially the weekend breakfast attendant who was significantly overworked trying to prep, serve and clean for a capacity... More",
+    "reviewerCity": "United States",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great First Time Visit",
+    "reviewText": "Speedy check-in, Great Service, Observed one cleanliness item and upon reporting,it was handled immediately. Fantastic Breakfast, best of all the room and beds were most comfortable. If I am ever in area again, I will stay at this hotel",
+    "reviewerCity": "United States",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Stay",
+    "reviewText": "This property is tucked away at the other end of hotel row on a main road so it feels quiet. Staff and rooms were very agreeable. I LOVE that our room had no carpet and felt more modern. There were ongoing renovations but nothing that disrupted our stay. Breakfast was tasty and a great variety. A nice place for families.",
+    "reviewerCity": "United States",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

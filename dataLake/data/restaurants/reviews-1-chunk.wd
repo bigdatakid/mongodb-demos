@@ -1,0 +1,100 @@
+      "$date": "2016-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay!",
+    "reviewText": "The most comfortable bed I've ever slept in.",
+    "reviewerCity": "Corpus Christi",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Breakfast",
+    "reviewText": "I had a great breakfast and the bed was super comfortable. I will go back!I had a great room, I didn't get to go to the pool but it looked very nice! I enjoyed the front desk employees. They were very helpful and courteous.",
+    "reviewerCity": "Corpus Christi",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Extremely convenient to the airport and friendly staff",
+    "reviewText": "Stayed here recently for a week on business. This hotel is only a couple minutes from the airport which was extremely convenient. The staff was extremely friendly, check-in was easy and they always greeted you with a smiling face when you came in. There is not much going on in this area of Tucson though. The only options for in-room... More",
+    "reviewerCity": "Corpus Christi",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Introduction to Tucson",
+    "reviewText": "Another great Hilton Hotel. We arrived at midnight. Hampton shuttle picked us up asap. Less than a 5 minute ride from the airport. Greeted with fresh coffee and water bottles. Rooms were recently updated. The design is perfect. I am a very particular guest. The bathrooms were very clean. The linens bed were great. Breakfast was plentiful and atmosphere... More",
+    "reviewerCity": "Tucson",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Hampton Inn Tucson Airport",
+    "reviewText": "Great stay for the 3 day stay. It's clean the staff is very helpful We would stay there again if in Tucson. Nice location to the Airport. The Breakfast Buffet was a nice surprise, good coffee and a pretty full food selection for anyone's needs.",
+    "reviewerCity": "Tucson",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Renovations complete",
+    "reviewText": "Have spent several nights at this Hampton Inn while traveling to and from the Tucson airport. Now that the renovations are complete, I found the hotel nicely updated. The breakfast, as usual, was a nice plus and the shuttle service very helpful.",
+    "reviewerCity": "Sierra Vista",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "New Year In Tucson 2015/2016",
+    "reviewText": "Great stay! We chose this Hotel because of previous stays and it was close to many New Year events. The hotel staff were very friendly and helpful considering we did not have reservations and it was New Years Eve. They made every happen to be a very memorable new year. Thanks soo much!",
+    "reviewerCity": "Cd Obregon",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "New Year In Tucson 2015/2016",
+    "reviewText": "10 +",
+    "reviewerCity": "Cd Obregon",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Property including staff.",
+    "reviewText": "Great stay at a great property. Staff was friendly and on top of things. My room was very clean and very nice. Everything was in order when I arrived. On-line check-in was very helpful allowing me to see what room I was assigned and what options I had for other rooms. Breakfast was plentiful and varied. I would stay here... More",
+    "reviewerCity": "Sun City West",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-07T00:00:00.000Z"
+    },
+    "reviewTitle": "A Very Nice and Clean Hotel",
+    "reviewText": "We've stayed here numerous times and every time it has been great. The rooms are always very very clean and everything is new and updated. Always great rates too with a very nice complimentary breakfast in the morning with numerous items to choose from.",
+    "reviewerCity": "rio rico",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {

@@ -1,0 +1,1000 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Night out",
+    "reviewText": "Really loud , doors slamming people talking in the hall way really loud kids running up down hall way",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Night out",
+    "reviewText": "Really loud , doors slamming people talking in the hall way really loud kids running up down hall way",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome Staff",
+    "reviewText": "I stayed here on a business trip. Great staff friendly and helpful, clean rooms housekeeping is very friendly.. friendly environment, the guests were nice and quiet.. I stayed there a little over a month and recommend this hotel to everyone!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again! You have been warned!!",
+    "reviewText": "Horrible!! It's supposed to be a non smoking property and you could smell smoke before you even walked in. Room itself was okay (not good by any means), but the bathroom was absolutely horrible. Disgusting tub, what looked to be poo on the wall (I wiped it and it easily came off), 1 towel and washrag (when there was clearly... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice",
+    "reviewText": "Upon check in, Melinda greeted me right away. She made sure we had the rewards program, then she asked if we wanted first or second floor. She advised us the upper would be more quiet. Since we checked in at dinner time, she asked if wanted pizza, if so she could order for us and get us a great price,... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-11-04T00:00:00.000Z"
+    },
+    "reviewTitle": "OK Choice!!",
+    "reviewText": "I have just spent 12nights here. Let me say that I travel for business combined with pleasure, I stay in hotels almost every week for 2-4 nights or more across the S.E. so I have experienced the good, the bad the ugly I am picky within reason (hate dirt, mold or stench). The room was clean with... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Good for the price",
+    "reviewText": "Well I stayed the suburban extended stay in Warner Robins and when I entered the establishment the first time I was greeted by a young lady named Jessica the front desk which was all smiles which is nice to see when you have been driving from N.C. into Ga. The rooms were fairly nice to be an extended... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-25T00:00:00.000Z"
+    },
+    "reviewTitle": "1st Time at this hotel",
+    "reviewText": "This is the first time staying at this hotel and it was very good. The room was a two bed mini suite with a full size refrigerator, stove, microwave, pots and pans, silverware and all the stuff you expect from a good hotel chain. There was lots of room, good internet, clean bathroom that all worked right and even a... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Okay for a short stay only at best",
+    "reviewText": "One big security issue ... entry door at the rear of the hotel does not close so virtually anyone can enter without benefit of a room key. Front desk does not have line of sight to that door. A bit disconcerting. Also might be about time for a pest control call - couple of dead 6-legged visitors.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Price at least.",
+    "reviewText": "Compared to the Days Inn that's next door, this hotel is better per dollar. The Days Inn runs at about 70 a night while this hotel ran me 45 plus fees and taxes. There was also a small kitchenette in the room too. Just a stove top, a pot, a pan, plates and cutlery for one. However I was by... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok, if you don't mind barking dogs",
+    "reviewText": "I stay there for 2 nights. This is a pet friendly hotel, and I know that dogs will bark, but this little critter barked all the time. There was no need to ask to be moved to another room, because this little dog could be heard all over the hotel. I adjusted to it, keeping in mind that I was... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de401c"
+  },
+  "name": "Super 8 Dallas South",
+  "categories": ["Hotels", "Accommodations \u0026 Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Dallas",
+    "postalCode": "75232",
+    "address": "8541 S Hampton Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-96.857314, 32.643793]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "it was bad because I was fighting ants and roaches the whole time I was there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Old but cheap so it's ok",
+    "reviewText": "was visiting for a foot ball game.. The hotel is old but everything worked fine",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Old but cheap so it's ok",
+    "reviewText": "It was a nice hotel wouldn't mind going back",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Won't stay again",
+    "reviewText": "When we entered the room, the smell of cleaning supplies was so strong that we almost passed out and immediately got a headache. The mirror was broken, wall paper peeling off of the wall, and the comforter was really wrinkled, like it had never been ironed or cleaned. A/C was not turned on by the front desk staff when we checked in, so after trying to get it to work for 10+ minutes, I returned to the front desk where the clerk informed me that he forgot to turn it on.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Personal Getaway",
+    "reviewText": "It was my first time going to this hotel and I loved every bit of it. Will surely be going back here again!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "It was just fine",
+    "reviewText": "Good experience overall. The hotel room was a little old. There was no plunger next to the toilet so we had to call the staff to come take a look at one point. But nothing much to complain about.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "It was just fine",
+    "reviewText": "Good experience overall. The hotel room was a little old. There was no plunger next to the toilet so we had to call the staff to come take a look at one point. But nothing much to complain about.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Modestly priced hotel near restaurants \u0026 shopping",
+    "reviewText": "Rooms modestly priced and clean. Complimentary breakfast was minimally supplied with few selections. Although coffee pot was provided in room there was no coffee to make in it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "okay",
+    "reviewText": "Okay stay need to update room the wall division couldn't feel air conditioner",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Away!",
+    "reviewText": "Not good. Not recommended.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Super 8",
+    "reviewText": "Great value great rooms",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "I would stay again",
+    "reviewText": "Staff was very nice and friendly! Room was very spacious. But we never could get the wifi to work. And the breakfast consisted of apples, waffles, and cereal.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Location was ok, this area is not the best.",
+    "reviewText": "Hotel is very old, ceiling has large cracks lots of plaster on the walls, needs painting. Room was never cleaned in the 10 days I stayed there. Had to ask for clean towels. Once the toilet would not flush and the person at the desk offered me a plunger. I was told to mover my car so a semi could park in my spot. I checked out 3 days early and did not receive a refund.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "It served its purpose",
+    "reviewText": "Me and my fianc enjoyed the time together.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Ew",
+    "reviewText": "This place was gross. It reminded me of a rent by the hour motel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "good enough for the price",
+    "reviewText": "wall paper was coming off all 4 walls. bathroom was clean. tv was old and of poor quality. owners/desk workers seemed completely disengaged. breakfast was a joke. front desk workers shouldn't be sitting in the lobby chair watching tv w/ no shoes on.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointment on several levels but A/C worked",
+    "reviewText": "Deciding to book a hotelfor the night while driving down the road was not my best move but we found this place on the fly. The toilet ran constantly until we finally lodged a clothes hanger until the float. The plumbing was so bad that we couldn't shut off the water supply it simply wouldn't stop the flow. We arrived late into the night and didn't want to delay sleep by asking for maintenance to come. Nothing great to recommend about this hotel and I've definitely started in better places for lower prices. We were only able to book 1 of the 2 rooms we needed that night through hotels.com. The second room cost 15 more for the exact room that was booked within 3 minutes of the first. It was a disappointment!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Airconditioning",
+    "reviewText": "told we could stay til noon. They turned A/C off at 11.oo from office. Not Cool. Was unconfortable after getting out of shower and trying to get ready to leave.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a family place!",
+    "reviewText": "Don't bring your children here. This hotel is not rated G. It is not a place to stay with children.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a family place!",
+    "reviewText": "Don't bring your children here. This hotel is not rated G. It is not a place to stay with children.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "It was okay",
+    "reviewText": "The room was very smelly, even after spraying air freshener. I had to open my door for some air on the last day. On check out day the air conditioner is cut off 30mins before you check out time. The carpet needed shampoo, the curtains need to be changed. It states that it is a non smoking room but the smell is from someone smoking it in. I don't ever want to stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "No complaints",
+    "reviewText": "Decent hotel for the money paid. Friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Lower quality service than I expected",
+    "reviewText": "Overall, I am grateful to have had a place for my friends and I to stay within a 30 minute drive to our destination during Memorial Day weekend. However, the quality of the stay was lower than I expected based on the description and pictures of the hotel online. The wallpaper was peeling with yellow glue stains, the internet was inaccessible for part of the stay, and the continental breakfast was meager.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Location to everything.",
+    "reviewText": "It was ok but when I first got there it took them two hours to figure out that my name was not on their credit card, I had to stay two nights as I was a late check-in anyway.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-10T00:00:00.000Z"
+    },
+    "reviewTitle": "terrible hotel and service",
+    "reviewText": "I would never in my life reccomend any one stay at ANY super 8. The ppl on their 800 number are even unhelpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "nice experience",
+    "reviewText": "great stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "room condition",
+    "reviewText": "wi-fi did not work,",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "It was good for the money",
+    "reviewText": "It was surprisingly quiet area must say I was surprised by the comfort",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-11T00:00:00.000Z"
+    },
+    "reviewTitle": "1 nighter at best",
+    "reviewText": "Hotel was just ok for 1 night stay. Rooms were noisy and need a lot of updating.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad",
+    "reviewText": "the room was clean and it was quit. The price however did in",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Super at Super 8",
+    "reviewText": "Don't stay here. Hotel staff is rude. Had to ask to have TV hooked up. Seedy neighborhood. Pool looked dirty. The door to our room had been recently repaired as it appeared someone had forced entry into the room at some point. A/C to our room barely worked and sounded like it was on its last legs. Staff would not or could not fix a/c. Stranger knocked on our door asking if we knew the previous occupants and wanted to repay them 'beer money'.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Super at Super 8",
+    "reviewText": "Will stay again ok",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Not too bad and cheaper",
+    "reviewText": "La estancia estuvo bien. En realidad solo se trataba de dormir tras la fiesta de ao nuevo.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Front desk staff with bad attitude",
+    "reviewText": "We were traveling with an assist dog and were made to pay 10...not legal for an assist dog. I had to argue for a non-smoking room which they didn't want to give because she said the dog was big. The dog could not be seen in the car outside. I had made the reservations on line so they knew about the dog, the non-smoking room and the king size bed that was reserved. They were very hard to deal with and the man was more interested in the football game on tv.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall My View",
+    "reviewText": "Compared to many mid level chains of hospitality they rank among them. The room was clean, mid fridge, no room odor, carpet was clean. There was a construction blemish however that was a minor issue. Annoyances were to a minimal, i.e. outside sounds, highway noises.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location",
+    "reviewText": "Will not go into this hotel again. No variety in breakfast, limited time for breakfast, even the limited variety is sometime not available. Do not replenish toileteries like washing soap, etc.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay at Super 8",
+    "reviewText": "Great, except there was no parking directly in front of our room. They had the space blocked with a car.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay at Super 8",
+    "reviewText": "Great, except there was no parking directly in front of our room. They had the space blocked with a car.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great night sleep",
+    "reviewText": "The room was very clean, quiet and cool. The bed was comfy and I got a good night sleep.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't go here!",
+    "reviewText": "Pool was a nasty green color. Blankets had stains on them from who knows what. I could fit my entire hand under the entry door because the threshold was broken. The toilet had spray foam coming out from around it and the seat had been glued back together. Breakfast was basically thawed ego waffles and old soft apples. Free wifi kept kicking us off.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "No AC",
+    "reviewText": "Every day when I left to go to work the management turned off the air conditioner from the front desk in my room so when I got home it was hot and sticky in my room. I had to call to get the front desk to turn the air conditioning back on. The staff quoted me one rate and charged me another they were unhelpful and unknowledgeable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Good rooms for the money",
+    "reviewText": "A fair hotel for the price, but the rooms had seen better days",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Personal time Get a way",
+    "reviewText": "quick trip for pleasure.. perfect location for the event I attended .Just wish I had requested a first floor room..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay elsewhere",
+    "reviewText": "When your room No-smoking room wreaks of cigarrette smoke, is hot all night, the A/C is cut off one hour before check-out, you have to borrow a plunger from the front desk to unclog the toilet and the key to your room doesn't work 15 minutes before check out I call it a BAD experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-18T00:00:00.000Z"
+    },
+    "reviewTitle": "A real dive of a hotel",
+    "reviewText": "The walls were patched up poorly and they didn't have pens in the room, I went to ask for one and the host laughed at me. We asked for a non-smoking room but clearly someone had been smoking in it and they didn't bother to completely clean up. The breakfast was slight and hardly edible. Even after all this the cleaning staff were courteous and thoughtful, but that doesn't mean I'll be back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room and location...",
+    "reviewText": "Our only problem was the water in the bath dripping all night long for two nights.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "pleasant",
+    "reviewText": "I had a good stay. Lady at front desk was very polite. Not many customers.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "pleasant",
+    "reviewText": "Requested a smoke free room and was given a smoking room. Room had crickets inside which made it hard to sleep with all the cricket noise. Outside noise and conversations could be heard inside the room thoughout the night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-14T00:00:00.000Z"
+    },
+    "reviewTitle": "close to good eating places",
+    "reviewText": "We were comfortable for the most part. The lighting in the room was dim and some light fixtures in the room were missing light bulbs. The bed was low and the bedding need updating. The room smelled like stale smoke. We were very disappointed in the contiential breakfast that was served. They had frozen eggo waffles laid out on a tray with a bowl of dried up fruit and day old packages of cinnammon rolls. We booked this hotel because of the low price. I will not stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "close to good eating places",
+    "reviewText": "I had to plung the toilet throughout the weekend just to get water to drain. No heat on friday and no do not disturb sign. Child of owned knocked on the door at 8 am and woke us up. Telephone was dead. Not impressed and would never recommend this especially for price. Listed breakfast but have no idea where it would have been. Extremely disappointed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad for an older motel",
+    "reviewText": "I arrived and was quickly given a key to my room, that was nice. Be careful there is one step on the staircase that was tilted downward and one could easily take a tumble if you're loaded down and not watching your step. Yes, it's an older building but everything was clean and fresh. I enjoyed the microwave, refrigerator, table and chairs which made it easy for me to make my own meals and sit comfortably and watch TV. The only real drawback for me was the bed. It wasn't much of mattress and I prefer down pillows, these were lumpy foam pillows. Usually, if I feel rested after a nights stay I give at least 4 stars, which is why I only gave 3.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Not bad for an older motel",
+    "reviewText": "Feo ambiente, da miedo, la habitacin ola a drogas, y el desayuno fatal. jamas lo recomendara.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Crooks!!! The king suite is aweful!!!",
+    "reviewText": "It was not at all what I expected! I had to pay an additional 40.00 upon arrival when the room was supposed to have been fully paid for when I booked it, there was gross stuff on my pillow, the room was very outdated, the wallpaper was coming off, the carpet was severely worn, the toilet stayed clogged, the air conditioner was cut off in the morning by the people in the front office, and when I went to check out, the office was locked and I had to have the maintenance man find the person that was supposed to have been inside working.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location",
+    "reviewText": "Will not go into this hotel again. No variety in breakfast, limited time for breakfast, even the limited variety is sometime not available. Do not replenish toileteries like washing soap, etc.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location",
+    "reviewText": "Will not go into this hotel again. No variety in breakfast, limited time for breakfast, even the limited variety is sometime not available. Do not replenish toileteries like washing soap, etc.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location",
+    "reviewText": "Will not go into this hotel again. No variety in breakfast, limited time for breakfast, even the limited variety is sometime not available. Do not replenish toileteries like washing soap, etc.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location",
+    "reviewText": "Will not go into this hotel again. No variety in breakfast, limited time for breakfast, even the limited variety is sometime not available. Do not replenish toileteries like washing soap, etc.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de401d"
+  },
+  "name": "Desert Motel Restaurant",
+  "categories": ["Hotel", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AZ",
+    "city": "Wellton",
+    "postalCode": "85356",
+    "address": "28709 Los Angeles Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-114.14621, 32.673]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Desert Motel Wellton Az.",
+    "reviewText": "The rooms are very clean and comfortable. The help are very nice to every one. You can enjoy a quite evening sitting out at the table or in the chairs and enjoy the B.B.Q. that they have for you to use they also have coffee makers in the rooms with coffee for you to enjoy. you are close to restaurants... More",
+    "reviewerCity": "Wellton",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de401e"
+  },
+  "name": "Cherokee Lodge Bed and Breakfast",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Coronado",
+    "postalCode": "92118",
+    "address": "964 D Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-117.180913, 32.686698]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again",
+    "reviewText": "No parking. Up to you to find parking on the street. TV remote taped on back to hold batteries in and would not work for volume and on off. TV was the size of a lap top in a corner. Our room was 11 which is next to the front door so we could hear everyone coming and going each time they opened the door. Breakfast was a block away at Panera. They did not have what we wanted on the menu that the Lodge Staff had given us. The air conditioner was small and in a hole in the wall very high up. The average person would not be able to reach high enough to turn it off which we did because it was loud, so it was to be hot or not be able to sleep for the noise. The bathroom sink was barely big enough to wash your hands. Poor security, only a chain lock on back door.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Quite disappointing",
+    "reviewText": "Extremely noisy. I didn't sleep at all. People in and out of this house all night at every hour. Really strange. I was given room facing the street. Windows with no curtains. Just blinds and therefore light from porch and steet outside was right in the room. I booked this bed and breakfast because they accept pets but it was not worth it. Room across from mine had a dog too. Huge mistake to give people with pets the two rooms that face street and that are next to main door of the house. Both dogs barked the entire night at every noise and customer opening/closing main door! Room is cute but it would have been nice to know that private bathroom was in hallway. I mentioned all this to the owner the morning we checked out. She was polite but didn't seem to understand these are issues for which people won't talk positively or will want to return if not addressed. Mine was truly a suggestion because the place is nice and has lot of potential. But people should be able to sleep at night and have Windows With more privacy and less light in their room. Paying over 200 for a night like that (completely awake!!!) is quite disappointing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "We would definitely come again!",
+    "reviewText": "The room did not have a thermostat and the floor register could not close. The room was hot for the first two days and than no heat the last morning WiFi did not work the last morning The maid did not come in to clean the room, make the bed, nor provide new coffee packages. On check out it was noted that you had to put the sign out for maid service but no where was that posted The breakfast was not on site. They gave you a voucher for a restaurant a block away",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Really a B\u0026B",
+    "reviewText": "There is no food served at the Cherokee Lodge. For breakfast, they provide coupons for Panera. We never met the owners or any other guests, so it did not have a BB atmosphere. Our room was cold, but adequate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Charming comfort",
+    "reviewText": "We just needed a place to stay for one night, so it was nice to have such a beautiful comfort room at reasonable rate with in room coffee and water with a very nice private bathroom down the hall.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Bed \u0026 Panera",
+    "reviewText": "The location is excellent. This is a no traditional B B, doesn't serve breakfast they give you vouchers and you walk one block to Panera to have it. Also, if you're two, avoid room 8. It's too small for two. Parking on the street (no problem, always easy to find).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Good and not-so-good",
+    "reviewText": "Lodge is a quaint yet lovely historical house. The nice, clean, surrounding neighborhood, as well as the lodge's close proximity to the beach and downtown shops and restaurants, make it an ideal place to stay if you enjoy pleasant walks. We stayed in Room 3 which is upstairs. Although we had our own bathroom, it was extremely small. It looked as though a shower had been added to a bathroom that was never intended to hold one. It was manageable, but no real room to set anything. For us, the bed mattress was firm enough, but it caved in the center causing us to roll to the middle - a sure sign that it is in need of replacement. The lodge is pet friendly, so be prepared for possible barking. The room next to ours and the one below us both had dogs in them. While I cannot complain that there was a great deal of barking, there was enough at the wrong time of night to wake us up, and unfortunately, I have a difficult time falling back to sleep. That said, it was our choice to take the chance, just wouldn't do it again. Breakfast at Panera is so-so. Blanca at the lodge was extremely friendly and helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to Coronado Beach and Hotel Del",
+    "reviewText": "We wanted to be a walk to the beach and shops and in this respect, we were pleased. We were aware of the breakfast voucher scheme and took advantage of it on a couple of occasions. Actually, not having breakfast at the bnb allowed us to venture out to different places. Parking was at a premium. Once you get a spot, you dare not leave. The owners have taken a very old home and carved it up like a rabbit warren so there are 14 rooms and only about 6 car spaces in front of the inn. Well, actually 5 because there was a pick up parked in the first slot and it never moved maybe a neighbor Our room appeared as though it had been pieced together, old and dated but we had our own bathroom in our room, which wasn't the case for others. The lights flickered for the first night or two and we alerted the staff - the owner doesn't live on site - who checked out the electrical problem and moved us to another room for one night while the issue was being attended to. It appeared and had been confirmed that little or no money is being spent on the modernization or upkeep of the property, not that it matters but it is not a 3-star hotel, far more accurate to call it 2 star. It's got the location though and appears to be always full, which brings me back to the parking:(",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Cherokee Lodge stay",
+    "reviewText": "Great little place on Coronado Island (San Diego). My room was great. Mini-frig, microwave, stove, dishes. Bed was a single, but looked to expand. I am 6' 3 and not small and I fit fine. Tastefully decorated. However, I may have been lucky, I was in one of two rooms above the garage with a connected bathroom. I do not think that is the case for all rooms. There is no parking street parking can be really hard. Other than parking (it really is hard), this place is great for couples, single people, seniors without mobility issues. The room I had could not accommodate more than two people comfortably.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Cozy \u0026 Lovely",
+    "reviewText": "We had a lovely one night stay on New Years Eve. The rooms are small, but have everything one needs, including a small fridge, a wine opener and wine glasses, as well as a coffee maker with real coffee cups, not cardboard. We were given 2 breakfast vouchers for the nearby Panera's(just a block away). My husband walked up and bought our breakfast paninis, yogurt fruit and coffee. We enjoyed it on the sunny front porch of the lodge. We will definitely stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Cozy \u0026 Lovely",
+    "reviewText": "A friend and I stayed here as a stop over on a multi day beach hike in the San Diego area. Very cute quaint lodging, clean, comfortable bed and great location. The furnishing were beautiful. There was a small refrigerator and coffee maker in the room and microwave in a common area. Met several nice, friendly travelers also stopping over there. Breakfast is not in the inn but they provide Panera vouchers and the store is a block and a half away.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Amanda's birthday week June 2016",
+    "reviewText": "Great location, fantastic staff, very clean rooms, charming historical property, and great price! Breakfast vouchers for panera bread across the street. Cons: tiny showers and very low shower heads (5ft) - some rooms have bathrooms are not in the room, but across the public hall and you need a separate key to enter. Beds are very firm and creak when you move in them. Noise carries here. It's easy to hear your neighbors conversation in their room, but the guests were all very considerate. The place is over 100 years old and hasn't been remodelled, so it's pretty dated, but I will say it's kept immaculately clean! Not one spec of dust or dirt! Overall this place had the perfect location, outstanding staff, cozy historic charm, and great breakfast. The price is great for the area and hotels.com had an even better deal! The pros definitely outweigh the cons and the staff will do everything they can to accommodate for you. We will absolutely be returning for another stay in the future!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "A day off",
+    "reviewText": "we enjoyed the beach all day, came back and sat in the chairs out front and read books.Then we went to manuals for great margaritas and great food. Then we took a nice walk along the beach.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Cozy getaway in great location",
+    "reviewText": "Spent a long weekend here in mid-October. Great location on Coronado Island, just a block off the main avenue, with many restaurant choices. A bit longer walk to the beach, but not far. Bed and breakfast was quiet and cozy. Room was a bit on the small size, but didn't go there to hang out in the room, anyway. Would have been nice to have breakfast in the residence, but vouchers for nearby Panera Bread were more than adequate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice and Quiet",
+    "reviewText": "Very nice and quiet. Room was a little small but ok for just one person. Easy walk to lots of shopping, dining and beach.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "No attached bathroom",
+    "reviewText": "Arrived just after 5:00, so didn't see any staff, but the key was waiting for us with nice instructions. (only a 2 hour check-in window, apparently) We had to leave early the next morning, so again no staff interaction. Had to check out later by phone. I was disappointed that the bathroom was not en suite, but across the hall (yet ours exclusively). Perhaps I didn't notice this when I booked the room, but it should have been made clear at the time of the booking. At this price point, I expect my own bathroom, attached to the room. Mattress was very hard, but I encounter that at most hotels. But a pleasant room and you can't beat the location! We walked to a restaurant for dinner, then a nice stroll by the beach.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "bed and breakfast but at Panera???!!!",
+    "reviewText": "night only with 2 grandchildren daughter - beds VERY comfortable -really disappointed breakfast was at Panera and not hotel/in room -only negative",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect for a quick get away",
+    "reviewText": "Charming bed and breakfast. Our room and bathroom were small but efficient. Staff was friendly. It was all we needed for an overnight in Coronado and the price was right. Great location, close walking distance to restaurants and shops.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect weather and place to stay.",
+    "reviewText": "Our room was clean, comfortable, cozy. Location was perfect, walking distance to the ocean, restaurants, shopping, and city transportation was easy to access. Parking was not bad although not specific parking spots we were available we were never more than a block away. Cost was very reasonable. The staff were very helpful, even had chairs, beach towels that you could use. The court yard, and grounds were beautiful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value in an AWESOME area!",
+    "reviewText": "a very nice home with beautiful furnishings. The room was very nice but it is a creaky old house so unless other guests try to be quiet, you may be disturbed while trying to sleep. Only other downside is that the breakfast is not on site, it is very close by at Panera Bread. It was still pretty tasty and an ok value, but not what we expected and I dont recall it being mentioned on their website. The Panera is VERY close however, about a 2-3 minute walk, and the food is tasty, I REALLY liked the coffee in particular. Plus the owner was so sweet and gave us a good suggestion for where to have dinner. I may stay again if I can get an affordable rate, the area is awesome and this BB is also within short walking distance of a BEAUTIFUL, and non crowded beach.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Soon romantic and quaint!",
+    "reviewText": "Staff are friendly and helpful. The style of the room is adorable. We really enjoy the vacation here and will be back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Location and Convenience",
+    "reviewText": "Location and price to us was key. We just needed a place to stay in Coronado. It was convenient to our activity. Lots of stairs to our room was our only complaint and no parking. Otherwise comfortable and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "B B",
+    "reviewText": "Everything was great except for the required street parking. Very hard to find close parking. it was close to the beach and within walking distance to the ferry. Staff was friendly and helpful. Good place to stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Charming",
+    "reviewText": "Lovely charming boarding house. Great for overnight with your sweetie.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic Coronado Hide Away",
+    "reviewText": "Great night spent at Cherokee and on Coronado island. Quaint home that doesn't look like much from front. Great appeal once inside. Open sitting room was wonderful to catch up on work E-mail.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic Coronado Hide Away",

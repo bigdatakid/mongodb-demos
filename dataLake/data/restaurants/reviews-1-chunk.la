@@ -1,0 +1,100 @@
+  "name": "Holiday Inn Express Suites Floresville",
+  "categories": ["Corporate Lodging", "Lodging", "Wedding Reception Locations \u0026 Services", "Banquet Halls \u0026 Reception Facilities", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Floresville",
+    "postalCode": "78114",
+    "address": "929 10th St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-98.1546, 29.143097]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fcd"
+  },
+  "name": "Microtel Inn Suites By Wyndham San Antonio By Seaworld",
+  "categories": ["Hotels", "Lodging", "Hotel"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "San Antonio",
+    "postalCode": "78245",
+    "address": "1605 W Loop 1604 S",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-98.70959, 29.41358]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-12T05:00:00.000Z"
+    },
+    "reviewTitle": "Affordable and Clean",
+    "reviewText": "We stay here whenever we visit family in San Antonio. There's not a lot of extra amenities, which is a great tradeoff for a lower rate. The staff has always been really helpful. Rooms are perfectly sized and impeccably cleaned.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-25T05:00:00.000Z"
+    },
+    "reviewTitle": "My visit",
+    "reviewText": "Clean,nice customer service was amazing... Its a great location, close to sea world and a good number of restraunts. The pool was a fair size and the hot tub(thumbs up). The guy at the front desk was awesome I believe his name was Daniel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-05T05:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful Experience",
+    "reviewText": "We stayed her for my cousin's wedding. First off after reading several reviews, I was a bit skeptically. We arrived after midnight after experiencing a 3 1/2 hour delay. When I walked into our room, I was like Okay this compact but perfect for my daughter and I. Each morning we had continental breakfast. The breakfast was pretty good but... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-14T05:00:00.000Z"
+    },
+    "reviewTitle": "Spring Break 2015",
+    "reviewText": "The room was very clean, and the children just loved the Giant size Texas Waffle. The people were very friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-22T05:00:00.000Z"
+    },
+    "reviewTitle": "Amazing customer service",
+    "reviewText": "I came down to San Antonio to attend my best friend's Air Force Graduation. We chose Microtel because of the great location and reviews. While we were down we got into a unexpected car accident, and need to stay a couple of days later than expected. Daniel, the gentleman at the front desk (who has helped us the whole stay),... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-19T05:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful!!",
+    "reviewText": "Even though the weather was a bit crazy, our stay couldn't have been more pleasant!!! The scenery was gorgeous, the building was beautiful, the rooms were clean, the staff was great, the location is perfect! I could not have been happier, it was the perfect stay for our second year anniversary.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

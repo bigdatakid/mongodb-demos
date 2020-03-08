@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Just OK",
+    "reviewText": "The receptionist was friendly and very professional. The room was clean but the lobby was a bit run down and could use updating.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for the prcie",
+    "reviewText": "Good location for the price. The room had a foul smell coming from the AC Unit.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for the prcie",
+    "reviewText": "The hotel was very dirty. The pillows needs replaced badly as do the towels. Do not recommend",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great rooms and excellent customer service",
+    "reviewText": "Needed a hotel in the area on short notice and found Super 8 on booking.com. I'm from north and the super 8's up there don't have the best reputation, but this one had the best price in the area so we decided to give it a try. Happily surprised! The room was large and very clean. Out a/c unit actually... More",
+    "reviewerCity": "Dayton",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great rooms and excellent customer service",
+    "reviewText": "We ended up going to a different hotel, that is how dirty this hotel was.",
+    "reviewerCity": "Dayton",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great rooms and excellent customer service",
+    "reviewText": "Easily accessible, close to all services and major traffic routes. The room was clean, comfortable and the stay was very enjoyable.",
+    "reviewerCity": "Dayton",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "fair",
+    "reviewText": "i found roaches in the room the a/c leaking inside the room and smell horrible",
+    "reviewerCity": "Dayton",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Run down motel in a nice area",
+    "reviewText": "The carpets were soaked and smelled like a mold. Maybe the a.c. was leaking. Not sure but bathroom was dirty and run down. I wouldn't be dissappointed if the room was 50 bucks per night. I made last minute reservations and the room was 155 dollars for the night. The most expensive super 8 motel I've ever heard of. It was a ghetto motel in a nice area",
+    "reviewerCity": "Dayton",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "good",
+    "reviewText": "Was charged alittle more than the reservation due to hotels.com error. But place was clean good attendence breakfast was good rooms clean overall very statisfied",
+    "reviewerCity": "Dayton",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Room service stole key to Mercedes truck",
+    "reviewText": "Room service stole key to my sons Mercedes that he purchased I flew down and loaded truck on semi kept one key and sent the other with trucker, i ask the manager to ask and he said NO I will not ask staff. Who steals a key come on really.",

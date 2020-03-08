@@ -1,0 +1,1000 @@
+      "$date": "2016-10-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Funky hotel",
+    "reviewText": "! , ! .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Fun boutique hotel",
+    "reviewText": "The Kinney is a great property! The decor is very hip and fun down to the smallest details. Well-located within walking distance to canals, beach, restaurants and shopping. Website says free parking...not actually free. Plan on 18/day. Enjoyed our stay!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel molto gradevole, moderno e comodo",
+    "reviewText": "Soggiorno di 2 notti perfette. Tutto il necessario incluso: parcheggio + colazione + wifi. A disposizione Piccola piscina con jacuzzi gradevole. Colazione Ottima ma locale un po' piccolo per tutti gli ospiti. Posizione comodissima: in 10 min a piedi sei sul molo e spiaggia di Venice. Affitto bici in loco!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice new rooms yet hotel still being renovatated",
+    "reviewText": "We were pleased with a 1-night stay in this hotel. The renovated rooms are very nice, clean and pretty large considering it's LA. This hotel used to offer free parking and now since it's been renamed 'the Kinney' they only offer valet parking for 15. Not super expensive but I would have liked it to be free as I booked it when it was The Inn at Marina Del Rey which offered free parking. The only thing that was not great was the fact that the lobby, corridors and some common areas were under construction. The front desk area smelled of fresh paint and there were constantly workers around. Breakfast was surprisingly good, with scrambled eggs, bacon and a waffle station, with a very nice lady attendant. This hotel was about 15 minute walking from Venice beach and restaurants located next to it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Vale a pena..",
+    "reviewText": "Exelente Hotel, proximo a praia, com bons restaurantes por perto.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Sch��nes sauberes Hotel",
+    "reviewText": "Schne Innenterasse, kostenloser Parkplatz. Frhstcksraum etwas klein. Tolles Fischrestaurant am Hafen ganz in der Nhe",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent!",
+    "reviewText": "Everything we wanted as a family was provided - clean room, comfortable beds, quiet, nude decor and the kids loved the hot tub! Breakfast was buffet style and much better than other ones provided on our 15 day US trip.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent!",
+    "reviewText": "We had the best stay in Venice because of the Kinny being such a perfect location x thank you x",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great getaway near trendy Abbott Kinney",
+    "reviewText": "Comfortable near to great dining. Polite staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Bon",
+    "reviewText": "Bon hotel deco sympatique ! A25 mn pied de Venice Beach",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4066"
+  },
+  "name": "Rodeway Inn Near Venice Beach",
+  "categories": ["Hotels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Los Angeles",
+    "postalCode": "90066",
+    "address": "11933 W Washington Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-118.42066, 33.997833]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4067"
+  },
+  "name": "Holiday Inn Express Colton-riverside North",
+  "categories": ["Reception Centers", "Wedding Sites", "Banquet Rooms", "Family-Friendly Hotels", "Budget Hotels", "Hotels \u0026 Motels", "Business Hotels", "Lodging", "Beach Hotels", "Resorts", "Weekend Getaway Hotels", "Tourist Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Colton",
+    "postalCode": "92324",
+    "address": "2830 S Iowa Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-117.338229, 34.020339]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "door will not open, if we leave we can't get back",
+    "reviewText": "Look to door would not work. If we left during the night we could not get back in. Confined to room. A/c on high no nobs to turn down or off. Room was ice cold. Door to bathroom would not shut. No privacy. No other rooms, in the end the offered us a 9 refund. Worst hotel ever for me.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Avoid this holiday inn express at ALL costs.",
+    "reviewText": "The hotel was under construction from 9am-5pm Monday-Friday. The hotel staff was having a potluck when we arrived and was more interested in that than accommodating guests. The room we reserved was for two queen beds and they neglected to tell us due to construction that was not an option. The walls are PAPER thin and there was no hot water for our entire stay. Instead of remodeling this hotel should be torn down and perhaps rebuilt. It was awful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Bates Motel Revisited",
+    "reviewText": "This property is a horrible location in the middle of no where and near nothing. The front desk staff, particularly Jeanette and Sunny, are rude and discourteous. The hotel has a stale stench throughout and the rooms, although large, are outdated. The carpet throughout is lifted. The staff refuses to assist with basic matters with how to find various shopping... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy customer turned sour",
+    "reviewText": "The exterior of the hotel is nice, but regret set in when entered my floor. The smell of someone cooking, dirty hallway, and when I entered my room a musty smell hit me. The room was old but clean and the bed looked comfortable however I never had a chance to lay in it. The next 2 hours I tried to focus on work over the smell of food cooking and trains honking near building. It was a long day for me and I needed rest for an important meeting the next morning. Not to take a chance I asked the front desk if I could cancel and get a refund. She was very nice, professional and acknowledged that it was a loud night for the trains. Offered me a room on the other side of the building, but this would put me a stones throw from the highway. Considering I was already short on rest and needed to be on my best for next morning meeting, that was not an option. The Holiday Inn front desk told me there was nothing they could do because I booked my room through Hotels.com. I contacted Hotels.com and they told me there was nothing they could do because the hotel already had my money. This is the part of the story that really got me upset. Someone is lying and neither side took any steps to improve the situation, just passing it to the other party. I've happily used Hotels.com over the years and will not again. I'll do my best to advertise my experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "RECEPTION DESK",
+    "reviewText": "The receptionist who check us in was very unprofessional she does not understand very core of hospitality she needs to be reminded/retrained of hospitality ethic or she should be working in the back room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst experience",
+    "reviewText": "Am not happy with this stay. Hotel is not clean at all, elevators are broken. On first night, bathroom got flooded due to flush overflow.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst experience",
+    "reviewText": "bring a fan to block out the noise of the trains...i did...and slept great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "I will not be staying here any time soon.",
+    "reviewText": "The hotel was under renovation and the entire first floor was closed. The hotel's structure is old and you can hear every noice and rumble, especially when the trains go by. (Every 3 hours). Hot water took about 10 minutes to reach the third floor and the elevator sounded like a popping soda can when you stepped inside. Breakfast eggs have cheese and I do not eat cheese.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad stay , breakfast was good.",
+    "reviewText": "It was terible the first night beacuse i was not warned ahead of time at booking that it was under constriction. I got the hotel to rest not listen to alot of hammering. And the elevator was with cardboard and was dirty. The rooms were clean but hall was very unatractive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Disgusting!",
+    "reviewText": "Older hotel in not so good neighborhood. Rooms and hallway did not smell clean. Carpet was dirty and stained. Outside in the parking lot were dead rodents. Not worth staying at this hotel!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Impressed with our stay!",
+    "reviewText": "THE ENTIRE HOTEL STUNK OF CIGARETTE SMOKE AND THEY TRIED TO PUT ME IN A SMOKER ROOM TO BEGIN WITH. THE ENTIRE HOTEL WAS GROSS AND AGED. NEVER STAYING THERE AGAIN",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "BEWARE of this hotel the staff are ripping off visitors",
+    "reviewText": "I have stayed at this hotel before. The first time they ran 50 pre-approvals 8 times on my card. I had to get them to remove them. When I returned this time I gave them a 250 cash deposit - which seemed very high for a 2-star hotel. When I went to check out they refused to give me my... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad Experience - Poor Hotel!!!",
+    "reviewText": "I am a frequent traveler and a fan of Holiday Inn Express, however this one is one of the worst Holiday Inns that I have ever stayed at. What was wrong: 1. Worn, dirty, and musty smelling carpets in the hallways and in my room. 2. Elevator OUT OF ORDER in a multi-floor hotel. 3. No business center...NO computer...NO printer.... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Run down in a bad area",
+    "reviewText": "Hotel was needed for a stay out of town for school athletic event, but very disappointed for a holiday inn express. Room had a terrible odor, and floors were dirty and stained. Breakfast was nothing special with powder eggs. Oh well, my bad, I guess I get what a paid for...or maybe I didn't!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Older hotel in need of a makeover",
+    "reviewText": "The first room they gave us was occupied. The second room smelled so bad we asked for another room. Finally the third room was very nice, the front desk felt so bad she gave us the two room jacuzzi suite. Her call later asking how the room was, was a nice touch.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Older hotel in need of a makeover",
+    "reviewText": "I had to call for an ice bucket 3 times and never received one. Finally went to get one in the make shift lobby and was informed they didn't have any. Pool was dirty, people were smoking all around the pool and outside the doors allowing for smoke to enter the hotel and the rooms if you had your window open.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "ok place to stay if all you need is clean sheets",
+    "reviewText": "my family accompanied me on a work trip to the area which I do monthly and so they tagged along for a little get away .. they stayed in the hotel while I was out doing what i needed to do for work ... the hotel is ok for business travelers who just needs a decent bed and clean restroom , but as far as anything else this place was not worth anything more so dont get your hopes up .. I would probably stay again if its just me , but not close to any resturants and be advised if you book your room through hotels.com be expecting a 250 debit card secuirty hold for a few days after you check out",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-04T00:00:00.000Z"
+    },
+    "reviewTitle": "happy to stay in riverside",
+    "reviewText": "Hotel is in dire need of renovation. Old carpet smelly carpet, mattress was lumpy and pillows were too soft. The elevator was in terrible condition in appearance and very noisy. A bit pricey for the location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad stay , breakfast was good.",
+    "reviewText": "There was a drunk man sitting in the lobby when we arrived, almost taking his pants down. Heating did not work.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Not enjoyable",
+    "reviewText": "Very smelly smoky room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Impressed with our stay!",
+    "reviewText": "The staff was wonderful. The room were newly redecorated and lovely. However, the elevator were awful. One elevator had ceiling tiles missing with the electrical exposed. The second elevator lurched when it started to move and made horrible loud noises as it moved. The about half a dozen of the floor tiles were broken. The area from the pool to the elevator was wet... even at 10:00 PM. There were not signs put out to warn the guests.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Management is Asleep",
+    "reviewText": "We checked in expecting a pool for our 7 year old son to use while sister was orienting at UCR. The pump was broken, and pool was closed. We were not apprised of this by management at check-in, and discovered it the following morning. We were forced to cancel the rest of out stay and move hotels. When checking out... the desk clerk (Eddie - dead eyes, no politeness or courtesy) indicated that the General Manager (Vanessa - named but never seen) was aware of the situation. There was no apology, no polite attention to our dilemma, no offer for a discount for our inconvenience or an offer to make it right during our possible next stay. How does Holiday Inn plan to convince us to return Our daughter will be attending UCR for the next 4 years, and we will be needing a place to stay each time we visit. Hundreds of dollars I will be spending ANYWHERE but Holliday Inn, if that is the kind of treatment guests should expect from the lame management team in Colton. So sad....",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Management is Asleep",
+    "reviewText": "stay here for nocturnal !!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Staff and Facility",
+    "reviewText": "At check-in computer system down, even manual credit card machine not functional. Upon check out told credit taken from account, clerk wasn't very nice when she explained this. Said its their right, told refund within 1-2 business days. Its now one week since check out, credit not yet received.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Pit Stop",
+    "reviewText": "Room was outdated and a little shabby but clean and LARGE.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and Nice staff!",
+    "reviewText": "All night train sound. Carpets are old and smoke smell.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Older hotel in need of a makeover",
+    "reviewText": "The hotel was under construction for a remodel. I would have picked another location just for that reason.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "ok place to stay if all you need is clean sheets",
+    "reviewText": "The neighborhood leaves something to be desired big time. They are renovating, the new rooms are very nice, however, I had a cold/lukewarm shower each day.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy customer turned sour",
+    "reviewText": "The room was great for the price i just couldn't get any sleep since the freeway was next to the hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy customer turned sour",
+    "reviewText": "The room had a very damp smell and the rug was also damp",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "RECEPTION DESK",
+    "reviewText": "The room and staff were great. The hotel is under going renovations so alot of hammering all day but ends early enough.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "RECEPTION DESK",
+    "reviewText": "It was not worth it all that much for 80 or so per night, but could have totally been better. I was expecting the outside and inside of the building to be a little more neat/ not so beat up (overall), but it was just okay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Business trip",
+    "reviewText": "Hotel is under construction, on business trip with 2 other co workers and we had no conference room available they keep the breakfast area locked after breakfast so we had to sit in the 80 degrees by the pool with no electrical outlets for our laptops so when they died we had to go inside. No hot water on the 4th floor, 2nd floor was completely gutted. Work out room was nice to have only some of the machines worked. Would not stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "I will not be staying here any time soon.",
+    "reviewText": "Wasn't too happy the keys never worked to get in the room or the building and the maid service just walking in our room unannounced no knocking or anything",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Basic",
+    "reviewText": "Overall my stay was good. The only downfall is that the walls are thin and you can hear people in the other rooms",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Disgusting!",
+    "reviewText": "I was there for 3 days and 2 nights. The lobby area was nice. The breakfast in the morning was decent. The room was nice and quiet and the bed was very comfortable. What I did notice was that the hotel common areas were not very well maintained. The tile floor outside the elevators on my floor had coffee spills on them for the whole time I was there. The tile floor in one of the elevators was cracked and falling apart. The other elevator was missing the covers for the lights in the ceiling so the flourescent tubes were all exposed. The elevators were very slow and creaked alot. The carpet in the hallway in front of my room needed to be vacuumed very badly and it remained unvacuumed the whole time I was there. The pool area was nice and seemed to be kept clean. It seemed like with a little bit of effort it could look alot better.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice for the price",
+    "reviewText": "I was on a business trip and looking for a Holiday Inn in Riverside. This hotel was the closest I could find, so I gave it a try. It was just ok. The hotel is near the freeway, the room and bathroom were clean, the bedding was fine, the bathroom towels were new, the tv worked fine, the exercise room... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "An OK, inexpensive hotel",
+    "reviewText": "I spent one night in the hotel. It was OK, and the location right on the freeway was nice. I believe this hotel was probably a conversion of another brand, as it didn't really feel like a Holiday Inn Express. Truckers hanging in the lobby watching TV and outside smoking, lots of noise, no hotel clerk manning the lobby making... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Older hotel, very clean",
+    "reviewText": "This hotel is older, and in need of some updates. The neighborhood was a little run down. However, it was very clean and the staff was extremely helpful and pleasant. The beds and pillows were comfortable. For the most part, the room was pretty quiet. Really the only sound heard was the loud banging of other doors. The doors did... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Older hotel, very clean",
+    "reviewText": "Staff was great. Very nice. Location is odd and it's an older Holiday Inn exp. Inside was fine.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Watch you charges, they refresh the system \u0026 charg",
+    "reviewText": "Stay was OK, check in and charged a bit of a problem verify your rates was overcharged for both nights had to get a credit couldn't get an email nobody knew what the problem was. Took two trips to the desk and two phone calls after I left to get it straight.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice-But Update",
+    "reviewText": "This is a decent hotel for the price. However to carry the Holiday Inn Express branding, I would suggest they do some updating. The plumbing needed repair in the 2 rooms that I stayed in (nothing major) toilet continued to run after flushing tub dripping when turned off. Overall, it was tolerable, just needs a little TLC. The staff was... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Just right off the freeway 215",
+    "reviewText": "This hotel is an ok hotel, room is clean, but have a little bit smell. Front desk very friendly, free breakfast. If book on line, in US 80 to 100 range. Next door have fast food Jack in the box, gasoline station, gasoline price is good, suggest fill up here. WIFI is ok. swimming pool, free coffee all day long.... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "In the middle of nowhere",
+    "reviewText": "Renovations going on. Pool close. The breakfast they served was quite nice and very tasty. This staff was friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy",
+    "reviewText": "I enjoyed their breakfast. Room service was excellent. Came by about two times to check if we needed anything which was great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Pit Stop",
+    "reviewText": "Noisey",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and Nice staff!",
+    "reviewText": "I got what I asked for. My room was clean, the staff was nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "Good stay. My only issue is the breakfast area. It is much too small. There is never a table available. Good for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Holiday Inn Express",
+    "reviewText": "I had a meeting in Riverside, so I decided to stay in that area the night before to save time. I picked this hotel because of its location. I checked in at close to midnight. I was greeted at the desk, given a room quickly and I went to bed. The room was quite large, but smelled of stale smoke. I requested a non smoking room, but I was too tired to go request another room. I turned on the AC and found peeling paint on the window sill. The room had a lot of wear, but it was quiet and I slept well. I left at 6:30 am without utilizing any amenities. It was fine for a 6 hour stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great night sleep",
+    "reviewText": "Very nice and quiet, clean rooms and bed was confortable, would recommend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-29T00:00:00.000Z"
+    },
+    "reviewTitle": "happy to stay in riverside",
+    "reviewText": "the hotel is under renotivations and it surley needs it. i believe the best part of my stay was the very filling breadfast. the staff was friendly and the room was clean, even through the staff forgot to clean the room one day. also, you should have your maintainance cleanup their mess when they leave the bathroom. the floor was cover with white powder.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "RECEPTION DESK",
+    "reviewText": "I think it's above a 2 star, a facilities were a bit dated but was clean ans quiet. I would consider staying there again. On of the elevators was out of order.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "RECEPTION DESK",
+    "reviewText": "We stayed for 2 nights as we had to attend an event at Riverside convention center. Hotel is just couple of minutes away from convention center, so we were able to come back to room in the late afternoon to spend sometime in the pool before heading back for the evening. Check-in was breeze as they had all the information from hotels.com. Breakfast area is very small and was busy but the staff was very quick in replenishing. Beds were not made when we came back around 3PM. There staff did came around 3.30 on their own to clean the room but wanted all of us to be out. We were too tired for that and managed it on our own.Rest everything was good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay",
+    "reviewText": "My stay was very nice... Rooms were clean and a/c worked awesome.. Staff was nice and friendly and very helpful..however the area around has become dry and dirty they need to work on the surrounding areas in cleanliness San Bernardino, Colton especially",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "My stay",
+    "reviewText": "Quiet, nice",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad stay , breakfast was good.",
+    "reviewText": "Have stayed here three times and had a great nights sleep everytime. Clean, quiet, good breakfast and friendly staff. I'll be staying here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Basic",
+    "reviewText": "It was fine. Needs a it ore Norsemen touch for the price paid, but overall was fine for the late notice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "convenient location",
+    "reviewText": "This hotel is located right off the major freeway, making it convenient to get wherever you're going. There was a lot road construction going on, but that didn't seem to deter us too much. The staff was very friendly, and the rooms were clean as we have come to expect from all holiday inns. Definitely recommend this hotel everyone.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "One night business trip.",
+    "reviewText": "Great Internet connection. Top of line comp breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "One night business trip.",
+    "reviewText": "the only thing that has the holiday inn quality was the beds and bedding! not a bad hotel but not deserving the price..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok Hotel to stay.",
+    "reviewText": "Ok Hotel to stay in. Free parking, Wi-Fi and of course free breakfast. Not bad at all.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok Hotel to stay.",
+    "reviewText": "nice hotel, only these fucking trains keep you awake at night",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok Hotel to stay.",
+    "reviewText": "Stay here for Nocturnal !!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great accommodation",
+    "reviewText": "Very nice hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "Fast, friendly check in. Rooms are decent, beds is super comfortable but the carpet is looking a little tired. Little diner next to the property, easy on / off the freeway.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "the hotel was fairly clean check in went smooth, the cleaning ladies were rude. I asked for xtra towels i needed a double set of all towls the cleaning kady looked at me and said i will see what i can do, then eventually handed me 1set. not happy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "the only thing that has the holiday inn quality was the beds and bedding! not a bad hotel but not deserving the price..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "Value-conscious hotel with the sunburst sign provides basic amenities to ensure travelers a comfortable stay. In ShortThis nationwide chain promises value-added amenities to its guests. King and two-queen guest rooms offer clock radios, hair dryers, shampoo, televisions with HBO or Showtime and complimentary copies of USA Today. The property is inspected three times a year for quality by an independent quality assurance team and assigned a Sunburst rating, so travelers can rest assured that their accommodations are clean and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean!",
+    "reviewText": "We stayed in Colton for 5 nights at the holiday inn. The rooms and hotel grounds were clean. The little fitness centre was good for a quick workout although the bike had no power. Breakfast was pretty good, lots to choose from. Jack in the box and service station close by which was handy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean!",
+    "reviewText": "Nice Hotel, only these fucking trains keep you awake at night",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean!",
+    "reviewText": "nice hotel, only these fucking trains keep you awake at night",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Ten",
+    "reviewText": "Real good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "one day stop",
+    "reviewText": "it was okay to almost great. the beds are really hard and the place location is really bad but the room is nice and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "very enjoyable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Reliable Place",
+    "reviewText": "We have stayed here almost every time we are in San Bernardino. Great stay every time :)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "RECEPTION DESK",
+    "reviewText": "Room was remodeled, cozy, clean. I will be staying again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great choice!",
+    "reviewText": "Just about 30 minutes from Palm Springs, great breakfast and ammenities. Very close to some important freeways (215, I-10). Great clean rooms,",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Near I-10 and 215 N/S.",
+    "reviewText": "Went to Coachella Music Festival and it is a great alternative to arrive when all nearby hotels are full! Very close to Palm Springs as well.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad stay , breakfast was good.",
+    "reviewText": "very comfortable and nice room, complimentary breakfast was awesome!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Impressed with our stay!",
+    "reviewText": "The Weather was beautiful! Breakfast was delicious, and the Front Desk Clerk Patricia was a total sweetheart!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Impressed with our stay!",
+    "reviewText": "Very convenient, relaxing, pleasant trip.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great night sleep",
+    "reviewText": "It may be the slowest elevator in the world lol but the front desk people are great and the rooms are clean and the best beds for a great night sleep. I will definatly be back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful room and welcoming staff",
+    "reviewText": "Hotel was great staff was happy n positive energy everywhere",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "I had watet damage in my apartment.",
+    "reviewText": "My stay Holiday Inn was fine. I need a recopy from your Company, Please",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "I had watet damage in my apartment.",
+    "reviewText": "Bring a fan to block out the noise of the trains...I did...and slept great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and comfortable",
+    "reviewText": "Stayed at this hotel after day one of a two-day concert festival. We were able to have a very late check in without incurring additional charges. The complimentary breakfast the next day was awesome! They had a pancake machine!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5

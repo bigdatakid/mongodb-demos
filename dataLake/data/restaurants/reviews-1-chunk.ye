@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2015-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "2 Night Stay With Baby",
+    "reviewText": "I stayed at this hotel in May 2015 with Mom and my 2 month old daughter. Our room was booked in a group of rooms by our pastor. When we arrived to check in we asked for a crib for my daughter. When we got to our room they had already put the crib in the room and we were... More",
+    "reviewerCity": "Dublin",
+    "reviewerState": "GA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "This hotel is very nice and clean. The breakfast is the best I have had at a hotel breakfast bar. The room were comfortable. The beds are great. We also enjoyed the pool which is indoors. The staff was friendly and helpful.",
+    "reviewerCity": "Dublin",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst stay this time out of about 4years",
+    "reviewText": "Bathroom had hair on floor and toilet and pillow case. We asked to pick up towels and pillow cases on our way out..but front desk said they didn't know if they had clean linen. So I said we will take towels to cover it. She then said she did not know when she could bring it. We asked to pick... More",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Good, convinient, great service",
+    "reviewText": "Hotel is near a major expressway, easy access, very clean rooms, personable staff, good to very good value for your dollars good substantial breakfast, recommend to make reservations, since it is frequently booked solid",
+    "reviewerCity": "Albany",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Business",
+    "reviewText": "I was at this hotel on business. The hotel staff was very friendly and helpful. The hotel was keep clean including the breakfast area, the public bathroom, pool area and gym. The rooms were well kept.",
+    "reviewerCity": "Grovetown",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Very clean facility, dog friendly, and management very nice",
+    "reviewText": "We had to evacuate our home because of hurricane Matthew. I was fortunate to find a hotel for Thursday through Monday, but not Wednesday evening until I came upon this La Quinta. We have two dogs, less that 40 pounds, and were worried about finding pet friendly hotels. Fortunately, this hotel was mentioned on several of the pet-friendly hotel search... More",
+    "reviewerCity": "Bluffton",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Evacuees",
+    "reviewText": "I had been told that this hotel was the Number 1 LaQuinta in the country and it was. The hotel was clean and accommodating. The staff was friendly and helpful and very kind and courteous and aware of the stress we were under.",
+    "reviewerCity": "St Simons Island",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "THEY DO IT RIGHT - STAY HERE FOR SURE!!",
+    "reviewText": "Amazing beds, very clean, best shower pressure, spacious rooms, friendly employees, breakfast that is great and provides a big assortment. They even have quiet time - THANK YOU, THANK YOU!!! We travel often, arrive late, and check out early so this means the world to me to get some quality sleep. This will be our go to stop in Dublin... More",
+    "reviewerCity": "Knoxville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-01-12T00:00:00.000Z"
+    },
+    "reviewTitle": "THEY DO IT RIGHT - STAY HERE FOR SURE!!",
+    "reviewText": "Distinctive whitewashed and tile-roofed chain offers convenience and consistency. In ShortSince opening its first location next to the San Antonio World's Fair in 1968, this hotel has become synonymous with consistency and reasonable rates. Room conveniences include data port phones with voice mail, free high-speed Internet, work spaces, coffeemakers, irons, hair dryers and premium TV channels. Budget-conscious travelers will appreciate free continental breakfast and free stays for kids under 18. Two-room suites include separate sitting and sleeping areas and a recliner or pull-out sofa.",
+    "reviewerCity": "Knoxville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Evacuation stay...",
+    "reviewText": "We had to get away from hurricane Matthew, and we had our 2 dogs with us. Hotel was clean, and bed was very comfortable. Breakfast is adequate, refrigerator in the room. Grassy areas for the dogs to walk, and 3 restaurants very close. Reasonable rates. We would definitely stay here again!",
+    "reviewerCity": "Bluffton",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",

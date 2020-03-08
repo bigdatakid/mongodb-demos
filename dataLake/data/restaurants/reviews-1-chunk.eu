@@ -1,0 +1,1000 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Stay in Eufaula",
+    "reviewText": "Rooms were clean and quiet. The Jacuzzi tub in the suite was a nice addition. The only negative we experienced was the pool being closed due to the place not having a pool maintenance person to care for it.",
+    "reviewerCity": "Eufaula",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "This is the place to stay",
+    "reviewText": "clean, well maintained, wonderful, wonderful staff. My two brothers and I went to Eufaula to fish. The breakfast didn't open till 6:30. The lady at the desk knew we would be getting up and leaving before that so whe had the breakfast out and ready an hour early. That is a valued employee. We will not go back to this... More",
+    "reviewerCity": "Lafayette",
+    "reviewerState": "IN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "90 th birthday trip",
+    "reviewText": "The Mirazur motel was very enjoyable. Rooms were very clean, quiet and staff was very nice. Beds were comfortable and also offered a decent breakfast bar, waffles, cereal, rolls eggs sausage and biskets and gravy was impressive. I would recommend and would stay again.",
+    "reviewerCity": "Stillwater",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Eufaula golf",
+    "reviewText": "Great room with Jacuzzi Breakfast was very good. We played golf at Arrowhead, which is a very good course. Just not a lot of choice in hotels, but this one is the best and very good. If you like to shop in old towns, Eufaula has a lot of shops.",
+    "reviewerCity": "Moore",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok, very noisy",
+    "reviewText": "Room was nice, staff pleasant, breakfast ok. Room was next to highway and very noisy overnight. Also the heater in the room was quite loud we had to keep tv on just to drown out all the other noise. From looking at other options this does seem best if you stay here.",
+    "reviewerCity": "Moore",
+    "reviewerState": "OK",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, spacious, comfortable rooms",
+    "reviewText": "Stayed five nights. Hotel was super clean, spacious rooms, very comfortable beds. Close to an excellent Mexican Restaurant a few blocks south of the hotel (Adelita's). Breakfast was the same each morning: biscuits, gravy, waffles, powdered scrambled eggs, sausage patties, cereal, bagels, muffins, juice, coffee. Friendly staff. Would stay again in a heartbeat.",
+    "reviewerCity": "Goodyear",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Fishing tournament",
+    "reviewText": "They were very considerate of all the fishermen and accommodated us with an earlier than normal breakfast. The rooms were clean modern and they had several outlets in parking lot to plug our boats into.",
+    "reviewerCity": "Perkins",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "AWFUL, 20 minutes from exit and just terrible choice!!!!",
+    "reviewText": "The food is the worst we had in any hotel before!!!! The receptionist said they didn't have room in the first floor (king size bed) she instead gave us (couple) 2 beds in the first floor, my husband has especial needs. I asked her why you don't have a king size bed if almost all the parking lot was empty.... More",
+    "reviewerCity": "Perkins",
+    "reviewerState": "OK",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Best in Town and CLEAN",
+    "reviewText": "Stayed one night in transit to Dallas. Impeccably clean throughout. Excellent wi-fi and good breakfast. Room was spacious with comfortable bed. The best shower we have ever experienced. Close to restaurants and the lake. While located near the highway, noise was not a problem at all. Staff were professional and Charles on check-in was extremely hospitable. Has heated indoor pool.... More",
+    "reviewerCity": "Sydney",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Rooms here were ...",
+    "reviewText": "Rooms here were overall very nice. Pricewise, I'd say the rates are good. It's a very nice hotel to stay at and I'd stay there again. This hotel is in a very nice location.",
+    "reviewerCity": "Sydney",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Honest employees",
+    "reviewText": "Good clean hotel, bit hard to get to, friendly staff, good hot breakfast. My wife lost her wallet and was found and returned by a hotel employee. Substantial cash, credit cards, id, etc. all still there.",
+    "reviewerCity": "Sydney",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "BW Eufala Oklahoma",
+    "reviewText": "Great hotel experience. Its very clean nice friendly. It is however a little noisy on the Hwy 69 side of the hotel but if you get a room that's away from that side, all is quiet on the eastern front!",
+    "reviewerCity": "Rowlett",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40ac"
+  },
+  "name": "The Lake Point Conference Center",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AR",
+    "city": "Russellville",
+    "postalCode": "72802",
+    "address": "61 Lake Point Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-93.2118, 35.32157]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent conference facility",
+    "reviewText": "We attended the Arkansas Audubon Society fall meeting. Our room was on the second floor in the Oak Lodge, a smaller version of the Hickory Lodge. The room was a standard two-bed room. The thermostats may have been updated, as we had temperature control for our room and apparently no other. Beds were comfortable, linen supply was full. The only... More",
+    "reviewerCity": "Columbia",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Get good directions!",
+    "reviewText": "This is a nice little resort situated on the banks of Lake Dardanelle. The rooms are a bit dated, but the staff is helpful and the views are wonderful. If you, like us, love birding, you will not be disappointed. If you want to explore Dardanelle State Park, it is right down the highway, maybe two miles. It is in... More",
+    "reviewerCity": "Little Rock",
+    "reviewerState": "AR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Flunking out at Lake Point",
+    "reviewText": "First of all, this is a Conference Center run by the Arkansas Tech University at Russellville. The complex is on a beautiful lake just west of Russellville Arkansas. There are multiple 2-story buildings in the complex, each with about 30 rooms and an open atrium facing the lake for group activities or meetings. The University purchased the center in 2006... More",
+    "reviewerCity": "St Louis",
+    "reviewerState": "AR",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful setting for a family reunion.",
+    "reviewText": "This makes the second family reunion we have held at the Lake Points Conference Center. The Hickory Lodge is excellent for reunions. There is a huge great room for everyone to gather and visit. There is a pool table and many board games. The rooms are on two levels and located around the perimeter, opening to the great room. There... More",
+    "reviewerCity": "Arkansas",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing Staff",
+    "reviewText": "I have lived in Russellville, Arkansas for most of my life and consider this part of Arkansas to be one of the most beautiful areas. I consider myself well versed on the veritably delightful water front locations in my town. I did not in fact know, before this visit, of a gem hidden half way between Russellville and London. Lake... More",
+    "reviewerCity": "Russellville",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Wish we had longer to stay.",
+    "reviewText": "We were there for a meeting and had no idea how nice this place would be. There are about 4 buildings that are shape in a U. The front is glassed in and over looks the lake. The rooms were clean. Had a small kitchen with a microwave, refrig and a coffee maker. There was a cold breakfast in the... More",
+    "reviewerCity": "Columbia",
+    "reviewerState": "MO",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "rehearsal dinner wedding party accomodations",
+    "reviewText": "Just had rehearsal dinner (Mexican buffet) at the conference center. The food was served nice and hot, bar service was excellent, dining room set up was elegant. The view of the lake was a plus. Many thanks to IT guy that helped set up our slideshow. All of the servers were efficient and friendly! Nearly all of the wedding guests... More",
+    "reviewerCity": "Blytheville",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Conference meting a success",
+    "reviewText": "I had read some reviews before my trip, they did make me wonder if it was going to be a bad trip. In my case the room was dated yes, but clean, comfortable, linens in good shape, bathroom was good size for two so I was very pleased with the room. The lunch was served on time, very good quality... More",
+    "reviewerCity": "Mountain Home",
+    "reviewerState": "AR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "In the middle of nowhere",
+    "reviewText": "I had to stay at the Lake Point Conference Center as part of a business trip. I found the place to be a tad to primitive. There were no vending machines of any kind so if you want a soft drink or bag of chips you will have to drive about fifteen minutes to the nearest town. The same is... More",
+    "reviewerCity": "Monticello",
+    "reviewerState": "AR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Pope County Teen Leadership Summit 2009",
+    "reviewText": "Last September 2009 The Russellville Board of Education hosted a countywide Teen Leadership Summit for all area high schools at the Lake Point Conference Center. With 70 students, parents, counselors, and volunteers we offered a day and half conference to address distractive driving, underage drinking and other risky behaviors. During a recent survey with students that attended last year we... More",
+    "reviewerCity": "Russellville",
+    "reviewerState": "AR",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40ad"
+  },
+  "name": "Ramada Inn",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "NC",
+    "city": "Forest City",
+    "postalCode": "28043",
+    "address": "2600 Us Highway 74a Byp",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-81.88776, 35.330376]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Dont Stay Here!",
+    "reviewText": "I was NOT impressed with this hotel!! The rooms were dirty and smelled funny. Pool is on the other side of the parking lot. NO free wi-fi as was advertised. Charged my credit card TWICE. Staff acted as if they just wanted me to leave them alone so they could watch TV. In POOR REPAIR! needs lots of work on doors, fixtures, and overall property. This property is not worth the price charged, and I would not stay here again.is not worth the price charged, and I would not stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't ever come here! it smel...",
+    "reviewText": "Don't ever come here! it smells funny the decor is horrible..the staff is unfriendly..and no wi fi like promised...the air its cool..and the refrigeration dont work no remote control for tv..no towels but one..was not impressed",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "SHOULD NOT PASS INSPECTION",
+    "reviewText": "MY FAMILY AND I STAYED AT THIS LOCATION FROM 8/31/07 TO 9/3/07 I WENT TO THE FRONT OFFICE SEVERAL TIMES COMPLAINING I WANTED TO SEE THE MANAGER THE BATTERY IN THE SMOKE DETECTOR WAS DEAD SO IT KEPT BEEPING THE CEILING IN THE SHOWER WAS DRIPPING WATER INTO THE BATH TUB FROM THE ROOM ABOVE US ALSO THE RECEPTACLE BY THE NIGHT STAND HAD NO RECEPTACLE COVER OVER IT AND THE FAUCET ON THE SINK WAS ABOUT TO COME OFF EVERYTIME YOU LIFT THE HANDLE TO TURN THE WATER ON THE WHOLE FAUCET CAME UP O...view moreFF THE BASE OF THE SINK. WE MADE SEVERAL COMPLAINTS AND REQUESTED TO SEE THE MANAGER AND WE WERE GIVEN THE SAME STORY EITHER HE WAS OUT OF TOWN THAT MORNING AND THEN WE WOULD CALL OR GO UP TO THE FRONT DESK THAT AFTERNOON THEY WOULD SAY HE WAS TIED UP ON THE PHONE BUT THAT SHE GAVE HIM THE LIST OF THINGS I TOLD HER WERE WRONG WITH THE ROOM AND SHE SAID HE WAS GOING TO DOWN THERE IS LITTLE BIT TO CHECK IT OUT. WE NEVER HEARD FROM HIM OR SAW HIM THE WHOLE 3 DAYS WE STAYED THERE. I WENT TO THE FRONT DESK ON 9/3/07 THE DAY WE CHECKED OUT AND THERE WAS A DIFFERENT LADY AT THE COUTER I ASKED AGAIN TO SPEAK TO THE MANAGER SHE SAID HE WAS NOT THERE I ASKED HER IF HE OR THE OTHER DESK PERSON HAD LEFT A NOTE ABOUT DISCOUNTING ARE RATE AND GIVING US A REFUND SHE SAID NO ONE HAD LEFT ANY SUCH A THING AND SHE DIDNT KNOW ANYTHING ABOUT ANY OF IT. I AM CONTACTING DEHEC IN THERE AREA AND LETTING THEM KNOW SOME ONE NEEDS TO GO BY THERE AND INSPECT ROOM 111 FOR TERMITED DAMAGED ON THE CEILING IN SHOWER AND I AM SURE THERE ARE MORE ROOMS JUST LIKE THAT ALONG WITH INSPECTING THE OTHER PROBLEMS I LISTED ABOVE.view less",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40ae"
+  },
+  "name": "Nantahala Cabins Inc",
+  "categories": ["Cabins \u0026 Chalets", "Real Estate Rental Service", "Hotels", "Cottages", "Lodging", "Resorts"],
+  "location": {
+    "country": "US",
+    "state": "NC",
+    "city": "Bryson City",
+    "postalCode": "28713",
+    "address": "580 Nantahala Cabins Ln",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-83.560104, 35.33995]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40af"
+  },
+  "name": "Candlewood Suites Fort Smith",
+  "categories": ["Hotels And Motels", "Conference Room", "Meeting Facilities", "Wedding Reception Locations"],
+  "location": {
+    "country": "US",
+    "state": "AR",
+    "city": "Fort Smith",
+    "postalCode": "72903",
+    "address": "7501 Madison Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-94.34935539, 35.3481292]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "not my favorite place.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Not my favorite place.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40b0"
+  },
+  "name": "Candlewood Suites Oklahoma City-moore",
+  "categories": ["Wedding Receptions \u0026 Parties", "Convention \u0026 Meeting Facilities \u0026 Services", "Accommodation Reservations", "Hotel \u0026 Motel Reservations", "Extended Stay", "Accommodations \u0026 Lodging", "Lodging", "Hotels Motels", "Family-friendly Hotels", "Conventions Conferences \u0026 Trade Shows", "Hotels", "Hotels \u0026 Motels", "Weekend Getaway Hotels", "Tourist Hotels", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "OK",
+    "city": "Moore",
+    "postalCode": "73160-3669",
+    "address": "1701 N Moore Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-97.495296, 35.351797]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "One night stay on our Route 66 tour, nicely looked after by reception, nice big room which was clean, good size bathroom and comfortable nights sleep. The room is a little dated but this should not put you off, good location for restaurants and close to the interstate.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "Checked in flawlessly. I want to emphasize how friendly the staff are here.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "I am very impressed on how the big the room was when I arrived. I felt like I had my own apartment for the week I was in town!:) I booked the Candlewood online, not knowing it was a ALL Suite Hotel!! Great experience! I have to go back to Oklahoma in March, and you bet I will Be staying at The Candlewood again!!!",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "I recently stayed at the Candlewood Suites in Moore, Oklahoma and was very pleased with my stay. The lady at check-in was very helpful and also with check-out. The rooms were very clean and smelled fresh. The rooms have a full size kitchen and a flat screen TV. The beds were exceptionally comfortable and cozy. This is definitely on of the best places to stay in Moore, OK. At times parking can be a little full, but this just goes to show that a lot of people must love staying here for the parking lot to be that packed! I will definitely stay here for my upcoming visits!!",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-01T12:34:59.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "Sometimes extended stay hotels seem a little run-down, even seedy. Not this place! My room was excellent (much better than my first apartment!) and in very good condition, and the staff was great - responsive, attentive, helpful - all the things I expect at a regular hotel but rarely get at an extended stay place. Next time I am in town I will definitely stay here again!",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "I Stayed At This Facility For Four Nights And Was Quite Comfortable Here! I Had Everything That I Needed. There Were Plenty Of Restaurants Nearby And Wal-Mart Was Close By Also. My Suite Was Very Clean And Spacious. My Bed Was Very Comfortable And I Slept Very Well. I Had A Great T.V. With An Abundance Of Channels. My Suite Was Very Well Apportioned With A Very Well Functioning Refrigerator And Microwave. The Lighting Was Very Good In My Suite. My Bathroom Was Very Nice Also. This Facility Was Very Clean Throughout The Common Areas. Will be Stopping by again.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "Cleanliness is very important to me so I was pleased with this hotel. If you want a quiet room get one on the side opposite the freeway and away from the outside doors (this is a nonsmoking facility and smokers have to go outside to smoke), and particularly NOT on the ground floor. Other reviewers complained that their linens weren't changed every day, but that should not be expected from an extended stay facility (I actually like that my linens aren't changed every day for environmental reasons). The staff was very friendly. I will stay here again.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "The Worst Hotel To Make a Reservation. I visited the hotel two week before I was planning on staying there. I requested the one bedroom suite. I was given a tour of the hotel and was actually excited about staying there.I can't take nothing from it's appearance, it's beautiful. I travel a lot with my job so I may end up stay in a hotel 3 to 8 months.Anyway after the tour I was quoted a rate by the manager D.J. and we agree on it, everything was fine. Well the day before i was to move there. I once again went by there to just confirm my reservation for the next morning. Well D.J.'s wife rudely told me I can't give you that room at the rate her husband quoted me. Then when I asked to speak with him she play evasive games with me saying he wasn't available. So I told her what ever the price is we will work it out in the morning. I want that room. She said OK and I left. Well the next morning I called and just to confirm my reservation and the necessary credit card paper work. Well they charged my company card and when I pulled up, ready to move in D.J.'s wife told me the room was no longer available it was rented out for the week.Since they had my companies money they tried to put me in a room I didn't request. I was furious and walked out. THEY PULLED A CLASSIC BAIT AND SWITCH.. Then had the nerve to call my corporate office and complain. When they were the ones to foul up. I'm really tired of these foreigners coming over here buying up our hotels and thinking they can look down on Americans and talking to us like crap.As for me I served my country as a MARINE fightihg Iraq.HOW DARE THEY TREAT ME THIS WAY. DO NOT GO THERE THEY HAVE NO BUSINESS SENSE. BAD CUSTOMER SERVICE SKILLS. THEY TO NEED REALIZE THIS IS NOT INDIA.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "Terrible. They have on an average 4 'reported' thefts a month. This includes room and vehicle robberies, larsony and auto thefts. My truck was stolen early in the morning on February 25, 2014. STAY AWAY!!!!",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "I stayed an entire week here and they treat you like family. It is not like a normal hotel where you are a number to them. I am very impressed with this. Thank you for the very wonderful stay. When we come back we will be back here to stay again.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "Very nice facilities. Had a bit of trouble getting wifi up and going, but the rooms are big and clean and the staff has been extremely helpful and friendly.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "We stayed here at Christmas. The Front clerk was very Nice and Informative of the hotels services. The room was very clean and look like we were the first people to stay there even though it is over 3 yrs old.... Excellent Choice to stay here. Close to Norman OU stadium and OKC Downtown is only 8 miles away. I stay in Hotels all over North America and This by far is one of my top 5.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "The room was very nice and the hotel was quiet. Since we were visiting for Parent Weekend at OU, we only stayed one night. However, with the full kitchen, this would be a great place for an extended stay as well. We would definitely stay here again even though it was a little tricky to get to when coming from Norman.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "Sometimes extended stay hotels seem a little run-down, even seedy. Not this place! My room was excellent (much better than my first apartment!) and in very good condition, and the staff was great - responsive, attentive, helpful - all the things I expect at a regular hotel but rarely get at an extended stay place. Next time I am in town I will definitely stay here again!",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-31T11:45:21.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "It was great. I'll stay there again.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "Budget-friendly chain boasts comfortable, spacious suites with home-like amenities. In ShortBusiness and leisure travelers enjoy the ample space found in the hotel's oversized rooms. Three suite sizes are available--guests may choose from the studio, one-bedroom or studio double (suite choices vary by location). Each suite is equipped with a TV, VCR, CD player, hair dryer, ironing board, recliner, executive-sized desk, two separate phone lines, a full-sized refrigerator and a dishwasher.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "one night stay on our route 66 tour, nicely looked after by reception, nice big room which was clean, good size bathroom and comfortable nights sleep.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "We stayed here for 2 nights. The room was very clean. You could hear highway noise, but we were all pretty tired each night so it didn't keep anyone awake. The room had a bed and recliner. The person who slept in the recliner said the floor was more comfortable, but the bed was very comfortable.Best thing about this hotel is the staff. The front desk staff both days were great! They were very helpful and friendly.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Rooms but could do with a refurb",
+    "reviewText": "Wanted to leave a note on the experience my wife and I had the other day. We were staying in Oklahoma for a few days to visit a friend, and had booked a room at Candlewood for a couple nights. When we arrived quite late on a friday evening, they had overbooked and our room was no longer available. They had already printed out directions for us to get to a nearby Hampton, and paid the difference so we could stay there. It was a very pleasant experience, and we were impressed with how they handled the situation.",
+    "reviewerCity": "London",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Above expectations",
+    "reviewText": "My experience at the Moore Candlewood Suites was a pleasant surprise. The two-room suite was comfortable and clean. I slept very well on the queen bed. An adequate in-room wifi and decent channel listing gave plenty of entertainment options. The staff were very friendly and hospitable. My only complaint is they do not offer breakfast. A home-style restaurant next door... More",
+    "reviewerCity": "Enterprise",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Above expectations",
+    "reviewText": "This is a typical Candlewood suites. The rooms are a value. It was clean, well maintained and stocked. The location was convenient The staff was very friendly and attentive to my needs.",
+    "reviewerCity": "Enterprise",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Above expectations",
+    "reviewText": "Very nice clean NEWER style hotel. Great pantry stock of food. All rooms large suites. Very comfortable bedding!! Front desk very friendly. Quick check in service. She even went to find our members number because we did not have it with us when checking in.",
+    "reviewerCity": "Enterprise",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Rooms! Very Clean!!!",
+    "reviewText": "We stayed here at Christmas. The Front clerk was very Nice and Informative of the hotels services. The room was very clean and look like we were the first people to stay there even though it is over 3 yrs old.... Excellent Choice to stay here. Close to Norman OU stadium and OKC Downtown is only 8 miles away. I... More",
+    "reviewerCity": "Barling",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Rooms! Very Clean!!!",
+    "reviewText": "Its a older hotel but very nice. Showers were great and well stocked kitchen. We paid 69 for one night but arrived at 1:00 am so that may be why we got a good rate. Ck out is 11 but they let us stay till 12 at no charge. We would stay here again if the opportunity arises.",
+    "reviewerCity": "Barling",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient site along HWY 35",
+    "reviewText": "Great front desk service, check in was quite fast. The hotel has available DVD movies at the front for the player in your room. People do smoke in the room that are non-smoking rooms (had on the last visit). Also water pressure drops a lot around the 1030am -1200pm hour (can't shower) the explanation is it is due to the... More",
+    "reviewerCity": "Warm Springs",
+    "reviewerState": "OR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient site along HWY 35",
+    "reviewText": "We were traveling I-35 and needed a place to stay for the night that had a kitchen and enough room for a pack-n-play and other infant furniture. The kitchen was spacious and well supplied with dishes, cooking utensils, dish soap, microwave, dishwasher, and a full-size (not mini) refrigerator. The bathroom was quite spacious as well. There are family restaurants within walking distance if you don't want to cook.",
+    "reviewerCity": "Warm Springs",
+    "reviewerState": "OR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient site along HWY 35",
+    "reviewText": "Stayed 1 nite on road trip. Paid $40 on Priceline for 2*. 60's style ,3 story ,outside entry motel right next to I-35. room incldued internet , microwave , fridge and breakfast .",
+    "reviewerCity": "Warm Springs",
+    "reviewerState": "OR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient, Clean, and Comfortable",
+    "reviewText": "Convenient, Clean, and Comfortable. Right off Interstate 35. We were only staying one night but the two room suite we were upgraded to was so clean and comfortable that we wished our stay could have been longer.",
+    "reviewerCity": "San Antonio",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T15:07:33.000Z"
+    },
+    "reviewTitle": "Convenient, Clean, and Comfortable",
+    "reviewText": "I had two rooms reserved and was hoping (no guarantee) to be able to get connecting rooms, because I had my elderly mother with me and she is a nervous traveler. Actually, I am lucky to get her to ever go with me at all. Unfortunately, I was not able to get the connecting rooms. BUT... the manager went out of her way to not only give me one Platinum upgrade, but two! And, placed us directly across the hall from each other. Mom had a lovely kitchen and sitting area to entertain family who came to visit her while I was working all evening. She was hesitant at first, but quickly warmed to the accommodations once she realized how well she was set up for her stay. Thank you so much for the wonderful service and consideration you gave us. The only suggestion I have is to provide at least one ice machine for guests to use until the ice maker can start working. And, make sure they are turned on from time to time, or left on. The ice that was produced during the period we were there tasted bad",
+    "reviewerCity": "San Antonio",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Candlewood Oklahoma City-Moore",
+    "reviewText": "This was the first time I tried Candlewood in the IHG-chain. All in all a positive experience but I notice some differences from what I have been used too no free breakfast is included but they have a shop where you can buy some food. Wi-fi is free and they do also have a fitness center + a washing room... More",
+    "reviewerCity": "Oslo",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Kevin is the best!!",
+    "reviewText": "I have never given a review while still on the property but for this property I couldn't wait. I love being an IHG rewards member. It is my favorite of all the hotel reward clubs and believe me, I have tried them all. On this visit our HBO was not available and when it couldn't be rectified right away by... More",
+    "reviewerCity": "Oslo",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Staff Members And Great Location",
+    "reviewText": "I Always Enjoy Staying At This Hotel. The Staff Members Are Excellent!!!! Carlos Was Very Helpful And Really Had A Can-Do Attitude!!!!! Mellaney (Night Auditor) Was Very Nice And Helpful Also!!!!! My Room Was Very Good Size And Everything In It Functioned Well. This Facility Is Close To I-35, I-40, And I-44 And Is Also Close To Downtown Oklahoma City,... More",
+    "reviewerCity": "Sierra Vista",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Staff Members And Great Location",
+    "reviewText": "not impressed....our room smelled like pee, they don't have roll away beds, they don't clean room daily. they allow pets, heard a dog barking early in the morning.",
+    "reviewerCity": "Sierra Vista",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Staff Members And Great Location",
+    "reviewText": "The hotel was clean and quiet. With a full kitchen, cable, shower with excellent water pressure, and gym I found myself as comfortable as I am at home.",
+    "reviewerCity": "Sierra Vista",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-01T10:08:48.000Z"
+    },
+    "reviewTitle": "Great Staff Members And Great Location",
+    "reviewText": "The hotel was clean and quiet. With a full kitchen, cable, shower with excellent water pressure, and gym I found myself as comfortable as I am at home. At such a reasonable price I would recommend this hotel to anyone.",
+    "reviewerCity": "Sierra Vista",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Staff Members And Great Location",
+    "reviewText": "Checked in flawlessly. I want to emphasize how friendly the staff are here.",
+    "reviewerCity": "Sierra Vista",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean but dated.",
+    "reviewText": "Checked in flawlessly. I want to emphasize how friendly the staff are here. They truly make a rather plain forgettable hotel, memorable. Candlewoods are all pretty similar, but this one was dated. It was very clean, but its age was showing. The shower in our room 117 or 107 (I believe), was old and stained. I like things immaculately clean,... More",
+    "reviewerCity": "San Antonio",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-05T17:36:11.000Z"
+    },
+    "reviewTitle": "Clean but dated.",
+    "reviewText": "This is a typical Candlewood suites. The rooms are a value. It was clean, well maintained and stocked. The location was convenient to the Moore area and centrally location by the highway. The staff was very friendly and attentive to my needs.",
+    "reviewerCity": "San Antonio",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "It'll do in a pinch",
+    "reviewText": "Well, this is so much less than I expect in an IHG property. The room basically is just a small step above a room at the Value Place. Which if you've ever stated at a VP, you know isn't saying much. Don't let the word suites trick you into thinking this is a super nice hotel. It's simply not. It's... More",
+    "reviewerCity": "Maryville",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-02T15:00:46.000Z"
+    },
+    "reviewTitle": "It'll do in a pinch",
+    "reviewText": "Breakfast is complimentary and is good. There was 2 cereals, waffle maker, bagels, muffins, toast, scrambles eggs, sausage, juice, milk, and coffee. The staff was nice but nothing amazing. The location is good near the freeway and a gas station is close by. The room was spacious enough, even with putting up a pack n play",
+    "reviewerCity": "Maryville",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome staff, clean rooms",
+    "reviewText": "We stayed here for 2 nights. The room was very clean. You could hear highway noise, but we were all pretty tired each night so it didn't keep anyone awake. The room had a bed and recliner. The person who slept in the recliner said the floor was more comfortable, but the bed was very comfortable. Best thing about this... More",
+    "reviewerCity": "DC Metro",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-02T09:10:35.000Z"
+    },
+    "reviewTitle": "Awesome staff, clean rooms",
+    "reviewText": "Its a older hotel but very nice. Showers were great and well stocked kitchen. We paid $69 for one night but arrived at 1:00 am so that may be why we got a good rate. Ck out is 11 but they let us stay till 12 at no charge. We would stay here again if the opportunity arises.",
+    "reviewerCity": "DC Metro",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-01T12:30:36.000Z"
+    },
+    "reviewTitle": "Awesome staff, clean rooms",
+    "reviewText": "We stayed here for 2 nights. The room was very clean. You could hear highway noise, but we were all pretty tired each night so it didn't keep anyone awake. The room had a bed and recliner. The person who slept in the recliner said the floor was more comfortable, but the bed was very comfortable.Best thing about this hotel is the staff. The front desk staff both days were great! They were very helpful and friendly.",
+    "reviewerCity": "DC Metro",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-01T12:19:26.000Z"
+    },
+    "reviewTitle": "Awesome staff, clean rooms",
+    "reviewText": "We were traveling I-35 and needed a place to stay for the night that had a kitchen and enough room for a pack-n-play and other infant furniture. The kitchen was spacious and well supplied with dishes, cooking utensils, dish soap, microwave, dishwasher, and a full-size (not mini) refrigerator. The bathroom was quite spacious as well. There are family restaurants within walking distance if you don't want to cook.",
+    "reviewerCity": "DC Metro",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome staff, clean rooms",
+    "reviewText": "very nice facilities. had a bit of trouble getting wifi up and going, but the rooms are big and clean and the staff has been extremely helpful and friendly.",
+    "reviewerCity": "DC Metro",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-01T10:53:14.000Z"
+    },
+    "reviewTitle": "Awesome staff, clean rooms",
+    "reviewText": "One night stay on our Route 66 tour, nicely looked after by reception, nice big room which was clean, good size bathroom and comfortable nights sleep. The room is a little dated but this should not put you off, good location for restaurants and close to the interstate.",
+    "reviewerCity": "DC Metro",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-01T12:26:22.000Z"
+    },
+    "reviewTitle": "Awesome staff, clean rooms",
+    "reviewText": "I am very impressed on how the big the room was when I arrived. I felt like I had my own apartment for the week I was in town!:) I booked the Candlewood online, not knowing it was a ALL Suite Hotel!! Great experience! I have to go back to Oklahoma in March, and you bet I will Be staying at The Candlewood again!!!",
+    "reviewerCity": "DC Metro",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Quiet Spacious",
+    "reviewText": "Room and paperwork was ready on arrival. Was upgraded to a one room suite because I am an IHG honors member. Room was clean and very large with a separate bedroom with its own TV. Living area had a sofa, Chair and TV. Kitchen was well equipped and everything was clean. Good beds, we were on the back side so... More",
+    "reviewerCity": "Oklahoma",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T14:45:50.000Z"
+    },
+    "reviewTitle": "Clean Quiet Spacious",
+    "reviewText": "We only needed a room for the night, but will seek this place again for extended stays. The beds were firm and clean. The kitchenette was perfect for someone staying for awhile and the bathroom was spacious and had everything you needed, less conditioner. The front desk staff was friendly and accommodating and even called our room when they discovered our teen had left her kindle in the lobby!!! I'll be staying there again-bet on it.",
+    "reviewerCity": "Oklahoma",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-05T12:12:50.000Z"
+    },
+    "reviewTitle": "Clean Quiet Spacious",
+    "reviewText": "I recently stayed at the Candlewood Suites in Moore, Oklahoma and was very pleased with my stay. The lady at check-in was very helpful and also with check-out. The rooms were very clean and smelled fresh. The rooms have a full size kitchen and a flat screen TV. The beds were exceptionally comfortable and cozy.",
+    "reviewerCity": "Oklahoma",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-01T18:11:46.000Z"
+    },
+    "reviewTitle": "Clean Quiet Spacious",
+    "reviewText": "Cleanliness is very important to me so I was pleased with this hotel. If you want a quiet room get one on the side opposite the freeway and away from the outside doors (this is a nonsmoking facility and smokers have to go outside to smoke), and particularly NOT on the ground floor. Other reviewers complained that their linens weren't changed every day, but that should not be expected from an extended stay facility (I actually like that my linens aren't changed every day for environmental reasons). The staff was very friendly. I will stay here again.",
+    "reviewerCity": "Oklahoma",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Quiet Spacious",
+    "reviewText": "this is a typical candlewood suites. the rooms are a value. it was clean, well maintained and stocked. the location was convenient the staff was very friendly and attentive to my needs.",
+    "reviewerCity": "Oklahoma",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Quiet Spacious",
+    "reviewText": "Not impressed....our room smelled like pee, they don't have roll away beds, they don't clean room daily. They allow pets, heard a dog barking early in the morning.",
+    "reviewerCity": "Oklahoma",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-05T12:13:10.000Z"
+    },
+    "reviewTitle": "Clean Quiet Spacious",
+    "reviewText": "Very nice facilities. Had a bit of trouble getting wifi up and going, but the rooms are big and clean and the staff has been extremely helpful and friendly.",
+    "reviewerCity": "Oklahoma",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room, location, and stay!",
+    "reviewText": "The Candlewood Suites in Moore is ideally located off of I-35 and minutes from downtown OKC. Our 1 bedroom studio suite was large and honey with a full kitchen complete with a fridge, microwave, stove, and dishwasher. Dishes and cleaning supplies were provided as well as a coffee maker. Iron and board were in the room and extra linens and... More",
+    "reviewerCity": "Roland",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room, location, and stay!",
+    "reviewText": "the hotel was clean and quiet. with a full kitchen, cable, shower with excellent water pressure, and gym i found myself as comfortable as i am at home.",
+    "reviewerCity": "Roland",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T16:18:14.000Z"
+    },
+    "reviewTitle": "Great room, location, and stay!",
+    "reviewText": "The Candlewood Suites in Moore is ideally located off of I-35 and minutes from downtown OKC. Our 1 bedroom studio suite was large and honey with a full kitchen complete with a fridge, microwave, stove, and dishwasher. Dishes and cleaning supplies were provided as well as a coffee maker. Iron and board were in the room and extra linens and pillows were furnished. There were several restaurants and fast food restaurants easily accessible to the hotel. They have a video library to borrow DVDs and a well stocked mini-convenience store. The staff were friendly. Our only complaint is we didn't book a longer stay!",
+    "reviewerCity": "Roland",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room, location, and stay!",
+    "reviewText": "I stayed an entire week here and they treat you like family. It is not like a normal hotel where you are a number to them. I am very impressed with this. Thank you for the very wonderful stay.",
+    "reviewerCity": "Roland",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T14:24:29.000Z"
+    },
+    "reviewTitle": "Great room, location, and stay!",
+    "reviewText": "The room was very nice and the hotel was quiet. Since we were visiting for Parent Weekend at OU, we only stayed one night. However, with the full kitchen, this would be a great place for an extended stay as well. We would definitely stay here again even though it was a little tricky to get to when coming from Norman.",
+    "reviewerCity": "Roland",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room, location, and stay!",
+    "reviewText": "Very nice facilities. Had a bit of trouble getting wifi up and going, but the rooms are big and clean and the staff has been extremely helpful and friendly.",
+    "reviewerCity": "Roland",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room, location, and stay!",
+    "reviewText": "i stayed an entire week here and they treat you like family. it is not like a normal hotel where you are a number to them. i am very impressed with this. thank you for the very wonderful stay.",
+    "reviewerCity": "Roland",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room, location, and stay!",
+    "reviewText": "stayed 1 nite on road trip. paid $40 on priceline for 2*. 60's style ,3 story ,outside entry motel right next to i-35. room incldued internet , microwave , fridge and breakfast .",
+    "reviewerCity": "Roland",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room, location, and stay!",
+    "reviewText": "checked in flawlessly. i want to emphasize how friendly the staff are here.",
+    "reviewerCity": "Roland",

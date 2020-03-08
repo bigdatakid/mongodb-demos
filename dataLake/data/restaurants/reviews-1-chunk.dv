@@ -1,0 +1,1000 @@
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4068"
+  },
+  "name": "Hyatt Place Atlanta/alpharetta/north Point Mall",
+  "categories": ["Hotels", "Hotel"],
+  "location": {
+    "country": "US",
+    "state": "GA",
+    "city": "Alpharetta",
+    "postalCode": "30022",
+    "address": "7500 N Point Pkwy",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.303592, 34.041713]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "FIRST CLASS ALL THE WAY!",
+    "reviewText": "I REALLY CANNOT SAY ENOUGH ABOUT THE HOTEL, THE SERVICE, ETC. I STAYED THERE WITH 3 SISTERS ALL FROM OUT OF TOWN TO ATTEND A CONCERT AT A NEARBY VENUE. THE HOTEL IS BEAUTIFUL, ROOMS GREAT, AND ABSOLUTELY AMAZING CUSTOMER SERVICE. THERE WAS A SHUTTLE TO AND FROM THE CONCERT. FRANKLIN GOES BEYOND THE CALL WHEN IT COMES TO CUSTOMER SERVICE. EVERY EMPLOYEE WE CAME IN CONTACT WITH WAS PLEASANT AND HELPFUL. THE LOCATION IS ALSO PERFECT FOR A CONCERT AT VERIZON, EXPLORING NORTH POINTE MALL AREA, AND THE NEW AVALON AREA. BEST EXPERIENCE WE HAVE EVER HAD AT A HOTEL!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Luis",
+    "reviewText": "Great",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Very comfortable bed!!!",
+    "reviewText": "The bed was so comfortable! My boyfriend and I slept so late and almost missed the yummy breakfast!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel was not very clean.",
+    "reviewText": "The room could have been claner",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel was not very clean.",
+    "reviewText": "I'm very picky about hotels and this one met my high standards. I usually only stay 5 stars but was traveling with family that wanted something cheaper. The rooms were huge and had two double beds and a pull out sofa. Everything was well maintained and the staff was very friendly. I would stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "We will be back again on our vacation next year",
+    "reviewText": "Beds were very comfortable and plenty of room inside the room. Pullout couch made it convenient for children. Breakfast was awesome. Staff was very accommodating.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Girls night out",
+    "reviewText": "Overall our overnight stay for a girls night out was good. However, the A/C wasn't very good and had a leak so the floor by the unit was wet. The breakfast was terrible, we had to wait for coffee (the pots were empty), the eggs looked like powder, the milk and juices were warm and this was at 8am. The staff was not friendly or apologetic.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-01-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Girls night out",
+    "reviewText": "jack lives here!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Too Loud",
+    "reviewText": "There was a birthday party for a 16 year old going on the night I stayed here. The hotel was extremely loud. The front desk told them to hold it down, but it did not work.i am very unhappy with this hotel. The hotel was overpriced since I had to put up with this noise.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Too Loud",
+    "reviewText": "Really can't recommend this hotel. Dirty towels. Room wasn't serviced. No key needed for the pool, so anyone can go in. Staff was very unhelpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Hyatt at Alpharetta",
+    "reviewText": "Clean and comfortable room. I would stay there again. I wish they had nicer samples of shampoo and conditioner. I know of another hotel that uses bath and body shampoos",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful",
+    "reviewText": "I love it",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and Neat place",
+    "reviewText": "The room was very comfortable and roomy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice hotel and location",
+    "reviewText": "Beautiful big rooms in a great location. Steps away from shopping and restaurants",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Van Morrison",
+    "reviewText": "Saw Van Morrison Great location. Nice room Wonderful free shuttle service",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Outstanding",
+    "reviewText": "Best staff incredibly kind and accommodating. The experience was so good I immediately booked a second night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "Checked very late at nighr, the staff was friendly and quick at getting me checked in and to my room. The breakfast spread was perfect after a long night. 12 noon check out time was perfect. It allowed time me to enjoy the amenities.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay.",
+    "reviewText": "Always love staying at the Hyatt Place. Friendly staff. Clean rooms. Comfortable beds. Good continental breakfast. Definately recommend. It's a great place to stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Location, Secluded and Quiet",
+    "reviewText": "I truly enjoyed my stay here. It was convenient to shopping, food, and the highway. The hotel staff was very friendly and welcoming. I enjoyed the free Wifi and breakfast. I know what to expect when I stay at the Hyatt Place in Chicago this summer.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Location, Secluded and Quiet",
+    "reviewText": "Overall good place. Only negative was only one working elevator.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Bedbugs",
+    "reviewText": "I am convinced I got bit by bedbugs here!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice stay",
+    "reviewText": "We had a wonderful experience. Lots of shopping close to hotel. Lots of rest close by. Beautifully kept, landscaping extremely attractive. Wonderful hotel rooms. Spacious, lovely bed, blankets and clenliness. Could use larger bottles of shampoo and conditioner. Better quality conditioner. Would be nice to have a razor in shower area. Microwave would of been IDEAL! Had to discard 3 expensive meals that could of been warmed up anytime.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great area",
+    "reviewText": "I really enjoyed my room !!!! I will be back soon",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleased",
+    "reviewText": "We came to go to a concert at the amphitheater and the shuttle was so great. It was so convenient and had tons of food options! Room was nice, spacious, and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly staff.",
+    "reviewText": "We enjoyed our stay very much. The air conditioner was a little loud but bearable. The staff was very friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "My last trip to atlanta",
+    "reviewText": "I went to Atlanta for a personal trip and the hotel was better than I expected it to be.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "My last trip to atlanta",
+    "reviewText": "most of staff is really just rude. pick somewhere else to stay. seriously.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice enough",
+    "reviewText": "Some of the outlets didn't work, and the friends was in and out. But, I absolutely loved the walk in shower. Overall it was a nice stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel",
+    "reviewText": "Nice place for our wedding night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel",
+    "reviewText": "It was a pleasant stay. Only thing they need to fix is the noisy air conditioner in the rooms.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel",
+    "reviewText": "Shuttle service to Verizon Amphitheatre. Shopping and restaurants close by. Nice hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel",
+    "reviewText": "first time staying at a hyatt place and lived here for a week, i was extremely impressed! super clean, great location, plenty of room to work, sleep, live, etc. very nice staff and very accommodating.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "room cleaning service was good, we needed extra shampoo bottles, which was placed upon request.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Hyattt Uncomfortable Stay",
+    "reviewText": "My stay was very uncomfortable. The bedding was dirty. Customer services was great I was accommodated for my stay. However, the overall stay wasn't bad after room was accommodated.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Great stay.... staff was awesome I'm allergic to cheese and they cooked me seper ate eggs without cheese for breakfast.... Now if you guys would cook turkey bacon or chicken for breakfast would be great.... Overall great stay me and my mate had an awesome stay... Thanks......",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Cant wait for a reason to return",
+    "reviewText": "Really enjoyed myself",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Cant wait for a reason to return",
+    "reviewText": "Very good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend Business Trip",
+    "reviewText": "Was in town for the weekend on business. Was very pleased with my spacious and clean room. The hotel staff were great and friendly. The location was wonderful and there was plenty to see and do in the area. I would stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Delapitated one star hotel",
+    "reviewText": "Front desk staff are rude poorly trained too lazy to answer and transfer phone calls. Mattress squeaks, Room has strong pet odor ands smells moldy. Towels are worn and thin, only two of each. We were desperate to stay there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Alpharetta Hyatt",
+    "reviewText": "Although I wish they offered more than a handful of TV channels in their rooms, my overall experience was great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value and clean rooms!",
+    "reviewText": "Good value for a nice hotel. Lobby was unremarkable and the service staff was fine, not over the top but nothing bad at all. The room was excellent though, very clean and updated which is really all we cared about.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value and clean rooms!",
+    "reviewText": "Enjoyed our stay with family. The location was fantastic with lots of shopping and restaurants nearby. We had to change rooms after we checked in due to faulty air conditioner in original room. Cable TV channel selection seemed to be very limited compared to other hotels in this price range. Sofa bed cushions were getting pretty flattened and need to be replaced.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-16T00:00:00.000Z"
+    },
+    "reviewTitle": "I will be back!!!",
+    "reviewText": "Just great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "I will be back!!!",
+    "reviewText": "i am floored by the negative comments on the staff. been here twice and couldn't ask for better staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-07T00:00:00.000Z"
+    },
+    "reviewTitle": "great overnighter",
+    "reviewText": "Quick stop through GA.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome night!!!!!",
+    "reviewText": "One night get away from the kids.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome night!!!!!",
+    "reviewText": "No problems with staff, everyone has been courteous, great rate, I've paid more for less, convenient to Starbucks and shopping.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleased",
+    "reviewText": "Very nice rooms with comfy beds! We liked the sitting area and kitchenette. The decor was very nice too!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location for shopping!",
+    "reviewText": "Great location for shopping! Have stayed here on several occasions and will stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location for shopping!",
+    "reviewText": "The hotel is really nice and comfortable. The only problem was that I had to relocate because they were having some water issues. The staff were really nice and helped me to find another hotel to stay at.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location for shopping!",
+    "reviewText": "Clean hotel, spacious room, convenient area",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again",
+    "reviewText": "I had to work in the area and invited my significant other to stay with me. There was an event down stairs at hotel and the music was so loud I could not sleep. When I went to complain I was treated very rude and the music was not turned down. Horrible management. And when I came down stairs to check out I had to go find someone no one was at the front. Never staying there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again",
+    "reviewText": "froot loops and philly cheese is the perfect brekky!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again",
+    "reviewText": "no problems with staff, everyone has been courteous, great rate, i've paid more for less, convenient to starbucks and shopping.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel in a great city",
+    "reviewText": "Great stay. Only negative complaint... I wish the bathroom was a little bigger",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel in a great city",
+    "reviewText": "This place must have been renovated and restaffed because I never witnessed anything other people are saying about this place.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "Great place to stay, close to restaurants and shopping. The shuttle was an added bonus if you attend a concert at Verizon Amphitheater.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "staff has been great. not sure what other comments are based on. room is great and a huge tv!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Good breakfast, needs updating",
+    "reviewText": "Nice location with many nearby stores and eateries. First impression was bad with a soiled and stained welcoming rug as well as all the breakfast area furniture. Rooms were somewhat better. Best thing was their delicious flatbreads and breakfast sandwiches. Quiet despite busy transit area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Good breakfast, needs updating",
+    "reviewText": "The room was great! Only have a couple of comments that could be approved on- Coffee- more sweetener options Tv- there was an on demand feature, but only for movies. Picture was a little weak too",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good breakfast, needs updating",
+    "reviewText": "Amazing staff and clean and spacious room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Good breakfast, needs updating",
+    "reviewText": "no outlets close to the bed. weird at least!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazon hotel",
+    "reviewText": "My family and I had an amazing stay! I'm actually moving here soon, but until then we will be staying at this hotel. The breakfast buffet is wonderful along with the thorough housekeeping. Even the guest were friendly. Highly recommend! Also it is only 20 minutes from the city huge plus.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazon hotel",
+    "reviewText": "horrible staff",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value, pleasant experience",
+    "reviewText": "We've stayed at the Hyatt place on two separate trips for two nights each. Both times we've enjoyed our stay, finding the rooms to be fairly spacious, comfortable and clean, while the breakfasts are adequate and the staff friendly. We'd definitely recommend the Hyatt Place if you're looking for somewhere to stay in Alpharetta, as it represents excellent value for... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome Customer Service",
+    "reviewText": "The staff at the hotel were so nice and accommodating. We had a horrible experience on our vacation and the staff at the Hyatt were our saving Grace! We ended up having to stay an additional night due to car trouble and even though the hotel was pretty much booked, they accommodated us with no problems at all. They even arranged to have my husband picked up from the auto garage and brought back to the hotel as we were about six hours from home.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-02-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome Customer Service",
+    "reviewText": "not the best for dinner, but decent size rooms and a telly the size of our house!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "A hotel -- the basics are good",
+    "reviewText": "Room was nice and comfortable, and wifi worked fine. Desk was reasonable efficient. Basic breakfast, no big deal. Evening coffee pretty mediocre. Nice staff. It met my needs for business travel, but is nothing special. Failed to receive 6 AM wakeup call!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "It was great experience of Hyatt place",
+    "reviewText": "Overall this hotel was great, but I had one problem with the front desk, and that problem I request crib for my 2 kids and they only gave me 1, I had to wait units the following day for the second crib.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel during a week long business trip",
+    "reviewText": "I spent five nights here. There's a lot of shopping and restaraunts nearby, most within walking distance. I like Hyatt Place, as they try to do things differently. The layout of the entire hotel feels different, such as the lobby and rooms. The free breakfast was very good and a nice perk.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel during a week long business trip",
+    "reviewText": "Hotel was at capacity due to hurricane evacuees, so when we arrived our room was not yet ready. After a short wait we were all set. Staff was working very hard and the room was very clean and all furnishing in great condition. The hotel itself felt like it was 20-25 years old, but the room felt brand new. Hotel shuttle provided easy access to area for FREE. If we came back to town, we would definitely stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great",
+    "reviewText": "The area was great and the hotel very comfortable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice hotel",
+    "reviewText": "This hotel overall was amazing we even stayed an extra night! I really think the breakfast could have been better over the weekend. Monday breakfast was great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Concert Time",
+    "reviewText": "Went to see a concert at Verizon they drop you off and pick you up. The shuttle took a few trips to get everyone there but we got there on time. Everyone was really nice and the rooms were very comfy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and quite",
+    "reviewText": "Very close to shopping centers like notth point mall",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and quite",
+    "reviewText": "Life Fitness equipment... one bike, two treadmills and one elliptical.  You can almost always get on something, not that crowded.  Hyatt provides towels and water.  Some a bit of floor space.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Better than the rest",
+    "reviewText": "We had to switch from 2 other nasty hotels with 24 hours. Keona, helped with reservations over the phone and I was totally impressed. Our room was awesome with the exception of 1 of the beds off the frame. I notified the guest host and maintenance was supposed to take a look at it. Needless to say the bed was... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Better than the rest",
+    "reviewText": "amazing staff and clean and spacious room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Better than the rest",
+    "reviewText": "Froot Loops and Philly cheese is the perfect brekky!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Alpharetta",
+    "reviewText": "Great trip overall! Thank you to all the staff! I really don't have any additional comments for the team. They need to keep doing what they're doing. The food was good, the rooms were clean and the location is perfect.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "5 stars",
+    "reviewText": "Great hotel, clean rooms and very nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "super clean and comfy",
+    "reviewText": "thumbs up",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "First and last time at Hyatt",
+    "reviewText": "The elevators were not working during our stay. We were told that a 2nd floor room was available, but we were given a 6th floor room anyway. Our 2 year old had to climb 6 flights! In the room, all lights were off, a/c was off, and refrigerator unplugged. On top of that, the door to the stairs across from... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great get away",
+    "reviewText": "Awesome place to stay with kids and pets!! Friendly staff. Quick check in and check out . Comfortable beds. Amazing room. Great breakfast. Free parking. Nice pool. Huge TV. Separate sitting area with fridge and desk. Green space to walk your dog.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great get away",
+    "reviewText": "life fitness equipment... one bike, two treadmills and one elliptical.  you can almost always get on something, not that crowded.  hyatt provides towels and water.  some a bit of floor space.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Experience!",
+    "reviewText": "We would highly recommend this hotel. It is close to great shopping and restaurants. We didn't have a chance to enjoy the bar or the food options but everything looked wonderful! The staff is friendly and experienced. Our room was more than comfortable with every detail taken into account. We were with a wedding party and didn't use any of... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful hotel",
+    "reviewText": "It was a small mini vacation for me and I absolutely loved my stay there. The staff was friendly every time we walked in the door.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place at a great price",
+    "reviewText": "Stayed for three nights while visiting family for the holidays. Room was very comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-07T00:00:00.000Z"
+    },
+    "reviewTitle": "4 thumbs up....",
+    "reviewText": "Great! Had no issues or concerns for our one night stay. Breakfast buffet was worth waking up for!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-01-17T00:00:00.000Z"
+    },
+    "reviewTitle": "4 thumbs up....",
+    "reviewText": "smile at the staff and they will smile back. wonderful with kids.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Very pleased",
+    "reviewText": "We stayed at the Hyatt because it was close to and offered shuttle service to the Verizon amphitheater. Our room was very clean, roomy, and the bed was very comfortable. The staff was very pleasant and helpful. We enjoyed our stay very much.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "wonderful experience",
+    "reviewText": "all aspects were easy fast--everything we needed was there very clean. service was excellent, but very unobtrusive. the sleeper sofa was not the best bed but allowed us to share the room with elderly parents they had a good king size bed. we would definitely stay here again when visiting my sister.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Business Stay",
+    "reviewText": "Overall a very good stay with the exception of the elevators not working. Staff could have been a little more welcoming but good overall. Rooms were clean and location was good, within walking distance to lots of eateries and shops",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Business Stay",
+    "reviewText": "The tv did not work and this happened on a previous visit.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay. Great location, clean room.",
+    "reviewText": "Very pleasant. Shuttle was great, driver was very dependable. Good breakfast, clean rooms.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-01-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay. Great location, clean room.",
+    "reviewText": "Smile at the staff and they will smile back. Wonderful with kids.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay. Great location, clean room.",
+    "reviewText": "good hotel for the price :) staff isn't rude",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay. Great location, clean room.",
+    "reviewText": "Staff has been great. Not sure what other comments are based on. Room is great and a huge TV!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

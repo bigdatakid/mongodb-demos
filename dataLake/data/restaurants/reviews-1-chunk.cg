@@ -1,0 +1,1000 @@
+    "state": "AZ",
+    "city": "Tucson",
+    "postalCode": "85711",
+    "address": "102 N Alvernon Way",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-110.909418, 32.223615]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great staff!",
+    "reviewText": "We found the hotel very nice and recently renovated. The room was very clean and spacious with everything we needed. The staff was exceptionally polite, friendly and helpful. Everyone from the desk clerks to the cleaning staff and breakfast staff went out of their way to make our stay enjoyable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "I'd stay here any time in Tucson",
+    "reviewText": "The staff was exceptionally friendly and helpful!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Thanks Tucson",
+    "reviewText": "The staff was very friendly. The nearby park is incredible! Breakfast was very good! We really enjoyed our stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Staff at Clean Hotel with Standard Amenities",
+    "reviewText": "Very friendly staff who were helpful. Clean, well organized hotel. The room had fairly old carpet, with a few stains, but didn't feel dirty - just old. Otherwise the room was well kept, sheets were very clean. The hotel in general was well maintained and clean. The free breakfast was good and the WiFi signal was strong and data came through quickly. The TV had a few basic channels, standard HBO was Spanish only, but that was fine. The pool is clean and centrally located. I loved that it offered free stay for our dog, but there is almost zero places to walk your dog so they may do their business. The only places were a few gravel medians and side areas, but it worked out okay. The location isn't great - not much to walk to directly next to the hotel, but a 8 minute drive does get you to Reid Park. Traffic was terrible in the area though, which made leaving the hotel to the south very difficult. I would stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Staff at Clean Hotel with Standard Amenities",
+    "reviewText": "Despite keeping my expectations low I was very disappointed. In my opinions the ratings are not justified and deceiving. This place is not the best. Rooms are dirty. Starting from the carpets to the bedsheets. I don't think they even replace the sheets. The shower curtain in my room smelled awful, towels were not the cleanest and bathroom and living area were dusty. At least the AC was working well otherwise I would have left on arrival. I gave one star for the fridge/microwave in the rooms and the complementary breakfast, which is one of the better ones, You can make fresh waffles, biscuits and gravy, hard boiled eggs, cereal, muffins, coffee, etc... Need to get there early though. Overall, I'm a very dissatisfied customer.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place",
+    "reviewText": "Very nice staff and good clean facility.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location- clean hotel w/ or w/out your pet",
+    "reviewText": "This is a great hotel! I love that it's not in the heart of UofA but not too far out of town either. I have stayed here several times. Rooms have been upgraded, but it looks like they saved costs by skimping out on new bathtubs. Not a big deal, just an observation. It's the only thing that's old in there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Here if you get a chance!",
+    "reviewText": "The hotel was up to date and modern. Rooms were nice sized and comfortable. The free breakfast was a great bonus. The best part was the staff. They were very friendly and helped anytime I asked. We stayed over the July 4th weekend so they had poolside cookouts and music which was really nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Tucson AZ stay",
+    "reviewText": "Nice stay overall. The staff is very friendly and helpful. The rooms are clean and comfortable. The breakfast was relatively good. I would stay again without hesitation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, but front desk person is no treat",
+    "reviewText": "The hotel was clean and the room was nice. But if you are looking for a warm greeting and a good breakfast, this is not the place for you. The man who checked me in didn't say hello and wouldn't take my ID and credit card when I handed it to him - he wanted me to verbally tell him my name so he could look me up first. He handed me a key to the room and a map, and sent me on my way. No information about breakfast hours, gym facilities or anything else. He was quite a ray of sunshine.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Old, smelly hotel",
+    "reviewText": "Had to stay somewhere close to TMC, wish I hadn't relied on customer reviews so heavily. The air conditioning stunk like mold when turned on. Queen bed are more like double beds. vending machines constantly out of water. Breakfast was runny eggs and sausage + continental. Carpet throughout hotel filthy, not just slightly dirty...FILTHY! Only saving grace was microwave and fridge in room and pool area was pleasant.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Old, smelly hotel",
+    "reviewText": "The hotel appeared old and not clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Old, smelly hotel",
+    "reviewText": "It was wonderful and my family and I had a wonderfully relaxing day at the awesome pool",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room",
+    "reviewText": "The 2 queen bedroom was very clean and spacious. The AC worker very well and it was comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice family time",
+    "reviewText": "Nice was for school shopping close to mall loved the pool",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel",
+    "reviewText": "We enjoyed our stay. This is the second time we have stayed here on our way to California. The rooms are clean and quiet. The breakfast was great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great! I'm looking a reason to stay there again",
+    "reviewText": "Business trip, didn't get to try the pool but it was nicer than I expected. Very comfortable, clean, nice staff, great continental breakfast. I will stay there every time I come to Tucson. Thank you.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad experience",
+    "reviewText": "For the price paid, the level was not there. I have to go to the lobby to explain that the bed was not well make, but no change during 9 nights. The breakfast was very poor during 9 mornings always scramble eggs and sausage or small omelet with grounded pork. We have to eat in plastic dishs and we have to use plastic knife, spoon and fork. I am exhibitor in GJX, so each year I am in Tucson, it was the first and last time I will go in this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad experience",
+    "reviewText": "We had a wonderful time. Room was very clean and spacious.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Noisy and poor ventilation",
+    "reviewText": "Room smelled of smoke even though this is supposedly a non-smoking hotel. Ventilation was poor in the room, windows didn't open and no fan in the bathroom, so I wasn't able to air out the room. The room itself was partially updated, but paint peeling in other areas. Bathrooms were old, small and dingy and no bath towels were provided, only hand towels and wash cloths. Service at the front desk was adequate and the breakfast looked decent.Hotel was pet friendly. I would suggest that possibly they could reserve different floors for people not staying with pets, so they are not disturbed at all hours by barking dogs in neighboring rooms (as I was).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel and great for the price.",
+    "reviewText": "Nice size rooms and clean. Close to all shopping.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok if you have to",
+    "reviewText": "Hotel itself was ok, but the a/c had a mind of its own. There was a thermostat on the wall, plus one attached to the room unit. No matter what combination we tried, it was either freezing or boiling - no comfortable in-between.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok if you have to",
+    "reviewText": "Spacious room and really clean. Recently updated decor and the bed was very comfortable. Plenty of easy access outlets for phone charger, computer, etc.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Budget Friendly",
+    "reviewText": "The hotel had been remodeled. The king size room was big and comfortable. The only issue was the old carpeting throughout the entire hotel it was old and worn. The breakfast was okay met our need for the morning and the coffee was great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Only if you are desperate for a bed",
+    "reviewText": "This motel has seen better days, although is in a very convenient location. Staff friendly but all seemed to be in first day on the job (check-in person admitted he was). So questions like, Why don't the phones work and Where can we get water, since the vending machines are out of it were met with, I don't know, but I'll leave a note for someone to deal with tomorrow. Oddly, seemed deserted on graduation weekend a little creepy - if I had been alone, I would have left.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Only if you are desperate for a bed",
+    "reviewText": "Lovely motel, highly recommended!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Very average",
+    "reviewText": "This was a very average experience at best. I'd rate it higher if I'd paid 80 dollars or so, cause that's all the room was worth. I paid 140 so I was not real thrilled. We were there at 3:00 which is the beginning of check in. Our room was not ready so we had to come back at 4:30. The beds are not good quality, too firm. The shower was not clean, it had mold in it and a couple of short hairs on the plastic enclosure walls. the breakfast is nothing to write home about. They do have waffles you can make but no fruit at all except some bananas. Not horrible by any means, our room was fairly quiet, but I won't be back. For 140 you can find a nicer hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "La Quinta Hotel, a place worth Staying.",
+    "reviewText": "The people we're terrific from mgr to maintanance very helpful with directions.., very nice",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't pay too much",
+    "reviewText": "Got an older room on 3rd floor was big but wasn't getting as cold as I would have liked it. Disappointed bartender had quit so no bar. For 1 night stay was fine. Bed comfort better than I was expecting.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for.",
+    "reviewText": "The hotel itself is a bit run down and dated. The walls are very thin. Not at all sound proof. We woke up at 2:00 AM to the sounds of the neighboring room's TV and conversation. Beds are passable, but not comfortable, with no selection of pillows, all the same, you get what you get.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Worse Tucson visit.",
+    "reviewText": "Hotel overly crowded, found candy stuck to the sheets in bed. Carpets need cleaning. Filthy pool. Couldn't get near breakfast because too many people.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Standard room for the price",
+    "reviewText": "Room over all was ok for the price. Complimentary breakfast could have been much better, items to choose from and food available. A/C was not the best, as it was a small unit in wall, didn't cool as well as it should have. Hotel service staff was very pleasant",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for UofA parent weekend visits",
+    "reviewText": "Great stay from start to finish. We had been searching for a place to stay while visiting UofA for the next 4 years. Found it! Not walking distance to campus but worth the drive based on our walking distance hotel experiences in Tucson. (we had a miss or two earlier in the school year). The area was quiet, felt safe, and conveniently located. Staff was friendly and professional. Room clean. The bed was the best! Great pool and common areas.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Pending dissapointment, hopeful correction",
+    "reviewText": "I'm still waiting on a pending room charge showing on my Chase debit card. At checkout, I paid for my two day stay CASH. Inconveniently, I will have to inquire w/ my bank on this pending debit charge tomorrow Monday. NOT HAPPY",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Pending dissapointment, hopeful correction",
+    "reviewText": "The property was beautiful. My room bathroom assent clean and actually made the whole room smell like urine. The sheets and blankets had human and dog hair on them. Gross...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Pending dissapointment, hopeful correction",
+    "reviewText": "Very pleasant and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Never knew a LaQuinta so nice as this one.",
+    "reviewText": "Short stay to celebrate a friend's birthday. They let us use the dinning area to celebrate his birthday. Clean throughout the facility, breakfast was very filling with the choices available...crisp apples, sweet oranges and they had meat!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient to UofA",
+    "reviewText": "Nice place--great service and location",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Good service,cleasn and safe.",
+    "reviewText": "Here for Tucson festival of books. This was an easy place to stay and mmy family did not have to drive far to get me in the morning.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Four day weekend at La Quinta Inn and Suites",
+    "reviewText": "We have traveled to Tucson several times in the past few years due to our child being a student at U of A. This was our first time staying at the La Quinta Inn Suites, Reid Park and we were delighted with our stay. The room was clean, very comfortable and the staff was friendly and welcoming. The hotel is in a quiet neighborhood very close to the El Con Shopping Center and close to a variety of restaurants. Very convenient. We are looking forward to our next stay here.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Orientation",
+    "reviewText": "The location was excellent. Close enough to UA for someone with a car, close to Reid Park for someone who likes to walk or run, and close to restaurants. The room had a microwave and frig. The fig had not been turned on, which was disappointing. We will be coming back and staying here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel with lots of freebies",
+    "reviewText": "Our only complaint is that the air conditioning is either ON or OFF and the fan speed and decibel level is very high. It cooled the room fairly quickly. It seemed impossible to maintain a temperature, which forced us to turn the AC on and off at frequent intervals.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel stay",
+    "reviewText": "Day after second evening, my room was untouched. Following day, they did clean the room. Was told by front desk clerk that laundry room was out of service, and clerk sounded like it would not be reopened anytime soon. Lounge area/bar had no evening attendant. Front desk clerk explained that the guy had quit. Went to fitness center late afternoon one day after returning to my room with key card. Front desk clerk calls maintenance who comes over to meet me at fitness center. Maintenance tech tells me key card was not valid. Went back to my room, that I had entered an hour previously, and it did not work there either. Then back to front desk to get new card.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Fresh and Central!",
+    "reviewText": "Great visit for the Annual Rock and Gem Show. Room was wonderful and the hotel is centrally located - far enough away from the chaos while close enough to be near everything. The complimentary breakfast was fresh and tasty - a wonderful way to start the day. The only negative was all of the ice machines were not broken so we needed to go to the bar whenever we needed ice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and Comfortable, but needs A/C instructions",
+    "reviewText": "Nice, clean and comfortable rooms. The beds were comfortable, too, although more pillow options would have been even better. I like a softer pillow than what was offered, but that's my own preference. We also had some trouble with the room air conditioning system, mostly due to the remote used to operate it, which seemed simple enough and we had thought we had things running properly, until we were awakened in the night due to the room being way too stuffy. That's when we discovered the remote had a hidden flap with more buttons that we randomly pressed until the A/C fan turned on. Sometimes being high-tech can be a problem, especially without instructions. A little card in the room to explain things would have been very helpful. The hotel was nicely maintained and the lobby was warm and inviting, with friendly staff. The breakfast was yummy with a few hot options (sausage, eggs and waffles) as well as the usual breads, cereals and pastries. We would gladly stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent stay as always.",
+    "reviewText": "Very comfortable and clean. Pet friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-22T00:00:00.000Z"
+    },
+    "reviewTitle": "It was ok",
+    "reviewText": "Florenda at the front desk was ignorant. I needed papers faxed for my business and had a attitude. Very rude!!!!! I told front desk numerous times about the people above us constantly moving furniture or something all night until about 3am",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "It was ok",
+    "reviewText": "The rates were affordable for a middle-income person. The hotel was quiet, and the room was clean with plenty of towels washcloths. It was close to restaurants and Reid Park where I could exercise.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable stay",
+    "reviewText": "My husband and I stayed 4 nights. Very clean comfortable room, great location and very helpful,friendly service. Parking is a problem, especially handicap parking.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable stay",
+    "reviewText": "Good overall experience in terms of price, location, and other useful accroutrements",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable stay",
+    "reviewText": "No Complimentary Water and the AC Unit wasn't working. at 200+ a night, I would have been better off paying an extra 30 bucks to stay at a nicer hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable stay",
+    "reviewText": "Hotel was great but the lady at the front desk during check in was GRUMPY!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient for quick trip",
+    "reviewText": "Hotel was perfect for what I needed. Picking up from u of a after semester. Room was acceptable and we had a bathroom issue that was immediately addressed. Clean hotel perfect for price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient for quick trip",
+    "reviewText": "Nice hotel, pool had some problems but hotel staff was very nice and fixed it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Not the most welcoming front desk.",
+    "reviewText": "The hotel was nice and looks recently renovated. The front desk staff, both of them, were not welcoming and did not acknowledge any guests unless first talked to. And then when the breakfast came out an hour and a half late, they didn't even take time to tell us even though they saw us pass their desk toward the breakfast area. After finally asking them by breakfast wasn't out 45 minutes after it should have, they told us the cook decided not to come in while saying sorry in the least apologetic tone I've ever heard. The staff that did try and make up the breakfast were very nice and I applaud them for their efforts to make up what was missed. Overall the hotel itself was nice, the rooms were nice, except our bathroom did not have an exhaust fan.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "La Quinta has improved!",
+    "reviewText": "This hotel was recently remodeled and looks fabulous! The pool and hot tub is awesome. The rooms are very roomy and are extremely clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "family vacation",
+    "reviewText": "for a quick one night stay, this hotel was ok. front office staff were awesome!!! the breakfast was good. all around it was okay. great value for the money",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "family vacation",
+    "reviewText": "Great breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Attractive hotel",
+    "reviewText": "Nice place to stay attractive, open lobby large, clean breakfast area. Rooms are good size windows open for fresh air.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "what's with the front staff",
+    "reviewText": "Pay attention to everything you do or use. Ensure you clarify what incidental's meaning is to this hotel. Received two extra charges from this hotel because I didn't return the room cards. After fighting with them that I had, they finally conceded that their camera's revealed that I did....3 phone calls later.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Good quality for the price",
+    "reviewText": "Good quality for the price and staff was friendly and helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Good quality for the price",
+    "reviewText": "It's a good hotel but something wrong , I booking from Expedia from week ago and when I arrived they don't see my resrvation !!!! I booking again and I paid again !!!!! Why Expedia do that with me I'm a good member !!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "quiet and nice",
+    "reviewText": "very comfortable great value and great breakfast, get the waffles",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Front desk worker-not at his best that night!",
+    "reviewText": "The first non-smoking room smelled of smoke so we moved across the hall to another room. When we went out to eat, we noticed the other room was still open due to a faulty door lock. On the way out, I stopped at the front desk to let them know of the problem and the man told me how to fix the door so it would close. Not my responsibility, especially because I told him I had tried to close the door. When returning from dinner, our room was freezing so I went to turn down the AC, but could not because there were no knobs to turn. I called the front desk and explained that their were no knobs to control the AC and I needed to turn down the air because the room was chilly. He said he would send someone. The maintenance man came to the room but did not have any knobs for the AC. I felt the front desk worker was not at his best at serving my family that night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Price and Great Family Hotel",
+    "reviewText": "My family enjoyed the stay at La Quinta",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel in midtown.",
+    "reviewText": "We got this room for a mariachi group that was playing in town.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-26T00:00:00.000Z"
+    },
+    "reviewTitle": "So so",
+    "reviewText": "The 2 closest ice machines were not working...internet was down for hours after we arrived...long maze from room to pool area...nice staff...clean...good breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Large room and pool!",
+    "reviewText": "Enjoyed the location, size of the room and pool. The hotel staff was very friendly and helpful. If we requested anything, they were quick to meet our needs. The kids had a great time in the pool. We will be back!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Large room and pool!",
+    "reviewText": "will stay again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Large room and pool!",
+    "reviewText": "The first room smelled of urine and the beds were dirty so we had to change rooms. Second room was ok.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Large room and pool!",
+    "reviewText": "Nice location, friendly staff, comfortable bed. That's about it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Everything was perfect except for a poor air conditioner. Not able to cool the room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and Clean",
+    "reviewText": "Convenient and Clean",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "Nice hotel but the floors were very dirty. Very clean beds and bathroom. The staff was very friendly. Lots of close restaurants.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4008"
+  },
+  "name": "Econo Lodge Big Spring",
+  "categories": ["Budget Hotels", "Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Big Spring",
+    "postalCode": "79720",
+    "address": "804 W Interstate 20",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-101.468976, 32.255632]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Editorial Review Nationwide hotel chain is family- and business-friendly. Amenities include communication facilities, large conference rooms, Jacuzzi suites and outdoor pools.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4009"
+  },
+  "name": "Mirazur",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "WA",
+    "city": "Deming",
+    "postalCode": "88030",
+    "address": "1500 W Pine St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-107.79062, 32.266278]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Budget hotel offers standard amenities and low rates to road-weary travelers. In ShortSince 1946, this Phoenix, Ariz.-based hotel chain has provided guests with comfortable accommodations. Its BestRequests program offers 16 of the most frequently requested services and amenities, including complimentary in-room tea/coffeemakers, hair dryers, iron and ironing boards, free local calls less than 30 minutes and long-distance access. Complimentary toiletries, like toothpaste, razors and sewing kits, are also available upon request. Business travelers will enjoy the computer data ports in each room and photocopying services.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de400a"
+  },
+  "name": "Days Inn \u0026 Suites Vicksburg",
+  "categories": ["Hotels \u0026 Motels", "travel"],
+  "location": {
+    "country": "US",
+    "state": "MS",
+    "city": "Vicksburg",
+    "postalCode": "39180",
+    "address": "4216 Washington St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.899151, 32.313601]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "A lodging staple for budget-minded road-trippers and business travelers. In ShortSince the Ramada brand made its debut in 1954 in Flagstaff, Ariz., the hotel franchise has been offering dependable accommodations with budget-wise perks. Families appreciate the kids-stay-free policy for children 17 and under staying with their parents. Other amenities usually include a swimming pool, full-service restaurant, lounge, in-room data ports and voice mail. Group rates--for wedding parties, corporate groups or family reunions--are available for parties requiring 10 or more rooms per night.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de400b"
+  },
+  "name": "La Posada Lodge \u0026 Casitas, An Ascend Hotel Collection Member",
+  "categories": ["Luxury Hotels", "Hotels", "Resorts Reservations", "Hotels \u0026 Motels", "Honeymoon Resorts"],
+  "location": {
+    "country": "US",
+    "state": "AZ",
+    "city": "Tucson",
+    "postalCode": "85704",
+    "address": "5900 N Oracle Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-110.977477, 32.31373]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-11-03T03:39:44.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "HORRIBLE!!! DO NOT STAY HERE!! The front desk staff and hotel management is disorganized and unprofessional. We had our wedding ceremony here and when family called to check in, the front desk had no idea what they were talking about. In the end, I had to book some of the rooms myself for family, and \"no rooms were booked under the wedding party name\" as the front fesk informed me. They double booked the bride and grooms rooms. They quoted us one rate and changed it when we checked out. When we talked to the management about it, he accused us of making up rates and offered us an insulting $10 off our rooms after we (bride and groom) had spent over $1400 there in two days, not counting the 10+ rooms booked for at least two nights each by friends and family.On a health and cleanliness note, we went to use the jacuzzi tub and brown, slimy stuff came out of the jets when we turned them on, a clear sign of an inproperly cleaned tub.BAD GUEST SERVICE!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-11-03T03:39:44.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de400c"
+  },
+  "name": "Staybridge Suites Tyler University Area",
+  "categories": ["Extended Stay", "Family-Friendly Hotels", "Budget Hotels", "Hotels \u0026 Motels", "Business Hotels", "Beach Hotels", "Lodging", "Weekend Getaway Hotels", "Tourist Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Tyler",
+    "postalCode": "75701-6029",
+    "address": "2759 Mcdonald Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.265008, 32.322578]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent",
+    "reviewText": "Can't wait to stay with Staybridge on our next trip through Texas. Me and my family we're so pleased with the hospitality of the staff and our joining rooms were very clean. We couldn't have asked for a better experience. We will definitely be staying with Staybridge in the future. I recommended anyone needing a place to stay in Tyler... More",
+    "reviewerCity": "Flower Mound",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Highly recommend the Suites.",
+    "reviewText": "The room that I reserved was on the third floor. Queen Suite, 308. It was very quaint and I loved it. Perfect with a full kitchen and living area. So Cute! I highly recommend and will stay there again.",
+    "reviewerCity": "Katy",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyed our weekend",
+    "reviewText": "Spent nice quiet weekend with my wife and enjoyed our stay in this property. Clean, good breakfast and friendly staff made our stay a pleasant one. There was also a nice pet area with picnic tables to walk our dog.",
+    "reviewerCity": "Lewisville",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Nice Accommodations",
+    "reviewText": "An overnight trip to the UT Tyler campus, real nice, spacious room, separate bedroom from the living/kitchen area with two queen beds. Beds are quite comfortable, plenty of room in the bathroom, though only a walk in shower. Didn't use the utilities except for the TV DVD player, which worked just fine. Room was quite clean, great breakfast selection,... More",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Hotel EVER!",
+    "reviewText": "I cant say enough great things. Swimming pool, hot tub, breakfast buffet, fantastic. Suite, beyond expectations. Gazebos with fireplaces and tv's. Nice grills outside for grilling. Friendly outgoing staff. Excerise room. Conference rooms. Just perfect!",
+    "reviewerCity": "Grand Prairie",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice and clean",
+    "reviewText": "I have stayed here numerous times during the month of February March and April 2016. This place is clean, well-maintained, and has friendly staff. I was there so long and often, they even knew me by name. I enjoy the breakfast and they have free dinners and wine from Monday through Wednesday. When I had my staff join me for... More",
+    "reviewerCity": "San Antonio",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful stay !!",
+    "reviewText": "We had a wonderful time at the stay bridge hotel. The staff was so helpful and nice. The room was beautiful and very spacious ! The pool area was very nice and the outside sitting area and fire pit was a treat !!",
+    "reviewerCity": "Winona Texas",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend visit",
+    "reviewText": "We stayed here for Parents Weekend at TJC. ALL of the staff were very friendly and helpful. The room was super clean. The breakfast was wonderful! Many options to choose from. Seating inside and outside.The courtyard is wonderful. We were in room 216 2-Queen bed suite. There are 3 levels to this hotel. Hotel does have 1 elevator. 3 entrances... More",
+    "reviewerCity": "Winona Texas",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Inflexible!",
+    "reviewText": "We had to cancel our reservation due to the bad weather hitting the area and they refused to cooperate in any way. We planned on staying there at a later date and asked if we could change the date of the reservation and they refused to do anything. That is a great way to lose future business! For sure we... More",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "EXCELLENT FIRST EXPERIENCE WITH STAYBRIDGE SUITES",
+    "reviewText": "Have absolutely no complaints with this location. Will stay again when in the area! Everyone was very friendly, room was very nice, quiet and clean and the breakfast was good. Enjoyed the hot tub as well!!",
+    "reviewerCity": "Broken Arrow",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Staybridge",
+    "reviewText": "I always like Staybridge. This one was very good--no surprises. Good in-room coffee. And hands-down the best breakfast ever. My only wish (and this is just a wish) would be for a night light built into the bathroom. I don't like getting up and turning on the bright lights, but don't like walking in the dark, either. I leave the... More",
+    "reviewerCity": "Austin",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"

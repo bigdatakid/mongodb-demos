@@ -1,0 +1,100 @@
+    "reviewText": "The hotel price was good but the room was not very clean and it smell bad",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Dirty Bathrooms",
+    "reviewText": "Overall the room was clean and tidy... The issue I had was with the bathroom, you could tell the shower hadn't been cleaned in a while there was hair all over the place. we only stayed 1 night was a good price but can't say that I would ever stay there again. Location was very close to a hospital so you could hear ambulances all night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Dirty Bathrooms",
+    "reviewText": "A weekend getaway for my boyfriend and I.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "gross hotel",
+    "reviewText": "this place was nasty. there were ants in my room and my father in law clogged the toilet. not enough towels and the front desk guy seemed like he hated his job. the lobby restroom was disgusting...it had hair on the toilet and dead bugs on the floor. avoid this place. I heard the ambulance all night",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "In the midst of a storm",
+    "reviewText": "Arrived at the hotel during an electrical thunderstorm. Unfortunately when I arrived power was out. They didn't gave my reservation due to the storm, they let me stay anyway and when the power came back on , within 30 minutes, they were able to find it. Thanks for your assistance, nice place to stay!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-25T00:00:00.000Z"
+    },
+    "reviewTitle": "In the midst of a storm",
+    "reviewText": "Fue bueno el hotel esta bonito r relajante",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay away from rooms facing interstate",
+    "reviewText": "Room was facing interstate and was noisy. Restroom needs updating",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay away from rooms facing interstate",
+    "reviewText": "The service and room were wonderful! We loved this hotel. Thank you!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay away from rooms facing interstate",
+    "reviewText": "The service and room were wonderful! We loved this hotel. Thank you!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay away from rooms facing interstate",
+    "reviewText": "The service and room were wonderful! We loved this hotel. Thank you!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay away from rooms facing interstate",

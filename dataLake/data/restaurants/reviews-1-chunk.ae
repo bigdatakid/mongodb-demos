@@ -1,0 +1,1000 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Oceanview Room",
+    "reviewText": "The city is very busy, however the hotel is very pleasing. Lots of amenities, really good restaurant and staff is very attentive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Hilton Hit",
+    "reviewText": "Wonderful Hotel,shouldn't really have to pay to park as a guest",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice hotel in the middle of everything",
+    "reviewText": "Great Hotel with outstanding people and very nice rooms. All the staff with great orientation and helpfull.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Book this place!",
+    "reviewText": "The room was amazing, very comfortable- you have control of the air conditioner and we had the most amazing view of the ocean. We booked through Expedia and everything worked out well. All the staff spoke English, and was extremely helpful with everything. The only thing I would say is that we didnt buy breakfast in advance and it was really expensive. So if you book here remember to book the room with breakfast because the breakfast room has an amazing view.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Super service",
+    "reviewText": "Great location. The staff, food and overall service impecable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Oceanfront Comfort",
+    "reviewText": "My hotel room was very clean and very upscale. The oceanfront view was breathtakingly beautiful. You could see the horizon, the rocky coastline, the beautiful clear ocean water, and a two lanes of traffic from my hotel room. It was so nice. They gave me free wifi and there was a tv with cable, a/c that worked very well and a stocked refrigerator if I wanted it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel, excelent staff.",
+    "reviewText": "There is no doubt that the staff at Hilton, Santo Domingo is one of a kind.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Travel guru",
+    "reviewText": "Great hotel clean and to US standards. Good service and very comfortable rooms. Next to a mall but really not much to do other than theaters and a few restaurant. Safe area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent staff. Very nice facilities.",
+    "reviewText": "I was there for one week. My room was on the 14th floor with an ocean view. This is a very nice hotel, and I would rate it with four stars. I thought the hotel staff was especially friendly and helpful. There is a nice gym and pool area. The location is on a very busy four-lane highway with no medial barrier and no nearby traffic signals. To use the walkway along the beach would require a dangerous crossing. You will need a taxi to get anywhere, and they are readily available. During my stay, the casino was closed. I would recommend this hotel for someone who is not on a budget and who wants top-notch facilities.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Hilton Santo Domingo",
+    "reviewText": "Once we arrived the staff was excellent. We were greeted very professionally. The room was excellent and with a home atmosphere. We laid down and fell asleep in a matter of minutes. Quite neighborhood and an excellent view of the Caribbean ocean. I will definitely recommend this hotel to a friend or family. Thanks Hilton.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location to the beach and Zona Colinal.",
+    "reviewText": "Close proximity to museums and restaurants. Staff are very helpful. Beautiful views of the ocean. Comfortable rooms.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean room, good price",
+    "reviewText": "My stay was good for the price didn't spend much time in the room because of being busy out, but I will stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "They have a ridiculous policy to charge additional",
+    "reviewText": "If you have a room and try to add a person, they charge you US 30 additional per day. I book a room and when, I went to register, I went with my girlfriend and they charge me extra for her in the same room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "They have a ridiculous policy to charge additional",
+    "reviewText": "Room was excellent... But overcharged for breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful place",
+    "reviewText": "Great place to stay on, I really enjoyed my stay in",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice",
+    "reviewText": "I was very happy to spent some nights at this beautiful hotel ! The Staff is incredible ! I recommend this hotel to everybody",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to spend time and relaxing",
+    "reviewText": "The hotels is great. Perhaps they need to adjust the fact that some travelers may arrive with cash, traveler's checks or debit cards.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to spend time and relaxing",
+    "reviewText": "Great Fitness center, pool deck nice but always windy, felt rooms a little small and cramped. Executive lounge nice but snacks a little weak",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel at great price",
+    "reviewText": "I recommend this hotel in a promotion price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "October in Santo Domingo",
+    "reviewText": "Loved the view from room and pool had good view and very nice atmosphere",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel with great view!",
+    "reviewText": "Hotel was great. Wanda to care of us and was really great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Hilton in Santo Domingo",
+    "reviewText": "AC did not work but they moved me to a junior suite which was much nicer and bigger. Beach boardwalk was dirty and had lots of garbage on the sidewalk and boardwalk area",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "The over all appearance is less than expected.",
+    "reviewText": "The inside of hotel and rooms are clean an maintained well, the outside appearance needs more attention",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Santa",
+    "reviewText": "Excellent place. Highly recommended. Great time. Wil come back. Very attentive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointing Tenant",
+    "reviewText": "When I pay for a Hotel room I feel that I should be able to invite any quest that I want to visit my room. This Hotel interferes with this comfort with stares at your friends and by adding additional charges to you account for having visitors. I do have an appreciation for security, however, at the cost of the rooms it guesst should be give more relaxed comfort.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to the city",
+    "reviewText": "It has a beautiful view, first cuality an comfort installations and good place",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to the city",
+    "reviewText": "Awesome thanks for the excellent service and conditions",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3f94"
+  },
+  "name": "Kilauea Lodge Restaurant",
+  "categories": ["Gift Shops", "Restaurants", "Hotels", "Lodging", "Bed \u0026 Breakfast \u0026 Inns"],
+  "location": {
+    "country": "US",
+    "state": "OR",
+    "city": "Volcano",
+    "postalCode": "96785",
+    "address": "19 3948 Old Volcano Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-155.237305, 19.426996]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2005-09-05T22:15:44.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "This is one of the best restaurants to eat at in the area.  They serve great lunches and my favorite is their ceasar salad.  Also they make delicious lilikoi pies.  This beautiful restaurant is surrounding by ohia trees and hapu ferns.  Very beautiful and I would recommend this place to anyone that is looking for good accomodations near the Hawaii Volcanoes National Park.  Not only do you get great accomodations, but you also get a fantastic restaurant!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3f95"
+  },
+  "name": "Fiesta Inn Centro Historico",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "MX",
+    "state": "",
+    "city": "Bristol",
+    "postalCode": "6010",
+    "address": "Av Juarez 76 Colonel Centro",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-99.146719, 19.43517]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Safe and clean hotel",
+    "reviewText": "This hotel was in a great location. Most everything in the Historic District was within walking distance. The rooms were very clean and well-laid out. The room was surprisingly quiet even though the hotel is on a busy street. Also, it is in a small mall with a food court and a couple sit-down restaurants. That eliminates having to hunt for a place to eat if you just want to go to your room to rest.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location and service in Historical Center.",
+    "reviewText": "We stayed for two nights in Mexico City and were very happy with this location. After reading many reviews we wondered about staying in the historical zone. We were taking advantage of the Free walking tour in the morning so decided to stay here. We learned that the Historical center has been radically cleaned up over the past 5 years with new parks, pedestrian only streets and good security. The Fiesta was clean with nice size rooms and great bedding. The hotel restaurant serves a nice buffet breakfast. The location is right beside the popular Hyatt Hotel but much more affordable. We walked throughout the entire Historical district including out for restaurants at night. We took the subway to the Museum of Anthropology. The staff were very helpful and friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice and very well located hotel",
+    "reviewText": "The hotel has a good cost / benefit ratio. It is well located near to Bellas Artes and a walkable distante from the Centro Histrico. The room were clean and nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Edgar's Review",
+    "reviewText": "This a good hotel and the ubication is great eazy access to mayor locations and establishments, the rooms are more business driven but also fits family needs.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice economical Hotel in near historical center",
+    "reviewText": "The hotel is not deluxe but very satisfactory for stays whether business or tourism.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Historical Appeal",
+    "reviewText": "Great location",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location.  Large room. Thin walls",
+    "reviewText": "Large room and bathroom with all usual amenities. Comfortable beds. Wifi worked fine. Walls were very thin and first room had noisy neighbours so had to ask to change rooms. We were lucky that the guests on the room adjacent to ours -after changing- slept almost as much as we did. Normal conversation can be heard through walls.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again!",
+    "reviewText": "Keys didn't work..... Especially, in the confusing elevator. Hall way was dark. Room had and unpleasant stale smell. No possibility of fresh air. Taxis couldn't find the place. Messages were not relayed . Beds were very clean and comfortable. Angelina was as helpful as she could be.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellente Location to visit.",
+    "reviewText": "The best location ever IF you like ART!!!!!!! Incredible service and very nice Mexican people. We really enjoyed our stay in this Hotel and the Centro Historico it's AMAZING!!! Thank you for let me booked at this Hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "��timo atendimento e localiza����o!",
+    "reviewText": "O hotel realmente muito bom. Todos os funcionrios so muito educados e solcitos, o caf da manh delicioso e tem vrias opes. Eles tambm oferecem tours para os principais pontos tursticos e taxis privados e de confiana. A localizao tima, perto a uma distncia a p da Ciudadela, Zocalo, Museu de Bellas Artes. Vrias opes de restaurantes ao redor.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hote for for your trip to Mexico",
+    "reviewText": "We arrived early at 8:00am and they were able to accommodate us with a room in one hour. We were not charge extra for early check in which was a plus. The rooms were clean and comfortable. The hotel staff was was nice and polite.The hotel room had a safe, hair dryer, coffee maker, and ironing board available. The hotel is on top of a shopping center which was pretty cool, because they had a lot of options to eat including a Starbucks and a McDonalds for the kids. We had breakfast at the hotel restaurant once and it was good also. The neighboring taco place called el caifan was recommended by one of the staff members and it was also real good. The hotel location is good, it is walking distance from Bellas Artes and the Zocalo. Its is also in front of a large park where alot of locals sold hand made items.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Very good hotel for the price in a great location",
+    "reviewText": "Very good hotel. More so for its prize. Rooms are spartan but have all that is needed. Amazing wifi. Very kind and Amiable staff. Moved from the hilton next door where they are too cheap to give you even one bottle of water.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantabulous",
+    "reviewText": "It was amazing definetly ill stay there again for sure",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantabulous",
+    "reviewText": "Las camas matrimoniales estan muy pero muy chicas he incomodas.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantabulous",
+    "reviewText": "Very expensive for why you get, small rooms. Good location though. Probably wouldn't stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-20T00:00:00.000Z"
+    },
+    "reviewTitle": "centro historico",
+    "reviewText": "this hotel was great, location iss perfect, walking distance to many sites to see and enjoy, public transportation, clean EXELENTE !!! may sound high price but with all you get is not really high",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Location, location, location",
+    "reviewText": "I could not have asked for a better location. The service was friendly enough. The gym was under construction during our stay, but the business center was convenient for keeping in touch with my family stateside. Did I mention the location. An excellent place to stay for those looking to take in as much of Mexico City as possible over the span of a long weekend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "nice location, too much noise",
+    "reviewText": "nice place, too much noise coming in from outside the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location but some frustrating logistics",
+    "reviewText": "Fiesta Inn Centro Historico is right next door to the hotel I usually stay at, and it's less than half the price. Overall, it's a good hotel at a good price. However, there are some logistics problems - the entrance to the hotel is in the back of a small shopping mall area, so you have to go through the mall and take an elevator up to the hotel lobby. There is no real drop off location for taxis, and if someone is picking you up you need to make sure you clarify which of the three mall entrances they will come to ... or walk across the street and meet at the hotel next door. That said, the room was clean and spacious, the hotel restaurant was quite pleasant, and the staff was very friendly and helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel,  but BEWARE of Taxi employees of hotel",
+    "reviewText": "Nice hotel, clean, and convenient. Beware of Taxi employees. Our family used Uber and those taximen were nasty. The taxi guys called the authorities to put the boot on the Uber driver we called for. Once we called another Uber taxi, one of the hotel taxi drivers yelled expletives at us. As a consumer we have a right to choose our services. I hope the management of the hotel will help other customers avoid the unpleasantness we endured.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-13T00:00:00.000Z"
+    },
+    "reviewTitle": "remodeling",
+    "reviewText": "No smelly carpet, excellent. Rooms clean and spacious. My second visit, in same room, I enjoyed my stay. I look forward to visit you again next time. You can be sure that I will stay in your hotel again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "remodeling",
+    "reviewText": "Good hotel, well located. Room ok, sheets and towels good and cleaned.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel and the staff was friendly",
+    "reviewText": "Check in and check out was quick. We didn't have surprise extra charges.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Communication",
+    "reviewText": "The hotel can be difficult to communicate with if you do not speak Spanish. The hotel manager helped us a lot and sorted out our booking with easy. After a small admin issue it was resolved easily and swiftly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Spacious rooms very well located",
+    "reviewText": "Great hotel with very big rooms. Good Breakfast and fairly good Wifi. tip: request to have rooms without a view to the street... even if the room has a good acoustic, it can be noisy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel with excellent location!",
+    "reviewText": "Everything was great starting from the perfect location. Chose this hotel based on reviews and it impressed me that it was better than expected. Location, location! Has everything you need and even nearby from dinning, cafes, a Starbucks for those who need to feel secure. I loved that it has so many cultural areas to visit and how close everything is. I can recommend this hotel to others who look for a perfect balance of location, budget, quietness, or just overall a nice place to stay and not be concerned of your belongings while you are out about. Staff was extremely helpful and knowledgeable which I find is always one of the plus signs in service overall.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Ubicaci��n perfecta",
+    "reviewText": "Excelente ubicacin para conocer el centro histrico de la ciudad de Mxico",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent hotel in downtown",
+    "reviewText": "I loved this hotel the staff is extremely kind. Is value for your money. You are close to Bellas Artes, Zocalo, and all the sights in Mexico's city downtown. The hotel is located in building where the first floor has a food court and some shops, so is very convenient. The parking is cheap for downtown's standards. And you have free wi-fi in all the hotel. Which is great compared to their next door's neighbor (the hilton). I would be back to this hotel whenever I'm in Mexico.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "data",
+    "reviewText": "ok",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "data",
+    "reviewText": "The entrance to the hotel was a bit hidden. But besides that, the staff was very friendly and the room was very spacious and bright. I felt very confortable! The price was very convenient.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great in price, location and excellent service",
+    "reviewText": "it was a great hotel, great location and great service. I was sick and they helped me to get a doctor and were really caring in the time I stayed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location and clean rooms",
+    "reviewText": "Hard to find the entrance and the elevators were confusing but otherwise a great location. Traveling with a 4month old so we were very concerned with cleanliness and safety and on that regard it was perfect. One staff person was a little difficult and the hotel taxi was over priced. We asked about calling another service and she wouldnt offer any help. The wifi signal was also weak. Would stay again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "could be better",
+    "reviewText": "Room was too small. They called it standard. Even the bed was quite short, to make the room appear larger I suppose. I could hear the neighbour's conversation clearly through the wall. The quality of the food and drink at the breakfast buffet was awful. Restaurant staff were awkward and still setting up burners etc. close to 8 a.m. (they open at 6) and therefore in the way.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "In the Heart of CDMX!",
+    "reviewText": "I have yet to have a less than excellent stay in over 6 visits to this hotel in the last 3 years. Rooms are very contemporary, extremely clean, spacious, and most important quiet. We were surprised by the hotel check-in clerk when he offered a jr. suite for no additional cost - BONUS! Wow - large dining table, modern living room furnishings, sliding split door into bedroom is what I expect from larger and more expensive hotels. All the modern amenities you would expect of a 5-star hotel are at this hotel. The 4th floor offers courtesy water and coffee every morning. Room service is also excellent, and prices are quite reasonable in light of the current money exchange rates between pesos and dollars. Housekeeping is quick with delivery for more towels, and hair dryer as requested in our last trip to this hotel. Hotel is located 2 floors above the Parque Alameda Shopping mall with several quick service restaurants you would expect in the U.S., a bank, bookstore, coffee shop, sporting goods store. You could stay in the hotel and visit the shops and spend your weekend there and not be bored, but you would then miss the sights and sounds of Mexico City. Definitely will return soon.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Cerca de todo",
+    "reviewText": "Muy bien atendidos",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent Location",
+    "reviewText": "Three Metro stops nearby and Juarez Park in front. Taxi stop to side of hotel. Convenient location. Would certainly consider it again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, near downtown",
+    "reviewText": "Very clean and comfortable close to every thing we were looking for Excelente tour packages",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend in Mexico City",
+    "reviewText": "We fly to Mexico City from SFO for a 3 day weekend. This hotel is across from the Alameda Park and block from the closest metro station. The Zocalo is long walk but doable. The hotel is next to the Hilton Reforma and Starbucks. The entrance is in the back of a nice little mall with McD, Subway, HSBC bank and small retail stores. The lobby is one floor up with elevators. Hotel room (2 double beds) is very clean and large. We had inside room, no street noise, but can hear baby type cries. There is tourist cabs to take you back to airport and areas in the alley street between Fiesta Inn and Hilton.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Todo excelente",
+    "reviewText": "Personal amable, zona agradable, habitacion amplia y limpia, sin quejas",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Near Historical Center and Museums.",
+    "reviewText": "All very good for a reasonable price very good price/quality coefficient. Somewhat noisy if room faces Juarez St. Only real complaint is computers in business center have problems printing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Fiesta Inn Centro Historico, muy recomendable!!",
+    "reviewText": "La atencin y las instalaciones excelentes!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel, very clean",
+    "reviewText": "Very nice very clean hotel staff was incredibly generous and welcoming will most definitely book again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend in Mexico City",
+    "reviewText": "We fly to Mexico City from SFO for a 3 day weekend. This hotel is across from the Alameda Park and block from the closest metro station. The Zocalo is long walk but doable. The hotel is next to the Hilton Reforma and Starbucks. The entrance is in the back of a nice little mall with McD, Subway, HSBC bank and small retail stores. The lobby is one floor up with elevators. Hotel room (2 double beds) is very clean and large. We had inside room, no street noise, but can hear baby type cries. There is tourist cabs to take you back to airport and areas in the alley street between Fiesta Inn and Hilton.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend in Mexico City",
+    "reviewText": "Some hallways are quite dark. My husband is a little vision handicapped so some halls were too dark for him. The telephone in room was not working properly and was not fixed during our stay. A couple other minor problems were promptly fixed. The room was very soundproof. Restaurant and service were excellent. Room was very clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great customer Service",
+    "reviewText": "Very good for the price. Excellent service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-23T00:00:00.000Z"
+    },
+    "reviewTitle": "very good",
+    "reviewText": "very good all, tks",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "remodelation!",
+    "reviewText": "they were makiing heavy noises all day long from 9 to 6, I had to change hotels it wa sunbearable, will be a good hotel when they finish by 2014!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "A little gem.",
+    "reviewText": "This is a little gem. It doesn't look like a hotel as it is above a small shopping centre but, once there, the hotel is clean and fresh looking with great views. It is very well positioned.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "A little gem.",
+    "reviewText": "This is the second time that I stayed at this hotel. The first time for work, the second for vacations. We were well received by the front desk, and we got our room very fast. The view to Juarez Avenue was really nice and it was a comfortable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Delightful Trip to Mexico",
+    "reviewText": "Good experience in this hotel, very convenient to visit The Palace of Bellas Artes Cathedral and many restaurants around. There is a small shopping center in first floor with some fast food restaurants.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "EXCELENTE SERVICIO",
+    "reviewText": "EXCELENTEMENTE BIEN",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "EXCELENTE SERVICIO",
+    "reviewText": "Stayed here during a conference. The hotel is in a shopping mall of sorts which makes it convenient for dining options. The entrance is a little confusing as the taxis are really found on the side of the hotel. The staff was courteous enough and answered questions that were asked. The hotel room was clean and modern. The beds were comfortable. Housekeeping came daily to clean and change towels. I stayed for four nights and had no complaints.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel in great location",
+    "reviewText": "Great location. Walking distance to all downtown locations. Also stop for the hop on/off buses. Its located in a mall, so has food options on the first floor and of course so many places in walking distance. We were on the 3rd floor and did not have any noise issue. There was no view from the room, but we hardly stayed in. Wifi is patchy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente lugar para hospedarse",
+    "reviewText": "atencion personalizada, todos muy amables, zona tranquila, excelente ubicacin",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente lugar para hospedarse",
+    "reviewText": "Practical,clean, comfortable, reasonably priced and well located hotel. Especially well suited for family vacations",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Right Hotel Right Location",
+    "reviewText": "Great hotel in the heart of it all!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Be sure to have evidence of booking",
+    "reviewText": "The hotel was good but upon arriving at the reception we had to say that we had bought the deal because it said breakfast included and they weren't honoring it at first. I had to show evidence (picture I took) of the booking stating breakfast included. They consulted with their managers and we were told that we were to get breakfast for 2 days instead of 4 which was better than nothing :). Good overall...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������������������������",
+    "reviewText": "The hotel was good but upon arriving at the reception we had to say that we had bought the deal because it said breakfast included and they weren't honoring it at first. I had to show evidence (picture I took) of the booking stating breakfast included. They consulted with their managers and we were told that we were to get breakfast for 2 days instead of 4 which was better than nothing :). Good overall...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "HOTEL MUY RECOMENDABLE",
+    "reviewText": "MUY BIEN, SOLO QUE EL PERSONAL DE LIMPIEZA TE MOLESTA MUY TEMPRANO, LIMPIA MUY TARDE Y NO DEJA COMPLETO LO QUE NECESITAS: TOALLITAS FACIALES, AGUA, KLEENEX, ETC.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������",
+    "reviewText": "2()",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay in Mexico City!",
+    "reviewText": "Great stay in historico Centro! Very close to all tourist sights, walking distance to many and short taxi ride to others. Hotel is modern with large rooms and kept very clean. Front desk helpful with transportation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������",
+    "reviewText": "Great stay in historico Centro! Very close to all tourist sights, walking distance to many and short taxi ride to others. Hotel is modern with large rooms and kept very clean. Front desk helpful with transportation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Buena Atencion",
+    "reviewText": "Muy bien rico l desayunos",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel was very nice.  Excellent location and the r",
+    "reviewText": "It was a great experience the hotel was very nice. The staff as well and the waiters in the restaurant made us feel like royalty. I would come back to the hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Falta mantenimiento para el incremento del costo",
+    "reviewText": "Amento el precio de habitacin por noche pero no la calidad en servicio, mantenimiento y calidad de los alimentos",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel con todas las comodidades, zona recomenda",
+    "reviewText": "Para conocer es un excelente hotel, tiene todo lo necesario para descansar, habitacin es enorme, pero no dispone de nevera.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel con todas las comodidades, zona recomenda",
+    "reviewText": "PERFECTO.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel con todas las comodidades, zona recomenda",
+    "reviewText": "el hotel esta cntrico y te puedes mover hacia varias ubicaciones sin la necesidad de algn otro transporte, ademas de un servicio excelente a mi consideracin.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {

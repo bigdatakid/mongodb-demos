@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Good for the Price",
+    "reviewText": "Rooms are small but clean. Staff is very nice.Have been here on business for 4 weeks and would definitely stay again. Had family come into town unexpectedly and Amber was very helpful in getting me another room on short notice.",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Good for the Price",
+    "reviewText": "it was ok for the price. we had to change out bed sheets upon arrival though",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Clean Hotel Room for a Affordable Price!",
+    "reviewText": "I really enjoyed my stay here! My hotel room was very clean. It was spotless. There were no bugs. The bed and pillows were comfortable. The room also has a refrigerator and microwave, which I love. It's the nicest hotel I have ever stayed in for such a affordable price! The hotel also has free Wi-Fi and a free breakfast (which I didn't try) and vending machines. There is a Dunkin Donuts and Subway in a 5 minute walking distance.",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Clean Hotel Room for a Affordable Price!",
+    "reviewText": "Light sleepers beware! Walls and ceilings are VERY thin. You can hear everything! :(",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-01-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Clean Hotel Room for a Affordable Price!",
+    "reviewText": "The rooms are VERY small.  staff is really friendly!!  Staff outweighs the bad with their friendliness!!! (room does have fridge and microwave, and longest hott showers.. ever! enjoy!)",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Passing through Jacksonville",
+    "reviewText": "We are a family of 5 and need ample space and a clean spot to spend the night as we are passing through to Fort Myers. It is an excellent place for the money, quiet, easy access, clean, and soft beds. Once we got the air conditioning figured out, it took a while to get it to the right temperature,... More",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "My worst hotel EVER - almost.",
+    "reviewText": "I recently booked a one night reservation based on the very good reviews and the reasonable rate. I wanted a hotel near the airport with free stay and fly parking. When we arrived there were several men hanging out in the parking area in front of the lobby area and a homeless looking man in the lobby. Upon entering I... More",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "My worst hotel EVER - almost.",
+    "reviewText": "старый. в номерах есть запах сырости. кровати удобные. слышимость хорошая. wi-fi в номерах работает плохо",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Best hotel",
+    "reviewText": "We had a great stay. The rooms are clean, cool and beds are very comfortable. Convenient for travel specially if you're going to The Beach. Room service is good. Also, the restrooms are clean. The staff are great as well! Will definitely go back and stay here.",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great service clean rooms",
+    "reviewText": "We had a great stay prior to cruising from the Jacksonville Port. Excellent service. The package that included parking and transportation was a perfect. Only drawback is that when we called to ask if they had a pool the front desk clerk who answered laughed at our inquiry. I would have much rather them answer the question honestly and in... More",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {

@@ -1,0 +1,100 @@
+    },
+    "reviewTitle": "Enjoyed my stay!",
+    "reviewText": "Stayed in unit 316 the last week of March 2015. This is a two bedroom, two bath unit with a nice full kitchen and decent sized living room with what looked like new furniture. The whole unit is nicely decorated. The best feature is the rear balcony that overlooks the intercoastal waterway. It spans the width of the unit and... More",
+    "reviewerCity": "Lowell",
+    "reviewerState": "WI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Can holidays get any better than this",
+    "reviewText": "Review: The answer to the title is no if you stay here. What a superbly well decorated, maintained and clean apartment. The complex is immaculate, and the pool so relaxing whilst watching the fabulous wildlife. It is in a great location with a supermarket only a mile away that will meet most people's needs ( Win- Dixie) Barb was a... More",
+    "reviewerCity": "South UK",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great for end of winter getaway",
+    "reviewText": "We have stayed in this resort 5 times over the last 25+ years, starting in 1987. The location on the inland waterway is perfect for those wanting a quiet place to sit by the pool, no crowds walking by, looking at you while you swim. Each unit is separately owned, and we have stayed in 611 and 514. The weather... More",
+    "reviewerCity": "Hamilton",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fc0"
+  },
+  "name": "Innisbrook",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Palm Harbor",
+    "postalCode": "34684",
+    "address": "36750 Us Highway 19 N",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-82.739915, 28.10667]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Hidden Gem",
+    "reviewText": "Great resort between Tampa and the Springs, even if you're not a golfer!!! Staff are all gracious and friendly. Wonderful pools with slides and games throughout the day. Five star dining options, or excellent casual options. No need to leave the resort.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Relax away from home",
+    "reviewText": "This is a yearly trip for us. Always made welcome and friendly staff throughout.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Relax away from home",
+    "reviewText": "Very old resort, stayed on 3rd floor, no elevator, long walk to amenities would not stay here again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Relax away from home",
+    "reviewText": "Excellent",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Our weekend getaway",
+    "reviewText": "We really wish we could've stayed longer! Only a couple of downfalls I will comment on. The dining on site was expensive, but with a resort it is expected. Our room smelled of smoke when we first walked in, by the end of the next day it didn't smell anymore so I assume the previous tenants smoked and that's why it smelled. Someone was able to charge goofballs to our room number at the golf course, it was not a hassle to get it refunded but I didn't realize until after check out and after I paid the bill. Also, everything closes at 7-8 pm. Even the pool, when we asked Jackie Check - in why the pool closes so early, she said technically you can still get in but security might ask you to leave. Why go in then (We didn't by the way) We loved the kitchenette. We were able to cook one night and eat in. It was basically like having a mini apartment while staying there. The pool and spa was very nice. I used the fitness center and it was great, the equipment was in good shape. The golf course was awesome as well. They have a gold pro on site every morning at 10 am for 30 an hour for lessons. You can also rent bikes on site. It was very secluded and very quiet. We went and kayaked out at honeymoon island. It was so fun and only a 10 min drive down the road.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "everything was so very nice",

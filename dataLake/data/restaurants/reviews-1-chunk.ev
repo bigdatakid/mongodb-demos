@@ -1,0 +1,1000 @@
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room, location, and stay!",
+    "reviewText": "One night stay on our Route 66 tour, nicely looked after by reception, nice big room which was clean, good size bathroom and comfortable nights sleep.",
+    "reviewerCity": "Roland",
+    "reviewerState": "TN",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40b1"
+  },
+  "name": "Mirazur Plus San Marcos Inn",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Morro Bay",
+    "postalCode": "93442",
+    "address": "250 Pacific St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-120.851159, 35.364612]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Very Nice",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "Carlisle",
+    "reviewerState": "CA",
+    "reviewRating": 6
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "It's an older building but has a lot of character.",
+    "reviewText": "The carpets were so dirty, our feet were black after walking across the rooms! There is no a/c, but there are balconies with sliding doors. The problem was the locks on the screen doors didn't work. Traveling with toddlers, we couldn't leave the sliders open, so the room was very stuffy. I wouldn't recommend this hotel. They are undergoing renovations, so it may be okay in the future.",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Forget this one!",
+    "reviewText": "First of all, know that there is no air conditioning in this hotel. Unless you can get a west facing room, it's going to be uncomfortable in the room. Tired and needs work. As for the wine in the afternoon, nice for them to provide but quality lacking in their selections. Only good part going for this hotel is its... More",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel w many amenities, easy walk to Embarcadero",
+    "reviewText": "Run down",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't understand the PLUS rating",
+    "reviewText": "This motel is mediocre at best. Customer service is almost non existent. Screen door fell off our patio door located basically in front of the office and no one considered repairing it for 3 days. Empty beer bottles left in elevator lobby fot two days, were still there when we checked out. Less than helpful front desk staff.",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Avocado Margarita Festival",
+    "reviewText": "Worse Hotel Ever! Never Again! Mirazur Use to have A Great hotel Rating now it's getting very bad poor!! No shower curtain in Room water every where hotel smelled Mold bad! No air ventilation!! Shower floor feel wobbly felt like floor was going to cave in! Front desk male young clerk was rude unprofessional plus smoking... More",
+    "reviewerCity": "Carlisle",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "consider something else",
+    "reviewText": "Very old facility. Very noisy because of the horrible layout. Complementary breakfast was poor and served in a room that can fit no more than 10 people.. Room was ugly (bed, bath, ...). The only thing I save is the location... but the place is so small that it's not really difficult to be near the shops, restaurants and Morro rock... you can likely find a better deal for the same (low) quality.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Forget this one!",
+    "reviewText": "The room smelled of pine sole. and was Plain, boring and old.",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Too hot to rest",
+    "reviewText": "The room did not have air conditioning so the room got hot at night.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "OVERpriced!",
+    "reviewText": "Way overpriced (268) per night for a very old and dated facility. Not even quaint. Sloppily painted around door frames and lift. The listing for having a pool is really an oversized hot tub with no bathrooms. Parking was very narrow. No air conditioning. Pictures are deceiving. Not impressed for the price!",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "we sweat to death for 2 nights",
+    "reviewText": "This is the very FIRST we went to the coast and I didn't freeze because of the breeze, I know has been very hot. Because it has been HOT you would think the hotel would have been prepared. The fan ceiling (in the corner - not in the center of the room where it MIGHT have done some good), was... More",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Musty smell throughout the hotel - way overpriced!",
+    "reviewText": "The hotel is severely needing updates..there is a musty mouldy smell throughout..basic cleanliness..really unimpressed and feel we overpaid for the room. No air conditioning. Would definitely not return or recommend until the badly needed renos have been completed.",
+    "reviewerCity": "Montreal",
+    "reviewerState": "NC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location, but no air conditioning",
+    "reviewText": "It never occurred to me to make sure this hotel's rooms had air conditioning. It's something I've always assumed was standard, esp. for a Mirazur. The room had a ceiling fan, and a sliding glass door with a screen door. There was one small window in the bathroom that opened into the hotel hallway/atrium. The bathroom didn't have a vent fan. So I had to leave the bathroom window open, and yes, anyone walking down the hallway could hear a person doing their business through the bathroom window. From now on when I book a hotel I will make sure fully air conditioned is one of the room amenities.",
+    "reviewerCity": "Mount Shasta",
+    "reviewerState": "NC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Family weekend vacation",
+    "reviewText": "Room had window into room that would not lock. Toilet leaked at the floor so bad that water filled the bathroom and staff finally moved us to another room. Toilet paper and kleenex is so cheap that we went to the market to buy our own. Location is good however hotel needs help.",
+    "reviewerCity": "Visalia",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Not so happy.",
+    "reviewText": "It is under construction but that didn't bother me. It was the bathroom. Yuck. It was poorly laid out. The shower head drizzled. The shower leaked water every where. No bathroom fan. Rooms do not have air conditioning. Pay the extra 10 a night for a view. Our view was of an old falling apart building. People above us were extremely loud. Hard to park with an suv. Parking spaces were small. Breakfast wasn't replenished. So if you weren't there when it started, you had to get your own. If I were to pick again, I wouldn't stay here.",
+    "reviewerCity": "Visalia",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Very outdated , No A.C., Loud. Misleading pictures on site.",
+    "reviewText": "Would never stay there again. We spent one night then went a few doors down to a much better hotel with A.C. and no odors. Plus it was 40.00 cheaper. I feel the hotels pictures are misleading.. Not as nice as the pictures look.",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "No air and ...",
+    "reviewText": "It is nice hotel, clean and comfortable unless you are in the inland side. It has been a long time since I stayed in a hotel where the air was to open your balcony sliding window. My wife roasted and we were at the beach. It would have been cooler at the front of the building",
+    "reviewerCity": "Del Mar",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Find something else for the same money",
+    "reviewText": "We used the hotel as a stopover going from Monterey to Santa Barbara - and came late evening and headed of early morning. Room booked 5 months in advance to a rate of total 306 for two queen beds in one room. As such the hotel is nicely located with a view of Morro Rock, and within walking distance to... More",
+    "reviewerCity": "Soborg",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Sink overflows with sludge",
+    "reviewText": "The sink filled with horrible black sludge when the upstairs room took showers. The desk was notified and they did not act on it immediately. We used towels to stop it from going all over the floor in the bathroom. It took over an hour for them to call maintenance and then another hour for them to get there. The room smelled of chemicals and was nauseating to be in the room. They did finally deduct one night's stay after finally seeing a picture of the sink as it was overflowing.",
+    "reviewerCity": "Hanford",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Very outdated - in need of a make over",
+    "reviewText": "We were disappointed that we didn't have an air conditioner, the ceiling fan was noisy and over in one corner of the room. We left the sliding door open as we had a sea view room and all we heard was the fog alarm and the sea lions. Thought that this was very expensive accommodation for what you got.",
+    "reviewerCity": "Orange",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean but dated.",
+    "reviewText": "I thought it was a cute small hotel in a marina community, but I thought the rooms were really dated. Also the bathroom window is int he hall way that other people are walking by to there room. That was a little weird. The staff was very friendly, but I paid over 300 for a night, so I can definitely... More",
+    "reviewerCity": "Orange",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Very disappointed",
+    "reviewText": "The Mirazur San Marco is not with the stay. We were driving up the coast and decided to stop in Morro Bay. This was more of a convenience stop as opposed to a destination stop. The hotel is just a block away from the beach so it's convenient however the rooms don't have air conditioning which is very odd... More",
+    "reviewerCity": "Orange",
+    "reviewerState": "CA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Mean Front Desk",
+    "reviewText": "Hotel was fine. Front desk people were a little rude. I felt when i asked for something they kind of mean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Average stay",
+    "reviewText": "Excellent location. Old and tired building and room. This place definitely needs an upgrade desperately. Rooms are smaller than average hotel room and bathroom/ shower is cramped. No bathtub provided and it's standing shower only. Breakfast is lacking at best. Dining room is small and cramped. Wifi is unreliable and slow. Carpet in the room was very dirty and had... More",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Old Hotel",
+    "reviewText": "Old hotel that was in need of some improvements. Nice touch with the free wine tasting and cheese.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice but different Mirazur stay",
+    "reviewText": "The room was a bit warm as we could not find thermostat. We open the window and used the overhead fan. Staff was very friendly and helpful. Breakfast was nice. The location is spectacular. The Spa tub had a wonderful view of Morro Bay",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "A little funky, but had its good points.",
+    "reviewText": "Room was clean but the hotel wasn't in great shape. The stairway outside our room was full of construction materials. Looks like there had been some painting done but left unfinished. Neighborhood seemed a little sketchy when coming in at night, but the hotel was very close to the beach.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "beds",
+    "reviewText": "better matresses- kill the mold. Location good. appearance good. Male staffer wrinkled shirt and no sense of humor-small eating area- wine-cheese - nice touch. Standard sugar breakfast- try better health options in the future",
+    "reviewerCity": "Montreal",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-09T00:00:00.000Z"
+    },
+    "reviewTitle": "DG",
+    "reviewText": "Pros: Great location (a block from the Embarcadero) and view (Bay side balcony). Pleasant, friendly and helpful staff. Cons: Uncomfortable bed without a mattress pad or pillow-top over hard springs. WiFi was intermittent. Warm days during stay. No A/C in room and the room was warm/hot if we were relaxing during the daytime.",
+    "reviewerCity": "Mount Shasta",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Past History",
+    "reviewText": "The employee at the desk (Angela) has no people skills and seemed to be bothered when having to assist us.",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Walk to the ocean",
+    "reviewText": "The noise from the other rooms kept us up all night. Could hear the other guests tv through the walls.",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Has potential....",
+    "reviewText": "Stayed one night at the beginning of August, as a friend and I were planning to visit Hearst Castle the next day. I'm glad that I'd booked balcony rooms with an ocean view for two reasons: the great view of Morro Rock and the chance to catch a bit of ocean breeze...though the latter ultimately proved fruitless, as I had... More",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Well placed hotel but could do with a lick of paint",
+    "reviewText": "This hotel is near the sea and places to eat so is ideally placed for having a look round and eating. Not much parking - it was full when we arrived. The room was nice but quite hot as there is no A/C but we were fine. The rooms are clean etc but the bathroom needs an upgrade and the... More",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't understand the PLUS rating",
+    "reviewText": "An older hotel that you can tell they're trying to remodel. The bathroom in our room was gross, old and the shower liner needed to be replaced very badly. The hotel parking was awful, especially on the weekend. The hotel staff was extremely nice and the hotel was pretty quiet at night which was nice.",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Pros and Cons",
+    "reviewText": "This place had pros and cons. Pros- Nice that there was a printer and computer in the lobby was great! The location was great- very near to the beach, very central to all wineries, beaches, and town. The price was good for a two night quick stay. Cons- It was very loud, you could hear your next door neighbors. They... More",
+    "reviewerCity": "Los Angeles",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Not on the Ocean - just a view",
+    "reviewText": "The property is average for above average pricing. You can drive a bit further and find nicer properties. No air conditioning, the furnishings are dated, but clean, the property is cramped, not ocean front, there is an ocean view, over priced for the hotel.",
+    "reviewerCity": "orlando FL",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "No Air-conditioning",
+    "reviewText": "Beware, no air! And, no ground floor rooms. The room was stuffy without much of a breeze and the ceiling fan helped very little. Dated property but the lobby was very nice. Location great for walking down to beach and you can't beat the sunset! We enjoyed their wine and cheese reception at 5:00, which was a very nice touch.... More",
+    "reviewerCity": "Hanford",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Need AC Units",
+    "reviewText": "Love this Hotel, except need AC units. Did not sleep well. Bed was also to soft not good on our backs. Staff was friendly. When they get AC units I think this hotel will be a great price and will have it all.",
+    "reviewerCity": "Orange",
+    "reviewerState": "CA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Nice hotel with pretty great perks, close to the beach. The staff was really accommodating and the room was very clean. Just needs to be modernized a but, which I believe they're doing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, but no A/C",
+    "reviewText": "This hotel was nice. Staff was great, room was clean, breakfast was delicious. It's slightly odd in its design, but our room was nice. The thing that threw me was that there is no A/C in the room. Which, in Early June is not really a huge problem. But I DO NOT like to be hot when I sleep and so I had to keep the patio door open while I slept. That was scary. Otherwise-liked it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "It Worked For Us",
+    "reviewText": "The hotel is in the tourist part of town and walking distance to Morro Rock, which we wanted. There are many other similar hotels nearby. They're beach-funky rather than glamorous, and we've stayed in others. The staff here was great. We were very pleased with the complimentary breakfast, and the hot tub. The room had a few problems which I alerted them to. We had party-noisy neighbors on one side, and I had to call the desk about them one night. I heard the neighbor receive the call and they quieted down. The hotel was getting a face lift while we were there. The weirdest thing was that all the rooms' bathroom windows face the hallway outside the rooms. But overall we had a good experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel/Cheese and Wine great!",
+    "reviewText": "Caring staff upon check-in. The Hotel is very close to the bay and the views are great! Though the room had no AC, it was not really needed this time of year. Loved the cheese and wine evening at the hotel. They allow a later check-out in the event that you needed to sleep in a little longer.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Small town hospitality at it's finest!",
+    "reviewText": "Staff was extremely helpful really made are stay a delight! Even though it was being renovated inside (ladders/wet paint signs), it wasn't loud. The workers were even very polite and respectful as we walked thru. (they were almost done too) The whole area is unique and relaxing!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-18T00:00:00.000Z"
+    },
+    "reviewTitle": "It's an older building but has a lot of character.",
+    "reviewText": "The hotel is older and they were paint the halls while we were there. The room are on the smaller side but the ceiling fans and sliders with small balcony help with stuff air feeling. Yes, older hotel but it has character! No pool but the spa is very large which the kids enjoyed. Breakfast options were typical but nice. The hotel is on the smaller side so it makes it nice for not a lot of foot traffic in the halls and breakfast.",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Mirazur San Marcos Inn Morro Bay ROCKS!",
+    "reviewText": "This hotel is in a great location relative to all of the Beach activity and stores. Its nice to be able to comfortably walk to the main events. You will have to drive to Morro Rock and The State Beach but there's plenty of parking and its an easy drive. Morro Bay is a great vacation destination and really a beach community. The San Marcos Mirazur was delightful, offered a generous continental breakfast and wine and cheese every evening. Make sure you get an Ocean Bay View room there is no air conditioning and on the ocean side you do not need it. There's so much to do, The Hearst Castle, Cambria, walk along the Boardwalk to view The Elephant Seals on and on it goes you cant get bored and all of it invites you to relax enjoying the beautiful Central Coast of California. Oh and yes WINE, and more wine Vineyards close by. That really helps in the relaxation mode. HAVE FUN! We are going back!",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "enjoyable stay",
+    "reviewText": "Very good for the price. I prefer Mirazur, as they're not cookie cutter hotels. Wine cheese nice touch. This place needs spiffing up: dead circuit, dim light in ceiling fan. It seems a bit disingenuous to claim that Mother Nature provides the air conditioning as temperatures rarely go above 75. Not so, especially in the west facing rooms.",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "enjoyable stay",
+    "reviewText": "great value. Clean, comfortable room",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Very friendly staff. Including your morning buffet staff.",
+    "reviewText": "We had traveled by car from Asheville North Carolina and had stayed in many hotels and motels in several different states. I can tell you that this was a really Nice Motel to stay in. Had a wonderful friendly and knowledgable staff. Had a easy access to walk for great views. the room and surroundings were very neat and clean... More",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay",
+    "reviewText": "Our room was not air conditioned. Normally, it is not needed but we were in a heat wave, so the room was a little warm. Everything else was fine. The motel is 2 blocks from the Embarcadero and close to many shops, restaurants and attraction. We will not hesitate to come here again.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Morro Bay stay",
+    "reviewText": "We had a nice stay. The room was clean, the bed was comfortable.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "We really liked it",
+    "reviewText": "Compliant: no a/c but in the area you'll find that to be pretty common. Breakfast is okay, don't expect cooked to order food, but better than just pastries and granola bars. Happy hour is nice touch. Cable gets quite a few stations. Location was great for us: easy highway access and plenty of things to do within walking distance. We'll come back someday hopefully. Room was comfy (just very warm) . Don't forget about the jacuzzi. Staff was excellent.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Charming Hotel",
+    "reviewText": "One of the very few hotels without AC, just sea breezes. Another fan would have been helpful. But being able to walk down to the waterfront was a plus, and the wine and cheese in the lobby was delightful!",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Charming Hotel",
+    "reviewText": "My wife and I headed up to Hearst Castle and needed a place to stay the night. No complaints for the price. We were only there to sleep and leave first thing in the morning.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Very satisfied",
+    "reviewText": "We had a wonderful time. The hotel is older and needs a little updating. Service was excellent and location was super- all for a very reasonable cost. Overall we are very happy with our stay and would book again!",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "great get-a-way",
+    "reviewText": "Served it's purpose great. Glad to see they are updating it. It needs it.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location/view but building needs a cleaning",
+    "reviewText": "Good",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Office closes at 11",
+    "reviewText": "Checked in late and my room key was in a lock box previously arranged. The office closed at 11PM. Room was nice and fit Morro Bay ambiance old. People were friendly. The room was a bit noisy but ok. Would stay again.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "More for adults",
+    "reviewText": "The location was great...a short walk to the pier action. As stated by others, there is no air conditioning and though our room had a balcony and door that faced the bay, it was still muggy in our room. And be prepared to be quiet. Within 5 minutes of arriving, we were scolded by our neighbors. We had three young... More",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Walking distance from restaurants",
+    "reviewText": "Great location. Room was clean and beds comfortable. The afternoon complementary wine and cheese was wonderful. I would have given them 5stars but the hallway smelled terrible, maybe since they were painting the walls.",
+    "reviewerCity": "Montreal",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel w many amenities, easy walk to Embarcadero",
+    "reviewText": "Very nice area and view of the harbor. Nice staff. Local wine and cheese plate was a bonus.",
+    "reviewerCity": "Montreal",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Family weekend vacation",
+    "reviewText": "WE met with family for the weekend.",
+    "reviewerCity": "Visalia",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Time",
+    "reviewText": "I believe this hotel had everything for a great weekend getaway....location, location, location. And great parking! Friendly Staff..Best view of the ocean by far. It was good time! The room was clean and nice ...slightly pricey for the weekend rates...",
+    "reviewerCity": "Visalia",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely Old School Hotel...",
+    "reviewText": "The hotel staff was fantastic... as were the generous wine and cheese spread from 5-7pm and the breakfast in the morning! The hotel is a little older, but the rooms were clean and spacious and the bed was comfy. We had a beautiful view of the bay and enjoyed using the big jacuzzi in the glass enclosed spa room... overall I would recommend this hotel and go back again, even though it could use a little updating.",
+    "reviewerCity": "Visalia",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Accommodating to Schedules",
+    "reviewText": "Our visit to Morro Bay was to participate in an organized bike ride. We intended to start earlier than the scheduled time for the breakfast. When the staff became aware of that, they made arrangements to have both the refrigerated and other foods available for us before we retired so we could keep them in our room refrigerators so they would could have breakfast before the ride. I also thought I'd left a pair of shoes (turned out I had them) and Angela went out of her way to check and double check the room and lost and found for them.",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Walk to the ocean",
+    "reviewText": "Great location for waling to restaurants, waterfront park, wine tasting (3), boat rentals, aquarium, etc. All that Morro Bay has to offer. The tailend of a tropical storm had just passed through so it was hot (high 70's/low 80's) and humid so the lack of air conditioning was the only drawback.Because it was hot it was noisy due to people... More",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Walk to the ocean",
+    "reviewText": "Expedia had that this hotel had in-room AC and it does not.",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Walk to the ocean",
+    "reviewText": "Great location--nice views from ocean side rooms. Bathroom too small and hot water erratic.",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-25T00:00:00.000Z"
+    },
+    "reviewTitle": "A peaceful little town - Morro Bay.",
+    "reviewText": "It's a peaceful little town by pacific ocean and a good place to get peaceful mind.",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful location",
+    "reviewText": "Loved it. Especially wine and cheese happy hour. So close to bay area and great view. Adjoining rooms for my son daughter in law and new grandbaby",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "We arrived late and check in was quick and easy. Our room was on the second floor and we loved the balcony and view of Morro Bay. Our kids had breakfast and really enjoyed the choices there. We will be back!",
+    "reviewerCity": "Fresno",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay on 3rd floor facing Morro Rock",
+    "reviewText": "The best thing about this hotel is the view from a 3rd floor view room of the Morro Rock. We stayed 2 nights and one night / sunset was beautiful and the early morning light shining directly on the rock was crystal clear and postcard perfect. The second day was very foggy and we could not see the rock so... More",
+    "reviewerCity": "Del Mar",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "A little older, but friendly accommodating staff",
+    "reviewText": "Stayed with a group, then hung around a day on my own. Very accommodating staff, very nice breakfast with protein for a change, not all carbohydrates. Sausage/egg sandwiches, waffles, all the essentials. The room was clean, though showing its age a bit with water damage to the wall outside the walk-in (!) shower, and stucco looking walls. renovation was going... More",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Holding their own in a town full of places to stay.",
+    "reviewText": "The Mirazur Plus San Marcos Inn is trading on Spanish motif curb appeal and features balconies and sheltered stall parking. A weekend visitor will hear street noise at night if sea breeze is desired. The sea breeze is best on the West facing rooms. East facing rooms get a cross breeze that starts in the enclosed hotel lobby and... More",
+    "reviewerCity": "orlando FL",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "DeStress",
+    "reviewText": "I stop at Morro Bay as a half way point. I usually stay at this hotel because they give me points, it has a great view, and it is close to things I like to do so I can just walk to them. I used my points this trip and was dissapointed that if I wanted that great view I... More",
+    "reviewerCity": "Orangevale",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Location",
+    "reviewText": "The hotel is in an excellent location in Morro bay. We had a good view of the rock from our top floor room. It is close to the sea front where there are several gift shops, places to eat and just generally wander around in a very relaxed and friendly port. The walk to the Rock is great with boats... More",
+    "reviewerCity": "Carlisle",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick stop on way to the airport",
+    "reviewText": "The hotel is nice but not a PLUS. It is clean, safe and has a satisfactory breakfast. I would stay again for the same purpose but not for longer period of time since there wasn't much going on in the location and the restaurants close up early and the shops open mid morning.",
+    "reviewerCity": "Carlisle",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "San Fran trip",
+    "reviewText": "Had room 333. Exceptional views and was very pleasant. Staff was great and would stay here again. No air conditioning but with breeze from ocean was not a problem keeping cool. Staff even provided sparkling cider in our room with beautiful note to celebrate our anniversary.",
+    "reviewerCity": "Carlisle",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasantly surprised",
+    "reviewText": "We enjoyed our stay at the San Marcos Inn. The room was comfortable, quiet, and a quick walk in two different directions to the quaint shops that make up Morro Bay. We found this on Hotelcoupons.com, which gave us a great room rate, and we were quite pleased with our experience.",
+    "reviewerCity": "Carlisle",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly service",
+    "reviewText": "I had a spur of the moment stay here, late on a Thursday. The staff was most helpful, the room nice and clean, ocean view. As a drop in, I was given a very good rate and enjoyed time on the balcony with the ocean view. There was no AC but there were two fans which proved adequate because leaving... More",
+    "reviewerCity": "Carlisle",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Great Hotel Would definitely Stay again. Great View of Morro Bay From the Hotel. The Hotel It self has a Nice set Up except That the rooms had no AC. Lots of Stores Within walking distance. Would recommend this hotel to a friend. Planning on returning and taking a vacation there",
+    "reviewerCity": "Carlisle",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great town an an excellent place and price was great!!!",
+    "reviewText": "It is a real nice Hotel great people and close too the ocean. Plenty of eating places that you can walk to and a lot of interesting things to see. If its real hot out ask for a fan as its not AC ed . But still real nice place. They have a free cheese and wine tasting in the... More",
+    "reviewerCity": "Hanford",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel in a great location",
+    "reviewText": "We were very happy with our stay at the San Marcos. Our room offered a great view from the balcony and we found the staff to be welcoming and cheerful. The hotel is in a great location within an easy walk to a huge choice of restaurants and shops. The beds were comfortable, the room was clean and the wifi... More",
+    "reviewerCity": "Hanford",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Loved that a hotel with a good price was within walking distance to the Embarcadero and all the shops and restaurants. Usually, not having A/C in Morro Bay shouldn't be a problem, because the weather is so mild. However, the first day we were there, it was particularly humid. So we didn't sleep very well that night. The following night,... More",
+    "reviewerCity": "Hanford",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Location-Remodeled Rooms",
+    "reviewText": "This is an older location in the heart of Morro Bay. The location was good for my husband and me, as we were in town to visit family in nearby Los Osos. The rooms have been recently remodeled, and are in great shape, including the bathrooms. Our room was very clean and comfortable. We had what they call a City... More",
+    "reviewerCity": "Orange",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect location -- very clean",
+    "reviewText": "Took a chance and stayed in Morro Bay, CA. What a great decision! The San Marcos is only two blocks from the main town center and has a great view of Morro Rock (ask for a west-facing room for the best view). Great natural beach, nature trails and biking available. Just an average continental breakfast, however our stay included a... More",
+    "reviewerCity": "Orange",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "nice",
+    "reviewText": "For 242.00 wasn't worth the money. Had to pay just because of location.",
+    "reviewerCity": "Orange",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Better than we expected!",
+    "reviewText": "We really enjoyed our stay. It exceeded our expectations, and we will be staying here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Service for Great Price",
+    "reviewText": "BW San Marcos is one of the hotels we always enjoy staying. The spa is spacious, wine and cheese evenings relaxing, and the breakfast always very good. It is the best during rainy weather, having sheltered parking leading to the enclosed hotel space.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Visit to Orange County",
+    "reviewText": "Very comfortable and very quiet",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Average stay",
+    "reviewText": "Wonderful!",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-27T00:00:00.000Z"
+    },
+    "reviewTitle": "would more than likely stay again",
+    "reviewText": "great wine, crackers and cheese at 5 PM, waffles for breakfast",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Location",
+    "reviewText": "Great location, walking distance to Main St or Embarcadero.",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend trip.",
+    "reviewText": "Very accommodating. Jennifer the evening clerk was very helpful. We had forgot our cell phone charger and she helped us out.Loved the hot tub.",
+    "reviewerCity": "Bakersfield",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "great get-a-way",
+    "reviewText": "Enjoyed some family time. It was a great little get-a-way and very relaxing.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place on route 1",
+    "reviewText": "We stopped in this motel on the way between SF and LA around 7pm. There were complimentary 3 kinds of cheese, tea, coffee, cakes. The breakfast is good and there is no need to go to restaurants instead: cookies, juices, tea, coffee, eggs, cheese, etc. Walking distance to marina where live sea elephants and you will find many shops and restaurants. I avoid the use of conditioners and for fresh air in night, I opened the small window in the bathroom and the door therein. That small window opens into the spacious hall (like atrium) with cool pleasant air. I am not sure whether the big outer window could be opened but I had no need doing that.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "we sweat to death for 2 nights",
+    "reviewText": "Overall it was good but there's no air conditioner.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable",
+    "reviewText": "Front desk was nice when we got there earlier than check in. They immediately checked our room status and told us it would only be another 20 minutes. Comfortable bed. Was a little worried about no a/c but of course the weather was nice enough it was not needed. Very clean would stay again.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 5

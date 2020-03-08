@@ -1,0 +1,100 @@
+    },
+    "reviewTitle": "Malas y viejas instalaciones/buena ubicación",
+    "reviewText": "Mala e irrepetible",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible Hotel",
+    "reviewText": "Do not book at this Hotel! The hotel is dirty, run down, and falling apart! The pictures on line do not look anything like the rooms once you get there! The lock On our room did not even work right! We did not stay at all! We went to the Travel Lodge AT\u0026T Center instead and had a wonderful stay!",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Es mejor gastar un poco más y elegir otra opción",
+    "reviewText": "Habitación muy sucia, con cucarachas, tina de baño manchada, huelen mal en general el cuarto. En recepción no hablan español, lo que dificulta las quejas para latino que no habla Ingles.",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Es mejor gastar un poco más y elegir otra opción",
+    "reviewText": "Me figuré que era algo mejor. Muy sucio el hotel. Lastimosamente uno online no se da cuenta de muchas cosas sobre la higiene del lugar y otras cosas...",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "excelent",
+    "reviewText": "i had a great rest In a very clean and friendly place customer service was very helpful and would stay here again",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "horrible place to stay",
+    "reviewText": "Its was horrible I will never go back. The day we left I paid for another night we ended up getting into a argument with them and they would not refund my money",
+    "reviewerCity": "",
+    "reviewerState": "san Antonio tx",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fcf"
+  },
+  "name": "Hyatt Place San Antonio Airport - Quarry Market",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "San Antonio",
+    "postalCode": "78216",
+    "address": "7615 Jones Maltsberger Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-98.48179, 29.50357]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "get in and out quickly by parking in the back. unlike most hotels the lobby is just as close when from the backside of the building.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Bathroom very small",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very comfortable and quiet. Right off the freeway. Easy access to sites in San Antonio without being right in the center of all the action.",

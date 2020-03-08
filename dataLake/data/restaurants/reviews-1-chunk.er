@@ -1,0 +1,1000 @@
+    "reviewTitle": "Totally depressing, back to the 50s.",
+    "reviewText": "The building is from the 40s or 50s. Rooms are small, Furniture is stained and dirty, mold in bathroom grout. Bed is soft and saggy. Things are falling apart in the rooms. Stay next door at the Hilton Garden Inn",
+    "reviewerCity": "Crestwood",
+    "reviewerState": "WA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Homewood Suites",
+    "reviewText": "Enjoyed our stay. Employees very helpful and courteous. My only complaint was that the mattress was not of the quality that we have experienced in other Hilton Hotels. The Social was a pleasant surprise and enjoyed it.",
+    "reviewerCity": "Farmington",
+    "reviewerState": "WA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Business trip to ABQ",
+    "reviewText": "Friendly and helpful staff. Very clean facilities. Very good selection of complimentary breakfast items. Small but effective gym (treadmill, StairMaster, bench dumbbells up to 30 lb., exercise ball and mats).",
+    "reviewerCity": "NYC",
+    "reviewerState": "WA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay",
+    "reviewText": "The rooms were a nice size and very clean. We had a suite with a stove fridge and microwave. The breakfast was great. Mon - Thursday they also do an evening social with food which is fantastic. The only downside is pool hours. I wish it opened earlier and stayed open later.",
+    "reviewerCity": "Las Cruces",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "a good place to stay",
+    "reviewText": "quiet. efficient and friendly staff. clean, rooms are comfortable, good breakfast, prompt desk service. location suited us, parking was ample, kitchenette is well equipped, good sound proofing, quiet elevator,",
+    "reviewerCity": "Las Cruces",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "A great Place",
+    "reviewText": "Hotel is Great and also is Quiet and Clean, we Will continue using this Hotel without a doubt. Will also recommend to friends as a great place and the Price is right. Thank You for repeated good stays.",
+    "reviewerCity": "Springer",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place!",
+    "reviewText": "Staff at this hotel was friendly and room was impeccably clean! It was nice to sleep on a comfortable king size bed. Breakfast was delicious as it seems like they offered some unique items. Definitely recommended!",
+    "reviewerCity": "Albuquerque",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-26T00:00:00.000Z"
+    },
+    "reviewTitle": "THE FOOD SUCKED...................",
+    "reviewText": "The Dinner was beyond bad not sure what Mystery meat was but OMG! It looked bad and no way was I going to taste it called it's all greek to me it sure was bad and the staff in kitchen had their hands in and out of food eating from serving dishes without gloved Nasty.",
+    "reviewerCity": "Garden Grove",
+    "reviewerState": "NM",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "In Albuquerque stay here",
+    "reviewText": "A friendly, clean, comfortable, convenient stay in Albuquerque. I will be back. The staff make a huge impact on my stay be being friendly and taking care to be sure I was comfortable. Morning and evening meals are super convenient and save time and money. The location is safe and convenient to everything I needed while in town.",
+    "reviewerCity": "Orlando",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place",
+    "reviewText": "I would stay at another hotel based on the points this one takes compared to other hotels in Albuquerque... All in all this is a nice hotel always happy with the Hilton honors brand... Centrally located had a good night sleep.",
+    "reviewerCity": "Anthony",
+    "reviewerState": "NM",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "First stay at Homewood",
+    "reviewText": "This was my first stay at Homewood. Service was good and rooms were clean. Facility provide most niceties and was well maintained. Parking is minimal due to govt. building on East side. Complimentary internet and breakfast are on par with most hotels that offer these options. Homewood could stand out by improving the mediocre internet speed and breakfast quality, but... More",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "NM",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de409f"
+  },
+  "name": "Microtel Inn By Wyndham Southern Pines",
+  "categories": ["Hotels", "Hotel"],
+  "location": {
+    "country": "US",
+    "state": "NC",
+    "city": "Southern Pines",
+    "postalCode": "28387",
+    "address": "205 Windstar Pl",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-79.410489, 35.159924]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice for the price.",
+    "reviewText": "Good deal, breakfast was not great but clean room, fridge, free wifi, inexpensive, can't complain.",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "great stay",
+    "reviewText": "I always stay at this particular hotel when I'm in town. The staff is very friendly and courteous.",
+    "reviewerCity": "Eight Mile",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "The noise level at night made it difficult to sleep at...",
+    "reviewText": "The noise level at night made it difficult to sleep at night. The room was never vacuumed for the 5 nights we were there. We had to ask for towels everyday and the beds were barely made - some days the covers were literally just thrown on the bed.",
+    "reviewerCity": "Hamilton",
+    "reviewerState": "AL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-10T00:00:00.000Z"
+    },
+    "reviewTitle": "We stayed here for two weeks and it was a VERY pleasant experience. John Holton took made it very comfortable for us.",
+    "reviewText": "Loved the lighting in the rooms. I could actually lay on the bed and read a book - not always easy in BB's and hotels/motels. Loved having a washer and dryer available. We were very comfortable. Loved that there was always someone at the desk that could answers questions about the Southern Pines area. Atmosphere very friendly. We would definitely... More",
+    "reviewerCity": "bayhead",
+    "reviewerState": "AL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, friendly, safe",
+    "reviewText": "I was very pleased with the clerk who checked me in. He was courteous and thorough and provided valuable information concerning the surrounding area. Room was clean and fresh.",
+    "reviewerCity": "Southern Pines",
+    "reviewerState": "AL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "nasty",
+    "reviewText": "Stains on everything. Nothing looked clean. There was about 15 rooms rented by our group. 1 room had beds changed 3 times and still was stained. Everyone commented how far it had gone down in last 2 year. Ugh",
+    "reviewerCity": "tyner",
+    "reviewerState": "AL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend visit",
+    "reviewText": "My husband and I visited your Inn over the weekend. Everyone was so resourceful. The room was clean and comfortable. We plan to stay there we ever we bust Southern Pines.",
+    "reviewerCity": "Southern Pines",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Microtel, Southern Pines has made my hard work trip very comfortable.",
+    "reviewText": "I have been here 4 weeks and have 2 more to go. The employees are professional, polite, helpful, and trust worthy. My job is travel demanding. I have stayed in a lot of hotels all over the country and have never felt more comfortable living in a hotel. John and his staff have went above and beyond to make sure... More",
+    "reviewerCity": "Southern Pines",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40a0"
+  },
+  "name": "Days Inn West Memphis",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AR",
+    "city": "West Memphis",
+    "postalCode": "72301",
+    "address": "1100 Ingram Blvd/i 40",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.15817, 35.160223]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Mediocre at best",
+    "reviewText": "Not a great hotel. Dirty, not a great neighborhood. Good Mexican restaurant attached. Pet friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Mediocre at best",
+    "reviewText": "We stayed there while going to a concert at Mud Island. Easy access to the venue at an affordable cost. Not a bad spot for that kind of trip.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "3day stay at a great rate",
+    "reviewText": "My stay was great! Breakfast was free but nothing appealing. I recommend fresh fruit (apples, bananas, cereal bagels) js other than that it wasore than I expected. The location was perfect.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-13T00:00:00.000Z"
+    },
+    "reviewTitle": "OK for one night. Bathroom needs to be improved",
+    "reviewText": "It was very uncomfortable for my husband and to have a room with NO door or enclosure for the bathroom. The area with the shower, stool and sink was totally open to the rest of the room. The recliner and table in front of the tv was very nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "OK for one night. Bathroom needs to be improved",
+    "reviewText": "We were very pleased with this hotel. Would stay here again and would recommend it for everyone",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "OK for one night. Bathroom needs to be improved",
+    "reviewText": "I was not happy about this at all. Before we made it there to check it, my credit card had been ran and they canceled my reservations. I have stayed at this Inn twice and I have never experienced anything like this. The clerk at the front desk had an nasty attitude when I inquired about the reservations. She did not offer any kind of explanation just told me it was canceled. I will not be returning to this place. A bad taste has been left because of that",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "OK for one night. Bathroom needs to be improved",
+    "reviewText": "Roaches everywhere.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel!",
+    "reviewText": "The employees were very pleasent and efficient And check in wss quick and easy. The room was very clean and the bed was like sleeping on a cloud. We did have problems with the TV and called to ask for someone to come fix it. Nobody came. The bathroom was nice but the shower head was very low and my husband had to bend down to wash his hair. We were there just overnight but I would definitely stsy there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice!  Clean and great staff",
+    "reviewText": "Couldn't be happier. Rented 2 rooms for my sister and son--who were very happy with the hotel facilities, the rooms and staff. Rooms were clean, no surprises.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice!  Clean and great staff",
+    "reviewText": "Nice staff, Nice room and nice neighborhood!! Would stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Memphis in may 2016",
+    "reviewText": "it was good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Passing Through",
+    "reviewText": "The motel provided what we expected--a clean, comfortable room close to the interstate, and at a reasonable price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad choice",
+    "reviewText": "I had ordered a handicap room. The door on room 113 was marked as a handicap room, but certainly was not. The bed was so high, I had a great deal of trouble getting into it. The tub did not have any bars to help me get out. When I went to the office to complain about all of this, both ladies just shrugged their heads and said they would tell the manager. If this is the way Hotel.com works, we won't be using them again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room, sparse breakfast",
+    "reviewText": "Everything with the room was perfect. It was pet friendly but really no place to walk the pets. This was by far the scanties breakfast we had in our travels. All other motels had sausage and biscuits, eggs, etc. the casino is next door, along with restaurants as well as a Mexicsn restaurant on the premises. Beds were very comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to Dog Track.",
+    "reviewText": "This hotel is always clean and employees are friendly. Room is very comfortable with all amenities at a reasonable price. Walking distance to Southland Greyhound Park. Will definitely stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place and great location",
+    "reviewText": "When we got there the hotel power has just come back on. The room was great. The bed was a little high and the tub/shower had no guard to not slip, well lit.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad Business",
+    "reviewText": "I never stayed at the hotel. I reserved a room for Friday to Monday when I arrived they told me that they never got the reservation but they see my name in there computer and they do not have any rooms available. I arrived at 3am I had to sleep in the car because there was no available rooms because of the Memphis in May until 12 noon",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad Business",
+    "reviewText": "Wasn't easy to get to off the I-40W. A better description of how to get to hotel would be very helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad Business",
+    "reviewText": "When we arrived to the hotel the front desk staff gave us an assume welcome. The room was very nice and clean. Would definitely stay here again....",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "not bad for the price.",
+    "reviewText": "It was an older Hotel, but it was fairly clean, and the beds were comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "They will steal your money!",
+    "reviewText": "I booked the hotel online through Expedia and used my bank card. When I got to the hotel I paid them cash and they still withdrew the amount from my bank card. The manager stated she would check the video and call me back, I haven't heard from them since I called them. My account has been withdrawn and they were paid in cash!! Very upset.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Housekeeping needs to be monitored",
+    "reviewText": "Housekeeping never came, to empty the trash nor to bring clean towels. Total disappointment as far as cleanliness.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Housekeeping needs to be monitored",
+    "reviewText": "One of the worst places I've ever staid at. Beds were awful and it looked nothing like advertised",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Pet friendly",
+    "reviewText": "It was a great stay. I would like to say I am really happy that they are a pet friendly hotel. More hotels need to be pet friendly. Thank you for the great stay!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Not good",
+    "reviewText": "Get Dominos pizza off room swipe card...they are absolutely terrible. Shower curtain had mold on it. Bugs in room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotelucho !!",
+    "reviewText": "we got there by... 9 pm. the place outside is old... does not look nice... grouches outside... on the other hand... the room very nice, clean, new carpet, bed comfortable... but... the bathroom did not have door !!! at 10 pm electricity went out ( for about 2 hours !! )",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "1 year anniversary",
+    "reviewText": "enjoyed it would definitely stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "1 year anniversary",
+    "reviewText": "It was very relaxing and welcoming",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "completely updated room",
+    "reviewText": "very clean and close to casino",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Passing through",
+    "reviewText": "Stopped on the way home. Hotel is kind of run down, not very clean. Will choose differently next time.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Rude and unfriendly.",
+    "reviewText": "Staff that worked was unfriendly and rude!!! Bagging on my door at 10:45 and yelling at me that it was time to check out. I have NEVER been treated this way at a motel!!! Front clerk was unfriendly as well. Had an attitude like she didn't want to be there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to Southland Gaming and Racing.",
+    "reviewText": "Conveniently located 10 minutes from Downtown Memphis. Safe area and friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Excercise if you get on the 2nd floor",
+    "reviewText": "It was okay, the stairs to get to the 2nd floor were hard enough to do with luggage.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Excercise if you get on the 2nd floor",
+    "reviewText": "Not a nice area. Could see under the door to room. Bath tub dirty",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "bad bad bad",
+    "reviewText": "no service, cockroach in the room, smelling bad",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Family visit",
+    "reviewText": "The hotel has a nice pool. Breakfast is hot cold..... Margarita Mexican restaurant. Close to Memphis. There is a shuttle van. Dog track with a casinos in it is next door....front desk clerk was friendly...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Family visit",
+    "reviewText": "Awsome hotel for the price the room was updated and very clean!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Family visit",
+    "reviewText": "found a huge dead cockroach on the bathroom floor and bugs in the bathtub. My room was for 2 adults and 3 children, and there were only 2 towels . the staff at the front desk were not warm and friendly, however they did provide my request of additional towels and pool towels",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Family visit",
+    "reviewText": "The mirowave refrigde was nasty,very nasty",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Family visit",
+    "reviewText": "I was very glad that I read the previous reviews.By looking at the outside I may have made a differant choice. Our room was clean and the bed very comfy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Awful Stay at Days Inn",
+    "reviewText": "Me and my family will not stay in a Days Inn Ever Again.The morning after we checked in we woke up to the carpet being wet. the air condition was leaking Water. And, the room had a bad smell. Reported it to the front desk. Nothing happen And no checked on it or us. Spent the whole week with a wet carpet that had a real bad smell.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Awful Stay at Days Inn",
+    "reviewText": "i guess its what you get for 70 a night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Awful Stay at Days Inn",
+    "reviewText": "I was glad my stay was overnight. I would had checked out if not for that reason",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "In town for a Dance Competition.",
+    "reviewText": "Was hard to get to from the Interstate. Trying to find Exit in time. Then trying to find a way back to the correct road without going all over town. Finally did. Pleased with the Hotel and the staff. Was definitely better than was expecting.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "In town for a Dance Competition.",
+    "reviewText": "Was a little worried looking at the outside. Needs to be cleaned and brightened up. Was pleasantly surprised when I opened the door, very clean and comfortable!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Our getaway for a few days",
+    "reviewText": "Wonderful room, was upstairs and we prefer downstairs viewing Southland Gaming Park, not complaining on that. We were in room 262 and I did put the Do not disturb hanger on door so they wouldn't knock too early, we didn't get any housekeeping either day we were there day, I had to go get clean towels take garbage out and get more room coffee and creamer that's all that I wasn't to crazy about, but I will take the blame for that cause I did put the sign Do Not Disturb on door the first day, actually I thought they would clean it after we left though!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to Southland Gray Hound Park",
+    "reviewText": "Close to Southland Gray Hound Park just a 2 minute walk , The Mexican food at the Hotel is GREAT and cheap for how much you get, Top shelf Margarita's are wonderful Now as for the Hotel over all it is safe and convenient and the King beds are really comfortable, the covers are clean and over all quit place to stay . THE FLOORS ARE DIRTY so leave on your socks used condoms under the bed. so there is that , it shows house keeping is not keeping the house clean. it is a older Hotel so do think to much about how it look for 50 or 60 dollars it is a good place to stay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to Southland Gray Hound Park",
+    "reviewText": "I was disappointed at the leaking and dirtiness of the whirlpool in our king suite (. It was cracked on the outside stains on the inside and it dripped (. There were stains cobwebs in the bathroom on the ceiling and walls (. The non smoking was a benefit )",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Business Trip",
+    "reviewText": "It's all good....",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Business Trip",
+    "reviewText": "It was ok, was real upset after I booked and paid for our room then when I got there no reservation and then I had to call and fix it, not the motel. We had to wait more time over an hr. It was not pleasant after you drive for several hrs and your children are tired and you have problems that you tried to prevent.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Mixed messages",
+    "reviewText": "Counter people great but black mold on shower curtain where it had not been pushed open to clean in several days was real turn off. Worked in food plant sanitation and know what going on. Lazy!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Mixed messages",
+    "reviewText": "Dead bugs in room. I say cockroach they say waterbug.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Mixed messages",
+    "reviewText": "Was not what I am used to at days inn. Especially for the price I paid.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "All the round  great value and location",
+    "reviewText": "I was there for a 2 night stay. I selected this hotel because of its location and value. I used Uber to get downtown for a city tour and to get back to the hotel(love that convenience). The continental breakfast was great(bisquits w/sausage gravy offered YUM) Really good Mexican restaurant attached to the hotel. Realitively easy to get back onto 40 East if that is where you are going.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick stay",
+    "reviewText": "Had a little trouble with my reservations but was cleared up quickly by Hotels.com staff.. Easy access to Memphis",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick stay",
+    "reviewText": "Recently remodeled but still an older hotel. Neighborhood a little interesting but no problems. Great room for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice trip",
+    "reviewText": "Was good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Not terrible",
+    "reviewText": "I was pleasantly surprised. The exterior isn't much to look at once you get up close. It could definitely use some love. At check in the attendant was very friendly and helpful. My room was on the second level. The room was actually pretty decent and the bathroom looked like it had been recently updated. The bed was firm as were the pillows. The breakfast area was a little cramped but had a nice variety. The location was very convenient for getting back onto the highway. I've paid a lot more for a lot less. I'd definitely stay here again if needed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Xmas stay",
+    "reviewText": "This was a quick overnight stay on Xmas day enroute to Texas. The front desk staff were great at giving us directions to find a place open to eat on the holiday. I had requested a queen size bed, but didn't realize only handicap accessible had single queens. These rooms have larger bathroom entries, but no doors!The bed itself was incredibly comfortable. The room was very clean. I don't drink coffee, and would have liked a tea bag included in the room coffee pot assortment, but that's a minor thing. The outside of the building looks a little time worn, but inside its very nice. Have already rebooked this hotel for our return trip from Texad!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Xmas stay",
+    "reviewText": "The accommodations were great, but the staff was rude.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasantly Surprised",
+    "reviewText": "The exterior of the hotel makes you think you may potentially be staying in a dump but the second I opened our room door I was VERY pleasantly surprised. The room had for sure been renovated and it was extremely clean and comfortable. I would absolutely stay here again next time I go for a weekend getaway to Memphis.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasantly Surprised",
+    "reviewText": "bed was too soft. Didn't sleep good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Memphis Trip Positives and Negatives",
+    "reviewText": "This was my fifth trip 2012 - 2016 for Elvis Week in Memphis, TN. We had a real nice stay at Days Inn West Memphis, AR each year, but like last year and this year our room was not cleaned up by house keeping even though notifying the front desk that we would be leaving. This happened this year on our last night's stay and twice the year before after notifying that we were leaving the room, so housekeeping could clean it up leaving all the things we would need and could use like towels, wash cloths, coffee and coffee cups. Each time we were provided by the front desk, but no cleaning of our rooms for 2015 and 2016.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and clean.",
+    "reviewText": "Had a great weekend!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-25T00:00:00.000Z"
+    },
+    "reviewTitle": "DIrty sheets",
+    "reviewText": "The first room smelled like cat urine and they did move us to another room. The new room's sheets had a huge stain. For the price, the rooms looked very nice, just needed to have a better cleaning and oversight by the management.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable, renovated, quiet",
+    "reviewText": "The room has been recently renovated and was very clean. The air conditioner worked great. There is a Mexican restaurant attached to the hotel which we definitely plan on trying when we do visit again. The breakfast was reasonable but could have benefited from a selection of fresh fruit. Big plus: pet friendly (and not the kind that claim to be pet friendly while charging you 50/pet). The pool was clean. If you drive a camper or big truck, there is ample oversize parking. I'm not a huge fan of West Memphis but we'll definitely be using this hotel again because of the value for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Road trip",
+    "reviewText": "It was ok.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Rude unaccomidating hotel worker, bed comfortable",
+    "reviewText": "The woman at the front desk was rude from the time we checked in. When we asked for another sheet she refused to give us one. There was an additional charge for my dog that we were not told about. She refused to give us the 1st floor room . The ice machine on the 2nd floor didn't work. The room was clean, bed large and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "By far the best.",
+    "reviewText": "This Days Inn is by far the best one we have ever stayed in. I highly recommend it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "By far the best.",
+    "reviewText": "First place we have stayed at a small hotel and the manager cooked our breakfast to order. Everghing nice and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Easy access and comfortable bed",
+    "reviewText": "Very clean and comfortable bed!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Easy access and comfortable bed",
+    "reviewText": "We were exhausted from traveling and the room was clean, quiet and comfortable. The Mexican restaurant that is attached is amazing!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Easy access and comfortable bed",
+    "reviewText": "The room need to be updated. The chair in the room was very worn and uncomfortable. The comforter on the bed was thin but the bed was comfortable. The hot water took a while to get hot. The staff was very pleasant and courteous.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Easy access and comfortable bed",
+    "reviewText": "Front desk was very helpful when we needed medical care on a Saturday morning. Breakfast was limited but okay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Easy access and comfortable bed",
+    "reviewText": "Light switch at front door not connected to anything. DARK trying to find a light",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Days inn west Memphis",
+    "reviewText": "I checked in pretty late..front desk was fast ..my room was clean and larger than anticipated..bed was super comfortable..and they have big truck parking in back with lights and cameras..win win",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Days inn west Memphis",
+    "reviewText": "The room was clean and smelled good but the television reception was fuzzy and disrupted.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Days inn west Memphis",
+    "reviewText": "We went with our family for a business conference. The stay was comfortable, Clean rooms. Guest service at front desk was decent. Morning free breakfast was having quality . Stay was very good.",
+    "reviewerCity": "",
+    "reviewerState": "",

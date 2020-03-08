@@ -1,0 +1,1000 @@
+{
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3f8c"
+  },
+  "name": "Mercure Curitiba Golden Hotel",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "BR",
+    "state": "",
+    "city": "Curitiba",
+    "postalCode": "",
+    "address": "Rua Desembargador Motta 2044 Batel",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-49.28146, -25.43675]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Muito bom",
+    "reviewText": "Me hospedo neste hotel todo ms, muito bom. Voltarei sempre.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for business trips",
+    "reviewText": "Location was my primary reason for choosing the hotel. It's clean with necessary services and good domestic style breakfast, but a little bit uninteresting in general. All reception staff speak good English, a big up for that and they seem to be knowing their job. The pool is small, but at least there is one. I have been here many times for short visits and hopefully will return again, as there is nothing to complain about.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-21T00:00:00.000Z"
+    },
+    "reviewTitle": "S�� o Caf�� da manh�� n��o agradou",
+    "reviewText": "Hotel confortvel em tima localizao. A qualidade do Caf da manh deixou a desejar",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Qualidade com ��tima Localiza����o",
+    "reviewText": "tima opo na cidade, principalmente pela localizao.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Boa op����o",
+    "reviewText": "Boa opo, bem localizado. Bom atendimento. Dentro do padro Mercure.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Muito bom",
+    "reviewText": "Bom atendimento, boa acolhida, receptividade, boa localizao, bom caf.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Normal...n��o espere muito.",
+    "reviewText": "Hotel bom, j um pouco antigo, isolamento acstico no muito bom, quarto grande, com sala separada, cozinha completa, excelente caf da manh. A cama achei um pouco desconfortvel, pois o colcho revestido com uma capa de plstico grosso, que faz barulho e duro, que compromete o conforto. Pessoal profissional e seco, penso que poderiam ser um pouquinho mais cordiais. A limpeza do banheiro precisa ser melhor realizada.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Bom, em ��tima localiza����o.",
+    "reviewText": "O caf da manh muito bom e completo. Os quartos maiores esto em melhores condies do que os quartos menores.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Localiza����o e conforto",
+    "reviewText": "Excelente hotel, com quartos imensos, prprios para levar crianas. A localizao fantstica, pois dois importantes shoppings podem ser visitados a p.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Localiza����o e conforto",
+    "reviewText": "Bastante deficiente o atendimento no caf da manha, especificamente num cafe da manha, que haviamos solicitado atenao especial por estar na mesa um Ministro e uma Vice Ministra do Paraguai. Tive que me levantar da mesa para solicitar caf e suco de laranja. O garon servia o cafe em todas as mesas !! Pedi um taxi (9:00 hs) na recepao e a informaao que recebi que tardaria minimo 1/2 hora. Depois constatei que eu era o 6 de uma lista de pessoas aguardando um taxi. Como tinha urgencia, pedi que chamassem de uma outra companhia. O taxi chegou em 7 minutos !! O motorista me informou que o Hotel trabalha s com uma companhia....cuja base longe do hotel ! Em outras palavras: o hotel deve ter um acordo com uma companhia e os hospedes que se danem !! Nao recomendo para outras pessoas amigas a cadeia Mercur.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Feriad��o",
+    "reviewText": "Trata-se de um bom hotel com uma excelente localizao. Os funcionrios so atenciosos.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Bem localizado",
+    "reviewText": "Perto de bares, restaurantes e shopping centres. Hospedei-me com a famlia e todos samos contentes.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Muito bom para neg��cio e bem funcional",
+    "reviewText": "Fiquei apenas um dia, mas utilizei alguns servios como caf da manh, internet, concierge, etc. Tudo muito bom e funcional. Vou me hospedar novamente quando for a Curitiba.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-29T00:00:00.000Z"
+    },
+    "reviewTitle": "M��dia, em rela����o a custo benef��cio.",
+    "reviewText": "Ok. Quarto preciso de reforma, entupimento do Bacio, ar condicionado barulhento",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "todos funcionarios atenciosos, e boa localizacao",
+    "reviewText": "recepcao atenciosa, quarto ok, cafe da manha bom com variedade",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "��tima estadia no Mercure Curitiba Golden",
+    "reviewText": "Fui com minha famlia, para um final de semana, e adoramos o hotel. O caf da manh excelente, principalmente porque o horrio se estende at s 11h da manh. A localizao tima, d at para deixar o carro no hotel e ir p pelo bairro. O nico inconveniente o preo do estacionamento, um pouco acima da mdia, e tambm falta um ramal na piscina, pois tivemos que descer at a academia para pedir para acenderem as luzes, noite, no local da piscina.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "��tima estadia no Mercure Curitiba Golden",
+    "reviewText": "buen equipo de atencin, gentiles, atentos",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Muito bom",
+    "reviewText": "Uma pena o caf da manh ser cobrado parte.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "��timo",
+    "reviewText": "tima! Voltare!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Modesto",
+    "reviewText": "J apresenta sinais de bastante uso e decorao ultrapassada. Vale uma reformulao geral pra acompanhar os novos tempos.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Pr��ximo das atra����es noturnas e restaurantes.",
+    "reviewText": "Bem atendido. Caf da manh excelente Preo justo Colcho um pouco deformado",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Atendeu nossas expectativas.",
+    "reviewText": "Excelente localizao, timo hotel!!!Recomendo.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Atendimento precisa melhorar e sauna n��o funciona",
+    "reviewText": "Gostei muito do hotel. Porem s quando entrei no hotel que verifiquei que havia comprado um pacote para nossa famlia( 7 pessoas, ou seja 3 quartos) sem caf da manh, tentei negociar um desconto com a gerente Elen, porem ela no me deu alternativas, alegando que o restaurante terceirizado. O tendimento deixou a desejar, demorado. A sauna mida estava com problemas na caldeira, ou seja no utilizamos. Tive que mudar de quarto, pois o ar condicionado estava com problema de refrigerao, tive que ligar vrias vezes para poderem verificar isso. Gostei da piscina, muito boa...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "��timo",
+    "reviewText": "Hotel muito bem localizado, amplo e confortvel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Cofort��vel",
+    "reviewText": "Fui a trabalho e lazer",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nota 9,9",
+    "reviewText": "Excelente hotel e atendimento. S estranho e nada sustentvel o fato de ter que ligar a torneira da pia pra funcionar a ducha sanitria, imenso desperdcio de gua tratada.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "mto bom",
+    "reviewText": "Excelente localizao, hotel muito bonito e conservado. Voltaria com certeza.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente",
+    "reviewText": "O Hotel e timo! S queria um quarto com 1 cama de casal e um cama de solteiro! Casal com uma criana ! O sof cama e muito desconfortvel!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Bom",
+    "reviewText": "Hotel bom, tivemos problema com o cheiro de cigarro no quarto mas o atendimento foi rpido e nos trocou de quarto.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente",
+    "reviewText": "Foi tima . O hotel tem o diferencial de ter quartos para fumantes.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Adecuado en una zona muy atractiva",
+    "reviewText": "Muy adecuado a su costo",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel excelente em localiza����o privilegiada",
+    "reviewText": "Hotel excelente, muito limpo e organizado, localizao perfeita (prximo a bares, restaurantes e shoppings). Quartos amplos, cama excelente, ducha muito boa e caf da manh muito bom com muitas variedades. Equipe bastante atenciosa e simptica.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-21T00:00:00.000Z"
+    },
+    "reviewTitle": "��tima escolha!",
+    "reviewText": "Hotel muito bom, prximo muitos bares e restaurantes, caf da manh maravilhoso. tima opo!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "��tima escolha!",
+    "reviewText": "Quarto muito pequeno , o hotel no tinha travesseiro suficiente",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Melhor custo beneficio",
+    "reviewText": "timo hotel bem localizado e quartos espaosos e com sacada quando voltar para curitiba esta sera minha primeira opo sempre",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Melhor custo beneficio",
+    "reviewText": "Hotel antigo. Precisa reforma. Atendimento cordial mas lento. Piscina aquecida estava fria. Caf da manh excelente. Quarto velho mas muito limpo.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "recomendo",
+    "reviewText": "Recomendo",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfeita",
+    "reviewText": "Perfeita!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfeita",
+    "reviewText": "Gostamos muito do hotel, porm o caf da manha deveria ou ser incluso na diria ou ter um preo mais baixo. O quarto que ficamos estava perfeito, o bairro excelente. Recomendo!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Razo��vel",
+    "reviewText": "Hotel bem localizado, porem com instalaes pouco desatualizadas. Entretanto, com bom custo-benefcio.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Razo��vel",
+    "reviewText": "Hotel muito bom, recepcao muito atenciosa, mas os quartos fa frente sao muito barulhentos, para mim Impossvel de dormir.::",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-13T00:00:00.000Z"
+    },
+    "reviewTitle": "excelente",
+    "reviewText": "Gostei muito, tima experincia",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Well located hotel",
+    "reviewText": "The hotel facility's are very good especially for the brand and star level, I have stayed in three other mercure property's in the city and in my opinion exceeds the others. the only let down is that reception staff sometimes are slow and checkout was a bit long due to three staff helping one customer despite a line of 15 people. Also I had a big problem with staff from house keeping or mini bar entering the room without knocking and one occasion entering with a do not disturb sign. Overall great facility's however some staff need training or replacing then could be perfect.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Fim de semana em Curitiba!",
+    "reviewText": "Estadia de 3 noites para turismo em Curitiba, localizao excelente!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Custo beneficio",
+    "reviewText": "Hotel bom Caf bom Dependncias do hotel muito fria, no dava para a dar sem blusa dentro do hotel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Muito bom as camas a localiza����o e o servi��o.",
+    "reviewText": "tima.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "excelente",
+    "reviewText": "perfeito, cafe da manha excelente com muita variedade",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Exelente!",
+    "reviewText": "Foi tima,servio perfeito, um timo caf da manh, atendimento vip.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente escolha",
+    "reviewText": "Fui passar um fim de semana com meu marido e minha filha de 7 anos. Adoramos o hotel, muito limpo, bonito, confortvel e com timo atendimento. Destaque para o quarto, confortavel e espaoso e o timo caf da manh. Recomendo.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente atendimento/localiza����o,mas hotel antigo",
+    "reviewText": "O atendimento e a localizao so excelentes. Tanto no checkin/checkout, servio de cozinha, ateno dos funcionrios. Porm o hotel um pouco antigo e deixa a desejar no conforto e infra-estrutura.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente",
+    "reviewText": "sempre fui bem recebido pelo hotel. J estive 3 vezes nele. nada a reclamar.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "a cama deixou a desejar, o restante estava ��timo.",
+    "reviewText": "Excelente hotel e custo benefcio. Somente a cama que poderia ser mais confortvel. Quartos grandes com dois ambientes, caf da manh muito bom. tima localizao.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-04T00:00:00.000Z"
+    },
+    "reviewTitle": "a cama deixou a desejar, o restante estava ��timo.",
+    "reviewText": "O hotel tem uma otima localizao Um servio muitoatrnto",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Bom hotel",
+    "reviewText": "Bom hotel com boa manuteno. Caf da manh com boas opes.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Melhor Hotel Accor de Curitiba",
+    "reviewText": "Atendimente Excelente, o hotel apesar de antigo bem mantido, est sempre se atualizando. Ficamos em um apartamente que teve o banheiro reformado e realmente ficou muito bom. A localizao privilegiada, no bairro Batel, a 100 metros do Hard Rock Caf e do Shopping Cristal e Curitiba. Por fim o melhor hotel da Rede Accor em Curitiba, muito bem administrado, os funcionarios fazem o possivel e o impossivel para prestarem o melhor atendimento.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3f8d"
+  },
+  "name": "The Jayakarta Bali",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "ID",
+    "state": "",
+    "city": "Arvada",
+    "postalCode": "80001",
+    "address": "Jl Werkudara St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [115.164407, -8.700062]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Great 3 star hotel",
+    "reviewText": "A great hotel position close to everything .pool areas are great, Breakfast average . Rooms in big need of an upgrade,stale smell. Old bedding pillows etc You pay for what you get .if you are spending minimum time in your room and want to be close to everything its Ideal",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Very close to beach",
+    "reviewText": "Have stayed at this hotel before. Great for families and people who like the beach. Breakfast really good. Good pools. A few of the nights we were woken by people coming in very very late and talking like its the middle of the day, not the hotels fault but the other guests. People need to be aware that there are other people in rooms around them. Staff very helpful and very friendly all the time.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "No return.",
+    "reviewText": "When we arrived we were made to wait for 45 minutes as they could not find our booking even though I provided a hard copy print and a confirmation on my mobile. The room we were provided was 2 single beds pushed together (for a couple) and they refused to change us to another room. Extremely disappointing as we had pre-paid and had no choice but to stay. Room was old and facilities extremely basic. Will not stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "fun and unforgetable,unfurrtunately beach dirty",
+    "reviewText": "having unique fun and close to legian and kuta site walk and market",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "fun and unforgetable,unfurrtunately beach dirty",
+    "reviewText": "Old hotel but great location for the price",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs an update",
+    "reviewText": "Front desk staff could learn to be friendly and understand they are there to serve the guest. The guards, gardeners, cooks and staff cleaning the rooms are very friendly otherwise it seems the rest are going through the motions and it wasn't busy when I was there. Rooms are showing their age but in general aren't that bad Doesn't make the most of it's strength which is the access to the beach and nearby restaurants",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Conveniently located, that's about it!",
+    "reviewText": "We chose this hotel due to its location and that's what we get. The room itself is not great. a lot of wear and tear - floor tiles chipped, tub has scratches, cracks on lamp shade.The other downside is there is no light on ceiling so at night you have to rely on 3 small lights (2 bedside and 1 on desk) and hallway light which can be pretty dim. AC was good, bed was comfy enough, pools are great and staff are very friendly. If you only planning to use the bedroom to sleep then it's all good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok if you like a party atmosphere",
+    "reviewText": "Noisy resort hotel with after hours pool parties.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Run down and very noisy",
+    "reviewText": "I stayed at the here for two weeks with family during the September/October school holidays..while the hotel grounds and pool area etc are lovely...the rooms are terrible..they've not been updated in years..we also found the walls and doors were not very insulated so you can hear your neighbours around you and above..I don't normally complain about hotels but I don't think I got a good nights sleep the entire stay..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "well placed opposite the beach",
+    "reviewText": "The hotel is somewhat run down, could have been renovated years ago bot we keep going back there because of it's location and the 5 star gardens. it's directly opp. the beach and quality restaurants are within close proximity. You can tip the cleaning staff all you like but they will still forget shampoo and extra toilet paper. A big plus are the breakfast which carters to a lot but somehow manage to be well organised and the food is of a high standard. Pools are well maintained and lounges are positioned in both sunlight and under tree shaded areas. I will return there because I know what to expect.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Tidal bagus reception welcome",
+    "reviewText": "On checkin had a heated discussion with the reception staff who had to call on manager to sort out the issue as they took no notice of the confirmed special conditions like the bookings for one adult and two children ages 10 and 13years old and the requested beds, that was confirmed by Jayakarta hotel to Hotel.com booking agent. They insisted I booked a Deluxe room with only one king size bed and the children ages were under five. I showed the staff my email from Hotels.com confirming my special request. But they still wanted me to pay for additional bed which I refused to. In the end the manager agree to no additional cost and supplied 3 single beds this was not what was booked and confirmed, but we had no alternative but to accepted the offer.I will never stay at this hotel again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "' Old but good '",
+    "reviewText": "Have stayed here more than once so we know what to expect, the grounds are beautiful as are the 3 pools ,The hotel itself is older the bathrooms do need a update ( they do have a bit of mould, but we are in a tropical country with high humidity ) but they are clean ... and you don't stay in your room much! Breakfast was simple but was enough to you until lunch,( we aren't too fussy and overlook the minor things. )The location is perfect which is why we keep coming back beach at the front and shopping shopping at the back!! Overall if your looking for a reasonable price and are prepared to over look the little things you will be fine!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely hotel close to beach",
+    "reviewText": "The location and style of hotel, the more traditional Balinese, was really great. We could not fault the staff, the service and the excellent breakfast. We would stay there again and would not hesitate to recommend to family and friends.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-04T00:00:00.000Z"
+    },
+    "reviewTitle": "good hotel close to beach.",
+    "reviewText": "welcomed on arrival, shown to room and told of facilities, ie pools ,dining, beach, shop.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "good hotel close to beach.",
+    "reviewText": "Appartments don't have cooking facilities at all.. not even a sharp knife.. For price paid the rooms could be better.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location, good for a budget",
+    "reviewText": "The first room we were given was dark and gloomy, didn't have a nice feel so moved to a room with 2 single beds instead. The bathroom was missing hand towels half the week and one day we only got one bath towel. Only lighting in the rooms was lamps. Breakfast was disappointing. My boyfriend and I travelled with a group of friends who were on a budget. Would not recommend for couples or anyone who is used to 4/5 star hotels.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Old",
+    "reviewText": "Hotel is very old, no security box in rooms. Rooms need a face lift. Breakfast was very average hard to get staff to serve coffee . Great location , close to bean bag bars on beach. I would consider going back there if it was a very very good deal . Other wise shop around there are better hotels available for the same sort of price",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Solo getaway on Legian beach",
+    "reviewText": "I enjoyed my solo getaway vacation stayed at Jayakarta hotel, beautiful and clean beach, one thing I was disappointed is no wifi, in the room, wifi just available in Tanah Lot dining room only but in the morning when I was on internet, hotel turned off wifi until finished breakfast hours, I hope hotel will set a good wifi that work in the hotel area, especially in each room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "One of a few Bali style hotels left on the beach",
+    "reviewText": "I love this hotel, have stayed there before. Although a little tired its in a good location on the beach and access to many nice restaurants. The staff are very friendly and helpful. It is for all, couples and families of all ages. It's also good that they now have wifi in all rooms which is a bonus for us. I am looking forward to staying again at the Jayakarta on our next visit to Bali.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Very friendly staff, but hotel is a bit out-dated",
+    "reviewText": "We are a family of 4. Went to Bali for a relaxing holiday. We had two rooms with an adjoining door. This hotel is across the road from the beach, it is in a good spot.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Older Balinese type Hotel",
+    "reviewText": "Lovely gardens and 3 swimming pools. On site massages and manicures available. opposite the beach. Staff very helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely original Bali style Hotel right on d beach",
+    "reviewText": "Easy access to good restaurants , walk straight onto the beach ' lovely peaceful garden surroundings and very hospital and accommodating staff .. Plus great pools and activity areas",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a pleasant experience.",
+    "reviewText": "The hotel is beautiful, but there was no internet, we were 3 people and we got an apartment, the room smelled bad, the sofa-bed for the 3rd person was really unconfortable, we only got 2 towels at the beginning, we supposed to stay 4 nights, but after the first, we moved to a hotel around the corner. I wouldn't reccomend this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Schoolies week",
+    "reviewText": "Unfortunately, it was schoolies week,.. So it was spoilt by very noisy music all afternoon by the pool, and drunken loud noise at night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great budget hotel",
+    "reviewText": "This is an old resort, clean as much as possible but in need of reno. Staff are lovely and its close to everything. Good for kids.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable enough, close to the beach",
+    "reviewText": "Staff excellent, large hotel with lots of families and groups, socialising by the pool",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "proximity isnt everything!",
+    "reviewText": "This would have been a nice hotel once but they have continued to build more rooms without upgrading any other facilities. Way too many people for the pool and breakfast areas and the WIFI was diabolical! The rooms while clean were very plain and simple - I dont think the Jayakarta deserves its 3 1/2 stars - it is way more like a 2 1/2 star facility. The staff while individually are lovely, are just not plentiful enough - really hard to get a coffee at breakfast and the reception staff are almost robotic in their responses. Very diasppointing for the cost in comparison to other hotels in Bali.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Apartments a must for comfort",
+    "reviewText": "We currently stayed at this hotel when we were stuck due to the volcano activity. We booked 3 rooms, all different but I must say that the best by far was the 1 and 2 bedroom apartments. The facilities such as pool and gym where great, the beauty salon where I had waxing done could do with a face lift but otherwise it was generally good. I am a 5 star girl all the way however after staying here, I would definitely stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great pool \u0026 location",
+    "reviewText": "Room furnishings are dated for price point. Best features is size of pools, location and grounds",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location hotel",
+    "reviewText": "Enjoyed our stay at the Jayakarta but the facilities in the room would benefit from serious renovation. Bathroom was grubby. Bath had a broken area which was rusted very badly. We were not able to take a bath. The toilet seat was also in need of replacement. Again, an exposed broken area. Room furniture was dated and tired. Location was great, walking distancd to Cocoon beach club and easily accessible to Seminyak. Lots of bars, restaurants etc nearby. Staff very friendly and left a beautiful bday cake in my room for me which was unexpected.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Value for money",
+    "reviewText": "Good clean and friendly hotel opposite the beach and on the boarder of legian and seminyak. Nothing flash with all the amenities that you need.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Jayakarta hotel in Legian",
+    "reviewText": "Hotel in a good position on the beach. 3 swimming pools and a nice restaurant very good. Reception staff very slow and hard to deal with. Rooms very outdated and desperate for renovation. Air con not very good. Furniture around pools very uncomfortable. Bali itself is wonderful and made for a good holiday . Rooms had TV with decent channels and staff other than reception staff very warm, friendly and fun. Massages 100 metres from front of hotel less than half price of jayakarta hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Jayakarta hotel in Legian",
+    "reviewText": "Overall pretty good, great position, staff friendly, but room quite small for 3 people. Very surprised that there was no safe in the room for security.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "7 Day Stay - holiday for relaxation",
+    "reviewText": "Although on holiday was relaxing I do not want to be shut off from the rest of the world. The Wi-Fi dropping in out got really annoying.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Never Again!",
+    "reviewText": "Most disappointing hotel experience ever! Did not get the room I had paid for. When asked why I was told sorry there is no other rooms available Room was disgustingly filthy! Dirt everywhere, riddled with cockroaches, hair everywhere about the room (long female hair-obviously not mine!) requested many times for the room to be cleaned and fell on deaf ears! Constantly requesting for fresh towels. Hotels idea of a king bed was 2 uneven single beds pushed together that kept moving apart whilst sleeping. Breakfast was very disappointing! Was little, if any food there at any time! Was also charged for room service I didn't even order! Will never return to this hotel if the paid me to! Absolutely appalling!! If Expedia read this I request an email to please explain! Not happy!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to beach",
+    "reviewText": "Big old resort Nice Balianese gardens Recommended for the price",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to beach",
+    "reviewText": "Good location, close to beach. Good pools. Nice gardens. Overall feeling of space.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "very comfortable rooms",
+    "reviewText": "very good except breakfast was sometimes cold food in bay maries were under airconditioning",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "great central location, close to beach",
+    "reviewText": "friendly staff. great buffet breakfast and wednesday night BBQ. great service of waiter with drinks whilst relaxing around the pool lovely clean bed linen and towels everyday with floors mopped. great friendly, family atmosphere whilst walking around resort, Best location feels very central and is easy access to whatever you want to go and do",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location with great pools but average rooms",
+    "reviewText": "Set in beautiful gardens and pools but rooms tired. we were aware of this though similar reviews we had read so expected this to be the case. Breakfast a bit tired and no variations on what was offered each morning other than the type of juice. Great location but terrible traffic at night if trying to catch a taxi back to the hotel as many one way streets",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to the beach, great hotel.",
+    "reviewText": "Friendly and helpful staff. Great breakfast included. Close to the beach which has amazing restaurants on it. Comfortable and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-12T00:00:00.000Z"
+    },

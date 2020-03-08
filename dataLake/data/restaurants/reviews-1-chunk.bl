@@ -1,0 +1,1000 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for families",
+    "reviewText": "Excellent hotel - service was beyond anything we have experienced. I would recommend this hotel to everyone looking for a place to stay in Houston. Location is tremendous and the surrounding area is beautiful!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel for families",
+    "reviewText": "Beautiful hotel, but very intimidating!! Hard to figure out where the pools were.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing Fitness Facilities",
+    "reviewText": "My wife and I stayed at the Houstonian for 3 nights in October. The property was lovely and the room was very comfortable. However the fitness facilities are truly amazing. The property is connected to the Houstonian Club which is a separate sports club that has truly world class facilities. It has 3 pools (a massive lap pool, resort pool and other small quiet pool), the largest gym I have seen anywhere, basketball and tennis courts, a jogging track and at least 5 studios for classes. My wife has been a regular (5 times a week) gym user for over 16 years and she has been a member of many gyms in NYC and London and this is by far the best she has experienced. She went to 3 classes and the studios, instructors and equipment could not have been better. Further there is no need to register for any class you just turn up and participate. In the luxurious locker rooms there is free coffee, tea, ice tea, water etc... We also ate at the bar and Olivette restaurant and the food and service were excellent. My wife also visited the spa and although it was expensive the facilities and service were again of the highest quality.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing Fitness Facilities",
+    "reviewText": "We can to town for a college football game and we a little nervous about the room size some complained about, but found it acceptable. The property is beautiful and the staff was a friendly and helpful as it gets. We will stay here again when we retuen to Houston.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Final summer trip.",
+    "reviewText": "It was like a resort in the middle of Houston. The spa, fitness center and pools were a nice touch that enabled us to stay here and be entertained at the same time. Very nice!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-09T00:00:00.000Z"
+    },
+    "reviewTitle": "perfect weekend",
+    "reviewText": "Family weekend Food was great Grandchildren used pool Family used health Club",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-17T00:00:00.000Z"
+    },
+    "reviewTitle": "perfect weekend",
+    "reviewText": "Hotel and facilities are beautiful but room was very musty/ mildewy smelling.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Luxury hotel without the high price!",
+    "reviewText": "Beautiful hotel at a great value! Amazed at what we paid for a room on the concierge floor that included free daily continental breakfast, early evening cocktails and hors d'oeuvres, and after dinner dessert buffet. The Olivette restaurant was spectacular - had dinner there both nights. Will definitely be my go-to hotel any time I'm in Houston!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd6"
+  },
+  "name": "La Quinta Inn-houston",
+  "categories": ["Resorts \u0026 Vacation Cottages", "Hotels", "Accommodations \u0026 Lodging", "Inns", "Vacation Packages"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "postalCode": "77015",
+    "address": "930 Normandy St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.206568, 29.773048]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "the spa is very enjoyable. fyi the pool area isn't locked. so just keep it down and can enjoy it after ten.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-11-09T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "do not stay here. it's awful.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "nice, comfortable, smoke-free, and pet friendly!!!!!!!  love it!  :)",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-10-06T18:52:37.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Great location if you want to stay in Houston and don't want to be in Downtown Houston.  Its minutes from downtown, popular restaurants  around.  Hotel is modern, comes with free hot breakfast, warm staff and excellent coffee.  If I am visi...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-11-09T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Do not stay here. It's awful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The spa is very enjoyable. Fyi the pool area isn't locked. So just keep it down and can enjoy it after ten.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "beautiful rooms!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Nice, comfortable, SMOKE-FREE, and pet friendly!!!!!!!  Love it!  :)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "as you elk down the halls you can hear everything!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "As you elk down the halls you can hear everything!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Beautiful Rooms!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd7"
+  },
+  "name": "Courtyard San Marcos",
+  "categories": ["Hotel and Meeting Room", "Convention and Meeting Facilities and Services", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "San Marcos",
+    "postalCode": "78666",
+    "address": "625 Commercial Loop",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-97.9903, 29.824612]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "That staff was great... I thought the AC could have been little better. The location is closed to great shopping opportunity and a few good BBQ restaurants...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean convenient and comfortable",
+    "reviewText": "Very modern and clean, and a good value. Perfect location to shop the outlet malls.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to the San Marcos outlets.",
+    "reviewText": "Been spending a day or two whenever I drop off my son to Texas State University. The outlets are perfect for my wife!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Place",
+    "reviewText": "One night stay we were in the area for the day. The staff were very friendly and helpful, great location close to shopping and great food.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Very relaxing stay!",
+    "reviewText": "We were on a girls' weekend shopping trip. Great accommodations, great location. Enjoyed everything about it. Need my debit card credited for my room that was paid w/points.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-27T00:00:00.000Z"
+    },
+    "reviewTitle": "We had a wonderful stay in San Marcos",
+    "reviewText": "We had a wonderful stay in San Marcos. The hotel was close to the outlet malls, It was nice and quiet you could not hear the traffic noise. The room was very clean and comfortable. The shower was so nice and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente hotel",
+    "reviewText": "No hay ninguna queja, todo estuvo muy bien. Lo único es que debería ser con desayuno incluido.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente en todos los aspectos",
+    "reviewText": "Personal amable hotel nuevo internet gratis súper cerca al mall / Outlet",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Shopping en San Marcos",
+    "reviewText": "Llegué a las 7 am al hotel y en recepción amablemente me hicieron el Check In cuando la entrada era a las 3 Pm :). El personal muy amable y el hotel de lo mejor. Regresaré pronto",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Shopping en San Marcos",
+    "reviewText": "Hotel facility is fairly new, room is clean, great location to San Marcos premium outlet",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd8"
+  },
+  "name": "Quality Inn",
+  "categories": ["Hotel \u0026 Motel Reservations", "Hotels", "Hotels \u0026 Motels", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "postalCode": "77092",
+    "address": "12439 Northwest Fwy",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.488039, 29.836717]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "What Happened to this Place!!!! I come this hotel 8-12 times a year and know it well. They did major updates to a property that looked good already. The place feels super-clean and fresh. The front desk staff is always friendly. I really enjoy staying here.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Budget-minded travelers appreciate amenities like complimentary breakfast buffet and a kids-stay-free policy. In ShortSince its 1952 debut in Memphis, Tenn., Holiday Inn has become one of the most recognized hotel brands in the world. In addition to the Kids Eat and Stay Free program, Holiday Inn Express offers amenities like free high-speed Internet access, in-room data ports and cable television. Upgraded showers feature multi-function shower heads, curved curtain rods and upscale bath products. A complimentary breakfast bar is available with warm cinnamon rolls and 100-percent Arabica coffee.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd9"
+  },
+  "name": "Hamton Inn New Orleans Westbank",
+  "categories": ["Lodging", "Hotels", "Bed \u0026 Breakfast \u0026 Inns", "Corporate Lodging"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Harvey",
+    "postalCode": "70058",
+    "address": "1651 5th St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.0578, 29.889694]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fda"
+  },
+  "name": "Quality Suites Intercontinental Airport West",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "postalCode": "77032",
+    "address": "15321 Vantage Pkwy E",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.362277, 29.940256]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great size room!",
+    "reviewText": "Stayed for one night. Room was really big! Requested king bed and it was true to its size. Bed was comfortable. Definitely had a good night sleep. Shower head worked great plenty of water spray. Dining area was adequate for breakfast plenty of food to choose from esp had a waffle maker. Location was right great since it was right off the highway and within minutes from the airport. I truly enjoyed my stay here as a single young female felt safe during my stay. So i do recommend this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Not very good",
+    "reviewText": "The entire stay was awful... When we checked in, they gave us a room that had people in it! Went back to get a different room and then she gave us a double bed room, for my wife and I. Because she didn't have any others. It wasn't very pleasant!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Satisfied",
+    "reviewText": "Due to our flight have a long lay over, we had to stay at the hotel. They were very courteous, picked us up, stopped so we were able to get something to eat. Accommodated us right away. We were comfortable and we were very relaxed. Everything was clean. I just think that the paint needs to be updated and little minor repairs have to be updated. But over all I thank them for the attention they gave to us in making our stay welcomed",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Family/pets",
+    "reviewText": "Husband was here on business we tagged along. Family of 5 with pets. The rooms are perfect for a full family specially with the pullout couch plus two queen beds. and to bring pets. I love how the beds are seperated buy a wall and there was 2tvs for a big family. The pet fee was steep but at least it wasn't per day per pet.50 The staff was super great and nice. Although,they need to update and fix things but seems like they are already starting. The room was really clean. There was a whole in our ceiling above our bed from a leak it looked like and the chain lock was broken there was still a deadbolt. but those didn't matter to much to us as it was the cleanliness that meant the most for us. And it was a safe hotel. Breakfast could have been better but wasn't bad.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Family/pets",
+    "reviewText": "Everything was really good. The complimentary breakfast was good so was the price for our 2 night stay. The only thing we found wrong with our room was the coffee maker had used bags still in it and the iron had some pink sticky stuff on it. Other than that nothing really major. Friendly front desk clerks.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price close to airport.",
+    "reviewText": "Good room great price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "The Best Get Away",
+    "reviewText": "The staff was great very professional and kind",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for the price",
+    "reviewText": "Good overall and a nice room but the hotel overall could be unkept a little better, chipped paint, new ceiling, etc.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Pretty good",
+    "reviewText": "This hotel was great. My only issue was that there was hair on the walls of the shower, holes from a cigarette in the bed comforter, and the doorknob to the bathroom was almost broken off.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Very spacious room",
+    "reviewText": "Great room that fit our family. I would have loved more choices for breakfast, but we got a great deal on the room, so I can't complain-)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value with great benefits",
+    "reviewText": "We received very good personal attention from the entire staff - Sara went above and beyond to make our stay terrific. The offer long-term parking during travel from PDX and we were well cared for getting to and from the airport.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "A good airport hotel.",
+    "reviewText": "We needed a room to stay overnight next to the airport. Our flight wad leaving very early in the morning. The room was large enough for my family of five. I did not like that we hadto pick the sheets for the sofa bed at the front desk. They would not bring them over or make the bed. The said they had no house keeping staff at 10pm. Breakfast was fine and they had a free shuttle to the airport running every hour. It was very practical for us.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Dome 98",
+    "reviewText": "Was a great stay with great staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "big room",
+    "reviewText": "nice",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice economical hotel near airport",
+    "reviewText": "Had a one night stay here before catching an early flight out of IAH. Good staff, nice breakfast. Hotel provides shuttle to airport.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Good airport hotel",
+    "reviewText": "Everyone was very friendly, professional and accommodating! Free parking!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Good airport hotel",
+    "reviewText": "Thos hotel is not as great as i thought it will be the smell is terrible im the room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Stay",
+    "reviewText": "Good room for great price",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome \u0026 Unbelievable",
+    "reviewText": "We will definitely be staying at this hotel again. I couldnt believe we gpt such great service for such an awesome price!!!!Staff and Management was very welcoming and family friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome \u0026 Unbelievable",
+    "reviewText": "Good hotel to stay at. pool nice. Not much on workout equipment. Only four things in the room and one machine was broke and the other machines will be broke in a minute. The workout room gets a minus one.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome \u0026 Unbelievable",
+    "reviewText": "They turned off the water for a few hours so that was frustrating",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "AWFUL",
+    "reviewText": "The room was dingy and gross. The couch was stained and ripped. The linens were not as pictured online and were actually much older. The bed and couch were both uncomfortable. The front desk staff was uninterested in helping us find a restaurant or bar open when we got in around 9:30. Their only suggestion was Dominos, and the phone number listed in the book was the wrong Dominos and didn't service the hotel. The only positive aspect to this hotel was the free airport shuttle. I wouldn't even recommend this place to in-laws that I hate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "AWFUL",
+    "reviewText": "Location, sucks",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "AWFUL",
+    "reviewText": "My stay at this hotel was great. I would stay here again and would recommend it to friends and family.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend housing search trip",
+    "reviewText": "Great quiet place with very reasonable prices very close by major highways good continental breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend housing search trip",
+    "reviewText": "Stayed here two nights the customer service was great, room was clean I had my kids with me they loved it the pool was nice and clean would definitely stay here again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend housing search trip",
+    "reviewText": "front desk clerk harassed me as soon as I walked through accusing me of smoking then during check in process make repeated threats on how much extra he would charge if he smelled smoke and how he would walk outside my room to check and if he smelled smoke he would come inside to see. I told him I do not smoke and I have stayed in this hotel before. then would not even hand me my credit card and license when I had my hand open and the next customer he was very nice to so maybe it was the color of my skin but he made this experience awful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend housing search trip",
+    "reviewText": "would never have booked if I had known that the pictured Jacuzzi is not maintained to working condition",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasure able",
+    "reviewText": "We had a very nice one night stay, after a late night flight to Texas and before we headed to San Antonio",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for the price",
+    "reviewText": "Tv was pretty bad. Room was not as clean as I would have hoped. But the Hotel front desk was very accommodating. For the price you wont find better.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for the price",
+    "reviewText": "Nice stay, I got a suite which was nice, the room was huge. The only problem was the AC only cooled the bedroom but it was a cool night so there was no problem.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "My new Houston \"go to\" hotel",
+    "reviewText": "Airport and Loop road convenient. Was surprised at the size of the room suite. Pleasantly surprised. I was only staying one night before airport departure but this will be my new go to stay in Houston.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value hotel",
+    "reviewText": "The room is surprisingly nice, but could be cleaner. I like the suite layout and for the price it was great. The best part was the Wi-Fi. Easy connect and it's fast. No lag whatsoever. Only thing I didn't like was the breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Will stay here from now on",
+    "reviewText": "Very nice updated clean room. Amazing value for the price",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Will stay here from now on",
+    "reviewText": "Room had urnine dirty towels when I go there but I called and they fixed it immediately",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for.",
+    "reviewText": "Second time I have stayed here in the last month. Both times the check-in procedure was lacking. My experience upon check-in both times went like this: Upon arrival there was nobody at the front desk. My first visit I just waited it out. But on my second visit, after waiting a few minutes at the front desk, I called the hotel from my phone. An employee walked out from the back office area (both times eating chips from a bag) to answer the phone- which was only me and I had just hung up. After that check-in was pretty easy. You just have to lure an employee to the front desk to get them there. The room was decent for the price. Checkout both times the front desk person was non-existant (hey! Just like check-in!). Seeing how I was checking out of a hotel near a major airport then time is of the essence. So I didn't play their game upon check-out. I just left my key cards on the computer keyboard then left. For the price it is an excellent stay if you are needing to catch a flight. And in the same train of thought... you get what you pay for not much. I'll probably stay here again. I am an old pro at their game now. The coolest thing about staying here before you go on a trip is that when you compare the service and attentiveness at the hotel you are going to to this one, you will be overly impressed!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "One night",
+    "reviewText": "Hotel was good for an over night stay. No air conditioner in the sitting room, so it got kinda hot in there because the air did not circulate well. Breakfast bar was good and had lots of choices. Staff was nice and very helpful. Only about 15 channels on the tv, and nothing for kids to watch.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-26T00:00:00.000Z"
+    },
+    "reviewTitle": "One night",
+    "reviewText": "It was a good hotel and staff was great. Only thing beware at last minute manager decided that she could charge a 1 night rate before you check in without notice. Even though I chose to pay at hotel and even called to say I have a late check in and didn't ask for permission or even acknowledge on line",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Typical Quality Suites",
+    "reviewText": "Nice hotel with big, clean rooms and a nice bathroom. The maids were fast and friendly and did a nice job cleaning. It also had a decent free breakfast. The only thing I didn't like about it was there was nowhere to eat nearby. It was also on one of those one way access roads so I had to drive a couple miles just to get turned around and pointed in the direction I needed to go. If you're headed downtown I guess it's not bad..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "time away",
+    "reviewText": "peaceful and relaxing",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality Rooms",
+    "reviewText": "I really enjoyed my time there. I was there so I drop off my wife at the airport that evening. Service was great, Pool was nice. The room looked like it was just renovated. Breakfast was a nice bonus.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-31T00:00:00.000Z"
+    },
+    "reviewTitle": "The price was right!",
+    "reviewText": "I actually got sick during my stay at this hotel. The strong chlorine smell from the pool (I was on 3rd floor) gave me a headache. The room was clean and big but I didn't like the condition there! However, they have an excellent customer service! Sheri and a lady in the front (I forgot to ask for her name) were being very helpful and professional when I got sick! They gave me whatever I asked for help because I was all by myself at the time. Overall, I give this hotel a 5 stars for their great customer service! The room was nice, bed was comfort, bathroom was clean! They served you free breakfast in the morning too!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for extended stay or small family",
+    "reviewText": "Good botel, got an unusually low rate, so it was a good value. Big suite would be good for extended stay or small family. Good pool. Breakfast ok. A bit distant from stores, shopping or restaurants. My room lacked a refrigerator, which was a bit annoying.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "great deal. clean. basic.",
+    "reviewText": "Clean, basic hotel. Great for families traveling through. Unfortunately, There were 10 cars that had their windows smashed while we were there. This is unfortunate because it's a convenient location and we'll maintained. The staff was very proactive in handling the break ins",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "I always stay here.  Excellent",
+    "reviewText": "Close Hardy toll road makes downtown run a snap, super close to airport. Good hot breakfast. Pet Friendly and very fast internet. Biz friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-21T00:00:00.000Z"
+    },
+    "reviewTitle": "2 day get away",
+    "reviewText": "the stay was amazing and definitely worth the price big room and ac worked perfectly it was nice and quiet a terrific trip",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad Ice Machines and No Running Water",
+    "reviewText": "Well when we arrived at the hotel, the front desk staff was pleasant. We checked in and went to our room to notice that walls looked slightly painted over and chipped. The towels had stains on them, which to me felt like they were not cleaned properly or that they havent purchased any newer towels. When I retrieved ice from the ice machine, there were black particles in my ice. I returned to the ice machine to retrieve a fresh bucket and ended in the same result. When I went downstairs to notify the front desk staff of the incident, they had a very callus attitude, which came of as very unapologetic or apathetic. I then requested that they give me some ice from behind the desk, to which they did. The next morning when I was departing for my day, I was informed that the water would be shut off for a few hours for maintenance. I left the building at 10 am and returned at 3 pm expecting the water to turn back on as I was informed it would take 3 hours to fix. When I arrived at my room, the water was still turned off, when I asked what the status was, I was informed shortly. I then requested that my room have running water by the time I return again by 7 pm because I need to freshen up for my evening and I would move to another hotel if this was an issue. When I returned, the water was made available, however it had a slight ting of rust color it. All in all, these things made for a not so pleasant stay at Quality Suites Intercontinental West.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-29T00:00:00.000Z"
+    },
+    "reviewTitle": "don't waste your money",
+    "reviewText": "Spend your money somewhere else. The staff was great and kindly let me check in after 1pm but other than that, our room smelled horrible and so did the stairways. We had to put dryer sheets in the ac vents because it smelled so bad. Our sheets were stained and the restroom was filthy... curly black hairs in in he tub and dirty towels. I could see grease on the tables from whatever the guest's before us ate. The headboard on the bed had some kind of nasty, sticky liquid splattered on it, I can only imagine what it was. I'm assuming the maids either don't clean at all or just don't care. My family will never stay here again!Motel 6 is a 5 star hotel compared to this place...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, great rate.",
+    "reviewText": "This hotel is close to the airport and freeways. Hotel staff was very friendly and helpful with any questions. The pool was great especially on a hot summer day it was a nice place to cool down.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "I would stay again.",
+    "reviewText": "Nice, clean hotel for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Spacious but no food in close walking distance.",
+    "reviewText": "Room was quiet and staff was pleasant. Shuttle was good No restaurants are in walking distance.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible Stay",
+    "reviewText": "Unfortunately, my stay was not pleasant. While checking in I was asked for 50 additional deposit for incidentals this was a first for me (considering furniture was dusty from renovations). Also, I didn't read about the charge under hotel details (pets, rollaways, extra parking) but not incidentals. Next, once in room i noticed my tv was slanted on the wall. Also, I had no hot water in shower ( I left running to try and get hot) never did. Next, ice machine was empty. Finally, I was awakened to loud banging like with tools and heavy walking above my room quite early.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Never stay there AGAIN !",
+    "reviewText": "Not a very good location. Cannot access to the wifi during my entire stay. Room service is bad, the maid knocked on my door at 9:30a.m even I had a Do not disturb sign. The maid gave me a goofy excuse , She told me she was done for the day and my room is the last room for her. Won't stay or consider this hotel anymore !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "A nice convenient hotel.",
+    "reviewText": "Our flight leaving from Houston airport was canceled so we needed an emergency overnight stay. The shuttle arrived promptly. The staff was friendly the room was large and clean. Breakfast was fine. It's kind of in the middle of nowhere so don't stay here if you want to sample any kind of life in Houston. But we would definitely stay here again if we needed a layover.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Heather Dover",
+    "reviewText": "Very friendly staffs. Hotel is very neat... we stayed here for 2 weeks and probably more days.. we are happy to be here...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "red eye special",
+    "reviewText": "We flew from costa rica to Houston on a red eye. we contacted the hotel after picking up our luggage about 6:30am. check in was suppose to be 3pm. They said we'll check you in now--thank you thank you and promptly picked us up. the hotel had a great pool which we enjoyed. we would stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful Stay!!!",
+    "reviewText": "Found the room last-minute it was so worth the money and the time. Wished I would have booked it for two days for the price, comfort and space! Definitely will recommend to other....",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful Stay!!!",
+    "reviewText": "we had come from an international flight and the room was a welcome place to rest. My daughter was especially with the spaciousness of our room!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient, Quiet",
+    "reviewText": "Stayed here 1 night. Arrived late and left early. It was a good, quiet place to sleep and included breakfast. Breakfast included the typical waffle maker, cereal, yogurt, bananas, coffee, and juice. Would stay here again if in the area for a brief time.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-18T00:00:00.000Z"
+    },
+    "reviewTitle": "nice family friendly hotel",
+    "reviewText": "The breakfast was excellent. They had a little something for everyone. The staff was friendly and helpful. The hotel was clean.the only thing that the hotel didn't have was an indoor pool.",
+    "reviewerCity": "",

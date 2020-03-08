@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2015-12-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Staying in the French Quartuer",
+    "reviewText": "There were several issues with our room but they were rectified in a timely manner.",
+    "reviewerCity": "Tuckerman",
+    "reviewerState": "AR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Mardi Gras in NOLA",
+    "reviewText": "Overall nice Hotel, nice area. Rooms are small if your tall you may want to avoid the bathroom, the water pressure is really low and the water is kind of slimy sticks with your skin after your dry. I've stayed at other Hotels in NOLA and can't blame the water source. Parking is a bit cramped if you drive a SUV or Truck be careful. Breakfast is good for being FREE but I would rather eat at many of the great restaurants...courtyard area is nice as is the bar. they also have no security and the rooms doors face out anyone can't just walk in and out on this property. The street where the hotel sits is under major construction so lobby and bar are covered in dust. Staff of the hotel were good allowed me to check in early. Like I said Hotel was decent would not however be my first choice more of a back up plan.",
+    "reviewerCity": "Tuckerman",
+    "reviewerState": "AR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Brief visit",
+    "reviewText": "Like a previous review, we found parking to be very tight and were thankful for an employee who parked our car. There was a slight room mix-up but we were comped for the parking because of it- thanks. Our room door stuck a lot but we managed. We had to leave too early for breakfast so I can't comment on it. Being an old hotel, the room was quite small but the bathroom had been well renovated. I also wish the bar would have been open the night we were there.",
+    "reviewerCity": "Tuckerman",
+    "reviewerState": "AR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Brief visit",
+    "reviewText": "We had a street view. There is construction going on extending the streetcar. Not the hotels fault, but they do start at 7am. If you plan on sleeping in past 7 do not get the street view. Also we had a Sysco delivery truck pull up out front at 5:00 am on our last day, the trucks engine ran until 6:15am then the driver got out his hand truck and loaded the hand truck, scanning every box, making a very loud noise. There should be a back or side entrance for deliveries, not in the front directly under the windows of the patrons paying a lot of money for the stay. It was very rude, and for that reason I would not recommend staying at this location.",
+    "reviewerCity": "Tuckerman",
+    "reviewerState": "AR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok but wouldn't stay again",
+    "reviewText": "The location is very nice-just 3 blocks from Bourbon Street. There is a lot of construction going on in front of the hotel but didn't affect our stay. Staff was very nice and the breakfast had a nice variety. The elevator is extremely small-my husband and i with 3 suitcases filled it up. The bathroom layout was very odd. A large bathroom but the sink was outside the bathroom. There was only 1 small light in the bathroom and made the shower area very dark. The shower had NO water pressure at all. The pillows in the room were very uncomfortable and was like sleeping on tiny little rocks. Did not get a good night sleep. Overall wouldn't stay again unless there wasn't another choice.",
+    "reviewerCity": "Tuckerman",
+    "reviewerState": "AR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok but wouldn't stay again",
+    "reviewText": "Basic, updated 1960s-70s facility, quiet, walking distance to the Quarter and Treme, across from Louis Armstrong Park, close to Basin Street Station, clean, nice people, ought to be very very busy once the Rampart Street trolley line is open this year.",
+    "reviewerCity": "Tuckerman",
+    "reviewerState": "AR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Room 220 came w Casper.",
+    "reviewText": "We stayed in room 220. It was 3 of us, the room was a nice size. Nothing to crazy, clean and well kept. The staff was super cool! We honeay do believe that our room had a spirit in it, I personally didn't get messed w... I might of but I had way too much hydration in me to notice anything. One of the girls swears she was watched the whole night and didn't sleep but 20 mins in the middle of the day, the other girl w us had her feet played with. No joke! Nothing scary happened but isent this what Nola is all about We didn't mind out friendly ghost In our room. Over all we had a great stay and I would definitely be back!",
+    "reviewerCity": "Tuckerman",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Room 220 came w Casper.",
+    "reviewText": "We stayed for my husband's birthday. It was a convenient walk to the French Quarter and the staff was more than welcoming and always willing to help. Breakfast is free and quite satisfying. The rooms are quite small but very clean and comfortable. We had a courtyard view of the pool and it was very nice. Although it was a bit more pricey, it was worth the money.",
+    "reviewerCity": "Tuckerman",
+    "reviewerState": "AR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Just okay.",
+    "reviewText": "The room was either really cold or hot. The bathroom wasn't very clean. Bed was comfy. Continental breakfast was better than average. There were more options than usual by they weren't that tasty. They were going through a bit of construction that kept it noisy outside our room.",
+    "reviewerCity": "Tuckerman",
+    "reviewerState": "AR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Thanksgiving Break",
+    "reviewText": "5 minute walk to Bourbon St. great breakfast, self parking in the heart of the French Quarter.",
+    "reviewerCity": "Tuckerman",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",

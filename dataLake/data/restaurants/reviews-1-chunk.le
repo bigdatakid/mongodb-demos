@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2015-06-05T05:00:00.000Z"
+    },
+    "reviewTitle": "Price gave it a 2",
+    "reviewText": "Nice place but had no TV for the 2 days I stayed- it seemed a family lived there and they where loud and didn't care if they woke you even after asking them to please stop yelling- I am assuming the tv and loud family was a fluke so I may give them another try next time through, only because... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-02T06:00:00.000Z"
+    },
+    "reviewTitle": "Noisy...slow...tech challenged",
+    "reviewText": "2/3 nights had to return to desk for new electronic key...elevator slow and not timed with button at lobby...noisy...suite very small",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-25T05:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "We were very impressed with the rooms which are really nice and clean, Carrin at the front desk was very helpful. Few minutes away from Sea World. We loved the stay. The stay was really worth it................",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-09T05:00:00.000Z"
+    },
+    "reviewTitle": "Good 3-star hotel",
+    "reviewText": "Bedding is comfy. Very close to Seaworld. Pillows too big. Rooms average size. Fridge microwave in room. Noisy hallways could keep you up. Shoved a towel under the door that helped. People were pretty polite. Wifi never worked. I logged in over over never stayed connected for long. Pool had 6 chairs TOTAL. We had to borrow... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-13T05:00:00.000Z"
+    },
+    "reviewTitle": "Class Act on a Budget!",
+    "reviewText": "We were in need of a hotel in close proximity to Lackland AFB for my Son's Basic training graduation. We selected this hotel because of the fact that it is a Wyndham property and the excellent per night rate. After reading some of the reviews, we were slightly hesitant as we checked in and took our keys. All of that... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-28T06:00:00.000Z"
+    },
+    "reviewTitle": "Nice, clean",
+    "reviewText": "The only problem we had, is the hotel is non smoking, our room reeked of smoke, however, the front desk gave us some spray, so it was tolerable. The rest of the hotel, the breakfast, everything was good. Really a great place for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-12T05:00:00.000Z"
+    },
+    "reviewTitle": "So, so",
+    "reviewText": "This is a new area, the hotel is not easily viable from the road. The hotel address could not be located in my navigation system in car or mapquest. I changed my room three times 1) overcome with a cigarette smoking smell in a non-smoking hotel 2) a roach was crawling on the counter where the ice bucket and cups... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-27T06:00:00.000Z"
+    },
+    "reviewTitle": "Great place, Great price",
+    "reviewText": "Had a really good stay at hotel. Rooms were clean and hotel is in good location. Staff was more than helpful and courteous. I was checked in by Letty, she is a very nice person. Will definitely stay there again next time im in San Antonio.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fce"
+  },
+  "name": "Fiesta Inn and Suites",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "San Antonio",
+    "postalCode": "78229",
+    "address": "4934 N W Loop 410",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-98.583884, 29.487838]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"

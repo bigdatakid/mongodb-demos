@@ -1,0 +1,100 @@
+    },
+    "reviewTitle": "It was OK",
+    "reviewText": "The only problem was the people above me were jumping on beds or floor at 3am where I had get up at 6am loud but if I was going stay in Tyler again because of work I choose super 8 also kinda wish y'all have Blu-ray DVD players",
+    "reviewerCity": "Canton",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "It was OK",
+    "reviewText": "amazing decor..new rooms.",
+    "reviewerCity": "Canton",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Surprisingly better than expected",
+    "reviewText": "For a chain hotel, I was impressed at the in-room kitchenette and facilities. Better than most. And the week night happy hour in the lobby was great- Ziegenbock beer on tap for free, and hot snacks. Couldn't have asked for better than that, especially when you're expecting nothing- a happy surprise bonus!",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Home away from home!",
+    "reviewText": "We had a 1 bedroom with 2 queen beds and it was everything we needed. Having a separate bedroom was great since my 4 month old was with us. The breakfast was good and the dining area was clean. The staff was top notch and recommended we try Villa Montez which was the most delicious Latin food I have ever... More",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Delightful hotel",
+    "reviewText": "Clean, polite, comfortable rooms. Very comfortable bedding, the 1 bedroom suite was perfect for work meetings. Easy to get to the hospital for meetings with a rental car. The dinner every night was a bonus, and breakfast was great every day!",
+    "reviewerCity": "Omaha",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "2 Night Stay",
+    "reviewText": "Stayed here a few weeks ago on a 2 day business trip, of course it had ups and downs. The room was defintely nicer than I expected. Loved the fire pit outside and it was a nice view from the room. Staff was very helpful and nice. My only complaint (which was by no fault of anyone) we were put... More",
+    "reviewerCity": "Arkansas",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Ingram family reunion",
+    "reviewText": "The staff was great and the hotel was wonderful. The amenities were top notch and the breakfast was 3 stars out of 4. We had a great time at the reunion thanks to the staff and the accommodations. The rooms were very clean and updated",
+    "reviewerCity": "Arlington",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de400d"
+  },
+  "name": "Comfort Inn Montgomery",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AL",
+    "city": "Montgomery",
+    "postalCode": "36105",
+    "address": "1035 W South Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-86.33771, 32.327641]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent hotel accomodations",
+    "reviewText": "Room was clean and comfortable. Location next to freeway access is convenient, though immediate neighborhood not much to write home about. Hot breakfast was modest but decent, along with usual selection of cereal, etc. No elevator to second floor would be a problem for handicapped or with heavy bags.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Bad but would have picked elsewhere",

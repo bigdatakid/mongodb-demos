@@ -1,0 +1,1000 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value stay",
+    "reviewText": "Nice stay .",
+    "reviewerCity": "Mandurah",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value stay",
+    "reviewText": "My stay was great any tidea I needed something the provided it.",
+    "reviewerCity": "Mandurah",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great experience",
+    "reviewText": "I really would like to say that i have had a great overall stay at goodnight in Rohnert Park .The staff is awesome and have gone above and beyond to accommodate.I will recommend to all if your in rohnert park booking your stat at goodnight inn. Thanks Vanessa Mccarrie",
+    "reviewerCity": "Mandurah",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing !",
+    "reviewText": "I went in about 2 weeks ago I had the best service I believe her name was samara she was so polite and helped me in all my needs my room was super tidy over all great experience will definitely come back ! It's near bk Taco Bell and Walmart very convenient samara helped me every step since I'm new... More",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Always a nice stay",
+    "reviewText": "I really enjoy my visits to Sonoma County! The best place to stay for me is here. It has a great location within walking distance to a shopping center and restaurants. Room service is very nice and the front desk is very helpful and processional! This hotel is also within walking distance to the Graton Casino! The rooms are nice... More",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Always a nice stay",
+    "reviewText": "Worst shower in the world!! Kind of creepy at night good thing we changing hotels",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Best place ever!",
+    "reviewText": "Great place for the price. Clean rooms and GREAT STAFF! HIGHLY RECOMMENDED Paula and Chely have a very welcoming attitude! Close to the casino. Great location. Multiple restaurants. Close to golf course.",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Nite Inn",
+    "reviewText": "I am staying at the Good Nite Inn in Rohnert Park, CA, and i rate it at 5 as in excellent. The rooms are clean and the employees are very helpful and accomidating. If your are traveling to Rohnert Park and looking for room to stay i would highly reccommend the Good Nite Inn, again, i was and am highly... More",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "family reunion",
+    "reviewText": "the hotel is a little old, but the room we stayed in was very clean and comfortable. The grounds were clean and had some nice redwood trees outside my room. The staff at the front desk were very nice and and helpful when we asked for directions to santa rosa. The housekeepers were very friendly and professional. We enjoyed staying... More",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Greatest place ever",
+    "reviewText": "There's all kinds of places to eat casino is walking distance and there customer service was great come visit its worth it plus you have Wal-Mart dollar tree very convenient you like too swim slash on in the pool o the golf course is less then a mile away and bring the kid scandia is just two blocks away",
+    "reviewerCity": "Rohnert Park",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice clean hotel friendly clerks.",
+    "reviewText": "Stayed at this hotel frequently prices are good, nice clean rooms and friendly clerks, area around hotel is nice restaurants are very close easy access to the 101 freeway, if you like to gamble the Casino is in walking distance I would stay hear again.",
+    "reviewerCity": "Santa Rosa",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "A GOOD NIGHT AT THE GOOD NITE",
+    "reviewText": "THE STAFF WENT OUT OF THEIR WAY TO MAKE MY STAY A HAPPY ONE. WHEN I BOOKED THE WRONG ROOM- I WANTED A REFRIGERATOR IN MY ROOM AS I WOULD BE HAVING MY 4-YEAR OLD GRANDSON STAYING WITH ME-THEY GRACIOUSLY GAVE ME AN UPGRADE WITHOUT AN EXTRA CHARGE. I WILL BE RETURNING TO THIS HOTEL.",
+    "reviewerCity": "Sacramento",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de415f"
+  },
+  "name": "Marylander Hotel Condo",
+  "categories": ["Hotels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "MT",
+    "city": "Ocean City",
+    "postalCode": "21842",
+    "address": "6 127th St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-75.05379, 38.43228]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Just Like Vacation Should Be",
+    "reviewText": "Casey at the front desk was just wonderful! Friendly and helpful. The room was just right. Spacious 1 bedroom with 2 comfy queen beds. It was great to get up in the morning and check the view - beach to the left, bay to the right. Had everything you need - washer, fryer, dishwasher, 2 tv's, air, and beach chairs,... More",
+    "reviewerCity": "Bel Air",
+    "reviewerState": "MD",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place",
+    "reviewText": "When I read the review I was nervous about this placed and I already booked my weeks vacation. IDK what the bad reviews are talking about those ppl must be use to staying in a Hylton !! Yes the floors in the hallways were a bit stained and dirty but what do you expect ppl are coming to and from... More",
+    "reviewerCity": "Woodbridge",
+    "reviewerState": "VA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Loved our stay here!",
+    "reviewText": "We got there at 2 pm, and even though check-In wasn't until 3:30, our condo was ready to go and We were given our keys. We stayed on the 4th floor (room 408). The condo was clean and comfortable, and the kitchen was well-stocked. Staff was courteous and extremely helpful. The building is oceanblock but we still had a partial... More",
+    "reviewerCity": "Woodbridge",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "By far the best deal in Ocean City!",
+    "reviewText": "At the Northern end of Ocean City (away from the Boardwalk, which is easily reachable in 15 minutes), this condo-hotel offers access to the almost-always uncrowded beach - just a few steps away - clean and good-sized rooms, a full kitchen and affable hosts. Casey, the manager, is always at your service, and will help with any reasonable request. The... More",
+    "reviewerCity": "Panama City",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice at home feel and friendly staff",
+    "reviewText": "The condo that we stayed in was nicely decorated and at an at home feel to it. It was nice that the bedroom was at the other end of the hall from the living room so you have that option to take a nap and not be disturbed by others in the living room. The kitchen in this particular condo... More",
+    "reviewerCity": "Baltimore",
+    "reviewerState": "MD",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice at home feel and friendly staff",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "Baltimore",
+    "reviewerState": "MD",
+    "reviewRating": 0
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, friendly, laid back... and quiet!",
+    "reviewText": "We were in a second floor condo... A building blocks the view from the ocean... but in 90 steps, your feet will be in the sand. The condo was immaculate and well stocked (the only thing missing was a measuring cup for cooking!) The office staff Casey was super friendly and offered us great hospitality. The pool was clean and... More",
+    "reviewerCity": "Pennsylvania",
+    "reviewerState": "MD",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly and close to the beach!",
+    "reviewText": "We stayed here for the second time this year, and had a great time. Free internet, a game room, indoor pool, and literally 100 steps from the beautiful beach. Condos have kitchens, washer/dryer units, and double beds (2), some also have pull-out couches. Very clean, but a little on the worn side in terms of carpets. Cable TV and very... More",
+    "reviewerCity": "Panama City",
+    "reviewerState": "MD",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place",
+    "reviewText": "We had a great time at this place ,very close to the beach ,walking across the street to eat was very nice .the one thing we did not like was the pool hr. they need to keep it open longer at night 6 pm and 7 pm on weekend is just not long enough .",
+    "reviewerCity": "Ewell",
+    "reviewerState": "MD",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent stay!",
+    "reviewText": "Staff was very friendly. Condo was clean and very well maintained. Kitchen was stocked with all the essentials. Close to everything you need. Even got to see dolphins from the balcony one morning. Would love to stay again. Very close to the beach. Great if you wanted to come back to condo to relax for a while.",
+    "reviewerCity": "Ada",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Love it here",
+    "reviewText": "I visited for the second time, with me and my mom. We had an amazing room and view. I counted and this is 30 giant leaps/hops from the beach (lol). They did some renovations recently and this place is better than ever. They have a sunbathing deck, an indoor pool and a game room. Casey is the manager and he... More",
+    "reviewerCity": "Schwenksville",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Beach Condo",
+    "reviewText": "Returned from our mini beach vacation, loving OCMD. It was our first visit, and I had found The Marylander Condo on Trip Advisor, and clicked on it, after I couldnt find a reasonable priced/nice hotel. This condo buliding is in view of the ocean and also can view the bay. Perfect location in my opinon. It is north of the... More",
+    "reviewerCity": "New Jersey",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok place to stay...",
+    "reviewText": "We stayed here after purchasing a Groupon or Living Social deal. We stayed in May 2012. The condo was spacious enough for two adults and one child. The kitchen was adequate, but we did not utilize it because we were only in town for two days. The complex was undergoing reservations at the time. The only complaint I had was... More",
+    "reviewerCity": "Baltimore",
+    "reviewerState": "MD",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4160"
+  },
+  "name": "Cliff's Motor Inn",
+  "categories": ["Motels", "Bed \u0026 Breakfast \u0026 Inns", "Lodging", "Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "MT",
+    "city": "Saint Leonard",
+    "postalCode": "20685",
+    "address": "4785 Saint Leonard Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-76.50707, 38.47525]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "Absolutely one of the filthies...",
+    "reviewText": "Absolutely one of the filthiest motels in the America. The carpets are soiled and the room smelled like Raw sewage, when I asked the owner he told me he does not clean the rooms it is the renters resposbility. You can find him at the liquor store he owns, He is just preying on tourists!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4161"
+  },
+  "name": "Economy Inn",
+  "categories": ["Travel and Tourism", "Hotels \u0026 Motels", "Budget Hotels"],
+  "location": {
+    "country": "US",
+    "state": "MD",
+    "city": "Harrisonburg",
+    "postalCode": "22802",
+    "address": "3467 N Valley Pike",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-78.821924, 38.478158]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Editorial Review by Citysearch Editors National chain features affordable accommodations with in-room microwaves, refrigerators and wireless Internet plus complimentary breakfast and a heated pool.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4162"
+  },
+  "name": "Bethesda Gardens",
+  "categories": ["Retirement Communities", "Retirement Apartments \u0026 Hotels", "Nursing \u0026 Convalescent Homes", "Homes-Institutional \u0026 Aged"],
+  "location": {
+    "country": "US",
+    "state": "MO",
+    "city": "Saint Louis",
+    "postalCode": "63122",
+    "address": "420 S Kirkwood Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.4065, 38.575336]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4163"
+  },
+  "name": "The Citizen Hotel, Autograph Collection",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Sacramento",
+    "postalCode": "95814",
+    "address": "926 J St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-121.4938057, 38.5802767]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I love Sabrina Watts who originally booked my wedding. She is in charge of catering and is the most amazing person the citizen could ever ask for in an employee. Lisa Hibdon was my wedding planner and was sweet and efficient. The citizen is amazing for weddings! They have it down to a science! Only draw back is the added service fees and the break down of the BEO's are difficult to understand at times. But the food is amazing and the hotel staff are wonderful!!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "avoid room # 400. corner suite w/ a large tub, gorgeous room but noisy. i stayed for the weekend \u0026 the bar across the street is awfully loud till almost 2 am!!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-01-30T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "rob the valet is adorable",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "the grange restaurant here is excellent in every way. hotel has a great government rate but book early. very nice customer service attitude in this boutique hotel. it is a real jewel.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "JDV Excellence This beautiful new hotel in downtown Sacramento has been put together with all of the care and unique qualities that I expect from a Joie de Vieve hotel. We stay in JDV hotels anytime we happen to stay in San Francisco and we were pleased to see this new property in Sacramento. The rooms are a touch masculine, but adequately sized and well appointed. The restaraunt is excellent and the hotel ambiance is the perfect combination of early 20th century with 21st century amenities. Treat yourself!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-02-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Great Hotel BUT... It's a great hotel but if any of you are looking to save some then book it at referer.us/8/GoodHotelDeals They usually have some pretty good deals on there!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "This review is for the wedding/catering management and the hotel as a wedding venue itself. Initially, it was difficult to get a hold of someone to set up tours and discuss booking, but I believe this was because the staff was in flux at the time. Once Sabrina began handling our event, it was smooth sailing. Sabrina was very patient while my fiance and I went over the contract with a fine-toothed comb. She was able to address all of our concerns, answered all of our questions, and was very accommodating. When we booked the venue, we knew we had chosen the right place.Our day of coordinator was Michelle who was top-notch. I first met her at our menu tasting; she's charming, kind, and knowledgeable. I felt I could ask her the smallest/stupidest questions. I did most of the planning long-distance so prompt e-mails were important to me. Michelle and I were able to communicate most things through e-mail, and she did a great job making sure I didn't forget anything. On the day of the wedding, I honestly did not worry about a thing. I had such a wonderful time and it's because Michelle took care of everything. She helped make it an event to remember.My guests were impressed with the decor at the Citizen - I had many compliments on how beautiful and elegant the setting was. The terrace, along with the Capitol Building in the background, is breathtaking. I heard many people say that the food was fantastic, and one person said it was the best wedding food he's ever had. The guests also loved how each room is unique. The Reservations Manager, Megan, was also very easy to work with and allowed me to change many things, even at the last minute. We were in the Governor's Suite for the wedding, and the room is, of course, fabulous.My only critiques would be that there is no free wi-fi, but you can sign up for the Joy of Life Club and get free wi-fi that way. Parking can also be a concern, especially if you are part of the wedding party and need to go to and fro. But we all managed. Overall, we couldn't have been happier with our wedding and feel the Citizen Hotel did a fantastic job. Thank you!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "try the nightly free wine hour from 5:30-6:30.  become a joy of life club member. ask for a room with a bathtub.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "gorgeous hotel! definitely get a 1-bedroom suite with the huge soaking tub.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The second we walked into the check-in of The Citizen, we knew it would be our wedding venue. We absolutely loved the view, the decor, the staff, the ease of booking, the open communication, the assigned planner....EVERYTHING. The day went off without a single flaw (or if there were flaws we never knew!) and every single one of our guests commented on how perfect the hotel was. From the booking, to the tasting session, to spending my bachelorette night there, to the actual weekend event, everything was absolutely perfect.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "so many fake books! lol! i'm dead",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "My husband first found The Citizen Hotel for our first anniversary after we started dating. After he proposed, we knew we wanted to have our wedding there. We had to book it over a year in advance because we wanted the last Saturday in April, but it was definitely worth the wait. Lisa, the in-house wedding concierge, was fantastic to work with. The food was absolutely spectacular, and it was served family-style instead of buffet, so none of our guests had to wait and watch while other guests got their food. The only downside was that we had to end the reception at 11pm, even though we would have loved to keep the party going.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The venue, customer service, and especially our wedding concierge, Lisa, was great! Everything ran smoothly, thanks to Lisa!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very thorough and made my day incredible. Willing to meet my needs and assist in whatever way was needed.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I wasn't treated like a citizen I booked a suite at new The Citizen Hotel for New Year's Eve. My husband and I were recently married and didnt get to take a honeymoon, so this was our exciting getaway. When we got to our room it was clear that the room we reserved was not the room they gave us. We were treated extremely rudely by all staff members and it was obvious that they gave our room to someone else and made no effort to fix the situation. I told them I was disappointed and considering checking out. At that point the manager said that I should check out and refused to speak with me face-to-face. We then left the hotel feeling like we were not citizens at all and that they didn't care about us as guests. I have never been treated that way in my life.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Amazing! Old Hollywood Glamour right in Downtown Sacramento! The cocktail reception in Scandal was a real treat!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-12-14T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "request a king room ending in 22 for a larger, corner room. read more",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-11-12T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "This is a gorgeous hotel! We had our wedding here in November of 2011 and would not have changed a thing about the hotel. We had our ceremony in the Historic Ballroom on the first floor, then guests moved up to Scandals on the second floor for the cocktail hour and then the reception was on the seventh floor terrace with a view of the whole city! We also stayed in the Governor's Suite the night of our wedding which allowed us to have access to the balcony for pictures on wedding day. Absolutely ideal venue for a classic and romantic wedding!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-12-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "definately get a room with a view of city hall!  and, try the outside staircase near rooms one and two and see if you smell burgers!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "park in the garage nearby for $8 a night instead of the valet for $25",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I can’t say enough amazing things about this venue. It is beautiful and the staff is very courteous and go above and beyond to make sure you have the best day possible. My guest loved the accommodations as well as the ability to go right from their room to all of the wedding activities. The food was fabulous and the guests are still raving about it and loved the high quality service they received. They staff at the citizen went above and beyond to give us a dream day even helping us organize a post weeding brunch for 50 the week before the wedding. We had a beautiful day and couldn’t have asked for more.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "room 300 is gorgeous but the nightclub across the street will keep you up until the early hours of morning",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "in the heart of downtown, the views are great from about the 5th floor and up.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "nice hotel. room 1216 has a great view of the capitol building and the park.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "gorgeous locale, internet is $10/day.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "check in and drop your bags off. then get out and enjoy the california sunshine. we recommend you you drop into the california state railroad museum, the crocker art museum, or tour the capital.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Up the hierarchy Hotelier Chip Conley developed the Joie de Vivre hotel chain based on Maslow's hierarchy of needs and goal of self-actualization. He wrote the book How Great Companies get their Mojo from Maslow. The Citizen Hotel helped move me a bit up the pyramid, but being in Sacramento couldn't fully bring me to self-actualization. Oh well, can't have everything. It's an old downtown bank turned boutique hotel with dark reds and blacks and great drawings and political cartoons along the wall. The best is the black and white pic of a young buff Arnold Schwarzenegger, shirtless and in speedos, flexing with a group of bridesmaids in the women's bathroom in the parlor. The room was spacious, swanky, sophisticated. Dripping with old school charm and modern day luxuries. An Apple-lovers haven -- iPhone docks, macs in the business center. Dual shower heads, decent products, sitting room with a second flat screen TV (although I learned I had the ADA room). Steamer instead of an iron (LOVE), roomy, cozy, great bed, decent mini-bar. If you are stuck in Sacramento on business or whatever, this hotel is an excellent selection.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Beautiful location. Amazing staff. I knew I wanted my wedding here before I was even engaged. The view from the 7th floor Terrace is beautiful and we loved the decor of the hotel. We stayed in the penthouse suite and the governor's suite and loved both rooms. Both rooms had balconies overlooking Sacramento. The staff couldn't have been more helpful. I mainly worked with 3 ladies and they were all wonderful. They made everything so easy and were always quick to respond to my emails (all of the millions of emails I sent them). Everything turned out exactly how we imagined it. I wouldn't have changed a thing!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "like i stepped back in time. awesome decor.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "We loved the Citizen Hotel from the moment we toured this venue. The hotel is stunning and so unique. All the staff was so helpful. I just loved the reception space. We couldn't of picked a better venue to have our special day!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "very hip, great location, huge bathrooms.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "older but fancy beautiful hotel with top level pool to see the city from above!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "cute rooms and decent rates!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "love this hotel! try the media service!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "as far as i know from my clients it is the nest hotel in town",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "This review is specifically for Melissa. We began the process with Harmony and were quite frustrated. She did not respond quickly to emails and forgot details that we had stressed were key for us. When we were notified that Melissa would be taking over, we were quite worried, thinking, \"This is what you hear about online. Someone new taking over your wedding halfway through.\" It was such a blessing though! Melissa replied quickly, solved problems, and assisted us better than we could have wished for. She is so sweet and knowledgeable. Ask for her only!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "on the weekend park at city hall garage (on 10th facing the park) for a mere $5. it's 1/2 a block to save $20 (valet is $25 at the hotel).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "beautiful, classic hotel. great place to stay if you're in the area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "We were so happy with our choice of ceremony venue.  The Citizen is a lovely hotel that provided us with some grorgeous views of Sacramento. Everyone at The Citizen Hotel went above and beyond for us.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "beautiful hotel with irreverent political theme. but noisy: the walls are thin so you can hear the neighbors, and the bar scene is rowdy past midnight.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "try a jimador margarita at the absolutely fabulous ernesto's on 16th",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-02-27T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "if you stay here on a summer weekend, make sure to check out a friday evening concert across the street in cesar chavez plaza. enjoy good music in a great outdoor setting in downtown sacramento.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "nice clean and historic. it's pretty cool.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Selecting The Citizen Hotel for our wedding venue was a decision we will never ever regret. The staff went above and beyond to make our day special, the Metropolitan Terrace was the perfect set up for our ceremony and reception, the prices for our hotel guests were extremely reasonable, and overall, they just really made our day everything and more.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "rooms ending in 02 are small with almost no window. avoid.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-11-23T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "ask for a room ending in the numbers 22 for a large, corner king! read more",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "We cannot say enough good things about our recent wedding at the Citizen. Michelle and Harmony were extremely attentive from the first time we contacted the venue and through to our wedding day. Michelle, in particular, made our day perfect through her incredible attention to detail. There was not a single mistake made, which is no small task when we had so many requests and last minute changes. She also conducted our rehearsal, which took so much weight off my shoulders the day before when I was about to crack! The serving staff also went above and beyond to make sure we got to enjoy dinner and they even left champagne and left overs in our room for us to enjoy after the wedding was over.As for the venue itself, it really speaks for itself. The tented 7th floor terrace with a view of the capitol is exquisite to the point that minimal decorations are necessary. The food is local and sustainable and tasted every bit as good as during our tasting at the Grange. The food at the cocktail hour got especially rave reviews. The hotel put guests with children on the same floor as the terrace, so some families put their kids to bed and then were able to return to the reception to dance! The bell staff was also extremely helpful over and over with all of our stuff and multiple cars going in and out of valet. I can go on and on, but definitely do yourself a favor and book your wedding at the Citizen and you won't be sorry!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I feel like I was a pretty needy bride :) And without Michelle's help at The Citizen Hotel, there is no way I could have planned our beautiful wedding in 3 months. Everything was perfect. The food was amazing, the rooms were clean, the venue area was beautiful and the staff was more than helpful. I can't say enough good things about this venue/hotel. We could not have chosen a better venue.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4164"
+  },
+  "name": "Comfort Suites",
+  "categories": ["Travel \u0026 Transport", "Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "IL",
+    "city": "Fairview Heights",
+    "postalCode": "62208",
+    "address": "137 Ludwig Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-89.994293, 38.601519]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great with couple flaws",
+    "reviewText": "Me, my husband and 5 yr old stayed 2 nights for a mini-vacation. Great location with plenty of dining, shopping choices at same exit. Hotel was clean and friendly. Breakfast was hot and ok. Pool kind of small when hotel filled and lots of kiddos trying to swim. Lol we stayed in a king room with foldout sofa bed. Room... More",
+    "reviewerCity": "Bamberg",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Overall a good place to stay",
+    "reviewText": "We recently stayed at Comfort Suites in Fairview Heights Illinois. The whole place could use a little up dating. We had a tile loose just as you stepped out of shower. The table in the room was real wobbly from the legs being loose, stains on carpet..etc... Overall it was a good place to stay though. The room was clean... More",
+    "reviewerCity": "Bamberg",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Almost perfect",
+    "reviewText": "The motel had one flaw. It could use an update. Other than that everything was great! The front desk was really friendly. The beds were comfortable. Breakfast was hot and good. But the best part was the access to the Metro. We were able to get to the metrolink fast and no hassle. Then take it right to the stadium... More",
+    "reviewerCity": "Branson",
+    "reviewerState": "MO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Lock your door from the inside",
+    "reviewText": "Our first clue of how this stay was going to go should have been when the lady checking us in didn't know exactly where our room was located. We had the loudest neighbor ever. Constant coughing from them all night. Had to leave the tv on just to drown out the noise. At about 9:00 the next morning housekeeping started... More",
+    "reviewerCity": "Wolf Lake",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable!",
+    "reviewText": "I have stayed at this hotel a number of times. I am always pleased with it. The staff is so friendly. They make you feel like they appreciate you choosing this hotel. I always feel comfortable when I stay here. This time I was in town to attend a funeral and they were able to give me a discount of... More",
+    "reviewerCity": "Villa Ridge",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful stay!",
+    "reviewText": "We called last minute to book a room, Nancy was very helpful and so kind! The hotel is pet friendly, but clean and well maintained. It's set back off the highway, so it feels safe and is quiet. Lots of good restaurants and shopping close. Overall, a great value and a great stay!",
+    "reviewerCity": "Mountain Home",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, comfortable and a very nice staff.",
+    "reviewText": "This was a great place to stay. Comfortable room, great location and very clean facilities. Pool was clean and warm. Breakfast was busy but they kept everything well stocked. I was impressed with the caliber of guests staying at the hotel. When we arrived there were two high school teams checking in. Great chaperones! We never heard them! We will... More",
+    "reviewerCity": "Cleveland",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "First and probably last stay",
+    "reviewText": "Carpet is nasty, carpet trim falling off/coming off and grout missing in bathroom floor tile. For a little more we could have stayed at a variety of other hotels. Normally we pick Drury but decided to save a few bucks and give this place a shot. This hotel is the reason I hesitate to try new places. It needs some... More",
+    "reviewerCity": "Paducah",
+    "reviewerState": "KY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Older, but comfortable hotel.",
+    "reviewText": "The Comfort Suites in Fairview Heights, IL is the most reasonably priced in the area. The hotel is old and could use some updating. The carpet needs to be replaced. Still, I recommend the hotel for those travelling on a tight budget. The bed was clean and comfortable. The breakfast bar is above average. Fresh made waffles are available every... More",
+    "reviewerCity": "Naples",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place",
+    "reviewText": "We had a very nice stay here. Room was clean and staff was friendly and helpful. Only drawback in my book was that there was no hot tub which I really enjoy after a whole day in the car. But I survived and we had a very pleasant stay.",
+    "reviewerCity": "Saint Croix Falls",
+    "reviewerState": "WI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean hotel at a good price",
+    "reviewText": "My family stayed here for a week while visiting the St. Louis area. It is a comfortable, clean hotel for under 100 a night. Convenient to the expressway but farenough away so that you don't hear it. The usual Comfort Inn breakfast buffet is available in the morning, ok but nothing to write home about. Staff is friendly and helpful,... More",
+    "reviewerCity": "Pigeon Forge",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointing Dissatisfying",
+    "reviewText": "We chose this hotel because of proximity to St. Louis, and having stayed at Comfort Suites before felt confident we would have a good stay. We were disappointed. While the bedding and towels were clean, the general state of the room was rather dismaying. Several stains pocked the carpet. Dead or mostly dead insects lined the sill of the window... More",
+    "reviewerCity": "Champaign",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4165"
+  },
+  "name": "Casino Queen Rv Park",
+  "categories": ["Marketing Consultants", "Casinos", "RV Parks", "Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "MO",
+    "city": "East Saint Louis",
+    "postalCode": "62201",
+    "address": "200 S",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.174933, 38.628986]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The RV park is even worse than the casino! Shootings, homicides, arsons, you name it! East St. Louis, with every single square block crawling with serial killers, serial arsonists, wanted fugitives, prison escapees, and other dangerous criminals, is totally no place for an RV park, especially as AK-47 bullets, with an average muzzle velocity of roughly 1,600 miles per hour, can even tear through cinder block walls!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4166"
+  },
+  "name": "Four Seasons Hotel St. Louis",
+  "categories": ["Hotels", "Hotel"],
+  "location": {

@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Would stay again.",
+    "reviewText": "New and nice facility but the fire alarm went off twice",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Would stay again.",
+    "reviewText": "The rooms are huge!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Would stay again.",
+    "reviewText": "check-in/out kiosks for guests who prefer interacting with screens. (guilty.)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Would stay again.",
+    "reviewText": "Check-in/out kiosks for guests who prefer interacting with screens. (Guilty.)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to Sea World.",
+    "reviewText": "We had a great time in San Antonio. Pool was nice and cool. Breakfast was good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to Sea World.",
+    "reviewText": "excellent customer service! need work",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd0"
+  },
+  "name": "Drury Inn \u0026 Suites San Antonio Northwest Medical Center",
+  "categories": ["Hotels \u0026 Motels", "Budget Hotels", "Business Hotels", "Family-Friendly Hotels", "Tourist Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "San Antonio",
+    "postalCode": "78230",
+    "address": "9806 W Interstate 10",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-98.560311, 29.532261]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2005-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Free breakfast and drinks and snacks at night Right off the Anderson Loop (1604) Very new, clean and neat. Pool indoors, gym small but workable, laundry facility for guests.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Family-owned hotel chain brings low-cost comfort to weary travelers. In ShortSince the mid-20th century, this Southeast Missouri chain has offered comfortable and stylish hotels at an affordable price. With more than 100 locations across the Heartland, they are popular among families and business workers who have come to expect standard amenities such as free local calls, parking, Internet access and breakfasts. Fax services, meeting rooms and standard fitness centers and pools are also common features.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]

@@ -1,0 +1,100 @@
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Travel stay",
+    "reviewText": "No issues",
+    "reviewerCity": "Ellijay",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Travel stay",
+    "reviewText": "Just passing through on a cannonball run type trip to west Texas and back. Stayed at this same hotel coming and going. Perfect for what I needed. Clean bathroom comfortable bed.",
+    "reviewerCity": "Ellijay",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Travel stay",
+    "reviewText": "súper dirty. unfolded the sheets and there was food in them.. went down stairs and they changed our room to one that was not even clean at all.. the bed was not done, and the towels all over the floor",
+    "reviewerCity": "Ellijay",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "don't believe the pictures",
+    "reviewText": "Called 2 hours before checking in and still had to wait an hour for our room. Breakfast was pitiful nothing like the picture. Room was small with stained carpet and furniture. Bathroom is tiny! While the color schemes matched the pictures nothing else did.",
+    "reviewerCity": "Ellijay",
+    "reviewerState": "GA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Odor issues",
+    "reviewText": "This is a pet friendly hotel. the complimentary breakfast is very limited. The staff is very nice and quick to take care of issues. We had problems with the key card several times but it finally got fixed after 3 times of scanning. The pet odor was very bad but dry carpet deodorizer helped. It was quiet and otherwise acceptable.... More",
+    "reviewerCity": "Tulsa",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Good night's sleep at a fair price.",
+    "reviewText": "Property under some needed renovation, but overall a good stay at a fair price. Good halfway stopping point if you happen to be traveling between Charlotte and Houston. Good choice of restaurants nearby.",
+    "reviewerCity": "Houston",
+    "reviewerState": "GA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Trip",
+    "reviewText": "The lady who checked me in was awesome!!! It was a nice clean place to stay while passing through.",
+    "reviewerCity": "Houston",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Trip",
+    "reviewText": "Clean room, friendly staff. Close to Interstate. Would stay there again.",
+    "reviewerCity": "Houston",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Doggie Heaven",
+    "reviewText": "This is a pet friendly hotel and you will know it when you open the door to your room. The room smelled like a wet dog! There were stains on the carpet - I don't really want to know of what. We were tired from traveling all day and needed a pet friendly hotel because we travel with our cat... More",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "La Quinta gets it done.",
+    "reviewText": "I found out that many La Quintas give you a competitive price in person even at the last minute on a road trip. And if you have to fly and be gone for a week many allow you to leave your car right at the hotel for much less than airport parking. The shuttle will take you right to the... More",
+    "reviewerCity": "Lexington",

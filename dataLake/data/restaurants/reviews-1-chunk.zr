@@ -1,0 +1,100 @@
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de401d"
+  },
+  "name": "Desert Motel Restaurant",
+  "categories": ["Hotel", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AZ",
+    "city": "Wellton",
+    "postalCode": "85356",
+    "address": "28709 Los Angeles Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-114.14621, 32.673]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Desert Motel Wellton Az.",
+    "reviewText": "The rooms are very clean and comfortable. The help are very nice to every one. You can enjoy a quite evening sitting out at the table or in the chairs and enjoy the B.B.Q. that they have for you to use they also have coffee makers in the rooms with coffee for you to enjoy. you are close to restaurants... More",
+    "reviewerCity": "Wellton",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de401e"
+  },
+  "name": "Cherokee Lodge Bed and Breakfast",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Coronado",
+    "postalCode": "92118",
+    "address": "964 D Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-117.180913, 32.686698]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again",
+    "reviewText": "No parking. Up to you to find parking on the street. TV remote taped on back to hold batteries in and would not work for volume and on off. TV was the size of a lap top in a corner. Our room was 11 which is next to the front door so we could hear everyone coming and going each time they opened the door. Breakfast was a block away at Panera. They did not have what we wanted on the menu that the Lodge Staff had given us. The air conditioner was small and in a hole in the wall very high up. The average person would not be able to reach high enough to turn it off which we did because it was loud, so it was to be hot or not be able to sleep for the noise. The bathroom sink was barely big enough to wash your hands. Poor security, only a chain lock on back door.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Quite disappointing",
+    "reviewText": "Extremely noisy. I didn't sleep at all. People in and out of this house all night at every hour. Really strange. I was given room facing the street. Windows with no curtains. Just blinds and therefore light from porch and steet outside was right in the room. I booked this bed and breakfast because they accept pets but it was not worth it. Room across from mine had a dog too. Huge mistake to give people with pets the two rooms that face street and that are next to main door of the house. Both dogs barked the entire night at every noise and customer opening/closing main door! Room is cute but it would have been nice to know that private bathroom was in hallway. I mentioned all this to the owner the morning we checked out. She was polite but didn't seem to understand these are issues for which people won't talk positively or will want to return if not addressed. Mine was truly a suggestion because the place is nice and has lot of potential. But people should be able to sleep at night and have Windows With more privacy and less light in their room. Paying over 200 for a night like that (completely awake!!!) is quite disappointing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "We would definitely come again!",
+    "reviewText": "The room did not have a thermostat and the floor register could not close. The room was hot for the first two days and than no heat the last morning WiFi did not work the last morning The maid did not come in to clean the room, make the bed, nor provide new coffee packages. On check out it was noted that you had to put the sign out for maid service but no where was that posted The breakfast was not on site. They gave you a voucher for a restaurant a block away",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Really a B\u0026B",
+    "reviewText": "There is no food served at the Cherokee Lodge. For breakfast, they provide coupons for Panera. We never met the owners or any other guests, so it did not have a BB atmosphere. Our room was cold, but adequate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Charming comfort",
+    "reviewText": "We just needed a place to stay for one night, so it was nice to have such a beautiful comfort room at reasonable rate with in room coffee and water with a very nice private bathroom down the hall.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Bed \u0026 Panera",

@@ -1,0 +1,1000 @@
+    },
+    "reviewTitle": "",
+    "reviewText": "Editorial Review by Citysearch Editors Economy hotel offers guests free in-room local and long distance phone service and wireless Internet complimentary breakfast also provided.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Comfortable and charming! I was very pleased with my choice to stay here. It was clean, comfortable and the staff was very helpful and charming. I will come again and recommend.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de414e"
+  },
+  "name": "Hotel Silken Siete Coronas",
+  "categories": ["Hotel", "Hotels"],
+  "location": {
+    "country": "ES",
+    "state": "",
+    "city": "Norcross",
+    "postalCode": "30003",
+    "address": "Paseo De Garay 5",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-1.124223, 37.981858]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel in a great location.",
+    "reviewText": "The hotel was particularly well appointed, closer to the river and some amazing restaurants. In fact one of the most famous is just a short walking distance, great food and It's owned by an ex Matador. The hotel room was immaculate, staff was friendly, checkin was a breeze, car parking was very reasonable, breakfast was perfectly cooked. I would recommend... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely hotel in a convenient location",
+    "reviewText": "The hotel is very well situated, just a few minutes' walk from Murcia centre. Despite this it was very quiet. Beds are vast and comfortable, marble bathrooms very clean, good showers. Food was good, and there are plenty of restaurants close by if you don't want to eat in the hotel.",
+    "reviewerCity": "Gloucestershire",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Renovated and great place to stay!",
+    "reviewText": "Stayed here for New Years Eve (party) second year running. Totally excellent experience. The NY event is extremely well managed , food was excellent this year with a band it had a great atmosphere. Highly recommended. The hotel itself has been refurbished throughout (it was good before) but now even better. Breakfast is wide in choice to suit all... More",
+    "reviewerCity": "Bedford",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely Centrally Located Hotel",
+    "reviewText": "The hotel is very well located as it's in the center or Murcia. It's very near to the Cathedral. The room was spacious, had a marble bathroom and everything was well cleaned. The bed was big and comfortable and I slept very well. I would definitely stay again the next time I visit Murcia.",
+    "reviewerCity": "Campo de Criptana",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Roger Hodgson concert",
+    "reviewText": "The hotel is in a great location near to the river Segura, the room was ideal and reception staff very helpful. Breakfast was ok when you worked out what was where as the breakfast staff were unhelpful. There were also renovation works going on during our stay, which meant you could not park at the Hotel. But would use again.",
+    "reviewerCity": "Spain",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great weekend, shame about the hotel!",
+    "reviewText": "I booked by phone for a weekend stay at this hotel. On booking.com it is shown as 4* with robes and slippers (there were none!). No pool or gym so I expected it to be 4* based on room facilities and service and good food. We were offered a deal to stay there for bb. My experience of all staff... More",
+    "reviewerCity": "Malaga",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Construction site and large renovations",
+    "reviewText": "Large part of the hotel is under total renovation. They are rebuilding a new hotel out of the old one. They dont mention it on the website and the pictures are not reliable. Breakfast was served temporarily in the small bar and was not the Silken standard compared to other Silken hotels I have visited. Not large variety. Staff did... More",
+    "reviewerCity": "Helsinki",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Spacious and Comfort",
+    "reviewText": "It's a nice hotel with comfort and spacious rooms. Has a good location. Rooms are quiet and have all necessary facilities. It is definitely worth the money. The only drawback is the free WiFi which is very slow.",
+    "reviewerCity": "Eindhoven",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "One night in Murcia",
+    "reviewText": "We went to Murcia to meet with friends for an evening and knowing full well that the Spanish people enjoy a late night we decided to stay overnight and chose this hotel because of it's location overlooking the river and a short walk to the very heart of the city. It is very easy to find with a secure underground... More",
+    "reviewerCity": "Milton Keynes",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "great base for short Murcia visit",
+    "reviewText": "Booked this hotel due to convenient location for the SoS festival in Murcia. Very good location, nice sized room with comfy bed and helpful staff. The hotel helped us book a restaurant for the night we arrived and were very welcoming and helpful throughout. Nice bar with some tables outdoors and very reasonable prices. Also close to train station for... More",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel, good weekend",
+    "reviewText": "Lovely hotel convenient location. Nice staff, especially reception staff and a special thank you to housekeeping ladies.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Et bra hotel i en vakker by.",
+    "reviewText": "Vi gledet oss over hotellet og byen og alle arrangementer som fant sted i de dagene vi bodde der. (Avslutning p karnevalstiden).",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Et bra hotel i en vakker by.",
+    "reviewText": "Comfortable hotel in good location - 5-10 minute walk to cathedral area, restaurants and bars. Good sized room. Ideal for short stopover.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Comfortable",
+    "reviewText": "The hotel was nice. The room was very quiet and the bed was comfortable and firm. The a/c was not as cold as we like it though. The front desk personnel spoke English and were very helpful in finding a place to eat.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Good Value!",
+    "reviewText": "We enjoyed our stay very much, great location, convenient parking garage and excellent breakfast. The hotel is planning for future renovation as it shows its age from the late 80s. Lighting is quite poor in the room and worse in the bath. Otherwise the room is generously sized. The use of LED lighting perhaps is too cool for the room but fine for the hallways.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "stopover",
+    "reviewText": "not all services available were available due to building works which did not cause ant real problems but it did mean no parking on site.It was our first visit to Murcia and liked the city very much and the staff were very helpful.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-10T00:00:00.000Z"
+    },
+    "reviewTitle": "MURCIA IN FEBRUARY",
+    "reviewText": "jUST OK.The hotel was very quiet. Rooms were very warm but breakfast room was cold,heated by two small portable heaters.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable hotel near centre.",
+    "reviewText": "Stayed overnight for business. Walking distance to centre for restaurants and bars. Street parking nearby. Hotel clean and comfortable, friendly and helpful staff. Some building work going on but not a problem. Good value for money.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel, good parking, great location",
+    "reviewText": "30th wedding anniversary. Fabulous location for walking around Murcia center and the night life",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely friendly staff",
+    "reviewText": "Thoroughly enjoyed the room with a view of the cathedral. Breakfast was amazing and so was room service.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel ideal para viaje de negocios",
+    "reviewText": "Estancia de dos noches en viaje de negocios. Hotel bien ubicado, popular e ideal para encuentros de negocios. Personal atento y servicio correcto. Slo un poco de aglomeracin en el check-out. Habitacin cmoda, agradable y correctamente decorada.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Travelling home",
+    "reviewText": "We have stayed at this hotel many times over the years. Feel now it is ready for an upgrade as per their other hotels. Think this time we saw things we're going to get started. Lovely staff and clean rooms.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Vacances",
+    "reviewText": "Vacances en Espagne super",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Hotel",
+    "reviewText": "The staff were friendly and efficient. The hotel was just finishing being renovated so was a little inconvenient and dusty.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great last minute offer!",
+    "reviewText": "Handy hotel for a quick stop over. Friendly welcome.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location",
+    "reviewText": "Good value hotel in very good location, rooms slightly tired but no real problem, staff very friendly - excellent. Breakfast very very good.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "The room was a good size and the air condition was really good. No complaints. It's less than 10 minutes walk to the cathedral, so really central. Would highly recommend!",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic few says",
+    "reviewText": "Excellent Hotel Reception staff could not do enough! Room was well equipped roomy and very comfortable Location pretty good Breakfast which was included was the best and exceeded those at our other destinations by a mile!",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic few says",
+    "reviewText": "WiFi did not work on any floor! Very disappointing!",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Bra och stadsn��ra hotell",
+    "reviewText": "Fantastiskt nra till allt.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Best deal in Murcia",
+    "reviewText": "No brainer",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent hotel and location",
+    "reviewText": "Our stay was excellent. The hotel staff were very helpful and polite. The hotel itself was very comfortable, clean with a huge comfortable reception area with sodas, armchairs,which opened onto the patio outside. The room was very clean and the bed was big and very comfortable and the sheets spotless. The location of this hotel is excellent for the cathedral, the casino, plaza del Flores, the bull ring, nightlife, bars, restaurants, everything really. Would highly recommend it and would definitely stay here again. There is even free parking across from the hotel too,",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good choice",
+    "reviewText": "Short 3 night break to catch up with family and friends. Hotel staff very friendly and helpful, my wife is vegetarian and on the one night we ate at the hotel there was nothing on the bar menu she wanted to eat, waiters and chef went the extra mile to make a meal for her. Plenty of choice for breakfast.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Just normal 4 star hotel",
+    "reviewText": "Just normal 4 star hotel without spa and any good facilities.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Modern hotel",
+    "reviewText": "Good location and staff very kind, we stayed overnight and it was convenient",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location in old part of city",
+    "reviewText": "Hotel was in a great location in old part of city, 5 minute walk to stunning cathedral and plazas. Hotel has own bar serving reasonably priced snacks and drinks. Friendly staff in bar and on reception. Murcia worth visiting purely for the fab Los Zagales tapas bar (Calle Polo de Medina). Been there since 1926 - we had some very unusual and tasty tapas. Prices start from 90cents with good local inexpensive wines. Lots of locals use this tapas bar. Tricky getting from Murcia city to Murcia San Javier airport (40 km) - quoted 70 euros for taxi. Train to nearest station would cost 13 euros plus a further 23 euros to get from train station to airport. We used the no 70 bus, leaves from stand number 8 in the main bus station (4.35 euros) to San Javier town and then a 10 euro, 5 minute taxi ride. allow plenty of time to get your bus tickets. We felt that 2 nights were enough in Murcia, which is a big regional and commercial center.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location in old part of city",
+    "reviewText": "Buen hotel con buen servicio.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Eco hotel",
+    "reviewText": "Nice for short stay. The exterior is better than inside. Parking fee is way too expensive according to their room charge. Pillow is not comfortable.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "a Normal hotel in the city",
+    "reviewText": "Breakfast menus are not viriety, breads and cheeses, not many furits, no vegetables. scramble was very salty. Cleaner opened room door twice without any permision when we were in the room. NO Spa and pool.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Functional central hotel with great breakfast",
+    "reviewText": "Hotel was business like with a great breakfast selection. Rooms were clean, functional and as expected. Bathroom was a bit tired and could have done with freshening up grouting etc. The staff were very helpful but wifi was very poor and no access from the room so had to stand in hall!",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Second time at this hotel",
+    "reviewText": "We have stayed here twice now. The second time was even better than the first. The hotel is clean, friendly personal, and the rooms are lovely. The first time there was a street party that created a lot of noise, but this time was perfect. It is also within walking distance of the cathedral, many small shops, and small places to eat.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Second time at this hotel",
+    "reviewText": "no merece sus cuatro estrellas ni el distintivo de calidad turistica. viejo y gastado.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Maravilhosa, excelente custo benef��cio",
+    "reviewText": "A estadia ocorreu dentro do esperado. A qualidade do caf da manh no hotel muito boa. Recomendo.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant.",
+    "reviewText": "Large bed and very comfortable. Breakfast was very nice, though a little expensive.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant.",
+    "reviewText": "twin room. Excellent hotel, nicest hotel we have stayed in. Staff very polite and tried very hard to speak English. Can't speak more highly for hotel and staff.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Buena atencion",
+    "reviewText": "Muy bien",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Buena atencion",
+    "reviewText": "buen servicio",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Very good value for money.",
+    "reviewText": "The staff were very friendly and nothing seemed to be too much trouble for them. The initial observation from the exterior was that the building was a little tired and in need of some TLC. However the interior was much better and more than adequate for our purposes.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Holiday stay",
+    "reviewText": "Travelling by car the hotel is easy to find and is reasonably central for the sites and restaurants. There is some free parking just across from the hotel, if not then park across the river where there is more free parking.I would book this hotel again but try and get a room not facing the road if possible. We only booked room only so can not comment on the food but the bar and restaurant look very nice and not too pricey. The staff inform you where to go for a meal either tapas or 3 course meal. We stayed for three nights and you can walk to the bus station for trips out and about.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Value for Money",
+    "reviewText": "Hotel condition, lobby and lounge are all nice but its location is not too central however, Murcia old town is quite small so everything is still within walking distance. There is a (mildew) smell when entering room, probably from the bathroom water damage on the entrance carpet area. The free 24-hour 'internet' usage is a challenge as it is only limited to internet browsing, not a true wi-fi service, so it is impossible to get emails or use apps on the smartphone. Overall, it is a good stay for the amount paid.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Value for Money",
+    "reviewText": "hotel tranquilo y situado en pleno centro pero la limpieza de la habitación puede mejorar. read more",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Genial!! :-)",
+    "reviewText": "Todo perfecto, muy recomendable",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel was pleasant on the main track of town.",
+    "reviewText": "Reception, catering and bar staff were very helpful. Only complaint was Wi-fi was poor on 4 th floor kept dropping out. Could possibly promote English menu or is this my fault Should I have learnt Spanish Ok yes! Would use this hotel again. Thanks.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel",
+    "reviewText": "Stayed here lots of times. Near to restaurants, shops etc, about a 10min stroll. No doubt will be back.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Murcia Hotel Silken Siete Coronas",
+    "reviewText": "We were disappointed because we were charged 15 Euros a night for parking and when I had put free parking and free wifi this hotel should not have come up on the list as it is pay parking!",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Un verdadero lujo de hotel",
+    "reviewText": "Un verdadero lujo de hotel, genial, moderno, cmodo, con todas las comodidades",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay in Murcia",
+    "reviewText": "Hotel staff were excellent and hotel is in a great position, basement car park is very tight",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Average",
+    "reviewText": "Room smelt damp and could use freshen up. I stayed for one night only. That said location is good and the hotel has all u need available. I had better sleep at ibis hotels",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Average",
+    "reviewText": "Fin by og hotell. Elendig wifi og aircondition som ikke kunne reguleres ned.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Snyggt och p��litligt hotell f��r konferensresa",
+    "reviewText": "Allt funkade smidigt, utom att jag saknade strykjrn p rummet. Det hade ocks varit trevligt med fri tillgng till dricksvatten. Frukosten r betydligt dyrare n det man kan f p nrliggande cafer, s den skulle jag inte rekommendera. Det stod inte hr p hotels.com, men hotellet har ett gym.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Snyggt och p��litligt hotell f��r konferensresa",
+    "reviewText": "Great value",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-04-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Snyggt och p��litligt hotell f��r konferensresa",
+    "reviewText": "trabajando.ya me gustaría estar en plan ocio.reunion 19:15",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel genial.",
+    "reviewText": "Genial estancia en Murcia, hotel muy bien ubicado, cerca del centro. Recomendable 100.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Ideal location",
+    "reviewText": "Very happy overall with the hotel, clean comfy room, close to the old part of town. Good choice of food for breakfast. The bar food was good as well. The only downside was the wi-fi was only free for 24hrs. When will hotels get it that everyone now expects good quality free wi-fi as standard",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "very comfy beds",
+    "reviewText": "could have been a better cooked breakfast",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "High standard, excellent service, central!",
+    "reviewText": "Had a warm welcome, great room, close to everything on foot-would stay again.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "RENOMBRADO HOTEL EN EL CENTRO DE MURCIA",
+    "reviewText": "Todo muy bien, si bien algunas habitaciones y pasillos entiendo que no estn a la altura de su categora, aunque nos dijeron que en unos das va a ser nuevamente remodelado. Es un muy buen hotel pero al que todava le falta para alcanzar su excelencia de antao.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "RENOMBRADO HOTEL EN EL CENTRO DE MURCIA",
+    "reviewText": "excelente arroz a banda... salmorejo estupendo también, sus camareros, los de toda la vida.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-06T00:00:00.000Z"
+    },
+    "reviewTitle": "RENOMBRADO HOTEL EN EL CENTRO DE MURCIA",
+    "reviewText": "tras la remodelación ha quedado irreconocible",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "RENOMBRADO HOTEL EN EL CENTRO DE MURCIA",
+    "reviewText": "Haca mucho calor y el aire acondicionado en mi habitacin 506 no enfriaba lo suficiente",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-04-20T00:00:00.000Z"
+    },
+    "reviewTitle": "RENOMBRADO HOTEL EN EL CENTRO DE MURCIA",
+    "reviewText": "fantaasticas habitaciones y servicio. ideal para parejas maduras con ganas de dormir",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient and clean hotel just missing the extras",
+    "reviewText": "The hotel was well located it is just missing the small touches in the room - tea/coffee making facilities. Free bottles of water. Having stayed in several hotels now in the city this is the first hotel which does not offer those little extras.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-13T00:00:00.000Z"
+    },
+    "reviewTitle": "PERFECTO",
+    "reviewText": "Hotel nuevo, muy bonito, elegante y bien comunicado. Instalaciones acordes a su nivel y trato del personal exquisito.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "PERFECTO",
+    "reviewText": "muy buen trato y calidad",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "PERFECTO",
+    "reviewText": "fui un gran hotel y aunque me renovaron para continuar siéndolo sólo fue un maquillaje. se nota que perdi mucho con la edad. las toallas son del año de la inauguración o_o",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "PERFECTO",
+    "reviewText": "el hotel es confortable. si quieres tranquilidad pide que tu habitación no de al río",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "PERFECTO",
+    "reviewText": "las habitaciones además de bonitas son muy comodas. como estés del lado del parque y no pongas el aire, mueres.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "PERFECTO",
+    "reviewText": "sólo avisan al momento del check in que las mascotas tienen recargo... deberían advertirlo al momento de la reserva. buen trato del personal",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "PERFECTO",
+    "reviewText": "muy bien-!! como siempre!",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "PERFECTO",
+    "reviewText": "no se merece las 4 estrellas. viejo, algo sucio, wifi sólo para navegación web y hasta 256 kbps, climatizador de mal funcionamiento y desayunos a 15 €. eso si, trato  correcto.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Very central hotel",
+    "reviewText": "The hotel staff are very helpful good car park but chargeable at 15 a day. The only thing missing is a pool.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Very central hotel",
+    "reviewText": "en el restaurante del hotel, hacen unos de los mejores arroces de la ciudad. y a un precio mas barato de lo que parece.",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Very central hotel",
+    "reviewText": "acabo de llegar a ver que tal",
+    "reviewerCity": "london",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de414f"
+  },
+  "name": "Motel 6",
+  "categories": ["Hotels \u0026 Motels", "Budget Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Stockton",
+    "postalCode": "95207",
+    "address": "6717 Plymouth Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-121.350807, 38.00622]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The familiar sign promises economy, consistency and no surprises. In ShortSince 1962, travelers have enjoyed budget-friendly prices at Motel 6. The national chain (more than 800 locations in the U.S.) accommodates traveling families, as kids stay for free and complimentary coffee is available every morning. The rooms are simple--a TV on the dresser (free HBO and ESPN), data port for computer users and a basic bathroom--but at these prices, who needs a whirlpool",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4150"
+  },
+  "name": "Days Inn Newton",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "KS",
+    "city": "Newton",
+    "postalCode": "67114",
+    "address": "105 Manchester Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-97.320388, 38.043312]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "this hotel is disgusting. do not stay here! the showers don't drain and the bathrooms are dirty. nuff said.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "i agree with meredith.  the place was dirty.  look at the seal in the fridge mine was covered in mold",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "this hotel is dirty!! bathrooms are covered in hair and showers don't drain. do not stay here!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4151"
+  },
+  "name": "Holiday Inn Express Hotel \u0026 Suites Hillview",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "DC",
+    "city": "Shepherdsville",
+    "postalCode": "40165",
+    "address": "365 Brenton Way",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-85.697774, 38.066499]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Hotel needs maintenance.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Hotel is smoking/non-smoking.  If you cannot stand smoke do not stay on 3rd floor, 1st or 2nd recommended.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Easy hwy access. Lots of food choices nearby.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4152"
+  },
+  "name": "Candlewood Suites Lexington",
+  "categories": ["Hotels \u0026 Motels", "Family-Friendly Hotels", "Extended Stay", "Tourist Hotels", "Weekend Getaway Hotels", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "DC",
+    "city": "Lexington",
+    "postalCode": "40511-1847",
+    "address": "603 Adcolor Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-84.497124, 38.074106]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {

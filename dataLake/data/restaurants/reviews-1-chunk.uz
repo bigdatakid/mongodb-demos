@@ -1,0 +1,100 @@
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ff9"
+  },
+  "name": "Astro Motel",
+  "categories": ["Motels", "Hotels", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Waco",
+    "postalCode": "76706",
+    "address": "3416 Interstate 35 S",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-97.13759, 31.517883]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Avoid at all times!!!",
+    "reviewText": "This is the most disguisting motel that I have ever been to. They have rodents, and the shower doesn't even work. They put inappropiate cat stuff in the thing under the window. The air out of the conditioner smells so nasty. I would not reccommend this motel to anybody ever.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ffa"
+  },
+  "name": "Spirit Tree Inn B \u0026 B",
+  "categories": ["Bed \u0026 Breakfasts", "Retreat Houses", "Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "AZ",
+    "city": "Patagonia",
+    "postalCode": "85624",
+    "address": "3 Harshaw Creek Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-110.70107, 31.52159]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-27T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Accommodations were great. Very comfortable and clean. Great breakfast! Loved chatting over breakfast. The dogs loved the property and the B B dog villa. Overall, a very nice stay. I would definitely stay here again!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "We loved our stay at the Spirit Tree Inn! It is a delightful ranch house - historic, fascinating, and eclectic. We so enjoyed sitting in the main room looking at (and listening to) the beautiful and unique antiques and art pieces. When you visit, be sure and ask Tom about the musical antiques, books, and art work. His knowledge will enhance your understanding and appreciation for some of the wonderful things he has collected for everyone's enjoyment. And what a wonderful property - the views, the trees, the animals and birds! We loved sitting outside taking it all in. There is so much to see and do in the surrounding area as well. Patagonia with its railroad history was so quaint and interesting. We loved touring the country side and the wineries. We visited the lake and the nature preserve and spotted some amazing birds we had not seen before. The whole experience was so interesting and relaxing and exceeded our expectations. We loved it and will definitely be back. I know you would love it, too.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "We very much enjoyed our stay at the Spirit Inn. There are so many things to do in the Patagonia area. Our inn keepers were knowledgable of the area, friendly and pleasant. What fun!",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I really love the fact that each room has its own personality. We stayed in the library room, which is a little bigger.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Lovely location - I really enjoyed the birds, the spectacular cottonwood and the breakfast. Thank you so much. I will recommend to family and friends.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "We are birders and just happened to go down Harshaw Creek Rd in search of the San Rafael Valley. I saw this Inn and made a mental note to check it out the next time we were in Patagonia. So we did, and were not sorry. It has a main house and a couple of casitas. We stayed in the Oriental room in the main house. It was a little small but we reserved it because it was the only one available for a one-night stay. It was very comfortable, despite the size, and the food was wonderful. Staff makes breakfast whenever you want, kind of an unusual feature, and one I appreciate because I tend to get up early and don't like to wait til 9 to eat. This is a great Inn for birders, you can see lots of birds without even leaving the patio! It is a couple miles outside of Patagonia, but easy to find. No wifi as far as I could tell, but I did not ask. In that beautiful quiet setting did not feel like being connected to anything that was not there with me.",
+    "reviewerCity": "",
+    "reviewerState": ""

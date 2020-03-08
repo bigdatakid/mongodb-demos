@@ -1,0 +1,100 @@
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay!",
+    "reviewText": "A great place to stay! Very clean and comfortable. We had three rooms booked and they were all very nice. The staff was very accommodating. We will definitely choose this hotel again.",
+    "reviewerCity": "colorado springs",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay!",
+    "reviewText": "Even though this is an older building I thought everything was great. The room was clean and we were even able to check in earlier than the 3 pm time.",
+    "reviewerCity": "colorado springs",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Crickets everywhere",
+    "reviewText": "Crickets all over the place. I was forced to change rooms but still had crickets crawling all around.",
+    "reviewerCity": "colorado springs",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Experience",
+    "reviewText": "The customer service was outstanding! The rooms were clean and comfortable. Our stay was very good, and it was primarily because of the manager. The manager went out of her way to make sure we had everything perfect. My appreciation to her and her staff!",
+    "reviewerCity": "Longview",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel and location.",
+    "reviewText": "Stayed two nights, first time in Abilene. Great location within walking distance to restaurants and shopping. Staff friendly and helpful. Nice breakfast. Comfortable quarters.",
+    "reviewerCity": "Longview",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Too loud!",
+    "reviewText": "Very loud and noisy! Could hear everything going on all around us.",
+    "reviewerCity": "Longview",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Abilene Stay",
+    "reviewText": "This hotel was very beautiful and most of the staff was very accommodating. Unfortunately, during our stay the hot tub was not working and the vending machine was out. It is located in the center of Abilene. You are close to several restaurants and the mall.",
+    "reviewerCity": "Longview",
+    "reviewerState": "TX",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Abilene Stay",
+    "reviewText": "went for our granddaughter's wedding, nice place, indoor pool and hot tub",
+    "reviewerCity": "Longview",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Business Visit",
+    "reviewText": "Perfect location and great breakfast buffet.",
+    "reviewerCity": "Longview",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice little weekend",
+    "reviewText": "Took wife to see friends",
+    "reviewerCity": "Longview",

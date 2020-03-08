@@ -1,0 +1,100 @@
+    "reviewTitle": "",
+    "reviewText": "Beautiful Rooms!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fd7"
+  },
+  "name": "Courtyard San Marcos",
+  "categories": ["Hotel and Meeting Room", "Convention and Meeting Facilities and Services", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "San Marcos",
+    "postalCode": "78666",
+    "address": "625 Commercial Loop",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-97.9903, 29.824612]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "That staff was great... I thought the AC could have been little better. The location is closed to great shopping opportunity and a few good BBQ restaurants...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean convenient and comfortable",
+    "reviewText": "Very modern and clean, and a good value. Perfect location to shop the outlet malls.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to the San Marcos outlets.",
+    "reviewText": "Been spending a day or two whenever I drop off my son to Texas State University. The outlets are perfect for my wife!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Place",
+    "reviewText": "One night stay we were in the area for the day. The staff were very friendly and helpful, great location close to shopping and great food.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Very relaxing stay!",
+    "reviewText": "We were on a girls' weekend shopping trip. Great accommodations, great location. Enjoyed everything about it. Need my debit card credited for my room that was paid w/points.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-27T00:00:00.000Z"
+    },
+    "reviewTitle": "We had a wonderful stay in San Marcos",
+    "reviewText": "We had a wonderful stay in San Marcos. The hotel was close to the outlet malls, It was nice and quiet you could not hear the traffic noise. The room was very clean and comfortable. The shower was so nice and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente hotel",
+    "reviewText": "No hay ninguna queja, todo estuvo muy bien. Lo único es que debería ser con desayuno incluido.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Excelente en todos los aspectos",
+    "reviewText": "Personal amable hotel nuevo internet gratis súper cerca al mall / Outlet",

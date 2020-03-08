@@ -1,0 +1,100 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok, if you don't mind barking dogs",
+    "reviewText": "I stay there for 2 nights. This is a pet friendly hotel, and I know that dogs will bark, but this little critter barked all the time. There was no need to ask to be moved to another room, because this little dog could be heard all over the hotel. I adjusted to it, keeping in mind that I was... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de401c"
+  },
+  "name": "Super 8 Dallas South",
+  "categories": ["Hotels", "Accommodations \u0026 Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Dallas",
+    "postalCode": "75232",
+    "address": "8541 S Hampton Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-96.857314, 32.643793]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "it was bad because I was fighting ants and roaches the whole time I was there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Old but cheap so it's ok",
+    "reviewText": "was visiting for a foot ball game.. The hotel is old but everything worked fine",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Old but cheap so it's ok",
+    "reviewText": "It was a nice hotel wouldn't mind going back",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Won't stay again",
+    "reviewText": "When we entered the room, the smell of cleaning supplies was so strong that we almost passed out and immediately got a headache. The mirror was broken, wall paper peeling off of the wall, and the comforter was really wrinkled, like it had never been ironed or cleaned. A/C was not turned on by the front desk staff when we checked in, so after trying to get it to work for 10+ minutes, I returned to the front desk where the clerk informed me that he forgot to turn it on.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Personal Getaway",
+    "reviewText": "It was my first time going to this hotel and I loved every bit of it. Will surely be going back here again!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "It was just fine",
+    "reviewText": "Good experience overall. The hotel room was a little old. There was no plunger next to the toilet so we had to call the staff to come take a look at one point. But nothing much to complain about.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "It was just fine",
+    "reviewText": "Good experience overall. The hotel room was a little old. There was no plunger next to the toilet so we had to call the staff to come take a look at one point. But nothing much to complain about.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",

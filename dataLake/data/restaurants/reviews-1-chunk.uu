@@ -1,0 +1,100 @@
+    "reviewerCity": "Alice",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect quick visit spot",
+    "reviewText": "The Eldorado Suites has comfortable well supplied suites for a quick or longer visit. Situated just above one of the the main streets and within a very short walk for restaurants, mine tour, museums, and bars. Lynn was very helpful in getting us into our room and directing us to various activities and restaurants.",
+    "reviewerCity": "Alice",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Boutique Hotel",
+    "reviewText": "Loved this hotel. It is a very charming old hotel that used to be a building that housed the miners who worked at the nearby mine many years ago. It is very beautifully decorated, right down to the bedding, and conveniently located in downtown Bisbee. It has a great kitchen, so that you can prepare meals and snacks if you... More",
+    "reviewerCity": "North Vancouver",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great retreat in the winter",
+    "reviewText": "We stayed three nights during an unusual frigid period with a big snowfall as well. The suite was much appreciated. The kitchen was fully equipped, which was especially helpful since one snowy night we ate in. All was very clean and neat and comfortable. Lynn, at the desk, could not have been more accommodating. She offered to lend us a... More",
+    "reviewerCity": "Santa Fe",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Charmingly Annoying",
+    "reviewText": "This hotel was once an apartment building and is nearly 100 years old. As a result, guests must deal with the realities associated with the lack of modern conveniences we take for granted today. The property is perched on a hillside, surrounded by other buildings and homes in very close proximity. The street in the front of the hotel is... More",
+    "reviewerCity": "Seattle",
+    "reviewerState": "WA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Simply Fabulous!",
+    "reviewText": "Over the last several years I have stayed at most of the hotels in Bisbee, including the Copper Queen. After staying at Eldorado Suites Hotel I will never stay anywhere else again. This hotel is Wonderful. Two bedroom Suite with full kitchen and the front and back porches really make you feel at home. I have been telling everyone I... More",
+    "reviewerCity": "Tucson",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place to stay in Bisbee",
+    "reviewText": "We were pleasantly surprised how nice this hotel was. We had a room on the third floor with excellent views of Bisbee. We enjoyed sitting on the deck drinking some wine and watching the Halloween festivities going on through-out the town that evening. The suite was clean and spacious and we found the bed to be very comfortable. Because of... More",
+    "reviewerCity": "Gilbert",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful historic place in a great location.",
+    "reviewText": "We stayed in unit 11 which was equivalent to a nice size apartment. It was very well appointed, very clean and comfortable. It was great to have a balcony facing downtown while having a very quiet bedroom in the back. The owner and staff were extremely gracious and helpful. It is definitely where we will stay when we return.",
+    "reviewerCity": "Silver City",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality Quantity",
+    "reviewText": "Eldorado Suites has both quality and quantity with two bedrooms a living room, kitchen and two patios. My wife and I stayed for a couple of days loved the excellent service and amenities. Close to Brewery Gulch and all the great restaurants and shops on main street. Lots of stairs, to get around.",
+    "reviewerCity": "Tucson",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Place with Ultra Large Suites",
+    "reviewText": "My girlfriend and I stayed the night at this wonderful hotel. It was clean and bright with a lot of attention to detail right down to the artwork on the walls. Dean, the hotel manager, made sure we felt welcome and comfortable during our stay. We definitely would recommend this to anyone needing extra room, 2 bedrooms and the bonus... More",
+    "reviewerCity": "Renton",
+    "reviewerState": "WA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "A great getaway!",
+    "reviewText": "We spent our anniversary at the Eldorado Suites Hotel and were very surprised at the spaciousness of the room. It was truly a suite with a separate bedroom, kitchen and living area with a private veranda. It would be a great savings for a two or more couples or a family with children. Everything was clean and very well maintained.... More",

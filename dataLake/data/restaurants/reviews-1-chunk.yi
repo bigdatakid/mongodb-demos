@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2015-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "dont do it",
+    "reviewText": "My house burned and i was a guest for 2 weeks and shuffled from different rooms during my stay. and was bumped completely out after 2 weeks i guess for a higher paying rate. i could have stayed at any hotel and chose this one. big mistake.",
+    "reviewerCity": "United States",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Smells good",
+    "reviewText": "Smells fresh. Clean. Common areas need general maintenance. Did not try pool or hot tub because it was too small. Breakfast had typical continental selections. Needs HD TV BAD! Good reasonably priced vending machines.",
+    "reviewerCity": "United States",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Hotel for the Money",
+    "reviewText": "Nice exterior, room. and breakfast. Bathroom could use some work. Staff very friendly and helpful both at check in and check out. Would stay again. Has nice pool but did not take advantage of it. Location and restaurants nearby great!",
+    "reviewerCity": "United States",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Room",
+    "reviewText": "Very clean,large room. The staff were very friendly and helpful. They offer a good breakfast range and I found the coffee was always available when we returned to the hotel in the evening. We will use this hotel again as we visit Dublin often. It is also walking distance to bart.",
+    "reviewerCity": "United States",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4018"
+  },
+  "name": "Comfort Suites",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Monroe",
+    "postalCode": "71202",
+    "address": "1401 Martin Luther King Jr Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-92.08275, 32.49375]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very nice and clean room. Staff was excellent.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "The motel was easy to find and had easy access to and from the attractions we came to visit in West Monroe. However when we arrived the swimming pool was GREEN and was not expected to be nor was it cleared up by the time we left. We were told we could use the Quality Inn next door for swimming but having so many of us determined it was too far to walk for a swim---my autistic son and my grandchildren were greatly disappointed. I chose this motel over others because it offered according to your listing a roll away bed for our convenience since there were six of us and when we arrived there not only was no roll away bed available the room wasn't large enough to accommodate one. The request was for my Autistic son to be able to sleep alone as this is one of his main needs. I slept on the floor so he could have a bed alone---not comfortable at all for a senior lady with health issues myself. The motel adjusted my rate due to the lack of use of the pool and the misrepresentation of their motel by the booking agent. The staff was VERY gracious... I would like to know if I will receive a refund as I had prepaid for the room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-12T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "water was YELLOW!!! They did move us to a different room during a very busy weekend for them and the staff was GREAT!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay.",
+    "reviewText": "The staff was great. There was a hole in the wall, that wasn't a problem but we didn't want anyone to think we did it. The breakfast was good. We had an operator error problem with the air conditioner but Tim fixed it as soon as we asked him to. Shantel helped us with WiFi on Mom's tablet. We were treated like family.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-13T00:00:00.000Z"

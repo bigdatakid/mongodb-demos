@@ -1,0 +1,100 @@
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "great location but security lacking",
+    "reviewText": "friendly super helpful staff and great free breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Place needs renovation",
+    "reviewText": "I stayed at this place four years ago and it was new, now it seems time has gone by, the place still looks fine but the furniture looks old, worn out, you can feel the support of the sofa bed, because the cushions are so used they dont cushion anything anymore. The wallpaper in the bathroom is peeling so that also does not look good. On the plus side rooms are spacious and staff is very helpfull.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Place needs renovation",
+    "reviewText": "Great price on a very nice room!! Staff Is excellent and even has a bar at night. I'll stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Place needs renovation",
+    "reviewText": "excellent",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Place needs renovation",
+    "reviewText": "Nice place to stay near the airport. Great value for money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome weeken stay",
+    "reviewText": "The stay was a weekend getaway for my wife and I to go shopping, dining, catch a movie and dancing. Everything was conveniently located near our hotel. We were on the first floor near one of the exits so going in and out was easy for us. We were treated by friendly staff who showed me some places that I could take my wife dancing. We had a great weekend and will be definitely staying here again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome weeken stay",
+    "reviewText": "There's a cool area with shopping and excellent restaurants about half a mile up the road. It's a quick walk but the complimentary hotel shuttle can zip you over too.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "The not ready room",
+    "reviewText": "Check in was scheduled for 3:00pm...we arrive at 6:30, after a day full of driving. There was no room available... We had to wait for the room to be cleaned.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "The not ready room",
+    "reviewText": "Great the kids loved it veey comfortable beds. Nice pool. Nice access to freeways",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "The not ready room",
+    "reviewText": "Great rooms and meeting spaces",

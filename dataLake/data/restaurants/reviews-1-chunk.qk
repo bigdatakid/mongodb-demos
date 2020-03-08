@@ -1,0 +1,100 @@
+    "reviewText": "the hotel was ok for the price.the room was in much need of repair...carpenter needed..no room or maid services..lots of noice from i10 all night long...i felt safe and the shower water was great temperature wise.not worth a penny over 50 dollars per night...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs update",
+    "reviewText": "The hotel was badly out of date . We didn't even have blankets on the bed just sheets .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs update",
+    "reviewText": "Was the worse hotel i have ever been,dirty pillowd,dirty blankets.alot of rouches,real bad oder",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible old and dirty.",
+    "reviewText": "This hotel so horrible I refused to stay. It should not be on this website",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fe2"
+  },
+  "name": "Sleep Inn Slidell",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Slidell",
+    "postalCode": "70458",
+    "address": "142 Oak Ct",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-89.78667, 30.22415]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Room",
+    "reviewText": "Our room was clean and the staff were friendly and helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Slidell's best little secret!",
+    "reviewText": "Loved the hotel! Wasn't to far from New Orleans... Staff was nice and friendly! We checked in pretty late at night. Check in was quick! There was a problem because they thought I booked 1night but I had paid for 2. They found it quickly and apologized. Breakfast was ok...crowded! Need more variety to choose from, but overall enjoyed my stay and would stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Peace of mind for NOLA cruise passengers",
+    "reviewText": "Very convenient for going to cruise ship next day. Fantastic seafood restaurants in Slidell, too. We loved extensive choices for breakfast and friendly staff. Will definitely stay here again and avoid disappointments of New Orleans hotels with parking fees and rooms that never look like what you saw on line !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "good night sleep",
+    "reviewText": "The staff was great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-24T00:00:00.000Z"
+    },
+    "reviewTitle": "good night sleep",
+    "reviewText": "great hotel friendly staff i recommend. easy access",
+    "reviewerCity": "",

@@ -1,0 +1,1000 @@
+    "reviewDate": {
+      "$date": "2015-06-05T05:00:00.000Z"
+    },
+    "reviewTitle": "Price gave it a 2",
+    "reviewText": "Nice place but had no TV for the 2 days I stayed- it seemed a family lived there and they where loud and didn't care if they woke you even after asking them to please stop yelling- I am assuming the tv and loud family was a fluke so I may give them another try next time through, only because... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-02T06:00:00.000Z"
+    },
+    "reviewTitle": "Noisy...slow...tech challenged",
+    "reviewText": "2/3 nights had to return to desk for new electronic key...elevator slow and not timed with button at lobby...noisy...suite very small",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-25T05:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "We were very impressed with the rooms which are really nice and clean, Carrin at the front desk was very helpful. Few minutes away from Sea World. We loved the stay. The stay was really worth it................",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-09T05:00:00.000Z"
+    },
+    "reviewTitle": "Good 3-star hotel",
+    "reviewText": "Bedding is comfy. Very close to Seaworld. Pillows too big. Rooms average size. Fridge microwave in room. Noisy hallways could keep you up. Shoved a towel under the door that helped. People were pretty polite. Wifi never worked. I logged in over over never stayed connected for long. Pool had 6 chairs TOTAL. We had to borrow... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-13T05:00:00.000Z"
+    },
+    "reviewTitle": "Class Act on a Budget!",
+    "reviewText": "We were in need of a hotel in close proximity to Lackland AFB for my Son's Basic training graduation. We selected this hotel because of the fact that it is a Wyndham property and the excellent per night rate. After reading some of the reviews, we were slightly hesitant as we checked in and took our keys. All of that... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-28T06:00:00.000Z"
+    },
+    "reviewTitle": "Nice, clean",
+    "reviewText": "The only problem we had, is the hotel is non smoking, our room reeked of smoke, however, the front desk gave us some spray, so it was tolerable. The rest of the hotel, the breakfast, everything was good. Really a great place for the price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-12T05:00:00.000Z"
+    },
+    "reviewTitle": "So, so",
+    "reviewText": "This is a new area, the hotel is not easily viable from the road. The hotel address could not be located in my navigation system in car or mapquest. I changed my room three times 1) overcome with a cigarette smoking smell in a non-smoking hotel 2) a roach was crawling on the counter where the ice bucket and cups... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-27T06:00:00.000Z"
+    },
+    "reviewTitle": "Great place, Great price",
+    "reviewText": "Had a really good stay at hotel. Rooms were clean and hotel is in good location. Staff was more than helpful and courteous. I was checked in by Letty, she is a very nice person. Will definitely stay there again next time im in San Antonio.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fce"
+  },
+  "name": "Fiesta Inn and Suites",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "San Antonio",
+    "postalCode": "78229",
+    "address": "4934 N W Loop 410",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-98.583884, 29.487838]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "HORRIBLE HORRIBLE HORRIBLE! !!!!",
+    "reviewText": "We arrived and was caught of guard when the lady at front desk...gave us 2 keys and asked us to go check rooms and see if we liked them!! WHAT!! okay, so we go and check the rooms!!! I was literally scared to even walk in the rooms! We saw 9 rooms total and ended up leaving anyway!! Roaches, ugly stench, OLD and HORRIBLE furniture, did i mention....ROACHES!!! Why is this hotel even on this page..arent they supposed to get audited or something. It was HORRIBLE!! I was there for approximately 15 min and it was the worst experience of my life!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad",
+    "reviewText": "Front desk dirty overall bad",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "The worst experience in my life",
+    "reviewText": "The worst hotel in my life..Horrible..The staff is friendly but the rooms are dirty, the bath dirty, kitchen is too old.Very small room, the housekeeper never clean our room, no towels, no bathroom paper towel.Was a very bad experience.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst Hotel Experience Ever!!!!",
+    "reviewText": "Had an awful experience. Rooms were not clean,floors were filthy, cockroaches in the room, no bath towels provided and even found bed bugs on our night clothing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Do not stay here",
+    "reviewText": "Bugs broken tiles broken tub missing towels missing light bulbs broken door",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "I should have listen",
+    "reviewText": "Ive stayed in several small hotels but this one is the worst I should have listen to the negative reviews but I dint think it would be that bad. Live roachess on the wall bathroom was dirty, bed sheets dirty big holes on the conferter.old Tvs with to much color hey but the ac was great. This hotel is like the noise all around vehicles up and down. WOW .Anyway it seems they really dint care. stop having them on youre web site.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs to be condemned!!!",
+    "reviewText": "I pulled in at 1 am with two small children just wanting a bed to sleep in. This hotel was so gross, roach infested, dark,and quite scary. The hotel clerk knew the hotel was bad and asked me to view the rooms before I decided to stay. I viewed two rooms. And both looked horrific. Needless to say we did not stay at this hotel and I had to search for another one in the middle of the night. And I was not the only customer in there at that time viewing rooms and deciding not to stay. Do not stay at this hotel. It needs to be condemned!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs to be condemned!!!",
+    "reviewText": "Horrible and Scary!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs to be condemned!!!",
+    "reviewText": "very dirty, old and run down. bathroom was very bad.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "HORROR HOTEL",
+    "reviewText": "We arrived late and all we saw on property was open doors full of people with tattoos and pants hanging down but we overlooked this fact. As I was getting my room key and went to check it.came the shock-honestly I dont know how its even aloud to keep this hotel running...or how expedia represent this kinda facility1. brown and red stains on walls and doors2.hair on the sheets3.burn marks/holes on sheets4.stains on sheets5.smell like cat litter6. and the top of it was death ticks and bugs under mattressthey showed me 4 rooms and all the same resultsNASTY",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "P��simo hotel",
+    "reviewText": "Muy mal la habitaci��n estuvo en p��simas condiciones las almohadas ten��an cabellos al igual que las s��banas no tuve que pedir toallas y jabones pues no quisimos ba��arnos por lo sucio que estaba todo los pasillos y escaleras bajaban y sub��an algunas personas de muy mal aspecto en general me gustar��a que hoteles.com no lo pusiera en su cat��logo de hoteles porque en las fotos aparecen cosas muy diferentes a la realidad",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Not what I expected",
+    "reviewText": "The motel is very old and run down. Holes in the walls, towel rack and TV bracket ripped out of the walls. It appeared to be a motel where people live there, not just stay overnight. I am very surprised that it gets an approval from the inspectors. I will not stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst hotel experience of my life.",
+    "reviewText": "Rude and angry staff could not figure out how to use the computer.  He kept looking through stacks of papers and yelling at customers because we did not have printouts from Expedia to prove we had a reservation.  I called help desk and then the clerk yelled at him for 5 minutes.  Then Expedia explained that they could not help me get a new hotel room until the clerk agreed to refund Expedia.  So no room and no money - but Expedia did offer my a $50 credit.  So I was stranded in San Antonio at 1 in the morning with a credit - soooooo helpful.  I asked to talk to a supervisor - was told that there was a 45 minute wait.  Hummm I guess the long wait is because none of your customers are happy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst hotel experience of my life.",
+    "reviewText": "Rude and angry staff could not figure out how to use the computer.  He kept looking through stacks of papers and yelling at customers because we did not have printouts from Expedia to prove we had a reservation.  I called help desk and then the clerk yelled at him for 5 minutes.  Then Expedia explained that they could not help me get a new hotel room until the clerk agreed to refund Expedia.  So no room and no money - but Expedia did offer my a $50 credit.  So I was stranded in San Antonio at 1 in the morning with a credit - soooooo helpful.  I asked to talk to a supervisor - was told that there was a 45 minute wait.  Hummm I guess the long wait is because none of your customers are happy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Least expensive motel in the area",
+    "reviewText": "Clean and comfortable, and really a nice, caring staff, especially Punkjabi (spelling unsure of)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Gross and a waste of anyone's time!!!!!!!!!!",
+    "reviewText": "The room was nasty and smelly! I requested one queen bed and got two twins. nasty parking lot as well as a messy lobby!!!!!!!! I wouldn't recommend this hotel to anyone!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible place , ples dont go there.",
+    "reviewText": "Very filty and was stinking like there was a water damage and the house keepers dont clean the rooms. This hotel uses cheap toilet tissue and it leaves crumbs of tissue inside you. Make sure you take your own tissues towels because towels are like rags. The room size and setting is nice, but needs to be clean and maintain.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Second room was better",
+    "reviewText": "The first room they gave us was where old pimps go to die.It was in bad shape, couch was torn and dirty refrigerator looked like something died in it carpet was sticky and the room just smelled dirty.I told the lady at the desk that was not the room we were shown on the web site she was very nice about it and put us in a way nicer room that smelled clean and looked a lot better. The pool was refreshing and clean. After they put us in a better room we had nothing to complain about they did a great job fixing my only problem.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't stay here ..",
+    "reviewText": "Don't stay here ! Checked in and 15 min later was on the phone looking for a decent hotel, an hour later I checked out. .The sign they had at the front desk said .....No Refunds... found out really fast why !!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Don't do it!",
+    "reviewText": "I was looking for a cheap hotel just for the night and came across this one thinking it wouldn't be that bad. Wrong! It's crackhead central. I worried that I was gonna end up getting hurt or that my car would be broken into. I've stayed in some crummy hotels but this one takes the cake. It was downright scary.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Warning! Beware!",
+    "reviewText": "Unsafe, the complex is low income housing and the room is good only for death.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Better lock your car and sleep with a weapon.",
+    "reviewText": "Roaches. The most uncomfortable beds you can think of. Nasty bathroom. Towels were more like wash rags. Nasty place overall. Can't beat that price though.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Better lock your car and sleep with a weapon.",
+    "reviewText": "When I checked in I was given a key and asked to check room. I went and it smelled like gas from the stove. Went back got a key for another room this room had a used towel on the chair, bed was not made and shower was filthy. Went back again given a key to yet a third room and this room bed was not made again, no towels, ac was not working and looked like someone was partying in the room with drugs. I then called a,looked for another room nearby and left and received a refund.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Agradable y ec on��mico",
+    "reviewText": "Agradable, econ��mico y con todos los servicios. Solo que en la cocineta hab��a tecuejos (cucarachas peque��itas) por lo que les recomendar��a que fumigaran.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "AVOID AT ALL COST!!!!",
+    "reviewText": "Bathrooms were filthy. Door did not shut correctly. No security - car was broken to.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs urgent remodelation.",
+    "reviewText": "The room in a very bad condition. The kitchenette had all cabinets destroyed and the refrigerator did not have a part!!!. The sofa was ripped and the TV remote control did not work. Only two towels and no trash can at all. Only half toilet paper. No hand or bath towel. The bat tub was very slippery. In general, the only good thing was location ant good service at the front desk..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "not good",
+    "reviewText": "no good at all",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Absolute Garbage",
+    "reviewText": "booked a 2 bed. got a single bed. room was complete garbage. not at all up to any code whatsoever. refused to shower in the shower. bed felt disgusting. luckily i was only there to sleep late at night and leave in the morning because this place is horrible.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "don't stay there",
+    "reviewText": "horrible nothing but drug dealers,pimp and hookers. besides that the door was broke stove was broke everything was broke",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-31T00:00:00.000Z"
+    },
+    "reviewTitle": "cheap ok on a budget",
+    "reviewText": "check in was a pain tv broke replaced in about 2 hours a few roaches in room and lots of nats couch bed had no bedding pool was clean bathroom is in bedroom neither has lock on door room had mini fridge sink and microwave no stove they let u see room before u check in",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "cheap ok on a budget",
+    "reviewText": "The customer service is horrible, the staff is very rude and they lack customer service skills. The rooms looked decent online but once you enter the actual room it is a whole different experience. The room smelled of mildew, the stove, fridge, and shower were broken. The furniture is very old fashioned, the couch showed wear and tear, and the bed was very squeaky. I was to stay 2 nights at this hotel but I cut my stay short because I could not stand staying in this hotel any longer.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst hotel",
+    "reviewText": "Worst hotel I've stayed at. The toilet paper was stained and only wires were sticking out where the fire alarm should have been.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst hotel",
+    "reviewText": "Im 6yr and I had a great time staying there",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Do not stay here ( RUN RUN )",
+    "reviewText": "Cockroaches everywhere !!!!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nightmare!",
+    "reviewText": "Worst place I have ever been. That hotel should be demolished!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "be housekeeping and guest, bring towels",
+    "reviewText": "You only receive 1 towel for your entire stay. Lucky they had an extra for a third person. Housekeeping is once a week. You have to update your key card everyday, sometimes more than once a day. Guests are responsible for emptying their own trash. This is a motel that houses people for weeks at a time. Barricaded the door the first night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Where's the WiFi?",
+    "reviewText": "First of all, the front desk had a very unkept, shady atmosphere about it. I could smell cigarette smoke everywhere. The first room they offered me was one in which the front door did not bolt shut. The second room, bolted shut, but I was still leary since I could see the drill marks where this door had been repaired several times. The springs were shot in both beds, and they were not Queen Size as advertised. I saw a couple of roaches crawling in my kitchen. This hotel should not be listed in Expedia. It is a safety and health risk. The WiFi did not work.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Where's the WiFi?",
+    "reviewText": "everything was so clean and they also have all the \"extras\" one needs when we pack in a hurry and forget knick knacks....the front desk clerk was courteous and friendly!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "added to my list of hotels to consider in S.A.",
+    "reviewText": "the only problem we had was ..when my granddaughter and I returned from an evening out, the kitchen counter was full of ROACHES !!!!!!!!!!!!!!!!!!!!! Ugh!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Away!!",
+    "reviewText": "This is by far the worse hotel I have ever seen. And I have stayed in hotels in Odessa, Texas and Rock Springs, Wyoming. It was such a bad hotel I left and found a Holiday Inn Express that I knew I would enjoy staying in.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Save your money",
+    "reviewText": "The bedroom blanket felt greasy, room smelled like stagnant water was left for a while. Door lock looked their was forced entry, room wasn't swept, no toilet paper. Room looked nothing like it did on the advertisement, not even close.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for",
+    "reviewText": "Room was decent with stove, fridge, and microwave. Bed was ok. For the price, i guess i can't complain too much. Overall, not a hotel that I will return to.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointed",
+    "reviewText": "Arrived at 9:00 pm no towels door hinge screws were loose making it difficult to shut door cable was not working roach infested big advertisement of Continental Breakfast but in the morning no sign of any breakfast went to front desk again for towels they still didn't have available front desk receptionist more interested on visiting with friends that were at her work.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "WARNING. DONT stay here the dirtiest roach ridden!",
+    "reviewText": "Booked travel pkg through Expedia, never again!. Would have left immediately, but everywhere else booked for this event and left us stuck !..Dirty filthy ,roaches all over the place. Now I don't expect much from a cheap hotel and it is CHEAP but it is by far the worst I have ever seen and im not a 5 star hotel ,complaining wimp. But I had to write my very first hotel review!!.All 5 of the rooms we went through/viewed in 3 nights smelled BAD, the floors were so dirty and gross I never took my shoes off. The bathrooms were full of mold and filth the tubs look like someone tried to paint them 10 yrs ago and you didn't want to be be barefoot in there believe me.One shower had the on/off valve at the shower head Nicotine stained ceilings/walls with holes in them. Terrrible beds with bed bugs! springs popping out ,comforters with all sort of unknown stains.The last room had the stove removed,leaving the natural gas pipe/valve exposed with no plug on the line allowing anyone to turn it on.That is a very serious Hazard. The kind that LEVELS buildings killing everyone.When I told the desk she said oh thought they plugged those up..Im pretty sure these are rented as apartments during off peak times cheaper.The kind of damage substained to these rooms doesn't come from travelers with their families, there was grease so thick on the range hood and sides of the stoves you could scrape it off.The doors had all been kicked in and broke the trim making the doors barely able to latch",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "WARNING. DONT stay here the dirtiest roach ridden!",
+    "reviewText": "Bad hotel. I had no problems like the reveiws but the lady at front refused to give me the type of room I booked. Instead she gave a smaller cheaper room and was trying to get me to argue with her but I didn't. She seemed disappointed that I wouldn't argue and I think she just wanted to screw me out of my money that I had already paid. Also didn't get my wake up call she was to busy having a social hours with her friends in lobby",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Fraud, its not the Fiesta Inn chain",
+    "reviewText": "When i saw the name Fiesta Inn o though that it Will be the famous hotel chain Of Fiesta Inn, but surprise, ugly hotel, noise, people fighting, smoking, vomit in the pool for 3 days nobody cleaned, gang type guys arround and The wifi never worked. I will never stay there again, Is not The fiesta Inn its something with The same name.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Safe Area",
+    "reviewText": "When we first saw our suite, we were not happy with the condition of the bathroom,the refrigerator, stove or mircowave! After I complained about the bathroom, it was cleaned immediately, that pleased us. I didn't mention the other things wrong(dirty)because we were not going to use them.The daily making the beds,cleaning the bathroom was done well.The staff was helpful,friendly in other words they are wonderful! I would stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad bad bad....",
+    "reviewText": "it smelled very ugly, the room had extra fuirture like they were keeping it like a storage. Paint on the walls didn't match. The was not very comfortable at all. I will never pick this motel again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Sad",
+    "reviewText": "It wasn't like its post it on the website, its an old motel don't recommend it to no one",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "not that nice",
+    "reviewText": "Not that nice, asked for a non smoking and had to put some odor killers , the hall stinks , kind of old and need remodeling well i think i get what i paid for; next time ill spend few more bucks and sleep better.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel muy deteriorado",
+    "reviewText": "Lo unico que nos gusto fue la alberca, todo lo demas en muy malas condiciones.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "RUDE RUDE RUDE",
+    "reviewText": "When we first checked in the receptionist was very rude, not only to us but others that were walking in. Then we get to the room and it seemed everything was okay, but on the 2nd day we were there, one of the legs broke on the bed around 4pm while I was taking a nap. I went to the front desk to inform them about this and asked if they could have maintenance come over to fix it while we would be out till 10 or 11pm. When we returned the bed was still broke. I went to the front desk and asked if they would comp the price of the room for the night. He proceeded to get upset with me and told me to check out and then he would refund the price. This was all on a very busy weekend in San Antonio, due to high school graduations and there were no rooms available around the area. Therefore we had to end up sleeping on the pull out sofa. Very uncomfortable for someone who has had 6 back surgeries. Stay away from this place, would not recommend it to my worst enemy. Plus my parents had a room there also and had roaches in their room, DISGUSTING!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "BAD ! BAD ! BAD !",
+    "reviewText": "Please don't stay here !!!! It is deceiving from the looks on the outside, the lobby and how the staff is. Once you step in the room you realize the illusion. OMG ! It was awful ! There are and never have been any renovations going on. The mattresses and sofa should have been on dump 20 years ago ! Pay 10 or 20 dollars more so you can feel good and sleep cause here it will have ypur skin crawling and staying up all night !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Filthy hotel",
+    "reviewText": "Dirty, roaches, hole in wall, ripped bed, overflowing trash. Felt unsafe. Chose to sleep in car in a supermarket parking lot until we found another hotel. It was that bad.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "bugs dirty stinky",
+    "reviewText": "That was the worst nightmare in my life,roaches, dirts I even took pictures ,that was hell ,they make you sign a paper that they re not responsible for any lost belonging in your room , people trashy smoking by your window ,wifi doesn't work .i never recommend no one to stay there ,I was supposed to stay for 7 days ,I checked in at 11 pm and I checked out at Midnight and they kept my money",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "bugs dirty stinky",
+    "reviewText": "the hotel lacks a lot of service.. no continental breakfast, no wifi, no housekeeping,",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Save your money",
+    "reviewText": "The bedroom blanket felt greasy, room smelled like stagnant water was left for a while. Door lock looked their was forced entry, room wasn't swept, no toilet paper. Room looked nothing like it did on the advertisement, not even close.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Trash",
+    "reviewText": "Waste of time",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst experience ever for an Expedia hotel",
+    "reviewText": "This hotel does not deserve to be included in the Expedia hotel catalogue, it is a night mare, reservation were not done even than expedia fax where there, dirty and old rooms, feces in the parking lot , bed witout linning and pillow, the ones that have pillows there were staiins on it, there was a heavy odor of smoking of one of the drugs an i am not talking tobacco.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay at Fiesta Inn Hotel",
+    "reviewText": "Well, we didn't spend the day at the hotel. It was not in our plan. But at least we should enjoy sleeping. But, no, the state of the room did not allow that, with that kind of maintenance. It seems to be a guest house but not a hotel. We were not advised. That was the problemAnyway, we had to stick with it, it was secondary.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Fiesta inn on 410",
+    "reviewText": "The hotel overall rating is great. For the price, I could not ask for more. I do recommend it and of course will stay again if I ever need to. Pool looked great unfortunately did not get to use it, other users seem to enjoy themselves greatly. I only wish that the breakfast was served at a later time, It was served too early for me to enjoy. Maybe next time. Thank you.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "solamente buena ubicacion",
+    "reviewText": "No lo recomiendo. Insectos en las sabanas. La limpieza general de la habitacion dejaba mucho que desear. El desayuno incluido un desastre",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible stay",
+    "reviewText": "I booked a and room for my son's girlfriend who came in from out of town and it was dirty not ready so they moved me to another room, it was about the same. I would never stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible stay",
+    "reviewText": "This place sucks. Roaches,  broken beds , lights night working.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "this hotel sucks.",
+    "reviewText": "The hotel over booked to begin with. We had a suite with a fridge that only the freezer worked. Had a stove and over and no pans. A sink with no soap. Only got two towels no toilet paper. A baby crying all night. The beds were really old and worn. The dryers there took my money. The pictures on there are nothing what the hotel looks like. For the rate a paid I should have paid a little more for something a little nicer. Never going back to this hotel!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "At some staff",
+    "reviewText": "The office staff was incredible. The housekeepers are fast and clean. I enjoyed my stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "I DO NOT RECOMMEND",
+    "reviewText": "The Fiesta Inn and Suites is not an INN nor SUITE. I will never ever stay in this place again! I walked up the stairs noticed alot of water on the ground \u0026 saw a leaking ice maker. Even though it was marked off it clearly has been an issue for some time due to waterstains around the ice maker. Finally got into room \u0026 noticed stained carpet \u0026 lack of lighting (one light bulb out \u0026 no lights in back area of room). The table \u0026 chairs appeared they were from a garage sale. We were so tired after traveling all day that we just wanted to lay down. My wife had to go to the restroom \u0026 saw a cockaroach in the sink when she turned on the bathroom light. She did not tell me till the next morning (I had already fallen asleep). So after I woke up, I had to go to the restroom \u0026 turned on the light upon entering noticed a couple of cockaroaches around the sink area. After discussing our plans for the day we wanted to shower \u0026 get ready for the day but lo \u0026 behold no bath towels. I go to Front Desk \u0026 informed that there are NO BATH TOWELS UNTIL 10AM WHEN HOUSEKEEPING ARRIVES. I was like are you serious? Front Desk apologized for the inconvenience but there was no offer to reduce cost of room nor provide credit in any way. There was no way we were staying any longer so we gathered our stuff \u0026 left the property. I DO NOT RECOMMEND THIS PLACE AT ALL WOULD PROBABLY RECOMMEND TO HOTELS.COM TO REMOVE IT FROM THEIR DATABASE.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Gross",
+    "reviewText": "Roaches, shower didn't work, used toilet paper roll, pillows way past expiration lol would never recommend this place Doesn't even deserve a star",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Shocked",
+    "reviewText": "We checked in at 8:00pm and when we got on the room we were shocked at the conditions . Door was broken and in poor repair the furniture had cigaret burns all over the pillows and covers were dirty and the straw that broke the camels back was the body hair under the covers . We checked out an hour later and drove 250 miles back home. Never again will I book there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Awful",
+    "reviewText": "This hotel was uful could not sleep there where thousands of coucoraches and very sacary people never will stay again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrible stay!",
+    "reviewText": "Unclean, no air conditioning, dirty bathroom, roaches, water on floor in kitchen. Staff could care less about renters. Unsafe area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "This was like walking into a crack house.",
+    "reviewText": "This was the most disgusting place I have ever walked into in my life. It looked like someone had been murdered in the bathtub. The room reeked like old smoke. So thick you couldn't breathe. The kitchen was filthy. The walls were yellow and sticky from smoke. I was afraid to sit down in the place. I walked in and left 5 minutes later. We did not stay there! I will be requesting a refund as we had to find another hotel. It was the worst experience I have ever had. Ever!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Do not stay here",
+    "reviewText": "The staff where very friendly but the place was horrible. We asked for a nonsmoking room but you can tell right away no one abides by the rules. The room reeked of cigarettes and the bed, couch, and refrigerator where stained and in wore out conditions. If you are looking for a really expensive hotel and it is you last option than maybe this is your place but even for the price I expected better.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "THE WORST MOTEL IVE EVER SEEN",
+    "reviewText": "This place is horrible! I took pics of roaches, blood on the wall, soiled sheets, and soiled chairs! They had no washcloths and only 2 towels! There were hookers and crack heads staying there and wandering in the parking lot. When I cancelled my other 2 nights they didn't even ask why! Plus they did not refund me the correct amount! And the pool is dirty looking with barely any water in it! All the pics are not accurate that they have on the site.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Gross and a waste of anyone's time!!!!!!!!!!",
+    "reviewText": "The room was nasty and smelly! I requested one queen bed and got two twins. nasty parking lot as well as a messy lobby!!!!!!!! I wouldn't recommend this hotel to anyone!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Yuck - Dirty!",
+    "reviewText": "terrible for longer than a 1 night stay - ripped bedding - very dirty - eewwww - the only thing nice to say is it is very roomy -",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Conveniently located for my kids activities.",
+    "reviewText": "For $35.00 a night I was happy, even has a pool.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Filthy, roaches,cig smell, drug den, never go ther",
+    "reviewText": "the most filthy, cigarette smelling, mud tracks on the floor, roaches crawled on me in two minutes of laying down, on what seemed like a cardboard box for a mattress, no towels, toilet was poop smeared, only stayed twenty minutes and had to leave. never ever go to this place. drug den. I booked and pre-paid for three nights, stayed minutes. lost all my money, super baddest of the bad.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrendous Stay",
+    "reviewText": "There are a lot of permanent residence people living at this Motel. There not towels in the room and I basically had to sleep with pistol. I will let you figure the rest out.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Away!!",
+    "reviewText": "This is by far the worse hotel I have ever seen.  And I have stayed in hotels in Odessa, Texas and Rock Springs, Wyoming.  It was such a bad hotel I left and found a Holiday Inn \u0026 Express that I knew I would enjoy staying in.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel deteriorado, Evitenlo",
+    "reviewText": "es la peor experiencia, nada funcionaba, no habia atencion, no dieron la habitacion que reserve, habian cucarachas, no funcionaba el ba��o, todo estaba sucio, es un hotel muy deteriorado",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "No a tourists hotel, don't bother trying it!",
+    "reviewText": "The \"suites\" are more of a place for people who need to stay for longer than just a tourist's visit and can't afford anything cleanner and in better condition.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "I left. after I checked in my room",
+    "reviewText": "I left because I felt unsafe in my room and it was a hotel I would be scared to stay in.  HORRIBLE..I LOST MY MONEY ON THIS ONE. I left and went to another hotel.  horrible",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Scary ghetto hotel. Bugs, filthy, holes in the wal",
+    "reviewText": "Did not stay. Slept in car in a Walmart parking lot until we found a hotel the next day. Horrifying experience. Hotel would not even return money for first night even though I was told by clerk I would not be charged. Not a safe place to stay. Please don't be their next victim.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Nasty",
+    "reviewText": "AWFUL!!!! We didn't even stay, we had to go somewhere else.. Lots of roaches!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay at Fiesta Inn Hotel",
+    "reviewText": "Well, we didn't spend the day at the hotel. It was not in our plan. But at least we should enjoy sleeping. But, no, the state of the room did not allow that, with that kind of maintenance. It seems to be a guest house but not a hotel. We were not advised. That was the problem Anyway, we had to stick with it, it was secondary.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay at Fiesta Inn Hotel",
+    "reviewText": "Everything went ok you get what you pay for.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "NEVER GO",
+    "reviewText": "This was the WORST hotel I have ever seen. The outside was full of people just working around. The parking lot was covered with trash and there were stray cats walking around. I knew I would never stay but I went to see my room anyways. The blinds were broken there was NASTY TRASH laying on the and dirty paper towels hanging in different areas of the room. The beds looked like they have not been WASHED in YEARS. It was soo dirty I could not even look at the rest of the room. The smell was out of this world someone should really close them down for good. I went last weekend and to this day ( almost a week later) I cant even close my eyes without seeing the images of that NASTY room. PLEASE SAVE YOUR TIME, MONEY AND SIGHT.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Not what is portrayed in their advertisements.",
+    "reviewText": "Dirty, roaches, smells musty. I had to clean entire suite after seeing 4 different suites, before choosing the one I actually remained in. The place needs to torn down or extensive renervation. Stairways are in Bad state of repair, doors have open spaces, filthy for renting.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Not what is portrayed in their advertisements.",
+    "reviewText": "Rooms weren't ready..... out of the three that i had check myself....they all had something wrong or nasty about them.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-22T00:00:00.000Z"

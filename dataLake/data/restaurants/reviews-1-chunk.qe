@@ -1,0 +1,100 @@
+      "type": "Point",
+      "coordinates": [-93.32655, 30.21369]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good price for quality",
+    "reviewText": "The lady at the front desk was very helpful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Utilitarian. Overpriced.",
+    "reviewText": "This was my third or fourth choice for a last minute booking late at night, as all the other models in town had no vacancies. The room was clean, the clerk's service was exemplary. But the pricing seemed high for the caliber of the property and amenities.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "cleanliness",
+    "reviewText": "Nice and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "disappointed customers",
+    "reviewText": "Television was not working, maintenance did come fix it. Phone did not work and we were told to come to main office to use phone. I told them that it was very inconvenient. A dead bed bug located on the television. The bed spread had holes in it and was unclean. The carpet was dirty also.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Gotta go ... just not here ... :-(",
+    "reviewText": "Everything ok 1st night. Next morning, toilet Kitchen light stopped working. Toilet was fixed after 5pm. Kitchen was never fixed, bad ballast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "it's alright if you looking for something cheap",
+    "reviewText": "it was OK even though some butt hole hit my car",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Not for us- But not too bad.",
+    "reviewText": "My expectations were not high when we booked this, considering the cost per night was under 50 bucks. You get exactly what you pay for- a place to crash. No amenitites. No frills. Poor houskeeping. No Ice machine. We didn't realize there would be many people actually living there. we considered checking out and going somewhere else, but honestly.. for under 50 bucks a night.... the air conditioner worked well, there was a refrigerator and microwave. And since there were people living there, with kids. Ours running around didn't bother anyone. The neighborhood was good! Perfect for truckers or people passing through.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a bad price but Not to Pleasant",
+    "reviewText": "when we first got into the room it seems ok since it was really late and we were exhausted. In the morning I noticed the not very cleanliness- looks like workers had been staying there and still had a lingering unpleasant smell. In the morning I woke up to the sound of an ice machine being used---not really the way I like to wake up",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-13T00:00:00.000Z"
+    },
+    "reviewTitle": "medical trip",
+    "reviewText": "room was adequate for a two nite gambling visit. didn't spend much time in room, but it was just ok. needs new carpeting and a paint job. everything else was ok",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "medical trip",

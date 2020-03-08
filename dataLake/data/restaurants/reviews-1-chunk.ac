@@ -1,0 +1,1000 @@
+  "location": {
+    "country": "TH",
+    "state": "",
+    "city": "Eden",
+    "postalCode": "84310",
+    "address": "211/1 Moo 4",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [100.065182, 9.486392]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-08T00:00:00.000Z"
+    },
+    "reviewTitle": "���������������NICE������������������",
+    "reviewText": "CHECK OUT",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value",
+    "reviewText": "Great seaview great value loction is good breakfast simple aircondition too noisy",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value",
+    "reviewText": "Great seaview great value loction is good breakfast simple aircondition too noisy",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������������������������������",
+    "reviewText": "sea viewlobby",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice view hotel",
+    "reviewText": "Nice value hotel with jacuzzi bathtub, clean and big room but no wifi provided.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������������������������������",
+    "reviewText": "Nice value hotel with jacuzzi bathtub, clean and big room but no wifi provided.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������",
+    "reviewText": "CLIFFBEACH FRONT ROOMmoto",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "stayed for 4 hours n checked out !!!",
+    "reviewText": "The first thing we noticed was the view which is lovely , then everything else goes down hill LITERALLY fast , room cleanliness is 0 , comfort 0 , safety 0 , pool 0 , pool bar ( none existent ) staff were untrained un interested !! in all I'd rather stay in a tent in Blackpool than recommend this place to anyone I will actively seek a refund !! Disgraceful for such a wonderful little island !!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-28T00:00:00.000Z"
+    },
+    "reviewTitle": "���������������������������������������������������������",
+    "reviewText": "The first thing we noticed was the view which is lovely , then everything else goes down hill LITERALLY fast , room cleanliness is 0 , comfort 0 , safety 0 , pool 0 , pool bar ( none existent ) staff were untrained un interested !! in all I'd rather stay in a tent in Blackpool than recommend this place to anyone I will actively seek a refund !! Disgraceful for such a wonderful little island !!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "���������������������������������������������������������",
+    "reviewText": "The first thing we noticed was the view which is lovely , then everything else goes down hill LITERALLY fast , room cleanliness is 0 , comfort 0 , safety 0 , pool 0 , pool bar ( none existent ) staff were untrained un interested !! in all I'd rather stay in a tent in Blackpool than recommend this place to anyone I will actively seek a refund !! Disgraceful for such a wonderful little island !!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great views of ocean",
+    "reviewText": "Lovely place with great views. Liked the villa style rooms a lot. There are a lot of stairs to climb so less mobile people may have problems though I saw villas that did not require climbing. They can pick u up and drop u off in a small van. Some good resteraunts closeby, one in particular which was deserted had great views and excellent thai food. Can't remember the name.... Something 'moon'. Shops and beach are some distance away, not easily walkable as there are no footpaths along the curved roads where people keep riding along the breakdown lane, taxi is the way to go. Overall a nice place to stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Tr��s bon h��tel !",
+    "reviewText": "En chambre deluxe : vue imprenable, piscine correcte avec vue sur mer. Rien redire, except les nombreuses marches pour accder aux chambres Point positif : le personnel est votre coute mais ne comprend que l'anglais.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Seaview",
+    "reviewText": "Great swaviewgreat value. Location is convenience. between Lamai and Cheweng. Breafast is simple. Air-condition is too noisy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������ ������������������������������������������ ������������������������������������ ���������������������������������������������",
+    "reviewText": "WIFI",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Individuell, aber zu teuer",
+    "reviewText": "Das Hotel in Steilhanglage zwischen Chaweng und Lamai Beach ist deutlich in die Jahre gekommen. Man kann es in der Presse lesen, dass die Hotels dieser Region ihr Preisniveau seit Jahren nicht anpassen wollen, weshalb auch das Samui Cliff View schlecht ausgebucht ist. So fehlen Gelder fr Renovierungen und Personal. Die Terrassen sind moosbelegt, Treppengelnder rosten, die Gartenanlage wird nicht ausreichend gepflegt, berall liegen abgestorbene Pflanzen und Baumaterialien. Der Boden im Frhstcksraum ist einfacher Beton und sehr schmutzig. Das Frhstck ist sehr einfach und das Kchenmobiliar ist verschlissen, z.B. Vllig verrostete Herdplatten. Trotz allem ist die Anlage recht individuell und die Deluxe-Bungalows sind schn. Preis-Leistung stimmt u.a. aber gar nicht.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Honeymoon trip!",
+    "reviewText": ", , , . . : , 2 - , , , . - 152 . - ) - , !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Honeymoon trip!",
+    "reviewText": ", , , . . : , 2 - , , , . - 152 . - ) - , !",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Waking up to a beautiful sea view",
+    "reviewText": "Spend 2 nights in this lovely resort. The reception area is just splendid with a great view of the sea, but not for the unfit as there's just too much stairs to move around. Staff was very helpful althought I do have problems trying to get extra pillow during the night time as they told me I can only get it in the morning as the house keeping is not avail at night. Not too far away from the main area although a little bit of travelling to reach is a must. The resort is kinda smack in the middle of the main area on both side but will need transport to reach. Quite during the night with a bar just opposite the resort for those who wants to grab a quick drink will be great. All in all it's good enough to make it a pleasant stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-12-18T00:00:00.000Z"
+    },
+    "reviewTitle": "generally not too bad",
+    "reviewText": "We stayed for a night, the location was not too bad but the environment near around was bad, hard to find a restaurant or a 7-11",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Kein Strand. Sonst Perfekt",
+    "reviewText": "Das Resort hat keinen Strandzugang wie der Name Cliff Resort ja auch transparent wiedergibt. Alles sehr sauber und fr den Preis recht komfortabel. Kann man gut empfehlen. Die Aussicht aus dem Pool ist sensationell.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-14T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������������������������",
+    "reviewText": "Das Resort hat keinen Strandzugang wie der Name Cliff Resort ja auch transparent wiedergibt. Alles sehr sauber und fr den Preis recht komfortabel. Kann man gut empfehlen. Die Aussicht aus dem Pool ist sensationell.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������������������������������",
+    "reviewText": "2 don't disturb3 Villa",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������������������������������",
+    "reviewText": "2 don't disturb3 Villa",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-02T00:00:00.000Z"
+    },
+    "reviewTitle": "������������������������!",
+    "reviewText": "!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3f90"
+  },
+  "name": "Dor-shada Resort By The Sea",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "TH",
+    "state": "",
+    "city": "Washington",
+    "postalCode": "20260",
+    "address": "256 Moo 4 Najomtien",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [100.987206, 13.368448]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Looking for another place",
+    "reviewText": "The hotel has interesting design and located right on the beach. Those are the only 2 stars I would give them. Construction next door (not their fault) makes me more susceptible to other things, such as very rundown, neglected feeling of the property. The reason I'm still here is that the room hasn't been cleaned yet, so I can't even... More",
+    "reviewerCity": "Boston",
+    "reviewerState": "MA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible place and probably the worst I stayed in Thailand",
+    "reviewText": "I have stayed at this place due to a conference, and I must say I am deeply disappointed. The place is huge, well maintained from outside, and right next to the beach. But that's where the positive stuff stops and unfortunately they are not of any use to me. As a traveler, I needed a good night sleep and the... More",
+    "reviewerCity": "Singapore",
+    "reviewerState": "MA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Privacy can be found at this hotel",
+    "reviewText": "Sometimes it is good to be a little away from the city. This hotel is very quiet and it feels like it is private. The room was spacious and balcony was really nice. We can see the sea, and swimming pool. Bar at the pool was good, batender was polite and swimming pool was clean. Food at restaurant was delicious.... More",
+    "reviewerCity": "Bangkok",
+    "reviewerState": "MA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-02T00:00:00.000Z"
+    },
+    "reviewTitle": "well done design throughout",
+    "reviewText": "We had a great time at Dor-Shada in Na-Jomtien - the hotel is large, well-done, well-maintained, rooms are spacious, service is just OK. The beaches are wide, whitish sand although there were garbage remnants in the water - par for the course in the greater Pattaya area. Pricing was also attractive - and the best of all...hardly any other tourists...so... More",
+    "reviewerCity": "Bangkok Thailand",
+    "reviewerState": "MA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Large, clean and good service",
+    "reviewText": "I stayed here for a short break. The hotel is about 15 to 20 minutes by car from South Pattaya so is a little off the beaten track in terms of access to bars, restaurants and shopping areas of Pattaya. The room I had was a suite and was extremely large. The bathroom had a large double sweater jacuzzi, shower,... More",
+    "reviewerCity": "Bangkok Thailand",
+    "reviewerState": "MA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Peaceful place",
+    "reviewText": "Hotel has interesting architecture of office building, a beautiful swimming pool with jacuzzi areas closed bushes, good service and food. The wait staff is extremely polite and eager to please all guests. Located near the city Pattayya only 20 minutes by tuk-tuk. Not far from the hotel on the beach local merchants will offer fish, fruit, beer, beverages and boil... More",
+    "reviewerCity": "Odessa",
+    "reviewerState": "MA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "so so",
+    "reviewText": "Stayed at the Dor-Shada for business reasons two times this year. Neither time was very notable. Hotel is rather removed from other places. Room is clean and bed is comfortable but there are not any nice touches to the room. Breakfast buffet is mediocre. Not much choice and no omelete station. Pastries are horrible. Beach is so so. Nice pool... More",
+    "reviewerCity": "Noth Carolina",
+    "reviewerState": "MA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "This hotel hasn't jumped to the 21st century yet...sadly",
+    "reviewText": "I have been there 2 times and I can declare that this hotel largely needs to be renovated... We have been staying in the main building, having a main problem: the carpeting that probably hasn't been changed since the hotel opened...A very unpleasant smell emanatting from it! Ask for the ground floor where the smell is alright, but in the... More",
+    "reviewerCity": "Bangkok",
+    "reviewerState": "MA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Resort",
+    "reviewText": "Stayed there from 28th to 30th June 2012 excellent resort by the Sea, the sea waters are clear with very good beach almost private, the spa at the hotel is also very good, service and staff curtsey is also good. The only sujjestion they should use English for their telephone services as what ever it mutters in Thai you cant... More",
+    "reviewerCity": "Udaipur",
+    "reviewerState": "MA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Meh",
+    "reviewText": "Rooms have no soul. Staff are pleasant but utterly incompetent. Lots of smiling, agreeing then nothing gets done. Sat in the restaurant they've been discussing how to make a latte, all arguing about it in a clueless manner. Didn't bother making our room up yesterday make up room sign was def on. At 4500THB for their most basic... More",
+    "reviewerCity": "Bangkok",
+    "reviewerState": "MA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice. Definitely coming back.",
+    "reviewText": "The location is right on Na Jomtien beach. Enough chairs by the pool and the beach. Spacious swimming pools. Staffs were nice. Decoration was a bit like temples. Breakfast could be improved. 7-11 in front of the hotel.",
+    "reviewerCity": "Bangkok",
+    "reviewerState": "MA",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3f91"
+  },
+  "name": "Hilton Princess San Pedro Sula",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "HN",
+    "state": "",
+    "city": "Annapolis",
+    "postalCode": "21411",
+    "address": "10 Calle Y Avenida Circunvalacion",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-88.037895, 15.499006]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Outstanding",
+    "reviewText": "One of the best hotels in San Pedro Sula, I will stay in this hotel again without a second tonight's, very clean room, outstanding stuff, very friendly and helpful, we stayed in the executive floor, 5th floor, breakfast was great.",
+    "reviewerCity": "YONKERS",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent",
+    "reviewText": "I have stayed here many times and it is because I feel very safe and the outstanding staff. From Noe at the front door to All Front Desk Staff and the Executive Lounge. Pamela at the Executive Lounge always called me by name and was very helpful. I travel a lot and use Executive Lounges around the world but Lesbia...",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for business, bad food",
+    "reviewText": "I've just stayed at the Hilton for two days and overall the hotel is clean, nice staff and good rooms, the food is something to improve, I ordered the hamburger and it tasted strange, the packages of mustard were expired this detail should be verified by the kitchen staff.",
+    "reviewerCity": "Mexico City",
+    "reviewerState": "IL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-29T00:00:00.000Z"
+    },
+    "reviewTitle": "One of the Nicer Hotels in San Pedro Sula",
+    "reviewText": "In picking a hotel in San Pedro Sula (SPS) - one of your first concerns really needs to be security given the high homicide rates that plague the city (some of the worst in the world). The Hilton Princess checks that box. It is centrally located and provides a secure place to stay with a steady presence of security guards...",
+    "reviewerCity": "Washington DC",
+    "reviewerState": "IL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel",
+    "reviewText": "Excellent beds, new rug, good sized TV and an eager to please staff made our stay with our two kids a great experience. We stayed only for one day so we did not get a chance to use some of the amenities like the pool, gym or restaurant, however I did get to have a drink at the bar after...",
+    "reviewerCity": "Tegucigalpa",
+    "reviewerState": "IL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice one night stay",
+    "reviewText": "We stayed one night en route back home from one of the Bay Islands. This is my second stay here at the Hilton Princess. The hotel is very nice and clean. Check-in was pleasant. They gave us a room on the first floor right above the lobby. It was loud near our door as all the noise traveled up. Our...",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel",
+    "reviewText": "I've stayed at this hotel several times over the pass two years. Most recently for about 20 days. Staff were very friendly and nice. Rooms were clean and comfortable. Breakfast buffet was great! It is located near several restaurants and large mall within walking distance is nice, clean and safe place to stay. Hotel has several conference rooms from small...",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful experience!",
+    "reviewText": "This is one of the nicest hotels I have ever stayed at - it has old world charm that I was not expecting in Honduras. We came here for a group event. Everyone was impressed! Beautiful luxury hotel, clean rooms, excellent service, excellent food - will definitely come back!",
+    "reviewerCity": "Marion",
+    "reviewerState": "TX"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Quality",
+    "reviewText": "Great hotel, perfect location, very nice staff, good food, airport shuttle, good internet, and it feels very safe considering the fact that your in a dangerous city. No doubt about it, this will be my hotel in San Pedro Sula.Dear Guillermo N, thank you for your comments on our services, we are glad to know that we will be hosting you in the future. For us it is always a pleasure to serve you and hope you visit us again soon. Regards",
+    "reviewerCity": "Managua",
+    "reviewerState": "TX"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth it.",
+    "reviewText": "For this being a Hilton hotel it really disappointed me. The breakfast is not included unles you pay extra. They only have us wi-fi for 3 devices and there was 4 of us. The hotel itself needs some major updating. The beds were hard for my taste and 3 of the 6 days we stayed they had parties going on...",
+    "reviewerCity": "Beaverton",
+    "reviewerState": "OR"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic landing pad",
+    "reviewText": "Fantastic, clean, comfortable, quiet... Nice gardens with a nice pool... This hotel is an oasis in a very dangerous city in a tropical country. The staff was friendly, the food was fantastic, breakfast, lunch and dinner. I needed a trustworthy driver to go see a customer about 100 km away so I hired the same driver of their shuttle van,...",
+    "reviewerCity": "Montreal",
+    "reviewerState": "OR"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great experience.",
+    "reviewText": "The hotel is very nice and clean. Has a nice pool area and good size fitness center (I was the only one in there when I used it so that was a plus). The only thing I would recommend is to request a room on the second floor or above because you can hear noise/music from any events on the...",
+    "reviewerCity": "Houston",
+    "reviewerState": "OR"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Experience",
+    "reviewText": "This hotel is in a good location and is comfortable for the business traveler. Rooms are quiet and comfortable. Restaurant has a good variety and the wait staff is very responsive and professional. Stayed here many visits and find consistency in the service every time.",
+    "reviewerCity": "Pilot Mountain",
+    "reviewerState": "OR"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Hilton Princess San Pedro Sula, Honduras",
+    "reviewText": "Undoubtedly the best experience of any hotel stay very close to a Ritz Carlton. ALL staff extremely helpful and friendly, yet professional. Restaurant has good menu for all meals, and process are reasonable. Will definitely return here and Highly recommend it.",
+    "reviewerCity": "Pilot Mountain",
+    "reviewerState": "OR"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-09T00:00:00.000Z"
+    },
+    "reviewTitle": "OLD, RUN-DOWN SMELLS MUSTY - AVOID",
+    "reviewText": "This place needs a complete overhaul from top to bottom. It is run down, smells musty, bathrooms have mold/mildew stains, hallways are dark and creepy. Staff is nice but room service arrives with wrong order every time. Location is good near a mall. It is expensive for an old place in San Pedro. The Intercontinental nearby is superior and a...",
+    "reviewerCity": "Aventura",
+    "reviewerState": "FL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "excellent work out room!",
+    "reviewText": "I only stayed for one night here in transit, the hotel had an excellent work out room and it is open 24/7 so it is very convenient, the room is a little small but perfect for me, I had the breakfast buffet, very pricey not sure it was worth the price. the service is good",
+    "reviewerCity": "san francisco",
+    "reviewerState": "FL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect for out layover",
+    "reviewText": "We stayed at the Hilton Princess San Pedro Sula for three days and two nights. The rooms, service, restaurant and reception were perfect. When we come again, we will stay again. The hotel was located next to the principle mall - which was nice And convent too.",
+    "reviewerCity": "Narbonne",
+    "reviewerState": "FL"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Hilton Princess San Pedro Sula, Honduras",
+    "reviewText": "Outstanding service. All personnel very helpful and friendly. The location was good but We prefer a location closer to the shore. I needed transportation to La Ceiba so I could take the ferry or a plane to the Island of Utla and the driver (Rocky) was very kind and informative.",
+    "reviewerCity": "Chicopee",
+    "reviewerState": "MA"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant Stay",
+    "reviewText": "The hotel offers what it should The staff is friendly, the rooms acceptable, and the tv has enough international channels to satisfy foreigners. On the weaker side, the food in the in-house restaurant is just adequate at best, the morning breakfast is weak for a Hilton, and there are no refrigerators in the rooms. The gym is also below par...",
+    "reviewerCity": "Bangkok",
+    "reviewerState": "MA"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent hotel for anyone doing business in San Pedro Sula",
+    "reviewText": "Stayed for 16 nights for business. Very safe and comfortable hotel. Hilton Honours lounge is a great benefit with excellent breakfast and heavy evening hors d'oeuvres. Staff are very helpful and polite with superb english.",
+    "reviewerCity": "Swansboro",
+    "reviewerState": "NC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Wedding",
+    "reviewText": "We had a great time at this location. Their service was friendly and the staff was awesome. The amenities and services were very good. I definitely recommend this hotel. The location is perfect, near restaurants and malls!",
+    "reviewerCity": "Toronto",
+    "reviewerState": "NC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good choice",
+    "reviewText": "Everything was outstanding. The restaurant has delicious seafood for dinner and a large breakfast hot and cold food bar. Rooms were clean and quiet. The decorations fit the culture of the area. I will stay there again when I am in San Pedro Sula.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "San Pedro Sula Hilton",
+    "reviewText": "Not a bad place to stay at. Probably one of the best locations in San Pedro Sula. A little price , so I used some of my points to book this. Breakfast it's not included. They charge u 40 for a combination breakfast and evening snacks. If you like to drink you will get your money's worth during the evening...",
+    "reviewerCity": "CT",
+    "reviewerState": "NC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay for business",
+    "reviewText": "Has pretty much everything you need and great staff. The gym has a good number of cardio machines, free weights, and there's a decent sized pool. WiFi was pretty good. Local beer selection was good and the bartender was helpful with recommendations. Would recommend if you have to stay in San Pedro Sula.",
+    "reviewerCity": "Toronto",
+    "reviewerState": "NC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-25T00:00:00.000Z"
+    },
+    "reviewTitle": "All the employees were very friendly and eager to please",
+    "reviewText": "Nice hotel in a central - safe location. My ride was waiting for me at the airport, even tough my flight was delayed more than one hour. Thank you! The check in was quick. The rooms are slightly outdated but very clean, the bed comfortable and the toiletries stocked daily. Room service menu had basic options, but nevertheless delicious. I...",
+    "reviewerCity": "Darlington",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Save and nice place",
+    "reviewText": "Very clean place close to the center, very helpfull staff Rooms are very big and clean. Executive lounge too crowded and staff a bit unfriendly. It's amazing how many people get together there just for a free drink. Restaurant quality is average. The Intercontinental hotel which didn't have romos available is definbitely the better choice in San Pedro Sula.",
+    "reviewerCity": "Mexico",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Surprise Peace",
+    "reviewText": "With all the poor things stated by many about San Pedro Sulla Honduras. I can speak differently. the Hilton Princess was a quality stop...memorable for peace, quality attention, room quality and satisfying quisine. Two nights there good to great. Inspite of busy schedules you can kick back in a buzzy English style Pub. ( the decor is British influenced) and...",
+    "reviewerCity": "Mexico",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Service",
+    "reviewText": "The Hotel is really good, but it looks too old , like in the old days, so it is not for party or come over with friends if you want a festive environment. But it is in really good conditions and the service is great. The amenities are good .Dear Antonela, thank you for your comments on our services, for us is a really important to know your opinion and satisfaction you get along with our service. For us it is always a pleasure to serve you and hope you visit us again. Regards.",
+    "reviewerCity": "San Pedro Sula",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Service beyond expectations",
+    "reviewText": "Traveling with a group of 55 people poses unique challenges. As a coordinator of our medical group for not only sleeping rooms but meals and transportation I rely on food services and shuttle services to a great extent. This hotel staff goes above and beyond cheerfully. The front desk staff and serving staff in the bar and restaurant are professional...",
+    "reviewerCity": "San Pedro Sula",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-04T00:00:00.000Z"
+    },
+    "reviewTitle": "24 hour turn around",
+    "reviewText": "I found this hotel to be very clean and most of all very secure. The rooms were clean, well air conditioned, and the bed very comfortable. The pool was warm and inviting and the exercise room very well appointed. The only issues I have were a slow flushing toilet and my view of the Power Chicken sign was obstructed.",
+    "reviewerCity": "Randleman",
+    "reviewerState": "NC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Good hotel to say in the city",
+    "reviewText": "I spent a couple of nights here last week. Walking distance (which you probably shouldn't do much of) to City Mall. The rooms are nice, comfortable beds and pillows, GREAT night's sleep. Breakfast is basic, but OK. Had dinner here on Friday, did not like it, but that was just me. If you're going to the pool and expect service...Dear r2gasa, thank you for your comments on our services on the pool bar, for us is a really important to know your opinion and satisfaction you get along with our service. For us it is always a pleasure to serve you and hope you visit us again. Regards",
+    "reviewerCity": "San Jose",
+    "reviewerState": "NC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "ROYAL TREATMENT",
+    "reviewText": "Was a pleasant experience after a long trip. Highly recommended. A+ Customer Service, Clean, great food service. Nice pool, I really enjoy my stay there. they have shuttle service for my convenience, very helpful staffDear Brina T, thank you for your comments recomendations on our services, for us is a really important to know your opinion and satisfaction you get along with our service. For us it is always a pleasure to hear you enjoy your star with us. Regards",
+    "reviewerCity": "San Jose",
+    "reviewerState": "NC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location, warm and friendly staff",
+    "reviewText": "Really a top notch place to spend a day at the beginning or end of a honduras trip. Staff is very friendly, professional, helpful, and efficient. You have questions, they'll find the answers and make calls for you. It's walking distance from the mall and lots of good restaurants, though it's advisable to take a taxi at night. Breakfast buffet...",
+    "reviewerCity": "San Jose",
+    "reviewerState": "NC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful hotel",
+    "reviewText": "We stayed here twice, at beginning before Roatan as well as at the end of trip! Staff is wonderful, friendly, and very professional. Hotel is clean and well appointed and the rooms are great! The pool area is great and perfect for families or couples! The shuttle to/from Airport is great as well. Definitely recommend and would stay again!",
+    "reviewerCity": "Tega Cay",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice hotel",
+    "reviewText": "It is a very nice hotel slightly outdated rooms but very clean, has all amenities and the staff is very helpful I had a king size bed room on the executive floor The food was provided around the clock in the executive lounge and was really good quality The bed, air conditioning and bathroom: top notch The only negative I...",
+    "reviewerCity": "Cancun",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Paridise in San Pedro",
+    "reviewText": "The staff and facilities are amazing. The food is prepared by a chef and room service comes really fast. I love using the fitness room and the pool and it's always clean and open. Thank you for another great stay at the Princess.Dear Gulaine W, thank you for giving us a few minutes of your busy time and give us your comments on your stay, for us is a really important gesture because it allows us to know your opinion and satisfaction you get along with our service. Please if there is something I can do for you, do not hesitate to...",
+    "reviewerCity": "Ajax ON",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointing Suite",
+    "reviewText": "The executive suite here is advertised as 1600 sq.ft. when in reality it is no more than 900 sq.ft. This sounds like a trite complaint, but for those of us that reserve suites only for very special occasions, it was disappointing. Also the executive lounge was closed and the bar was not a good substitution.",
+    "reviewerCity": "Rochester",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Honduras Trip",
+    "reviewText": "HHonos is a great motivator to continue to stay at Hilton Hotels. Also the staff is amazing. Marvin at the main bar - Restaurant Manager Marvin is great. Lesben at the executive suite is amazing. The whole staff out of their way to assist you.",
+    "reviewerCity": "Buda",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "The HOTEL for Business Family",
+    "reviewText": "I gotta say that I was afraid of coming to SPS, for obvious reasons.But the Hilton Princess San Pedro Sula was a great experience. I came for business to visit relatives in the area. Nice service, the lobby was well maintained, not mentioning the recreational areas like the gym. I definitely recommend this place for business reunions and...",
+    "reviewerCity": "Buda",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Hilton Princess San Pedro Sula",
+    "reviewText": "Very nice, classy and clean hotel. The staff were great and very accommodating. Everyone was very fluent in both English and Spanish and very helpful with information. I recommend looking at the Hilton as an option for your stay.Dear stevensJ7360OC, thank you for your comments on our services staff, for us is a really important to know your opinion and satisfaction you get along with our service. For us it is always a pleasure to serve you and hope you visit us again. Regards",
+    "reviewerCity": "NH",
+    "reviewerState": "SC"
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent",
+    "reviewText": "I have stayed here many times and it is because I feel very safe and the outstanding staff. From Noe at the front door to All Front Desk Staff and the Executive Lounge. Pamela at the Executive Lounge always called me by name and was very helpful. I travel a lot and use Executive Lounges around the world but Lesbia... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Went for a wedding, had a great time.",
+    "reviewText": "Over all great hotel great service. Every time you called the front desk the would great you by name, I like those little touches. Resturant was well laid out and food was very delicious. The hotel even has its own taxis and tour operators.",
+    "reviewerCity": "Miami",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-24T00:00:00.000Z"
+    },
+    "reviewTitle": "2nd 11 Night Business Stay",
+    "reviewText": "Spent 11 nights here on business and my first trip here 2 yrs prior was for the same amount of time. A few places to grab a quick bite are within walking distance but I elected to take a cab from hotel and have same driver pick me back up more than once. Staff was friendly and morning breakfast was... More",
+    "reviewerCity": "Texas",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful hotel",
+    "reviewText": "We stayed here twice, at beginning before Roatan as well as at the end of trip! Staff is wonderful, friendly, and very professional. Hotel is clean and well appointed and the rooms are great! The pool area is great and perfect for families or couples! The shuttle to/from Airport is great as well. Definitely recommend and would stay again!",
+    "reviewerCity": "Tega Cay",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel Great hospitality in Hilton SPS",
+    "reviewText": "No better Hotel in this city than Hilton Princess, great experience for your money, it is like home, thanks a lot!!! Good Staff, good service, strategic location and the best place to take a Breakfast",
+    "reviewerCity": "Guatemala",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Safe Location Close to Nightlife",
+    "reviewText": "Hilton Princess hotel is located in a safe location in San Pedro Sula. For a city, that is rated high on crime, this hotel offers an oasis of security. There are armed and friendly guards posted around the hotel for the safety of guests. The area around the hotel is safe to walk and specially the walk to the mall... More",
+    "reviewerCity": "Washington DC",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-10T00:00:00.000Z"
+    },
+    "reviewTitle": "The restaurant is Ok",
+    "reviewText": "It is a clean hotel. good attention. The parking lot is very small. For events is a good option. The food is very good. the event hall need to be update. The waitress need a Little more guideness to serve.",
+    "reviewerCity": "San Pedro Sula",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect",
+    "reviewText": "I was in San Pedro Sula for Business so I've used ony the basic services offered by the hotel. What I can say is that: - the hotel is clean as well as the room. - the personnel is lovely, very kind and at your disposal any time. - the hotel is in a very good position and it is... More",
+    "reviewerCity": "Bordighera",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Good choice in this city",
+    "reviewText": "Overall a nice stay. The hotel staff is excellent the rooms are a bit dated but still in good condition with good amenities. My only complaint was that the Honors lounge wasn't staffed until 5:25p when it was supposed to open at 5p.",
+    "reviewerCity": "New York City",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Worthy of the Hilton Brand",
+    "reviewText": "My client booked this hotel for me and I was very pleased with the stay. The room that I requested (one King bed) wasnt ready due to my early arrival but I was given another room equally comfortable on the Hilton Honors Floor. I have stayed at other properties in San Pedro Sula and this one was as good or... More",
+    "reviewerCity": "West Hartford",
+    "reviewerState": "CT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Hilton Princess San Pedro Sula, Honduras",
+    "reviewText": "Undoubtedly the best experience of any hotel stay very close to a Ritz Carlton. ALL staff extremely helpful and friendly, yet professional. Restaurant has good menu for all meals, and process are reasonable. Will definitely return here and Highly recommend it.",
+    "reviewerCity": "West Hartford",
+    "reviewerState": "CT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Outstanding",
+    "reviewText": "One of the best hotels in San Pedro Sula, I will stay in this hotel again without a second tonight's, very clean room, outstanding stuff, very friendly and helpful, we stayed in the executive floor, 5th floor, breakfast was great.",
+    "reviewerCity": "YONKERS",
+    "reviewerState": "CT",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Place to Stay in San Pedro Sula",
+    "reviewText": "I was initially a bit uneasy about staying in San Pedro Sula, with it's high rate of crime. The Hilton Princess felt incredibly safe and secure. There are armed guards on the property, and the elevator requires a room key to operate. I enjoyed the breakfast buffet each morning and was not disappointed. There was a variety of food that... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Hilton",
+    "reviewText": "Hilton has a hard time with big the bigger picture of customer service. The company I work for have many employees that visit the location. Instead of looking at our employees as a whole, they see us as individuals. They should offer hospitality to all in our company that stay with them",
+    "reviewerCity": "Bowling Green",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "very nice",
+    "reviewText": "We stayed here overnight waiting on a flight out. I loved seeing a rotating door to enter through, throwback to childhood. The chandelier in the lobby is gorgeous also. It felt very grand with it's circular stairways. The room was fresh and clean. The beds were comfortable, plenty of pillows and blankets. The pool area is nice, lots of sitting... More",
+    "reviewerCity": "Wheeling",
+    "reviewerState": "WV",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Avoid room service at all cost",
+    "reviewText": "Hotel was as you would expect from a large chain hotel. Pool was lovely but needing minor upgrades. Room Service was atrocious. Ordered a meal, drinks, desserts and it came after three calls and two hours later undercooked and wrong. It was inedible. It was not what was ordered. The front desk staff blamed a food allergy on why we... More",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent Customer Service",
+    "reviewText": "I stayed at the Hilton Princess and I had an amazing experience. Customer Service was among the best I have ever had. Everyday the maid service was excellent. The front desk was very flexible in dealing with my constant need to alter my reservations over the course of a month. When I needed to print a couple of documents, they... More",
+    "reviewerCity": "Washington",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Average",
+    "reviewText": "This is my first time in a Hilton where the stay was really average (I'm HHonors member) - the personnel did just minimum effort and was not quite friendly as you are used to see on a Hilton brand hotel, I really feel that it was a favor that I got from the front desk guy. I'm not sure if... More",
+    "reviewerCity": "Managua",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Definitely my next choice",
+    "reviewText": "Amazing treatment and very nice hotel installations. I looked up several hotels for booking and even tho it was not cheap.. Its really worth it. The suites are really big and the showers are super clean.",
+    "reviewerCity": "Managua",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good location, warm and friendly staff",
+    "reviewText": "Really a top notch place to spend a day at the beginning or end of a honduras trip. Staff is very friendly, professional, helpful, and efficient. You have questions, they'll find the answers and make calls for you. It's walking distance from the mall and lots of good restaurants, though it's advisable to take a taxi at night. Breakfast buffet... More",
+    "reviewerCity": "San Jose",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Quite What I'd Expect from Hilton",
+    "reviewText": "I stayed here for work because it was the only real brand name hotel I was familiar with in the area. Check-in was terrible. I needed cash to pay a taxi fare and they didn't have an ATM in the hotel. As a result I requested to make a cash withdrawal from the hotel and have it charged to my... More",
+    "reviewerCity": "Lansing",
+    "reviewerState": "MI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Hotel!",
+    "reviewText": "This is a great hotel! I know others have said negative things, but I did not see any of those things. I spent a day here at the Hilton Princess and thoroughly enjoyed my stay! The service was great! The room and the facilities lived up to the Hilton brand. Would recommend this hotel to anyone.",
+    "reviewerCity": "Syracuse",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Exercise",
+    "reviewText": "The staff goes out of their way to please. The room I was in, 112, was impeccable. Absolutely clean, smelled good, extremely soft bed, and generally excellent room. Food in the restaurant was also tasty. Try the ceviche, you will not be disappointed. A few gripes. The thermostat was broken in the room. Unable to adjust temperature. Likely needs to... More",
+    "reviewerCity": "Syracuse",
+    "reviewerState": "MI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good choice",
+    "reviewText": "Everything was outstanding. The restaurant has delicious seafood for dinner and a large breakfast hot and cold food bar. Rooms were clean and quiet. The decorations fit the culture of the area. I will stay there again when I am in San Pedro Sula.",
+    "reviewerCity": "Asheville",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {

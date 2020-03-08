@@ -1,0 +1,100 @@
+    "reviewText": "Service is always great! HOWEVER, don't know if there's been a change in chefs, restaurant owners are taking their customers for granted, or some other excuse but recent meals at the Booker-Lewis have been disappointing. I travel through Leesville regularly and the hotel restaurant was one of my favorite stops when in the area. But recent meals have been... More",
+    "reviewerCity": "Lexington",
+    "reviewerState": "KY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Our EASTER Home",
+    "reviewText": "Have been staying 3 days over EASTER for several years now. Each visit is always a pleasure. Very comfortable, well appointed rooms. Great staff and great service. The very best place to stay in Leesville.",
+    "reviewerCity": "Albuquerque",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to get pampered!",
+    "reviewText": "My husband and I recieved a Love is in the Air gift certificate for a one night stay in Callie's Room, with a rose petal turn down, a bottle of champagne, a free dinner, and a couple's massage in the morning. The staff did not disappoint. They were fabulous! The whole stay was relaxing and romantic and everything I had... More",
+    "reviewerCity": "Albuquerque",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Contractor",
+    "reviewText": "Great place to stay. Was at B.L. for several weeks in July heat and the hotel and restaurant was nice and cool, almost too cold. Staff is excellent and food us great. Shae (bar tender) is very professional and as friendly as could be.",
+    "reviewerCity": "Albuquerque",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place if the U.S. Government is paying for the stay (and most of the time they are",
+    "reviewText": "It is a beautiful old house but the men in the battle field will never get to stay a night there because only high rank military stay with our government footing the bill the owner seem to have a inside to get his room filled and has ads in places for longer stays (like old home he has remodeled) look at the websites www.bookerlewishouse.com/ and see for your self. As for me I am a officer in the military and yes it is nice to stay in a nice place but when I see my men going with ou...view moret and can stay other new hotel's that have a cheaper rates. To hell with a historical land mark . I will only stay in the same places that my soldiers stay. I will never do anything that one of my soldiers cannot do because I am from the old Army where we are a brotherhood we stand as one. I just ask that everyone remember if it was not for the soldiers of America. There would be no Buckert Lewis house to over charging the Government as they have been for some time now . Let me add if you are on vacation and want to stay in historical home and pay for it out of your pocket enjoy your stay. I end by saying R.I.P. to all my brothers in arm that have fallen .view less",
+    "reviewerCity": "Albuquerque",
+    "reviewerState": "KY",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Over rated over priced.",
+    "reviewText": "I wanted to wait several months prior to reviewing as I needed to cool down a bit. I rented their 220 suite in an area that was away from their main house and in a remote area that was part of an old abandoned building. It took us almost 25 minutes to locate the person to check us in as... More",
+    "reviewerCity": "Indianapolis",
+    "reviewerState": "IN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful in every way!",
+    "reviewText": "The food was delicious, perfectly perpared. We arrived late for our reservation and we treated pleasantly by the staff. The food was beautifully presented and was delightful. We had the Ponchatrain Shrimp with angel hair pasta. We would recommend this to everyone. Such amazing flavor. We would highly recommend this restaurant to everyone. It is a beautiful restaurant with friendly... More",
+    "reviewerCity": "Indianapolis",
+    "reviewerState": "IN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to spend the weekend.",
+    "reviewText": "We stayed here July 4 th weekend to attend freedomfest and celebrate our anniversary. The staff was great and helped with special surprise arrangements for my lady. The restaurant was fantastic. The strip steak is on par with the best I've ever had and really fine breakfast. I sent friends over with some coupons the restaurant gave us for dinner... More",
+    "reviewerCity": "LA",
+    "reviewerState": "IN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay!",
+    "reviewText": "My wife and I have stayed here several times and enjoyed it. It's a great one night romantic stay, but I wouldn't stay more than that because there is not much else to do in Leesville/Ft. Polk area. It has a very nice restaurant, a nice bar, and nice rooms, so you never have to leave the property. We've stayed... More",
+    "reviewerCity": "Lake charles",
+    "reviewerState": "IN",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3ff4"
+  },
+  "name": "Mirazur Plus Circle Inn",
+  "categories": ["Lodging", "Corporate Housing", "Hotels \u0026 Motels", "Budget Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AL",
+    "city": "Enterprise",
+    "postalCode": "36330",
+    "address": "715 Boll Weevil Cir",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-85.835556, 31.327117]

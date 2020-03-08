@@ -1,0 +1,100 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-11T00:00:00.000Z"
+    },
+    "reviewTitle": "I love NOLO!",
+    "reviewText": "Great customer service, very welcoming. We've stayed at this Hampton before and love the location because it's walking distance to restaurants, bars and the French Quarter.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-19T00:00:00.000Z"
+    },
+    "reviewTitle": "I love NOLO!",
+    "reviewText": "Valet parking fee is excessive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value, great location, comfy rooms",
+    "reviewText": "I was in New Orleans for a conference, and stayed an extra two nights to hang with my brother and tour the city. We shared a double Queen room, and were happy it room was more spacious than we expected. Very comfortable and we didn't feel cramped at all. The amenities were comparable to what we'd expect from a nice hotel. And the breakfast was tasty and healthy enough to keep us going all morning long. The location was easy to walk to the French Quarter (we're good walkers), and we found some places to eat nearby when we were too tired to go farther away. My only complaint is that the guys handling our luggage storage were abysmally slow. We had to wait up to 15 minutes to have someone get our luggage out of storage. Other than that, the staff were great and very friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great business/fun location",
+    "reviewText": "Hotel was awesome! Everyone was nice and helpful. Location was convenient to convention and to streetcar line which is a huge advantage here. Morning breakfast very helpful to be able to get ready and eat before heading out. Highly recommend!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Better than I thought",
+    "reviewText": "Compared to the area, our hotel was pretty decent. A couple of blocks from Bourbon, which is good if you have kids. I traveled with my family, so it was perfect. It was still within walking distance of everything that we did. We traveled on a Sunday, so we were able to find parking on the street that day, but we did valet for the remainder of the time. The staff was very friendly. There was a smell on the 4th floor when we first got there, but it was gone by the morning time. We also didn't realize how close things were otherwise, we wouldn't have ordered food to be delivered. If I ever went back, I would definitely stay here. I know it's safe and clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "I'd love to stay here every year!!",
+    "reviewText": "I'm a Southern University Alumni, so I've come to New Orleans often for the Bayou Classic festivities. I've stayed in several hotels, but I can say that I enjoyed this one the most.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "2 Blocks from Burbon Street/French Quarter",
+    "reviewText": "Gary in Valet/Bellman was great!!!!! He offered great suggestions for places to eat authentic food!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-08T00:00:00.000Z"
+    },
+    "reviewTitle": "hotel location",
+    "reviewText": "Excellent",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "hotel location",
+    "reviewText": "Just keep in mind the price that you get on Hotels.com doesn't include all the surcharges. We were quoted 109 but ended up paying almost 170 after taxes, fees, and parking were added.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-22T00:00:00.000Z"
+    },
+    "reviewTitle": "great hotel, near the French Quarter",
+    "reviewText": "Great hotel, very convenient, good breakfast",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5

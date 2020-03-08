@@ -1,0 +1,1000 @@
+    "reviewTitle": "Beautiful Location",
+    "reviewText": "My husband and I fell in love with Lakeway Resort and Spa! They gave us an ok deal but the lake in the background is what really sold us! Judith was helpful! Chuy was amazing! Our rooms were great and all went extremely well!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful Location",
+    "reviewText": "When I first saw Lakeway Resort and Spa I knew it was the place I wanted to get married. The Vistas ballroom was stunning so simple but the view was amazing. I don't know what I would have done without Julie. She was so much help and the day ran so smoothly with her making sure everything was in order. Julie is spectacular and does a phenomenal job!!! The view, service and food was perfect!! Everything the cheif cooked was delicious! They have high standards for themselves and to make your wedding day one to remember. I loved everything about Lakeway Resort and Spa not only the people and food but the environment, the beautiful suite they give you for your wedding night and the all around welcoming you receive. I recommend this place to any bride!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful Location",
+    "reviewText": "Had a great time, really enjoyed the lake and the pool. My bathroom was not clean the first night we were there. I mentioned it on my way checking out....but no one seemed that concerned. However the grounds were worth giving this hotel a try. The hotel is a little older but you really don't see it that much. It's just that the bathroom in my room was really really small. It was hard to get out of the shower without hitting the toilet...ask for a room with a larger bathroom. My other family members had one that was larger. I give the hotel high marks for it's location, grounds, pool and access to the lake with beautiful views from the balcony.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel does not live up to it's potential",
+    "reviewText": "We arrived early, so the room wasn't ready. We decided to grab a bite to eat at the restaurant. The restaurant was empty and that should have been a sign. Cobwebs could be seen in the upper windows. A wasp was flying around the entire time. We let the server know the shrimp in the lettuce wraps did not taste good (shrimp itself was going bad) after trying only one bite. After she took it back, she returned to the table to let us know they tried it in the back, thought it tasted just fine, but as a courtesy would take it off our bill. Wow, thanks. Once in our room, there was only conditioner in the bathroom. No shampoo. This is a resort, right We also had a unopened bag of trail mix we left in the room while we went to play golf. We returned to find that ants had eaten a hole through the bottom and were all over the desk. Room is on the 6th floor. We had gnat like bugs hanging out on the ceiling of the bathroom all weekend also. With that said, the hotel has a amazing views of the lake, beds are comfortable and the pool set up is fantastic for both adults and children. A young bellman also went above and beyond to help us set up a shuttle. I would stay here again, but only for the convenience of playing golf in Lakeway.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-11-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel does not live up to it's potential",
+    "reviewText": "The best place to have a wedding are Event wedding Coordinator at Lakeway Resort did a fantastic job!! as well the great team there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice resort.",
+    "reviewText": "Very nice resort. The outdoor pool area was more worn than the pictures represent, and the kid's pool was crowded. Overall, very nice. Our room was pretty clean, but the sliding door to the outside needed a good cleaning. Newly remodeled shower had great water pressure. The location of the resort was amazing and in a very affluent area. The front desk person tried charging me 25 for a 16 t-shirt, so be careful of this. Stay away from the pantry area for snacks as they are ridiculously expensive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic Get Away",
+    "reviewText": "We really enjoyed our stay...very nice hotel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great view, hotel and community",
+    "reviewText": "Great view of the lake, amenities, and community the hotel is located in! No complaints!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Unexpected surprise",
+    "reviewText": "Excellent spa services and great prices. We originally planned to stay one night but stayed for three. This is a gem!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Two Thumbs Up",
+    "reviewText": "Awesome stay. I would highly recommend it for great unparalleled views and room comfort. Staff is friendly. The only negative thing I would have to say is the food is not all that great, but just decent. My eggs tasted like they were made from powder. Other than that, we had a great time. This was our baby's first trip away from home. It was memorable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Review for Lakeway Resort and Spa",
+    "reviewText": "The ballroom was modern and the view spectacular.;Management was disorganized and service was disappointing. If you aren't 100% on top of things, the staff won't make up for it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs updating!",
+    "reviewText": "Older crowd",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs updating!",
+    "reviewText": "Awesome",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Review",
+    "reviewText": "Two women staff were excellent Prabha and (forget name blonde curly haird). Rest were only good.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad dining.",
+    "reviewText": "I've been staying at Lakeway since the early 70's and watched it grow. The dining has gown downhill during the last few years. Service is extremely slow. This visit was bad for dining. The dining room had not been cleaned, ants were crawling in the windows and the service was really slow. We were the only ones there for a while. The food wasn't great either.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Beware of pool policy. Not advertised well by hote",
+    "reviewText": "Unaware of segregation policy for pools. Children only allowed in certain pools. Adults who clearly has no children with them however were allowed to enter children's pool. The shower in hotel room had no hot water. The hotel restaurant was excellent in taste!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Beware of pool policy. Not advertised well by hote",
+    "reviewText": "The spa there was the greatest! Had deer outside balcony.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Relaxing hotel on the wayer",
+    "reviewText": "This was my boyfriend and my first time at Lakeway. It was so relaxing, exactly what we needed for a great weekend getaway. The rooms were nice. The bed was SO comfortable I loved our balcony view of the water. We Hiked down a path to sit by the water talk. We can't wait to go back. I will spend more time in the hot tub next time.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice location but just okay overall",
+    "reviewText": "Nice location, spectacular views, decent amenities, beautiful pool area, yet restaurant food is WAY overpriced and had NO flavor, no seasoning at all. Both rooms we stayed at had stains on the sheets, couch, pillows, mold growing in the sink, countertop, bathtub, and shower curtain. Resort staff was very nice and friendly though.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent location \u0026 facilities",
+    "reviewText": "Wonderful experience. Loved every minute of my stay. Spacious and neat room with great lake view.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice view",
+    "reviewText": "Hotel was nice and landscape is beautiful. The hidden fees was very disappointing. I called 2 days in advance to get a total of my stay to prepare for when I got there. When I got their was told I had to pay 50 a night for security deposit and it would be refunded when I leave, well it's been 2 days and still no money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice view",
+    "reviewText": "Amazing stay with beautiful lake views",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome",
+    "reviewText": "Would not change a thing",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome",
+    "reviewText": "Excellent!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome",
+    "reviewText": "My daughter chose Lakeway Resort for her wedding festivities on August 6, 2011 in the lovely Vista Ball Room. From the moment of our arrival Aug. 3, we knew without a doubt this was going to be a wedding \"Over the Top\"We were greeted at the front entrance before we even got out of our cars, the staff was prepared to unload our car with the wedding supplies, gifts, etc. whatever we had and we were not to lift a finger. Bellmen and staff had suitcases immediately taken to our rooms, while we registered with the amazing employees at the desk. Talk about being made to feel at home.The Wedding staff, catering manager, set up crew, any and all help at Lakeway was available to make our stay one of the most beautiful and joyful experiences ever. Melanie Richardson and Julie Stanfield really stood out for knowing their roles. I felt I was on vacation even though I was themother of the bride. Lakeway did all the work. The food was delicious andmy guests 3 weeks later are still raving about the beauty of it all and what a marvelous time they had. All five's from us. The Stephens and Lahn",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-05-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome",
+    "reviewText": "From the moment my daughter and I walked in the front door of Lakeway Resort and were greeted by the friendly doorman and amazing atmosphere, we knew her wedding was going to be there. We met with Catering Sales Manager, Melanie Richardson, who spent as much time as we needed to show us around and answer questions. I was impressed with not only her helpful and happy demeanor, but with the great ideas she gave us due to her many years of wedding experience at Lakeway. During the wedding planning process of more than a year, we found Melanie to be very responsive to anything we needed and the great working relationship she had with our photographer and florist helped a great deal. Working with Melanie was truly like having a wedding planner as she coordinated everything with all of the many moving parts we had for a wedding of 225 people and did it very efficiently and calmly. Needless to say, the ceremony and reception were spectacular! The room set up for the ceremony felt like you were in a church with an amazing view and the reception was so incredible it should have been in a magazine. The wait staff and service were great and the food was fantastic!!!! Another great part of having the wedding there was that everyone could be together for the entire weekend and the amenities Lakeway has with a great pool and swim-up bar, golf, workout room, etc. really was a vacation for guests. Everyone had a great time and it will be a wedding that none of us forget thanks to everyone at Lakeway!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great view, disgusting room",
+    "reviewText": "So, I have never written a poor review, and usually think the things people complain about are way better than what is listed on the review. However,I have never been so disgusted by a smoke-smelled room. When calling the front desk about it, their only help was to send cleaning services by. They showed up, and sprayed some spray in the air, and turned to ask us if that was better. Needless to say, it wasn't better. They said they were booked and could not do anything for us. I have never spent so much on a room and been so disappointed with the cleanliness and odor of a room we had to stay in with zero customer service to try to fix it. We purchased a nice room with a balcony to be able to enjoy the beautiful views, and did not go on it at all because of the stench even outside. I would never stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great view, disgusting room",
+    "reviewText": "Lakeway Resort and Spa is an awesome wedding venue. Our ceremony was inside and had a beautiful view of the lake through the glass windows that enclosed the Vistas Ballroom. The wedding coordinator executed a flawless wedding and reception. Everthing was perfect. The food was delicious. All aspects of service before, during and after the wedding was outstanding. All of our guests were from out of town and spent the weekend at the resort and all echoed the same sentiments: great venue, delicous food and outstanding service.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great view, disgusting room",
+    "reviewText": "Where do I even begin with all the wonderful things to say about this place. We had our wedding here and planned the entire thing from New York - now this would not have happened if it wasn't for Julie Stanfield. She is amazing and that is a true understatement! She took care of every little detail and allowed me to not stress one bit the day of the wedding. The venue is BEAUTIFUL. All of the out-of-state guests loved it, saying it was the most peaceful place with the nicest staff they have ever met. Everything from the rooms to the staff to the food was impeccable. As far as the wedding and reception - it was literally perfect (we even extended an hour). Nothing, nothing at all, went wrong that I am aware of. And if something did, Julie is so good she would have taken care of it without my knowing. She took care of all the little details that a bride forgets about, like putting purses and cell phones in a safe spot, holding my flowers on cue when needed, taking gifts back to our room, along with setting up rose petals and champagne on our bed without us knowing! She is on the ball 24/7 with planning and was always reachable, even on her days off. We HIGHLY recommend using Lakeway for your wedding, if not just a vacation! The staff is nothing short of amazing :)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect venue",
+    "reviewText": "Lakeway resort was the perfect venue for me and my husband because we were both able to get what we wanted, a destination feel for our wedding while still in Austin. It was great for our out of town guests because they were able to stay on the property and hang out by the pool... Read More all day before the wedding. Katie Brinkman was my wedding coordinator and she was such a big help to the success of the whole day. I wouldn't have changed anything about my wedding day and Lakeway was the reason for that!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "BEAUTIFUL Venue!!!",
+    "reviewText": "Melanie and Julie were great to work with! They were always very responsive to emails and would get back to me about things quickly. They have a very useful checklist that really helped me as a bride to get organized. The venue is BEAUTIFUL and is perfect if you want a sort of... Read More \"outdoor\" wedding that is temperature controlled. All of our guests swooned over the beauty of the location and how smoothly the night went. Lakeway makes it so easy with the packages they offer. We couldn't have asked for a more perfect place to have our wedding!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing and relaxing!",
+    "reviewText": "I absolutely loved the view and the seclusion of the resort. Everyone was perfectly and overly courteous and went above and beyond to make my stay excellent. A perfect getaway spot!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing and relaxing!",
+    "reviewText": "I would recommend Lakeway for any upcoming wedding with no reservation at all. Melanie helped us with all parts of planning this wedding, we could not have done this without her. We listened to Melanie and had the perfect wedding that my daughter wanted. Thank you Melanie :)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Bachelorette party!",
+    "reviewText": "Beautiful getaway. Lets you experience the outdoors during the day while also not being too far away from Austin for city night life. Spas are available but were a little pricy. Nice pools that were heated. Big, updated rooms.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-07T00:00:00.000Z"
+    },
+    "reviewTitle": "A nice place to just get away",
+    "reviewText": "We really enjoyed our stay at the resort but it seems as though the mgmt. needs to look a bit closer at a few things. The golf carts should be used to shuttle people (especially the elderly) to their parked cars because you can be parked quite a ways from your car and there are some steep hills. The pool area needs to be policed more frequently to clean up towels and trash. The staff was very, very friendly and helpful. Spent both nights enjoying the bar and the bartender.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful lakeway views!",
+    "reviewText": "It was a very enjoyable time for me and my family during our business trip. The pool was awesome.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "I love this place",
+    "reviewText": "Outstanding service excellent views of the lake very peaceful. A place to get away...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "I love this place",
+    "reviewText": "Lakeway Resort and Spa was awesome. The venue was beautiful, they did everything we asked and more!! Julie was our coordinator and she was fantastic, she worked with us from the beginning and was there at the reception and provided for our every need. Loved her and the resort! Food was delicious!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "It was good experience",
+    "reviewText": "It's good experience the location of the hotel is amazing ... the weak point is no breakfast even at this high rate around 400 ... it will be good if they add the breakfast, kids area, parking to the rate.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-01-05T00:00:00.000Z"
+    },
+    "reviewTitle": "It was good experience",
+    "reviewText": "Most of our 150 guests were from out of town. We desired a venue where they could stay entire weekend. Lakeway Resort and Spa served our needs. The service the entire weekend was excellent. The Vista room overlooking Lake Travis served for the ceremony and reception. Julie Stanfield the coordinator/manager was excellent. Her followup and suggestions were always dead on to our desires. New to the Austin area, we had to depend on her opinion for all. Never did she go wrong. She was on top of every detail. The food was excellent, the service was excellent.....I highly recommend Lakeway Resort and Spa. Everyone was always very professional.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "It was good experience",
+    "reviewText": "Great hotel. Carpet in rooms needs cleaning or replaced. Rooms smell a little damp or needs a fresh scent or deep cleaning with maybe some bleach. But still a great hotel. Great scenery!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "It was good experience",
+    "reviewText": "We loved working with Melanie - wedding coordinator at Lakeway. If we needed help with anything she would find a solution!The wedding was so beautiful and fun!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "It was good experience",
+    "reviewText": "They need better food and vallet services other then that is good",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "It was good experience",
+    "reviewText": "Staff was super friendly and hlepfull, escpecialley the Front desk.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Beautiful view",
+    "reviewText": "Went there for some RR before going back to work as a teacher next week. I love Lakeway, have stayed there a few times b4 can't wait to go back. Restaurant could use a little more variety and dessert selection.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Anniversary",
+    "reviewText": "Had a great time with my husband for our 40th anniversary, spent the day at the pool, enjoyed it so much we never left! Had the New York Strip delivered to our room and it was delicious!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fe5"
+  },
+  "name": "Economy Motel",
+  "categories": ["Hotels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "FL",
+    "city": "Fort Walton Beach",
+    "postalCode": "32548",
+    "address": "1 Miracle Strip Pkwy Se",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-86.61323, 30.404133]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fe6"
+  },
+  "name": "Tmc Resort Rentals",
+  "categories": ["Resorts", "Motels", "Hotels", "Lodging", "Condominium Management"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Montgomery",
+    "postalCode": "77356",
+    "address": "14001 Walden Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.63431, 30.40422]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fe7"
+  },
+  "name": "Ip Casino Resort Spa",
+  "categories": ["Hotels", "Casinos"],
+  "location": {
+    "country": "US",
+    "state": "MS",
+    "city": "Biloxi",
+    "postalCode": "39530",
+    "address": "850 Bayview Ave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-88.890249, 30.411692]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-27T00:00:00.000Z"
+    },
+    "reviewTitle": "IP Stay",
+    "reviewText": "Bed was hard and shower curtain had dirt on inside that look like mold. My stay was nice overall though.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "IP Stay",
+    "reviewText": "i hope services are better this time !!! lol ;)",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Good",
+    "reviewText": "My stay was great except housekeeping did not do a good job cleaning the room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Average persons casino",
+    "reviewText": "Very friendly staff whos security doesn't oppressively tail you like one of the other casinos I stayed at to the point that it offended. Activities for the kids so that parents can do adult activities without kids in tow. Always my choice when traveling to Biloxi.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "disappointed",
+    "reviewText": "crowded elevators, bad mattress, three dollars for a bottle of water",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "disappointed",
+    "reviewText": "always great entertainment every night!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnight stay passing through Biloxi",
+    "reviewText": "Nice property at a great price. Spacious and clean room, comfortable bed, free parking, nice rooftop pool. Close to dining options, Visitors Center and highway. Will stay again if back in the area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnight stay passing through Biloxi",
+    "reviewText": "beautiful rooms and pool(when open)! the floor isn't as player friendly as it once was, and you really have to work foe it now!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Overnight stay passing through Biloxi",
+    "reviewText": "We had a great time! Enjoyed the Pool and food. Fun for the whole family",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome hotel",
+    "reviewText": "Beautiful room. Nice hotel large bathrooms with granite counter tops. The only cons were the trash cans were extremely small! I could barely fit anything in there. And there was no microwave.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Awesome hotel",
+    "reviewText": "at a height of 335 ft (102 m), the ip's hotel tower is the second tallest building in mississippi and features windows on every floor.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay! Just needs a little updating.",
+    "reviewText": "The stay was overall good. The air condition in the rooms are motion-controlled or something. No matter where you set the thermostat. It never gets any colder. They were going to send somebody after maintenance to look at it. But it was 3 in the morning when we went to bed. Didn't want somebody in my room that late. The casino needs new chairs the ones they have are very uncomfortable. Trying to sit at a table for hours upon hours is hard to do. The bathrooms in the casino are located at each end makes it hard to get up and go to the bathroom from a table. Since the tables are in the middle of the casino. Poor design for bathrooms. But drinks were great my drink was never empty playing on the tables or at the slot machines. Which is extremely nice. Everybody was very friendly for the most part. I will stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great sTAY",
+    "reviewText": "IP is a beautiful hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great sTAY",
+    "reviewText": "Great stay. Definitely will be back!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great sTAY",
+    "reviewText": "cabana is $40 for a half day. 10-2 or 2-6. includes 10 free non alcoholic drinks. such a deal.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great sTAY",
+    "reviewText": "Stay was disappointing. Had to start with the need to park the Motorhome more than three blocks away and had to walk in the heat. Just for stupid reason that the lot was going to be paved and would not hold the weight THere were nine of that came and stayed in the hotel-just needed a convenient place to park. Been coming for many years, but no more. We left Beau Rivage for same reason.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great getaway.",
+    "reviewText": "Very comfortable rooms. But parking garage is a long walk from check in and hotel elevators",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay!!!!!!!!!!",
+    "reviewText": "Everything was great, room service, the casino. the nightclub, the gift shops, I loved everything. Totally friendly staff.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-12-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay!!!!!!!!!!",
+    "reviewText": "Parking gridlock!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay!!!!!!!!!!",
+    "reviewText": "The Spa, the Restaurants, the Gaming Facilities, the pool, all top notch.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room for the price",
+    "reviewText": "Outside of our hotel room which is great, the rest of the hotel needs a little updating. The kitchen staff serving breakfast seem tired and never smiled.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "Room was a lot bigger than expected, we stayed in a room with 2 queens and there was still plenty of room. Sink didn't drain very well and the hotel sent someone up to fix it immediately. The only complaint was the temperature of the room. We tried adjusting it to make it cooler, but it didn't seem to matter.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "Everything was good with the exception of Back Bay Buffet... The price of the buffet was not worth the poor selection of food...30 per person jst too much and not tasteful at all",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "Dont go without mothballs",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "The alarm going off continuously over a cigarette in an elevator and expecting people to run die 25 flights was ridiculous",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "It was for 1 day but we loved this resort",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "My only complaint was valet parking upon check in and check out...I felt that it was very chaotic..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "I had booked a non smoking room. Unfortunately when we arrived we were booked in a smoking room. We thought it would be ok but it was actually gross and we hated it. We asked to be switched to a non smoking room and they told us they couldn't do it due to availability. By the time we departed, we all had sinus infections.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Great price for a casino and spa hotel!",
+    "reviewText": "Pool side bar=awesome",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Mini vacation",
+    "reviewText": "Enjoyed our stay can't wait to go again !! I would recommend the hotel designate smoking areas in the lobby area instead!! The lobby smells like smoke !!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "As comfortable as Las Vegas.",
+    "reviewText": "Clean,quiet,comfortable and spacious room with a wonderful view.(also with a mini refrigerator).Casino setup is well laid out.The buffet (lunch) was excellent.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-01-07T00:00:00.000Z"
+    },
+    "reviewTitle": "As comfortable as Las Vegas.",
+    "reviewText": "the best soup and salad bar in all of the mississippi gulf coast, bar none!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Outstanding",
+    "reviewText": "Love it!! I will be coming back",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "We had a very pleasant stay at the IP. Service and food were great. Stayed 3 days.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Started our anniversary horribly,but ended better",
+    "reviewText": "We went to the IP for a quick getaway for our anniversary, the room we were placed in had dirty towels from previous guest on the shower curtain, the sheets had hair as well. They moved us to a second room and when my wife went to step in the shower , the shower door fell forward hitting her on the shoulder. They did rectify this by moving us to a suite and giving us dinner for free. However, it was a horrible start to our anniversary. The hotel is at the casino and there are plenty of other things to do at the site. That's a plus.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Started our anniversary horribly,but ended better",
+    "reviewText": "looser slots - for sure!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Started our anniversary horribly,but ended better",
+    "reviewText": "Awesome time. We loved the pool area also.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Started our anniversary horribly,but ended better",
+    "reviewText": "Nicest cocktail waitresses in town. Sometimes you don't even have to ask for another...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Started our anniversary horribly,but ended better",
+    "reviewText": "The pool experience was great, a little crowded but great to relax and soak up the sun. The room needed more attention, stains on the wall and carpet and didnt like the fact that the A/C controlled by the hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Started our anniversary horribly,but ended better",
+    "reviewText": "excellent ,32 is excellent as well",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Smokey",
+    "reviewText": "Beautiful hotel. I am a non smoker and even though we had a non smoking room the smell is in everything. It is s very nice place if you can deal with cigarette smoke",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Smokey",
+    "reviewText": "Would not stay here again. When we arrived our room smelled of sewage. Had to be moved, took several hours of our trip time. Advertised as a family place but way too many people for comfort. And nothing screamed family. The arcade room was not well equipped.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel-top notch!!",
+    "reviewText": "Loved our overnight stay!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel-top notch!!",
+    "reviewText": "The hotel was beautiful and well maintained. It was within a mile to the beach and shopping.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel-top notch!!",
+    "reviewText": "Parking elevators too far from casino and room elevators for us old folks!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel-top notch!!",
+    "reviewText": "Horrible experience with lady checking us in. Very rude told her 4 times we wanted a king bed. After getting to room discovered she put us in room with 2 doubles anyway. Called front desk and they were more than happy to swap our room to what we wanted. Great staff aside from one perdon",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Fun casino, nice people",
+    "reviewText": "Was in Biloxi for business and got a good rate at IP. Like the restaurants and bars, too.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Fun casino, nice people",
+    "reviewText": "nice clean rooms with great beds!",

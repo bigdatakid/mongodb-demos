@@ -1,0 +1,100 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Large comfortable rooms with a good breakfast",
+    "reviewText": "I was in town to visit and booked this hotel as part of the loyalty program. I can see where from others reviews that it can be a bit hard to find so I will offer you my tip - I look up the place on the internet, click on the map, and use the satellite view so that I... More",
+    "reviewerCity": "New Orleans",
+    "reviewerState": "LA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Place To Stay",
+    "reviewText": "On family vacation with my wife. Made reservations and when we arrived, we were recognized as frequent traveler. Room was clean and attractively furnished. Bed was very comfortable. Breakfast was good with a variety of foods, both hot and cold as well as pastries.",
+    "reviewerCity": "Georgia",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "We Will Be Back!",
+    "reviewText": "We stopped here for an overnight on a trip back from Florida. Got a very good rate on a third party website, so you do not always know what you will get, but were extremely pleased! Everything was very good, from the friendly and helpful staff to the overall condition of the property. Rooms were very clean and well maintained.... More",
+    "reviewerCity": "Oklahoma City",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend Getaway",
+    "reviewText": "My fiancee and I stayed here for a weekend getaway, and we were very pleased with our experience. The staff was friendly. The hotel was extremely clean and well maintained. Our room was comfortable. The breakfast was very good, with scrambled eggs and grits both mornings, sausage one morning, and ham the other morning in addition to the traditional continental... More",
+    "reviewerCity": "Lafayette",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient but not well maintained",
+    "reviewText": "We travel from Atlanta to Fort Worth several times a year and usually stop at this exit to spend the night. There are several hotels and restaurants at this exit and it is very easy to hop on and off of Interstate 20. We checked in late in the evening and the night clerk was very friendly and helpful. Got... More",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfy Bed-Good Bathroom-Large Room-Good Breakfast-Dirty Chair",
+    "reviewText": "The hotel was 89 for the night. The overall experience exceeded our expectations. The room and breakfast were great, clean, well appointed with two exceptions. There was an upholstered chair in the room that was very dirty. The rest of the room was clean and nice.... the chair was a mystery given the rest of the hotel and room. The... More",
+    "reviewerCity": "Fort Collins",
+    "reviewerState": "CO",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable and Inexpensive",
+    "reviewText": "Room was very clean and staff was friendly. Prices were good and the hotel lived up to its name, comfort. Good breakfast with a waffle maker, I highly recommend this hotel and ill be bacK whenever i return to Shreveport.",
+    "reviewerCity": "Denham Springs",
+    "reviewerState": "LA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Windows DO NOT open as advertised.",
+    "reviewText": "When I travel I normally stay at Choice Hotels properties and check out the hotel before booking it. One of the things I check is if the windows open. The website for this hotel said they opened, but when we arrived I discovered they did not which was disappointing. The staff was courteous ans helpful. The room was clean and... More",
+    "reviewerCity": "Loranger",
+    "reviewerState": "LA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Dec. 21 and Dec. 28th... 2 stays at the Comfort Suites off I-20 for a visit to Texas!",
+    "reviewText": "Very good front desk manager in the evening, welcoming hotel staff, no complaints... decent room rate and easy access from I-20. Posted by a bona-fide travel agent in the business for 30+ years. Stay here!",
+    "reviewerCity": "West Point",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Comforts are comfortable",
+    "reviewText": "This a typical Comfort inn suite, big,clean, comfortable bed and generally a nice place to stay for several days if needed. However it does have some hiccups that aren't particularly their fault. The place is somewhat hard to find and get to so be sure your GPS is set at shortest route even though it's right off hwy 20. The... More",
+    "reviewerCity": "Muskogee",
+    "reviewerState": "OK",
+    "reviewRating": 4

@@ -1,0 +1,100 @@
+    "country": "US",
+    "state": "CT",
+    "city": "Gonzales",
+    "postalCode": "70737",
+    "address": "916 S Burnside Ave 400",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.92064, 30.22585]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fe4"
+  },
+  "name": "Lakeway Resort \u0026 Spa",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Austin",
+    "postalCode": "78734",
+    "address": "101 Lakeway Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-97.98694, 30.373974]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Breathtaking View and Venue",
+    "reviewText": "When I first saw Lakeway Resort and Spa I knew it was the place I wanted to get married. The Vistas ballroom was stunning so simple but the view was amazing. I don't know what I would have done without Julie. She was so much help and the day ran so smoothly with her making sure... Read More everything was in order. Julie is spectacular and does a phenomenal job!!! The view, service and food was perfect!! Everything the cheif cooked was delicious! They have high standards for themselves and to make your wedding day one to remember. I loved everything about Lakeway Resort and Spa not only the people and food but the environment, the beautiful suite they give you for your wedding night and the all around welcoming you receive. I recommend this place to any bride!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "First class",
+    "reviewText": "From the moment we set foot on this property everything was first class from the grounds to the service. Lakeway really does know how to take care of the bride and groom's needs right down to service by the pool. We had such a relaxing wedding because we knew Lakeway was taking... Read More care of everything leaving us to enjoy our company and each other. Everyone that attended our wedding had nothing but great things to say about how Lakeway treated them... The service was excellent! We definitely recommend this venue!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Family trip",
+    "reviewText": "For the most part a nice place to stay...the hotel food was not very good. It had no taste and was to expensive. The grounds were nice but seems there was always trash on the ground especially around the pool area.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Magnificent view!",
+    "reviewText": "Incredible views and you come away feeling like you were absolutely on vacation, so relaxing!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Magnificent view!",
+    "reviewText": "I can't say enough wonderful things about Lakeway Resort. Frist off, I have to say that if I sit back and think about things that could have gone better, I seriously can't think of anything. I am totally serious when I say that I had the perfect wedding. Also, Julie Stanfield is HANDS DOWN the best wedding coordinator, planner, organizer, and friend a bride could ever ask for. She is absolutely wonderful. I would email her almost daily and she was always so quick to answer back. We ended up having way more people than we had planned for and Julie was so great with helping us stay within budget, as well as calming my nerves as I am freaking that my Mom is going to freak about the extra people! She had an answer for everything. I could go on forever about how great she was! The venue was perfect. I had more compliments on just how beautiful everything was. If I could repeat the wedding all over again, I would do it in a heartbeat. My husband and I will remember this special weekend forever and we will be back to visit often!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Family getaway",
+    "reviewText": "Amazing pools. Views were breathtaking.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },

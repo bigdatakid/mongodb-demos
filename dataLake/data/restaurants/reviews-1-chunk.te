@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "It was a nice hotel and the environment was fine. It was close to the airport so that was convenient.",
+    "reviewerCity": "Jacksonville",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Basic Accomodations",
+    "reviewText": "The hotel was fine for budget accommodations- rooms are clean and offer a microwave/fridge setup- but don't expect anything fancy. The room was good sized but smelled oddly swampy when we arrived, breakfast was rather lacking, and the fitness space consists of two treadmills and an elliptical. Staff was not particularly attentive.",
+    "reviewerCity": "Hartford",
+    "reviewerState": "CT",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel - terrible bed",
+    "reviewText": "Nice clean hotel with good amenities. The hotel is older and has been maintained fairly well, it is starting to show it's age around the edges. Everything was clean and in good working condition. The one big negative about the room was the matteress, it was old, wore down and needs to be replaced. Very uncomfortable.",
+    "reviewerCity": "Florence",
+    "reviewerState": "KY",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient",
+    "reviewText": "We stayed at this hotel for one night before flying home after a cruise. The room was comfortable, but had a musty smell, and there was a strong odor.... maybe from some kind of cleaning agent.... in the hallway. Nonetheless, it was very convenient to the airport, and the price was hard to beat. We didn't eat breakfast, but had... More",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value",
+    "reviewText": "The hotel was great for the price! Appeared to be somewhat recently renovated, the room was clean if maybe just a little small. It did the trick, and was fairly close to a nice shopping/dining district. Free airport shuttle service as well",
+    "reviewerCity": "Palm Coast",
+    "reviewerState": "FL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Horrific!!!",
+    "reviewText": "Booked the place 5 months ago for cruise so we could stay and have shuttle for cruise port in morning. First of all we checked in and the sheets and the Ottoman is seaman stained. Then we paid extra for cruise faster to the fun and the hotel lied to us and said they don't start boarding until 1230(false). The... More",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Spend $20 more",
+    "reviewText": "This hotel was adequate. It had 2 queen beds and a tv. It was relatively cheap. The lobby is small and crowded feeling, it has no pool, the wall paper was peeling off the walls in the room, and the complimentary breakfast was bare bones. There was no where to really eat it either. Pick a hotel with a customer rating over 4 for 20 more if you can find one, it is worth the few extra bucks.",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Spend $20 more",
+    "reviewText": "Very clean and nice hotel. The Staff very helpful.",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Little Room",
+    "reviewText": "The service was great. The room size was small based on what we are used to.",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nicer then most",
+    "reviewText": "Decent worth the price",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {

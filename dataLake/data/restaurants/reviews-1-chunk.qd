@@ -1,0 +1,100 @@
+    },
+    "reviewTitle": "Beautiful but disappointing",
+    "reviewText": "209 has a private deck and a view of the garden and pool. perfect place for a cigar. beautiful little room without a chair! quirky but it works",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fde"
+  },
+  "name": "La Quinta Inn",
+  "categories": ["Hotels \u0026 Motels", "Family-Friendly Hotels", "Extended Stay", "Wine Country Hotels", "Tourist Hotels", "Weekend Getaway Hotels", "Travel", "Apartment Hotels", "Boutique Hotels", "Beach Hotels", "Budget Hotels", "Lodging", "Bed \u0026 Breakfasts", "Business Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "postalCode": "77070",
+    "address": "18828 State Highway 249",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.558938, 29.970456]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Distinctive whitewashed and tile-roofed chain offers convenience and consistency. In ShortSince opening its first location next to the San Antonio World's Fair in 1968, this well-known chain has become synonymous with consistency and reasonable rates. Room conveniences include data port phones with voice mail, work spaces, coffeemakers, irons, hair dryers and TVs with premium channels, movies-on-demand and video games. Budget-conscious travelers appreciate the free continental breakfast and families traveling with children like the pool and kids-stay-free policy.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fdf"
+  },
+  "name": "La Quinta",
+  "categories": ["Lodging", "Motels", "Hotels", "Meeting \u0026 Event Planning Services"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Beaumont",
+    "postalCode": "77707",
+    "address": "5820 Walden Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-94.15933, 30.03867]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "This hotel is a dump! Upon ch...",
+    "reviewText": "This hotel is a dump! Upon checking in was told that the place was booked with folks who are running from Isaac -- the folks are depressed, sad and crying -- we got a room with no problem as a matter of fact the parking lot and inside hotel were rather empty despite the fact that the place was booked -- the room reaked -- air conditioning unit blew out luke warm air despite having control turned to high cool -- linens and bath towels were rough and ...view morewell worn. The corridors reaked of curry/incense and it was obvious other air freshners were used to mask the obvious odors. Not opposed to other cultures but if you are going to have that sort of thing waifing through the hotel you should advertise such. My expectations are a clean room with no visible signs of anything else... would NOT recommend this place... BTW the free breakfast was nothing more than day old bakery goods with what was suppose to be biscuits and gravy... the folks running from Isaac would have been better off to weather the storm! Use this place only as a very last resort!view less",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fe0"
+  },
+  "name": "La Quinta",
+  "categories": ["Hotels", "Lodging", "Meeting \u0026 Event Planning Services"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "New Orleans",
+    "postalCode": "70128",
+    "address": "12340 I 10 Service Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-89.95993, 30.045267]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fe1"
+  },
+  "name": "Crossland Economy Studios - Lake Charles - Sulphur",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Sulphur",
+    "postalCode": "70665",
+    "address": "104 Mallard St",
+    "coordinates": {

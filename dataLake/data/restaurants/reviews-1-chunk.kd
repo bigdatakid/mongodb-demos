@@ -1,0 +1,100 @@
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "It's a dump. Tv didn't work, bugs uncomfy bed",
+    "reviewText": "This place sucks...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de3fc2"
+  },
+  "name": "Elba Sara Beach \u0026 Golf Resort",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "ES",
+    "state": "",
+    "city": "Anderson",
+    "postalCode": "35610",
+    "address": "Carretera De Jandia Km 11",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-13.866039, 28.383928]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Store og fine rom med utsikt til sj��",
+    "reviewText": "Super service fra vi ankom hotellet til vi reiste. Alle som jobbet her var blide,vennlige og imtekommende og gjorde alt for at vi skulle ha en fin opplevelse.Vi hadde all inklusive og maten var god og variert.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Buen trato, excelente ubicaci��n",
+    "reviewText": "Buen trato, excelente ubicacin para visitar la isla",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-07T00:00:00.000Z"
+    },
+    "reviewTitle": "tr��s bon rapport quanlit�� prix",
+    "reviewText": "bonne connaissance du franais personnel serviable bonne situation bons repas",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-29T00:00:00.000Z"
+    },
+    "reviewTitle": "non �� da considerarsi un hotel a 4 stelle ...",
+    "reviewText": "avevamo richiesto un letto matrimoniale al momento della prenotazione ed arrivati erano due letti singoli(che su richiesta ci hanno unito). La pulizia della camera non era un gran che ..abbiamo avuto l'impressione che alcune volte non abbiano cambiato gli asciugamani(come loro dicono di fare ogni giorno)ma abbiano rimesso quelli che avevamo buttato in terra. Per pi giorni non ci stata messa la pedana per la doccia(che probabilmente non mai stata cambiata nei 10gg di soggiorno). Il wifi in camera(garantito come servizio gratis) stato presente il primo giorno poi assente, abbiamo pi volte chiesto, ci veniva detto che avrebbero sistemato ma il wifi ha continuato a non esserci e a funzionale (male!) anche in reception. Buffet non molto vario. Ritengo che sia un hotel su misura per clientela tedesca/inglese. P.s.: per i mondiali di calcio non hanno neanche trasmesso le partite dell'italia ... tutte le altre si. Non aspettatevi tutti i servizi e la qualit descritta dal sito.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Tres bonnes prestations et rapport qualit��/prix",
+    "reviewText": "Tres bon sjour en famille (avec bb de 2ans). Lhtel est tout prs de la mer et le long d'une promenade parfaite pour faire ballades et promenade digestive. Il y a un centre commerciale juste a cot (pratique pour acheter des couches et autres produits pour bb/enfants). Le buffet est trs bien (des fois on prfrait plus de choix dans les lgumes) mais on y trouve toujours son compte. le petit-dej est parfait (jus de fruits frais, pain au chocolat, pancake, gteaux maisons...).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Bel h��tel mais des services �� am��liorer",
+    "reviewText": "L'htel est trs propre, et bien entretenu. Chambre trs confortable pour 2 mais la 3me personne ge de 17 ans dort sur un lit de camp, ce qui n'est pas la hauteur d'un 4 toiles. Les repas semblent prpars avec beaucoup de surgels (doute sur l'approvisionnement : priori pas de pche locale, alors que l'le est trs riche en poissons). Pour les 1/2 pensions, aucune boisson offerte au repas du soir, et surtout pas d'eau : la bouteille de 50 cl est facture 2,20 uros, un prix abusif au regard de ce type de produit (de l'eau potable !!) qui est quand mme de l'ordre de la ncessit, et au regard des prix pratiqus dans les restaurants extrieurs ou au supermarch... L'eau de la piscine n'est pas trs claire mais il est vrai que le soir, le personnel y retrouve nombre de gobelets en plastique ayant contenu de la bire...",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel plein de charrme agr��able et fonctionnel",
+    "reviewText": "Hotel treS bien situ treS bel endroit conseill aux amoureux de nature",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4

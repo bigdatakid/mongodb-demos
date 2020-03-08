@@ -1,0 +1,100 @@
+    },
+    "reviewTitle": "good location",
+    "reviewText": "very helpful front desk when we arrived late at night (gave us great directions to find her when GPS was sending us the wrong way) Room was ok--we reserved for 6 and the hide a bed was a love seat that folded out. NO way to fit two people on it and my youngest had to sleep on the cushions on the floor. rooms can't hold more than 5 max. breakfast was ok.",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "good location",
+    "reviewText": "Beautiful hotel and great staff will def stay here every time I come back to see family",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "good location",
+    "reviewText": "Nice hotel, breakfast was good too :)",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "A little get away",
+    "reviewText": "I was able to check in my room a couple hours earlier than I expected. The only problem was my key card didn't work but the young lady at front desk gave me another room and everyone on the staff was friendly.",
+    "reviewerCity": "Atlanta",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "I've stayed in better places for the price",
+    "reviewText": "The hotel was okay. Housekeeping of the rooms could be better. There was hair on the bathroom floor and urine on the bathroom toilet seat but other than that the room was clean. Glad I always pack cleaning supplies. Guest services was nice and friendly. The bed was a little hard for my preference but doable for the night.",
+    "reviewerCity": "Byram",
+    "reviewerState": "MS",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-13T00:00:00.000Z"
+    },
+    "reviewTitle": "I've stayed in better places for the price",
+    "reviewText": "I disagree.... If it's yellow it's mellow, if it's brown flush it down.",
+    "reviewerCity": "Byram",
+    "reviewerState": "MS",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Convient \u0026 Clean Hotel",
+    "reviewText": "The staff room was great.. I got confused I thought that I had the suite. It includes a king size bed with 2 sofa beds. I enjoyed the variety of items for breakfast. Also had microwave, refrigerator coffee maker in room.",
+    "reviewerCity": "Byram",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Good night's rest",
+    "reviewText": "Stopped for the night here on the way to Florida, overall good experience. Comfy beds and pillows, clean linens, well-stocked breakfast area only complaint was the bathroom floor looked liike it needed mopped.",
+    "reviewerCity": "Byram",
+    "reviewerState": "MS",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4019"
+  },
+  "name": "Holiday Inn Express \u0026 Suites West Monroe",
+  "categories": ["Wedding Receptions \u0026 Parties", "Convention \u0026 Meeting Facilities \u0026 Services", "Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "West Monroe",
+    "postalCode": "71292",
+    "address": "603 Constitution Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-92.169395, 32.510229]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay at Holiday Inn Express \u0026 Suites W.Monroe,La",

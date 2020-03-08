@@ -1,0 +1,1000 @@
+    "reviewText": "The staff was very nice and even called us when we were running late to check it to make sure we were ok. When I told them we were having car issues, the lady asked if there was any way she could help. I never stayed at a place that was so sweet to even ask us if they could... More",
+    "reviewerCity": "Brunswick",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "the name says Hometown but don't look for Aunt Bee!!",
+    "reviewText": "stayed here a year ago and was pleasant enough considering the rate (you get what you pay for) that we decided to go back this year. won't be back! the management/owner were rude and wanted to argue that he himself had cleaned our room and replaced the towels when all he had done was made the bed. he does use... More",
+    "reviewerCity": "Warner Robins",
+    "reviewerState": "GA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "The only hotel in town, but you get what you pay for",
+    "reviewText": "Very basic accommodations check-in desk apparently closes at 10 pm bed uncomfortable WiFi worked well for first 2 hours, then not so much satellite tv (DirecTV), but on non-HD sets sparse continental breakfast next to railroad tracks, which you will hear ice machine apparently not working (in the summer) stairwell light appeared to be out owner/manager family somewhat loud in... More",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Spectacular but Convenient",
+    "reviewText": "It's okay, but there's no pool or any amenities like that, and the owner was kind of cheap on the continental breakfast. As others have said, it is a clean room and best suited for adults who just want a room and maybe just coffee for breakfast. Kids probably won't like it, but it was extremely convenient to our purpose... More",
+    "reviewerCity": "Spring Hill",
+    "reviewerState": "TN",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, and the shower worked, so it was good!",
+    "reviewText": "Did an overnight here because we had a show nearby. It was clean, friendly, and the shower worked great! It's nothing fancy, but if you're in the Soddy Daisy area, you're probably not there to spend a lot of time in the room anyway. And it's quite reasonably priced!",
+    "reviewerCity": "Nashville",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40aa"
+  },
+  "name": "Country Inn and Suites By Carlson Charlotte University Place",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "NC",
+    "city": "Charlotte",
+    "postalCode": "28262",
+    "address": "131 E Mccullough Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-80.7538, 35.30077]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Stay",
+    "reviewText": "Staff was great! Breakfast was plentiful. I didn't like the smokers smoking close to the entrance. Plus the bathroom was older. I mean, I give it 4 stars. Am I being too demanding",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Strictly business.",
+    "reviewText": "It was a very centered Location for my Trip.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Strictly business.",
+    "reviewText": "I was there four days and I have to say that was the best experience I had at a hotel stay. The staff is extremely nice and the hotel was convenient to everywhere I needed to go. The only thing I would improve or work on is the breakfast. Give us more options. My overall stay was wonderful.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent value!",
+    "reviewText": "Came to UNC Charlotte for one week (business). First, checked into the Microtel next door which was filled with garbage at entrance, run down, moldy, and staff members were rude and unfriendly. Moved to Country Inn - a night and day comparison. The entrance was welcoming, room was spacious, clean, and comfortable, and the staff - every single person- was helpful and exceedingly polite and friendly. They all really seemed to care about our stay and went out of their way to make us comfortable. I highly recommend this hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-14T00:00:00.000Z"
+    },
+    "reviewTitle": "nice hotel near university",
+    "reviewText": "We were staying only for the night. The staff was very friendly and helpful. The hotel was clean and parking was convenient. They offered free breakfast cookies for late night snack.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to the University and other attractions",
+    "reviewText": "Just stayed one night, but it's definitely one I would recommend to visiting family and friends.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great facility. Very clean.",
+    "reviewText": "The staff was very kind and professional. I look forward to our next visit. I give this location a rating of 10.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Wife approval",
+    "reviewText": "Beautiful CLEAN place. Road construction made it hard to get in and out but not much hotel could do about that. Will DEFINITELY be back to this location if trip to Charlotte in future.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Wife approval",
+    "reviewText": "Stay was Ok. Upset my card was charged room rate, paid in advance then next day card was charged 89 some change. I called hotel but debit is still pending.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Wife approval",
+    "reviewText": "Its was wonderful I enjoyed it",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "We had a great stay.",
+    "reviewText": "Friendly and helpful staff, clean room, decent hot breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "I am going back to this hotel!",
+    "reviewText": "The hotel looks renovated cleanly. Compared to the prior ownership, the current ownership made a significant improvement in the facility and service. The staff was very courteous and the breakfast was wonderful. So, I decided to go back to this hotel during my next trip to Charlotte.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Good for a night's stay",
+    "reviewText": "Free breakfast and a comfortable room for a night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice comfortable room.",
+    "reviewText": "We had a relaxing night. Wish the pool wouldnt have been so cold. The room was clean and comfortable. The bed was very comfortable. We enjoyed our stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice comfortable room.",
+    "reviewText": "My overall stay was great although I was not to happy with the breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Last Alternative",
+    "reviewText": "Don't do it. Old out dated rooms that are very small.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Getaway",
+    "reviewText": "Everything was great except the fact that the pool wasn't open. When I was researching hotels, the customer service rep suggested this hotel because of the indoor pool.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Expectations Met!",
+    "reviewText": "Previous reviews had us a bit worried but the hotel was super clean, super comfortable and the staff was pleasant and very helpful! breakfast was great with a wide variery of hot and cold items to meet everyone's needs! still some road construction in the area but not a big deal. We will stay there again next year!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay.",
+    "reviewText": "Great. Nice accomodations.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Mixed Review",
+    "reviewText": "The hotel staff was very cordial however I did notice one seemed to be on auto pilot - asked me how my accomodations were when I went to the car to get something then was asked the same question less than a minute later when I returned by the same gal. I thought it was a joke but not. There were very few guests at all so not sure why the short memory. I questioned whether this was a true concern about my stay or just something they are made to say. I booked via Expedia and it shows a lovely pool/hot tub - one of the only reasons why I booked out of my way for this location only to find out after booking both are under renovation until next year. Boo! My room had items left from someone else and had a funky odor. The windows were opened and unlocked which I didnt find until after I came back from being in town. Guests are allowed to smoke outside of the hotel and there is a bench to do so. My non-smoking room was located above the bench facing the front parking lot on the third floor and I smelled cigarette smoke my entire stay because of the smokers hanging around the bench. Lastly, there are MAJOR road construction projects around this location (getting to/from hotel) whichcaused delays getting to where I needed to be. Be sure to tack on add'l time if you have a time schedule.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "Stayed one night on the way to Maryland. Very comfortable and quiet. The breakfast was great. Would stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-05T00:00:00.000Z"
+    },
+    "reviewTitle": "No indoor pool",
+    "reviewText": "It states they have an indoor pool but they don't. Half of the pool is outside and the other part is inside and it was closed with piles of chairs around the pool and the pool was dirty. Other than that it is a very nice hotel, just up setting when we packed our swimming stuff and then couldn't use it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasent",
+    "reviewText": "Was very comfrotable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "On the road again...",
+    "reviewText": "Very friendly staff and it was in a suitable location. Breakfast was good. We would stay here again. Awesome!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Bed bugs!!",
+    "reviewText": "Review pics I posted on Trip Advisor. Still trying to get a response and restitution. This location is not owned by corporate. Husband got bed bugs, too. Had to trea th twice before we ho r rid of them. Had to purchase a new bed, too.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Not so Hot \u0026 Not so Cool!",
+    "reviewText": "Spa/Hot tub did not work and they refused to refund me since I booked through a 'third party website'. Air conditioner was barely keeping the room cool, with no thermostat, just full ON 24/7...because the other Country Inn in Atlanta the Air/Con works so much better.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel",
+    "reviewText": "I was a little nervous based on the reviews here but we stopped by anyway. The hotel has been recently remodeled. The entry way was very nice and clean as was the room. We asked to stay in a room that had been remodeled. They served continental breakfast and the staff there was very nice and welcoming. They had the best price in town for the night and I don't feel like we sacrificed anything for that.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Time",
+    "reviewText": "Came for a concert with my sister first time staying at this hotel will come again..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfort",
+    "reviewText": "The stay was to short because the bed was better than the one at Wyndham Resorts. Comfort is what I look for in a room, and I got that at County Inn and Suite",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Worthy of a repeat visit!",
+    "reviewText": "Staff was extremely polite, helpful and anticipated the needs of the guest.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent stay",
+    "reviewText": "It was decent not perfect but decent and price was misleading that really bothered me, taxes or whatever the case was was ridiculous but the staff is nice and they do their job didn't really see much.",
+    "reviewerCity": "Columbia",
+    "reviewerState": "SC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Room at Attractive Price",
+    "reviewText": "Room was very good with ample room. Had a suite with separate sitting area. Room had everything needed for a comfortable stay with plenty of room. I could have spent another 70/night at nearby fancier hotels but would have had nothing of significance from that except emptier wallet. :) Highly recommended for the budget minded or value oriented traveler.",
+    "reviewerCity": "Columbia",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "Breakfast was great. Bed and room comfortable and clean. Always stay here when I visit Charlotte.",
+    "reviewerCity": "Columbia",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Meh at Best",
+    "reviewText": "Pros: Pros: TV and AC worked well. Mostly clean. Cons: Under construction. No elevator. Had to lug my luggage up the steps. Room was smallish. Shower head leaked like crazy from the back so lacked pressure out of the head. No hangers in closet, not even one. Police car stationed in front of hotel with officer inside. Desk clerk's explanation for police presence: The police visit us from time to time. The bright message light on room phone was blinking. I called and the person said they would take care of it. Was still blinking when I left the room in the morning.",
+    "reviewerCity": "Columbia",
+    "reviewerState": "SC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Fabulous staff",
+    "reviewText": "The staff was extremely friendly and respectful. Much to my embarrassment, I left some items behind and they bent over backwards to help me. Kudos to the manager and Shamika.",
+    "reviewerCity": "Columbia",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Fabulous staff",
+    "reviewText": "Had a great work trip with the nice people here. Would definitely recommend, and will likely stay there on my next visit to Charlotte.",
+    "reviewerCity": "Columbia",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Country Living",
+    "reviewText": "The staff was very friendly and helpful. The only negative of this hotel is the traffic congestion in the area, largely due to construction of a new train line to the city.",
+    "reviewerCity": "Columbia",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Service",
+    "reviewText": "The room was nice and comfortable",
+    "reviewerCity": "Columbia",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Nice..Great Location",
+    "reviewText": "Stayed at this Country Inn Suites because of the location and the price was right. Everything was nice about this hotel. Look like they have done a major makeover and things were fresh and new. Breakfast was above average and staff very nice and welcoming. Ill be back if we come to Charlotte again.",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel close to campus",
+    "reviewText": "A wonderful find. A clean and comfortable hotel. We needed to be close to campus so this was a perfect choice for us. There is a great deal of construction going on which resulted in a flat tire etc. I found the front desk, although friendly, were rather weak on giving directions. An area map would be useful when gps cannot figure out the area. I felt I frustrated them when I asked for street names rather than turn left here or there. I think it is pretty common for tourists to not know where they are going. But the room cleaning staff oh my goodness they were wonderful and sweet and kind. I had a great 5 night stay.",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Great service!",
+    "reviewText": "Everyone was outstanding! Took great care of the guests!",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-28T00:00:00.000Z"
+    },
+    "reviewTitle": "lovely staff!!!!",
+    "reviewText": "I am huge on customer service. Michelle and Sabrina and Mr. Logan made me feel welcomed. I checked in late at night and the next day the staff mentioned went above and beyond to make my stay great!!!! I would definitely revisit this establishment. It was close to stores and they also had breakfast included.",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Hockey weekend",
+    "reviewText": "In town to see our son and watch a hockey game. This hotel was a terrific value. Close to everything. Exactly what we needed for this trip. Would stay here again.",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Location! Location!",
+    "reviewText": "We were enjoying the stay until the last night when the plumbing went out. We had to change rooms which was a hassle. They did serve a nice assortment of breakfast items. Overall, we did like the area.",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Polite staff, nicely renovated",
+    "reviewText": "Antoine at the front desk was always very pleasant and polite. He was very accommodating in changing our room when the heater was not working properly. The lady at the desk was very polite and helpful also when we had to stay an additional night due to bad weather. The renovations look nice, including the lobby and breakfast room. The updated breakfast selections, with hot food now, was very welcomed. I have stayed at this hotel many times in the last 3 years.",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-10T00:00:00.000Z"
+    },
+    "reviewTitle": "friendly staff",
+    "reviewText": "staff was friendly room was very clean no problems",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-01T00:00:00.000Z"
+    },
+    "reviewTitle": "BED BUGS, DO NOT STAY HERE",
+    "reviewText": "I had an ok experience at this hotel until I realized that there were bed bugs there. Unfortunately, I was unable to take pictures of the mattress. I have bites all over my body. I am extremely uncomfortable and will be going to the doctor for medical treatment because this isn't normal. I can't sleep due to the itching and swelling of the bites. Certainly they will leave scars. I spoke with the staff about the issue on the weekend, three of which disclosed that there was a bed bug issue that should have been addressed. I was told that Chad, the front desk manager, would be available the following morning and that he would be able to assist. Chad was there, as promised. He was very accommodating but unfortunately, could only do what's best for his company, not for me, the customer. I received a call back from him, after several unsuccessful attempts to reach him and after calling the health department and the regional office. DO NOT STAY AT THIS HOTEL!! Some of the staff members were very sweet and accommodating as they should be, but that doesn't help me now that I am covered in bites. I have had to pay to launder all of my belongings which were in that infested hotel room. I REPEAT, DO NOT STAY HERE! Unfortunately I can only place 6 pictures, but they are ALL OVER my body!!",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "charlotte autofair",
+    "reviewText": "overall this hotel is great,the staff was friendly the room was clean and the breakfast was one of the better continental breakfast that I have had, my only compliant and this is a personal one and would not keep me from staying there again is I HATE those little square sofa pillows on the bed that seems to be in every hotel now days.",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-17T00:00:00.000Z"
+    },
+    "reviewTitle": "charlotte autofair",
+    "reviewText": "The condition of the hotel was drab. I saw a review where it said it was in excellent condition but I found it lacking. I actually found a used washcloth on the shower curtain rod and the cleanliness of the dining area had me breeze out in the morning to get breakfast elsewhere",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great staff very inviting",
+    "reviewText": "I stay for 4 nites it was very pleasant.. The staff were very helpful and friendly. I would stay again. Easy excess to all the places I wanted to go.",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location!",
+    "reviewText": "Shared room with daughter and granddaughter so gave them the bed. The pullout was uncomfortable and wasn't able to control the temperature in that area so didn't sleep well.",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-29T00:00:00.000Z"
+    },
+    "reviewTitle": "excellent service, staff very friendly",
+    "reviewText": "excellent service, staff very friendly",
+    "reviewerCity": "Phoenix",
+    "reviewerState": "AZ",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-16T00:00:00.000Z"
+    },
+    "reviewTitle": "A great Success!",
+    "reviewText": "I wanted to send a BIG thank you to the property manager and her staff on the level of service provided for my sisters 50th Surprise Birthday celebration. There were a few hiccups in the beginning. However,we were able to manage through them which turned out to be a great success for my sisters day! The location and parking was... More",
+    "reviewerCity": "Charlotte",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice",
+    "reviewText": "I still here periodically whenever I can a good rate with them. It's a nice hotel, the staff is friendly, rates a little steep but I use discounts when available. The breakfast is good and so are the cookies in the lobby.",
+    "reviewerCity": "West Columbia",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay!",
+    "reviewText": "Excellent stay the only thing I did not like was the motion sensor lights would go out if you were not moving around.",
+    "reviewerCity": "West Columbia",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-09T00:00:00.000Z"
+    },
+    "reviewTitle": "I Will Be Back",
+    "reviewText": "Staff was absolutely grand. Kudos to GM.",
+    "reviewerCity": "West Columbia",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Short and comfortable trip",
+    "reviewText": "The hotel was clean the guest services were nice they were friendly they were professional and the breakfast was awesome. I slept well there was no noise there was no whole lot of traffic the room is Orwell painted the bathrooms were clean the hotel was not run down the hotel was not run down I would not mind taking... More",
+    "reviewerCity": "Columbia South Carolina",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Made reservation 5 months ago and they had no room once we arrived!!!",
+    "reviewText": "My boyfriend and I booked a room for this past weekend back in December. We planned to attend the Carolina Rebellion festival. Clearly a lot of people came into town for this because they called me on the day of arrival to explain they overbooked and no room was available. Wth!!!! They told us to call the Drury Inn ourselves... More",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "no attention to detail",
+    "reviewText": "This hotel needs attention to detail. The tv remote was missing from the room, the tub caulk was black and needed recaulking, the soap dish in the shower had months of soap build up, etc. Nothing major, just a complete absence of detail. This is what I would expect if it was a low rate hotel but not for their asking rates.",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Traveling North",
+    "reviewText": "Just stayed one night on our way up north from FL. We got in after midnight after a very long drive. Room was very large and clean. It was right off the highway and convenient for our needs.",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Not nice",
+    "reviewText": "This hotel was not nice- it's old needs updating I had a dead bug on my sheets! My flight was canceled and airline forced me here overnight. The front desk woman was cold and not friendly. The over night shuttle driver was rude - the morning shuttle man was much better. We were put out because of flights canceled so... More",
+    "reviewerCity": "White Lake",
+    "reviewerState": "MI",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Gave Room Away!!",
+    "reviewText": "I made a reservation for a 3 day stay at this hotel over 4 months ago when I bought my Carolina Rebellion tickets. After being at the rebellion for 9 hours, we go to check in and they gave our room away. There was some kind of goverment event going on and they gave our room to them. Then the lady told me they tried to contact me and that was a lie cause hotels.com has all my information. We were very upset that we had tickets for all 3 days and had to drive an hour each way every day cause we had no hotel. Very upset to say the least!!!!!",
+    "reviewerCity": "White Lake",
+    "reviewerState": "MI",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice",
+    "reviewText": "Nice hotel and not far from the University Place area. Free breakfast. Restaurants are very close on the same road as the hotel (McCollough). My only issue is that the Expedia description said that the jacuzzi room had a sofa bed but it doesn't. That's not a big deal, but if my 5 year old would've stayed with us it would've changed things. Again, that's a very minor issue maybe not the hotel's fault. Regardless, it is a very nice hotel and I will stay there again.",
+    "reviewerCity": "White Lake",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient to UNCC",
+    "reviewText": "No toilet paper at all in bathroom, pillows too small for king bed, 4 small square pillows. Staff very nice. They asked to run my card in case of incidental charges, phone, etc. I prepaid so I didn't get receipt at checkout. Got home and saw that they charged 11.95. When I called they said that's the policy and that since I didn't use anything the charge would be reversed. Just would have liked to have known that before.",
+    "reviewerCity": "White Lake",
+    "reviewerState": "MI",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient to UNCC",
+    "reviewText": "Nice place the pool was not indoor. I didn't like the set up .",
+    "reviewerCity": "White Lake",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Convenient to UNCC",
+    "reviewText": "Very happy with stay overall. Staff friendly and attentitive. Grounds keep up and in good location. Only issue was printer not working in computer room.",
+    "reviewerCity": "White Lake",
+    "reviewerState": "MI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and comfortable",
+    "reviewText": "Hotel was very clean and comfortable. Staff was super friendly. Breakfast was great. Complimentary water and cookies in lobby were delicious. Beds were nice. Pool was ok, disappointed there was no hot tub. My only complaint was the noise in my room, it sounded like a loud coffee pot running constantly. Would definitely stay again.",
+    "reviewerCity": "White Lake",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Lady that works nights",
+    "reviewText": "She wouldnt give her name so sorry i dont know it. She was rude. She entered our room without or knowledge or approval. We just happened to walk up on her as she was going in. She called the police on my friends who were just picking me up because i wasnt familiar with the city. She harassed me by... More",
+    "reviewerCity": "Pinehurst",
+    "reviewerState": "NC",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Country Inn is good, however it can be better.",
+    "reviewText": "Hotel is good for everything however there were 4 issues that I faced: 1. The Electrical points aren't at convenient locations. The ones that were there either didn't work or had lose connection. 2. Wifi connection was patchy, inconsistent in the room. 3. The refrigerator given in the room suddenly stopped working, I had stored food/drinks in the same. When reached room in the same day evening, things were spoiled. 4. When I asked the front desk about the problem of Refrigerator, they didn't want to send a replacement Refrigerator or change my room, rather said that we can keep your food in their Kitchen Refrigerator marked with my name. I had express my high level of displeasure to get a replacement refrigerator in the room.",
+    "reviewerCity": "Pinehurst",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Country Inn is good, however it can be better.",
+    "reviewText": "It was a good night, and was quite. Service was very polite and helpful.",
+    "reviewerCity": "Pinehurst",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Advertising lies",
+    "reviewText": "Booked room with two beds got one with one King. Asked for roll away bed as advertised and they no longer have them",
+    "reviewerCity": "Pinehurst",
+    "reviewerState": "NC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Great experience",
+    "reviewText": "Great breakfast which changed each day we were there. Friendly staff. Room was clean and comfortable. Would highly recommend to others. Pet friendly. I was completely satisfied. Don't know what else to say",
+    "reviewerCity": "West Mifflin",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Needs some updating",
+    "reviewText": "The hotel needs some serious upgrading. It is a little to run down for my taste. The bathroom shower and sink had rust stains. The bed was very comfy though. The price and free breakfast are a great value. The coffee is very good. This hotel just needs a little face lift.",
+    "reviewerCity": "West Mifflin",
+    "reviewerState": "PA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Relaxing",
+    "reviewText": "Just a weekend getaway for me and my fiance.It was relaxing and loved the Jacuzzi.",
+    "reviewerCity": "West Mifflin",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great experience for the money",
+    "reviewText": "This is not a 5 star hotel it is a County Inn and Suites but it is a great hotel for the for what we paid. A 5 Star would be far more expensive. However, the hotel exceeded our expectations and offered a great value. Comfortable property with indoor / outdoor pool, decent exercise facility (didn't use either) and offered the ability to go to a local health club as well. Breakfast was included and they had the Coffee and fresh baked cookies available, too. All of the people we who worked there were very friendly and helpful. I would definitely stay here again. Quick access to UNCC Campus and all surrounding area was also a plus.",
+    "reviewerCity": "West Mifflin",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Great experience for the money",
+    "reviewText": "Clean room, no complaints.",
+    "reviewerCity": "West Mifflin",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly staff",
+    "reviewText": "We had to book a hotel last minute for a family emergency. The staff was so friendly and made us feel so welcome. I even left a piece of jewelry after check out and Sabrina at the front desk made sure it was found saved it for me to pick up later. Everyone was so kind and made it an enjoyable stay!",
+    "reviewerCity": "West Mifflin",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly staff",
+    "reviewText": "The staff is very friendly and the breakfast is excellent. The price is reasonable even during college move-in. We stay here on every visit to UNCC and we are never disappointed.",
+    "reviewerCity": "West Mifflin",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly staff",
+    "reviewText": "Very nice and helpful staff.Very good breakfast bar with a changed menu all 3mornings we were there.Far enough off of the main road,so very quiet.Pool was very clean,well kept.I will stay again.Well worth it.Very Pleased",
+    "reviewerCity": "West Mifflin",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and Quiet Hotel",
+    "reviewText": "My only complaint about this hotel is that they close the indoor/outdoor pool after Labor Day which was not in any information that I read prior to my check-in.",
+    "reviewerCity": "West Mifflin",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Va trip stop",
+    "reviewText": "the hotel was nice but they tried to charge our credit card full price so it was rejected it took a long time to fix once we stopped for the night and we had three little ones that wanted to sleep 12:30 am.",
+    "reviewerCity": "West Mifflin",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable",
+    "reviewText": "Comfortable accommodations and friendly, excellent staff. Stayed for two nights and thoroughly enjoyed it. The hot breakfast changed each day and there were plenty of options. Definitely worth another stay the next time in the area.",
+    "reviewerCity": "Florida Panhandle",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant stay with minor glitch",
+    "reviewText": "Check in and check out went smoothly and the staff is professional. One person in our work group, who had made reservations, arrived late due to traffic accidents, had no standard room available for her. The front desk bumped her up to a whirlpool room at no additional charge. :) Free internet....but I had problems connecting from my room at... More",
+    "reviewerCity": "Florida Panhandle",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy Customer!!",
+    "reviewText": "I really enjoyed staying at this Country Inn Suites. It was very clean and had the best customer service I've had in quite a while. The breakfast was very good as well. I will stay at this hotel again when in the area again. Good job!!",
+    "reviewerCity": "Hickory",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice, tucked away from main traffic.",
+    "reviewText": "Stayed one night while completing a cross-country move. Staff were friendly and helpful. The hotel is very well maintained.",
+    "reviewerCity": "Hickory",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de40ab"
+  },
+  "name": "Mirazur Eufaula Inn",
+  "categories": ["Travel \u0026 Leisure", "Hotels", "Lodging", "Motels", "Hotels and Motels", "Eufaula"],
+  "location": {
+    "country": "US",
+    "state": "OK",
+    "city": "Eufaula",
+    "postalCode": "74432",
+    "address": "1300 Birkes Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.59251, 35.30333]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and friendly staff",
+    "reviewText": "This hotel was very clean and offered the best value for the rate. There are only a few hotels in this area to choose from and Mirazur definitely gives more than it needs to. Mirazur has free breakfast, WiFi, a fitness center, and an indoor swimming pool. The hotel was very clean and the room was big and... More",
+    "reviewerCity": "Hemet",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Unfriendly Service",
+    "reviewText": "Had a reservation for this hotel but when I got there was told that I did not, even though I had a written confirmation from hotels.com. The lady was completely rude, essentially called me a liar, and did not apologize once for the dilemma that I was in. I can understand staff not acting well when people treat them rudely,... More",
+    "reviewerCity": "Ardmore",
+    "reviewerState": "OK",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Property, Enjoyable Stay",
+    "reviewText": "We had a good experience at this hotel. The room was clean and comfortable. We were upgraded to a larger queen size room. The man who checked us in was extremely friendly and helpful. The lobby area was clean and inviting. The computer that is provided for the hotel guests to use should be moved away from the breakfast area.",
+    "reviewerCity": "Preston",
+    "reviewerState": "MN",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Best motel in the area",
+    "reviewText": "The motel is located near Lake Eufaula, so lots of water activities are in the area. Rooms were satisfactory. Service was standard. Breakfast was normal for this price range. Best value for the money in this area.",
+    "reviewerCity": "Price",
+    "reviewerState": "UT",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Could use some repairing",
+    "reviewText": "Could be a very nice hotel. They need to have a maintenance person on staff to handle repairs on the weeke ds. TV remote did not work. outlet for hairdryer did not work. Indoor pool was out of service. Direct TV goes out during rain,",
+    "reviewerCity": "Oklahoma City",
+    "reviewerState": "OK",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Over night stay",
+    "reviewText": "Employees friendly helpful. Motel has electrical plugs in the parking lot on each of the lighting poles. I saw several guest using them. Huge fishing tournament was being held the parking amenities really provide what these customers needed. Food was fresh hot the staff handled everything very well.",
+    "reviewerCity": "Oklahoma City",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay",
+    "reviewText": "The lady who checked me in was extremely friendly and helpful. She let me know about restaurants and fast food places near the hotel. The room was clean. The breakfast was good for a hotel breakfast. I would stay at this hotel again if I am in this area.",
+    "reviewerCity": "United States",
+    "reviewerState": "OK",
+    "reviewRating": 5

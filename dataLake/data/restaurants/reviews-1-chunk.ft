@@ -1,0 +1,1000 @@
+      "$date": "2013-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Beliggenhet",
+    "reviewText": "Bra beliggenhet til alt. Drlige senger, drlig stand - kun 2 stjerner, knapt. Mat etter sandard buffet - greit.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de40f4"
+  },
+  "name": "Dockers Inn",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "MO",
+    "city": "Branson",
+    "postalCode": "65616",
+    "address": "3060 Green Mountain Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-93.272004, 36.632772]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Room was nice and clean and bed was very comfortable. On the downside, the volume didn't work on TV and it was too late when we got back to the room to call for assistance. The bathroom door would hang up on commode when opening or closing and you had to really shove it to clear the commode. We don't expect a great breakfast but it did not meet our expectations.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay.",
+    "reviewText": "Went for a relaxing weekend. We've stayed many times at Dockers. Inexpensive, clean, and comfortable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room for the value",
+    "reviewText": "Great room for the value. Only downside was the bed didn't have any blankets, and the place didn't have an elevator. Other than that the room was clean with a little fridge and a nice breakfast.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great room for the value",
+    "reviewText": "The front desk clerk was very friendly at check-in and made suggestions of things to do while we were in towns. The breakfast attendant was also very friendly and spoke to each guest as if she was welcoming us into her home.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend trip..",
+    "reviewText": "We had a great stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend trip..",
+    "reviewText": "Overall, a great stay. Clean room, clean pool, quick check in. Only negative was ac in room only cooled the side of the room closest to the unit. The other half of the room was quite warm.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to action",
+    "reviewText": "Good value",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful stay!",
+    "reviewText": "Had a wonderful stay here! Only thing was the rub was a little dirty, but staff is great. Really good breakfast and the price was great too. Very home. Room was very clean. Loved it! Perfect for a weekend get away.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-02T00:00:00.000Z"
+    },
+    "reviewTitle": "stay at Dockers",
+    "reviewText": "it was okay",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice place",
+    "reviewText": "comfy pillows, great breakfast and hospitality, water was luke warm and wifi went out a few times. I think it was because it was a holiday weekend and they were booked. I'd go back.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-28T00:00:00.000Z"
+    },
+    "reviewTitle": "not too far off 76",
+    "reviewText": "This hotel is not too far off 76 and has a nice outdoor pool that appears to be well maintained. They have a complimentary breakfast with sausage, biscuits, gravy, toast, cereals, bagels, etc. The lady attending it was not especially friendly and seemed irritated with the guests. the room was decent. The toilet and shower room is very small and separate from the sink/vanity. The beds were comfortable enough.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Will definitely book here again.",
+    "reviewText": "Staff was very friendly and helpful. Room was clean, nicely decorated, and the air was very cold.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Happy From Texas",
+    "reviewText": "Very nice hotel. Great staff very friendly. Great breakfast. And close to lots of shopping. Will definitely stay here again!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Branson Getaway",
+    "reviewText": "Staff very courteous and friendly. Free breakfast. Beautiful rooms.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Branson Getaway",
+    "reviewText": "Everything went super---quick check-in and check out. Unit just as expected!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Mini Family Vaca",
+    "reviewText": "For the price, things were pretty good. We would stay again IF they would do something with their water pressure and shower heads. They are the worse I have ever seen. There were several stands in the room that looked like they had not been dusted in months. The breakfast was very good with a nice selection. Check in and staff at front desk were very nice. Overall, it was good until we had to shower.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Really disappointed",
+    "reviewText": "The toilet was gross. Bowl had been scrubbed but who knows the last time the bottom and around the toilet had been cleaned. Sheets had stains on them and the bed skirt was ripped badly and looked terrible. All the furniture just looked tossed in there just because it fit and there was a safe in the room but said, do not use so that seems pointless. There was only a TINY bottle of shampoo plus conditioner and it wasn't enough enough to use for just Myself let alone 4 people. You could tell the room never seems to get a good clean. Just the standard bed change and replenish or towels and few condiments.The customer desk answered a personal phone call on her cell when she was signing us in. I would never stay at this hotel again especially at 135 bucks a night!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Really disappointed",
+    "reviewText": "Great will come back",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "great place to stay",
+    "reviewText": "Dairy Queen Hotel. Comfortable beds. Service was wonderful. Would definitely stay here again if we are in Branson.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great time.",
+    "reviewText": "Great time, everything was very easy and convenient for my wife, our 2 granddaughters and myself. The room was nice,clean,well maintained. Everything including the great breakfast,pool and parking, was easy access and convenient.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Good For The Money",
+    "reviewText": "The room was clean but did not have a phone.It was worth the money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Good For The Money",
+    "reviewText": "Room was clean and beds were comfortable. Hotel is near the strip and has a mini golf course and resturant near by that can be accesses without the crazy strip traffic",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Was just fine overnight.",
+    "reviewText": "In town for a conference, got to room at 10 pm, traffic on the main hiway is awful at that time. This hotel is on the SW side of town. Air conditioner worked well, sheets were clean, coffee and biscuits and gravy were very hot in the am. We left room at 8am. Older hotel, but ok. No smoking a plus.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Was just fine overnight.",
+    "reviewText": "Clean, safe, hotel for a very reasonable price. Not fancy but comfortable and close to the strip. Free breakfast was a nice touch. Breakfast was assorted cereals, toast, bagels, donuts, sausage, biscuits smd gravy, assorted juices coffee.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Mini Vacation for Archers",
+    "reviewText": "Gave a 4 on condition because in bathroom cracked tile was sharp if not careful could hurt your foot had to make sure family watched out for it..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place for the money...",
+    "reviewText": "The pool was closed. This was a disappointment to our family. This was something we looked forward at the end of the day.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Thanks for the stay!!",
+    "reviewText": "This was our second trip in a few months to Branson and after a botched stay at a condo we retreated back to dockers, they were excellent and extremely accommodating to our need to get in quick due to the heat and us having 2 small dogs with us. The sweet girl up front even offered to babysit the dogs... More",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "First and LAST stay!",
+    "reviewText": "Room needs attention. A brush with a broom along the wall is a must and cobweb over bed was unappealing. Broken bottle remained on balcony even after bringing it to attention of the front desk TWICE! Breakfast was decent, and lady fixing it was super nice.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "First and LAST stay!",
+    "reviewText": "The hotel was convenient , clean, and comfortable. The breakfast was a little more than just continental. I would recommend this hotel.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-03T00:00:00.000Z"
+    },
+    "reviewTitle": "First and LAST stay!",
+    "reviewText": "The room lighting was very dim",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable, clean, QUIET hotel.",
+    "reviewText": "Minor cleanliness issues (one dirty towel, soap scum in sink) but otherwise, great place to stay at awesomely low rates! Staff was exceptionally friendly and went out of their way to check on concerns. Definitely made our stay relaxing and enjoyable. Will absolutely stay again!",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Dockers Inn stay July 14-July 19, 2016",
+    "reviewText": "Staff were friendly and accommodating nice breakfast every morning (included with hotel stay) well constructed quite rooms carpets were dirty/grimy in the room we had I'd stay again but try and get a room with newer carpet and pool side. Cleaning crew was good (carpets not their fault.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "GET AWAY",
+    "reviewText": "had a very nice, relaxing 2 day get away. Enjoyed Silver Dollar City and shopping in Branson MO.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Short getaway",
+    "reviewText": "Hotel was great. The only thing that could be changed are the bathrooms. They are a little smaller than most. Hotel is located in a great location.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "A few days hanging out in Branson",
+    "reviewText": "Hotel room was a little dated but beds where good and room was clean. Free breakfast was ok but it was same thing for 4 days. Staff was nice and very helpfull. I Would stay here again.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "A few days hanging out in Branson",
+    "reviewText": "Room was comfortable, but carpeting needs to be cleaned or replaced. Rest of room was very clean.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Another great stay at Dockers Inn",
+    "reviewText": "This is by far one of the cleanest hotels in Branson. Great breakfast, comfortable beds, friendly staff and all at a very good price.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Definitely worth a night stay...",
+    "reviewText": "The best free hot and cold breakfast I've had so far. It was nice that breakfast time was open till 10am. Was able to sleep in a little bit and still be able to enjoy breakfast before hitting the famous Branson strip. Had some very minor issues but management handled it in a very accommodating manner so no need to make a mad review. All in all I can't wait to go back and will definitely see if Dockers Inn has any vacancies.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel at a great rate!",
+    "reviewText": "We looked for a cheap hotel (around 50 a night) with a pool and deluxe breakfast for an end of dummer quick getaway. This was a good choice Expedia. Came down later than we planned due to traffic on the hwy. I called Craig at the desk and let him know- and he was so friendly and Waited for us before locking the lobby door. The room was large, CLEAN,and comfortable. Updated with flat screen microwave AND a refrigerator / freezer combo. Perfect! Breakfast was cereal, French toast, biscuits and gravy, sausage or bagels but no eggs. There was plenty of food and space to eat. The pool is outdoors and had plenty of chairs - open 9 to 11 pm. The water was cool on 100' day but the filter needed to be run -water was a little cloudy. The air conditioner blew cold and stayed cold the whole stay even though it was 100 every day. Overall a great stay ! I would recommend It and stay again on our next trip down in the fall! I only gave facilities an average grade because of the pool. The lobby, parking lot, and common areas were clean and trash free.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Country experience.",
+    "reviewText": "Wonderful experience. Will stay again",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Vacation",
+    "reviewText": "Found it overall very enjoyable",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Good",
+    "reviewText": "Our toilet stopped working in the middle of the night. Things not kept up. Breakfast was good.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again.....",
+    "reviewText": "Absolutely awful... The in-room phones did not work, no wifi access. But thats not the bad unfortunately. All electricity went out at probably 2am. Floors were so gross, I never took my shoes off, air conditioner unit sounded like a wounded animal. Killed two spiders, and a roach. The office was closed, and I just left, to find other accommodations.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again.....",
+    "reviewText": "This is a great hotel for a basic comfortable stay in Branson. Room was clean, beds were comfortable and breakfast was good with a huge variety. We will stay here again!",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and comfortable",
+    "reviewText": "The room was very clean and comfortable. Good location to get around town.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay in Branson",
+    "reviewText": "Good location at a great rate with nice folks, comfortable bed and SUPER clean",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay in Branson",
+    "reviewText": "Amazing",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay in Branson",
+    "reviewText": "The front desk staff was great and friendly during check-in time and check-out. We stayed at this place years ago and really enjoyed our stay. I am not a smoker and this time the outside walkways and parking lot smelled like a smoke pit. The walkways had numerous bucket ashtrays and the parking lot had cigarette butts scattered around. I do not want to smell nasty cigarette smoke that may cause adverse health problems for me, my wife and toddler. I would suggest having designated smoke areas away from the hotel. I was not impressed with our stay this time round, we only were staying here for one night after our weekly resort stay. The breakfast was good with a variety of foods for all to eat. The breakfast hours were great, 7-10.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay in Branson",
+    "reviewText": "Staff was very friendly and accommodating! Very clean and comfortable room!",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "All sales and no service.",
+    "reviewText": "We were promised two room next to each other and we were told yes three times. We were promised rooms on the first floor so my mother-in-law wouldn't have to climb steps. Instead we were given rooms on the second floor which was at ground level, but breakfast was served on the first floor. When we questioned the reservation all we were told was that we tried to accommodate you but couldn't. This was after we were promised three times that we would get rooms next to each other and on the first floor.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Probably won't stay again",
+    "reviewText": "Dirty towels on the back of the bathroom door, otherwise the room was clean. No remote for television. Lady at check-in was rude when I wanted to pay cash instead of charging to the card that I had used to reserve the room. Breakfast: Terrible coffee. Unless you are an oatmeal person, the only real protein was sausage. No eggs or yogurt. Soggy french toast. Other choices were biscuits, plain gravy, dry cereal (milk), juice, apples, toast, cake donuts, bagels. CARB overload.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay",
+    "reviewText": "Great breakfast--french toast! Good price.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Great room great breakfast. We will stay again!",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Our stay was nice. The room was nice and very clean. The staff was very courteous and friendly. Breakfast was very good. We would stay here again.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "Not very good! Manybetter choices in the area!",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "The hotel pictures did not adequately show current conditions of motel. Was disappointed compared to what was shown online.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Stay",
+    "reviewText": "We had no hot water and breakfast ran out of of a lot of foods an hour early.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Get what you pay for.",
+    "reviewText": "Bedroom and bathroom cleanliness was subpar, but the breakfast service was great. Overall, a case of getting what you paid for.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Great time!",
+    "reviewText": "Great room. Clean and very comfortable. Great breakfast",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Fun day in the hills",
+    "reviewText": "Friendly workers and nice warm breakfast",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Aug-16",
+    "reviewText": "Breakfast attendant was great! Very friendly and kept everything stocked.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice quiet hotel with outdoor pool",
+    "reviewText": "Very nice hotel. Comfy beds. Room had a decent size fridge, microwave,coffee pot with plenty of coffee, nice 6 ft swimming pool. Easy check in/ out. Breakfast was good. French toast, donuts, bg, cereal,etc.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly Staff and good breakfast",
+    "reviewText": "Staff was very friendly and breakfast was good. Pool area looked nice and clean. We would stay there again.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice for a good price.",
+    "reviewText": "The very nice and helpful. The lady who did the breakfast room was very nice and friendly. Nice clean room for a reasonable price.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "surprise better than expected",
+    "reviewText": "Good room at good price",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel met our needs completely.  Dog friendly",
+    "reviewText": "All of our needs were met. Friendly, quiet, modestly priced.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place \u0026 great price",
+    "reviewText": "It was a very nice stay for a great price. They went out of their way to be helpful from calling to confirm what time we would be there (to have the room ready) to answering questions about shows, etc. The room was very spacious and had a great full-size microwave and larger apartment-sized fridge. The beds were VERY comfortable. I usually have a hard time sleeping in hotel beds but not this one (firm, but not too firm)! There were some minor cosmetic issues but overall well-kept and clean. Only complaint I could give: there were no eggs with breakfast (important for those with dietary restrictions)",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-04T00:00:00.000Z"
+    },
+    "reviewTitle": "very clean and comfortable beds, super clean linen",
+    "reviewText": "was very comfortable, convenient, and clean. Personal very very helpful and friendly.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "very clean and comfortable beds, super clean linen",
+    "reviewText": "Great,friendly staff. Room was clean and quiet. What more could you ask for",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "By chance",
+    "reviewText": "We stayed in this hotel by chance. We had booked another room at Lodge at the Falls and when we arrived we was told we had been rebooked at Dockers due to the original hotel flooding! Well lucky us! This place is clean. The staff is nice and for 69 a night you can't beat it. Fixing to go try... More",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-22T00:00:00.000Z"
+    },
+    "reviewTitle": "One of my top 2",
+    "reviewText": "Dockers is one of my top two in Branson for consistency. Beds are comfy, staff is friendly and breakfast is beyond adequate with a good variety. The room was less clean than it has been in the past and hotel was in a bit rougher shape. But also know this is nearing the end of tourist season so not surprised. Love the fact it is off the main drag enough that it is quiet.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Enjoyable stay!!",
+    "reviewText": "We enjoyed Dockers Inn, the staff was friendly the breakfast was tasty. Most importantly, the rooms were clean. We didn't use the pool, but it looked nice. The hotel is close enough to the strip to walk, but far enough that you don't have all the busy traffic in front. The beds were very comfortable. It is nothing fancy, but to me cleanliness and comfort are on the top of the list. Great price also.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, comfortable and affordable",
+    "reviewText": "A pleasant surprise beginning with a great check in experience. Older but well maintained and very clean. Staff was friendly and helpful. A comfortable, convenient place to stay at a good price.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "All the comforts of home",
+    "reviewText": "Very relaxing and a Wonderful staff.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Met our needs",
+    "reviewText": "It was a 2-day stay for weekend. The room wasn't anything special, but the beds were clean and nice. The bathroom was very small but clean. The AC was cold but noisy and difficult to adjust temp.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to the strip",
+    "reviewText": "The room was good, staff was nice. Check in and out was quick. The carpet was filthy, when I walked barefoot my feet got dirty. The bed was comfy. I was woke up in the morning by sirens going by. Close to the strip, you can walk to a lot of places.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to the strip",
+    "reviewText": "Hotel is a little worn and dated but clean and comfortable. Slightly overpriced in my opinion , but we stayed last minute on a summer weekend. Beds were comfy and had a larger than normal fridge !",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Not good enough",
+    "reviewText": "The water wasn't hot,the refrigerator was noisy. The water was difficult to turn off.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good stay.",
+    "reviewText": "Bed was comfy. TV was flat screen with lots of channels. No waffles anymore but OK with me. Good stay for the price. Room was attended to every day.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice room other than being forced on the 3rd floor",
+    "reviewText": "Was really great other than cheap rooms are forced on the 3rd floor.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend Getaway",
+    "reviewText": "Nice place for a short stay. Nothing fancy. This was the second time we stayed here for a weekend on the lake. The rooms are beginning to look a little run down but are clean. The staff were all very nice and helpful. The price is reasonable. It's close to everything.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend Getaway",
+    "reviewText": "quite, clean, friendly and easily excessable",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean with a Great Staff",
+    "reviewText": "VERY clean room. Outside door parking very close to room. Good Breakfast with Sausage, Gravy, Pastries, and Fruit. Very clean and well-maintained pool. The manager was so kind and quickly checked us in. He even gave me show recommendations. Really great price in a really great location.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent stay",
+    "reviewText": "Very nice staff, breakfast was great and great location. Would definitely recommend Dockers Inn.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful safe",
+    "reviewText": "Our safe was very nice",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Wonderful safe",
+    "reviewText": "Free breakfast was not as good as it could have been. But over all everything was great, staff were all very pleasant.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Conveinent to all the shows.",
+    "reviewText": "Very nice and comfortable room. Friendly staff.",
+    "reviewerCity": "O'Fallon",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Stayed 3 nights over Memorial Weekend",
+    "reviewText": "We decided to go to Branson on the spur of moment. On the drive there my wife jumped on groupn to find this place for 66.00 a night. They were friendly upon arriving and got a clean comfortable room. The breakfast was French toast, sausage, and biscuit and gravy. Had donuts and bagels. Cold cereals and juices. Close to everything... More",
+    "reviewerCity": "st louis area",
+    "reviewerState": "IL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Not impressed",
+    "reviewText": "This was our first trip to Branson. The hotel is old. Carpet was frayed, chair was saggy, room was damp and musty. Breakfast was gross and not much to pick from. The room was clean, so that was a plus. Would not stay here again, as there seemed to be plenty other places to pick from for the same or better pricing. The location was good, as we were able to walk to some shows and restaurants.",
+    "reviewerCity": "st louis area",
+    "reviewerState": "IL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place for the money!",
+    "reviewText": "This was our second stay at Dockers Inn. We believe this to be a great place for the price. It is very clean and the beds are great. The breakfast in the morning is good also. It is very close to everything we wanted to see. The front desk people both evening and morning were very friendly. We will definitely... More",
+    "reviewerCity": "Lavaca",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Pet friendly without a huge deposit",
+    "reviewText": "very small fee per pet which is totally worth it if you've got your 4 legged furry family member with you.",
+    "reviewerCity": "Lavaca",
+    "reviewerState": "AR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-11-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Would stay again",
+    "reviewText": "Everything from check in to check out went smooth. The location was very good for the shows we had picked. The hot breakfast was a welcome change from a continental breakfast of rolls or doughnuts and coffee.",
+    "reviewerCity": "Lavaca",
+    "reviewerState": "AR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Would stay again",
+    "reviewText": "Good hotel. Bathrooms need updating. Very clean.",
+    "reviewerCity": "Lavaca",
+    "reviewerState": "AR",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel for the budget conscious.",
+    "reviewText": "Comfortable bed and a decent nights sleep. All for a good price.",
+    "reviewerCity": "Lavaca",
+    "reviewerState": "AR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "location very good in the middle of all shows.",
+    "reviewText": "the stay was very comfortable., employees where very helpful in getting tickets to the shows which was very good seats. breakfast was good. Rooms where clean.",
+    "reviewerCity": "Lavaca",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "location very good in the middle of all shows.",
+    "reviewText": "horrible attitudes. not very good. the food was okay, but not good enough to where i'd go back. i don't recommend this place.",
+    "reviewerCity": "Lavaca",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-13T00:00:00.000Z"
+    },
+    "reviewTitle": "location very good in the middle of all shows.",
+    "reviewText": "Clean,quite and attractive room, good location on alternate route: nice breakfast",
+    "reviewerCity": "Lavaca",
+    "reviewerState": "AR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-03T00:00:00.000Z"
+    },

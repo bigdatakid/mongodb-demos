@@ -1,0 +1,100 @@
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbc433d2b44c0de3fbc"
+  },
+  "name": "Osteria Francescana",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "IT",
+    "state": "",
+    "city": "Alliance",
+    "postalCode": "44601",
+    "address": "Taragaon Boudha",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [85.355959, 27.7216]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Location",
+    "reviewText": "The wifi signal was too low Loved The location",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-12T00:00:00.000Z"
+    },
+    "reviewTitle": "The staff were all friendly whether at the 6th floor,...",
+    "reviewText": "None what so ever. The staff were all friendly whether at the 6th floor, Reception Area at the 3rd floor or at the Rox an Italian restaurant especially Mr.Milan who was very friendly courteous.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Lovely place and business as usual.",
+    "reviewText": "Friendly staff in a beautiful setting combined with excellent value for money.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "location",
+    "reviewText": "nil location",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-09T00:00:00.000Z"
+    },
+    "reviewTitle": "it was really enjoyable.",
+    "reviewText": "room cooling, wifi connection slow, certain electronic system old fashioned, laundry atrociously expensive, location, ambience, greenery at property, staff behavior",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel",
+    "reviewText": "The trips arranging lady gave us wrong information and told us the palace is open the next day which wasn't ... We booked a trip based on her information and had to rearrange it with the guide the next day due to that.....the trip it was terrible because of the guide frankly .:. he was talking too much and was just sooo annoying .... The hotel is amazing ... very luxurious and beautiful. The lobby is large and have an area made to look like old nepal with small stupas and status...Very beautiful.. They have a band playing Nepalis classic music... There are three resturants .. Italian, international a cafe for drinks as well as snaks. The service is really nice.. Everyone are extremely friendly. The breakfast is really great with large variety. Love this hotel ....",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Amazing hotel!!!",
+    "reviewText": "Staff was amazing. So cheerful and helpful. I loved the food as well. Room service is quick. For quite a big order took only 30 minutes.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 10
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Friendly efficient staff",
+    "reviewText": "bathroom fittings poorly maintained (not polished, rusty, loose) clean comfortable bed great hot shower great drivers for day tours friendly helpful staff 15 min to airport",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Bedroom view",
+    "reviewText": "Very slow WiFi Bedroom view",

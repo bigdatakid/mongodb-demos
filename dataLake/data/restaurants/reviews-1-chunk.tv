@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and Comfortable",
+    "reviewText": "Small rooms but they were clean and beds were comfortable. Location was great with expressway and shopping nearby. Perfect place for us since we were looking for a clean inexpensive stay on our way to Savannah. Staff were friendly, continental breakfast was small but gave us something to hold us over till lunch. I'd stay here again for a quick... More",
+    "reviewerCity": "Traverse City",
+    "reviewerState": "MI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Good value",
+    "reviewText": "We just stayed here as a last minute booking the night before our cruise. Nothing fancy but it was comfortable and had a decent size flat screen TV on the wall. Elevator and luggage cart came in handy for our heavy luggage. Not a place i would stay for more than one night but i gave it average instead of... More",
+    "reviewerCity": "Monroe",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Getaway",
+    "reviewText": "Hotel was a bit outdated but it was comfortable and close to shopping center and resturants.",
+    "reviewerCity": "Monroe",
+    "reviewerState": "NC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "First night in the States.",
+    "reviewText": "On arrival we checked in quickly and efficiently. The room was comfortable and clean. The decor was a little dated, but OK for one night. The lady on reception was helpful regarding place to eat near by. Breakfast is pretty basic. Toast, bagels, buns aka muffins, fruit, fruit juice, porridge and coffee. No bacon and eggs. Bathroom was clean but... More",
+    "reviewerCity": "Monroe",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-26T00:00:00.000Z"
+    },
+    "reviewTitle": "don't stay here",
+    "reviewText": "the pictures online will completely fool you. this was the smallest, oldest, smelliest hotel room i've ever stayed in. we only picked this place b/c they stated we could take a shuttle from the hotel to the jacksonville port.... what we really had to do was drive our car over to a public parking lot and use THEIR shuttle. that... More",
+    "reviewerCity": "Greenville",
+    "reviewerState": "SC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "don't stay here",
+    "reviewText": "decent airport hotel for the price",
+    "reviewerCity": "Greenville",
+    "reviewerState": "SC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-03T00:00:00.000Z"
+    },
+    "reviewTitle": "don't stay here",
+    "reviewText": "������������. �� �������������� �������� ���������� ��������������. �������������� ��������������. �������������������� ��������������. wi-fi �� �������������� ���������������� ����������",
+    "reviewerCity": "Greenville",
+    "reviewerState": "SC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "More for your money",
+    "reviewText": "The location is very convenient to the airport,highway,shopping,and entertainment. Tons of places to eat right at the door. The price was right.I felt safe and secure. Check in was a breeze. The staff was friendly and helpful. The room was clean and comfortable. I slept like a log,good bed and pillows.I will definitely stay again!",
+    "reviewerCity": "Greenville",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-21T00:00:00.000Z"
+    },
+    "reviewTitle": "More for your money",
+    "reviewText": "Friendly staff, ok for the money. Found bites on my arm/face, turned on light found 3 bed bugs!!!  Manager apologized a lot and refunded part of my money. Reassured it would be taken care of.",
+    "reviewerCity": "Greenville",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "More for your money",
+    "reviewText": "These rooms r very small n this hotel is oldschool... the only good thing is the free wifi.... NO POOL!!!!!!",
+    "reviewerCity": "Greenville",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {

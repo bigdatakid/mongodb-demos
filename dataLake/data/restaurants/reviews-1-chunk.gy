@@ -1,0 +1,1000 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place A Little Noisy",
+    "reviewText": "Spent a night here on a business trip. Superb, friendly staff. Good breakfast. The 3rd floor room has a lot of traffic nose from the nearby I580. There was superimposed on that, occasional noise from nearby rooms' plumbing. Toilet was tall and flushed well. Overall room was quite clean and in good condition.",
+    "reviewerCity": "Dawsonville",
+    "reviewerState": "GA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Possibility",
+    "reviewText": "It was a very nice stay. Will go back in the future.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Cozy, comfortable and Quiet",
+    "reviewText": "Our first time in BB and loved it!! Nice, quiet location. Charming house, converted to BB. Our room Driftwood and the king bed was soooooo cozy and comfortable. Slept like baby. No A/C (not needed as its coastal area)...but, we love sleeping with window wide open, I love that. Very quiet. Never heard single noise or even any cars all night. I would've stayed in bed all day...but had things to do, places to see. Included great breakfast brought to our room in morning. Will be back next year!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "front desk.",
+    "reviewText": "We got the best service ever from the elderly man in the desk.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect for business travel",
+    "reviewText": "Convenient, clean, safe, friendly, nicely priced and was well located for my purposes.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to the freeway.",
+    "reviewText": "Nice solid hotel. Close to the freeway which is great. Not far from the Livermore outlets and downtown Livermore.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Guys Car Show",
+    "reviewText": "Went to Livermore for the Good Guys car show. Wanted a place close and convenient as well as inexpensive. This hotel met all of my requirements on-line and was just as pleasing during my stay",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice comfortable place",
+    "reviewText": "Pleasant. No restaurants nearby. Not much nearby at all. Just more motels.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfort Inn Livermore",
+    "reviewText": "Overrall stay was nice. Enjoyed the free breaksfast and wifi. Nice pool area. I was on first floor and people above me were heavy footed. Seemed liked they kept walking back and forth.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable, nothing fancy.",
+    "reviewText": "I stay at this hotel every time I visit Livermore - about 2-3 times a year. It's clean, has reasonable breakfast (I don't want full b-fast) and is a pretty good room for the price.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Convient to stay",
+    "reviewText": "Nice place to stay. Quiet, modern, clean. Good rooms",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok",
+    "reviewText": "Ok",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Value",
+    "reviewText": "A little dated, but clean and quiet nonetheless.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Very comfortable place to stay!!",
+    "reviewText": "We enjoyed our stay very much. Just a quick weekend getaway, but the Comfort Inn was very comfortable, and had everything we needed. We enjoyed the large selection of breakfast items, and we had in-room coffee, as much as we wanted!",
+    "reviewerCity": "Meridian",
+    "reviewerState": "ID",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Very comfortable place to stay!!",
+    "reviewText": "It was a nice stay, the facilities were clean, the staff friendly, and the bed was comfortable. For the price you pay, you get a good room and amenities. Good for the price you are paying. I would stay there again, especially if they had like a frequent flier kind of deal they did.",
+    "reviewerCity": "Meridian",
+    "reviewerState": "ID",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Better to be north of 580",
+    "reviewText": "Staff was more than accomdating, room was clean price was great considering the price of surrounding hotels. I know they are higher end hotels but if you want to feel like you are valued they do a great job and you walk away with money in your pocket.",
+    "reviewerCity": "Meridian",
+    "reviewerState": "ID",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean \u0026 comfortable",
+    "reviewText": "The hotel is conveniently located, quiet and comfortable. A reasonable value if you are staying in the area.",
+    "reviewerCity": "Meridian",
+    "reviewerState": "ID",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean \u0026 comfortable",
+    "reviewText": "Or room was clean, the bed was comfortable, there was a refrigerator, nice working TV, and the parking was easy and well light. The kids enjoyed the pool and the included breakfast had many options. For the price and nice service, we needed a late check out, I would stay here again.",
+    "reviewerCity": "Meridian",
+    "reviewerState": "ID",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Good overnight stay",
+    "reviewText": "We just needed a clean and comfortable room for 10 hours. This filled the bill. The only downside was a weak wifi signal in room 214, which was not a problem because of the brevity of our stay, but would have been had we been there longer.",
+    "reviewerCity": "Sacramento",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Good overnight stay",
+    "reviewText": "Hotel was a little bit stinky.",
+    "reviewerCity": "Sacramento",
+    "reviewerState": "CA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to winery \u0026 Bocce ball",
+    "reviewText": "Easy to find, right next door to Costco. Quick check in / check out. Friendly, helpful staff. Clean room. good basic, continental breakfast. Short taxi ride to wineries.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel very comfy",
+    "reviewText": "Nice and helpfull staff and a enjoy-bull breacfast.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "great",
+    "reviewText": "The hotel and staff were wonderful, the only thing I would like to warn future hotel goers about is....if you are a light sleeper, be careful not to be placed on the second floor that faces the freeway -- traffic runs all night long I happen to be a very light sleeper. The staff was great, the room very clean and comfortable, the morning breakfast food was very good, plenty of different things to choose from:)",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-01-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect",
+    "reviewText": "Close to where my meeting was being held. And close to the freeway offramp. Very Clean.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect",
+    "reviewText": "Nice staff, clean, convenient...good breakfast.....we intend to return.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "Extra clean, extra polite, extra nice",
+    "reviewText": "It was very nice to find this place trying just a little bit harder in every way. The staff were kind and engaging, the lobby and rooms were extra clean, the breakfast was put together with some care, and in every way it just felt like the owners and staff wanted to make things as pleasant as possible. I stay in countless hotels in countless cities and have almost never written a review, much less for a typical Comfort Inn in a technology park...but these guys out-classed most of the fancy expensive places and deserve applause and lots of customers.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-24T00:00:00.000Z"
+    },
+    "reviewTitle": "shopping get away",
+    "reviewText": "The front desk is always helpful. They always accomodate any request I may have. I can always get a good night's rest.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Guys Car Show",
+    "reviewText": "Super quiet and right off 580",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Great hotel location and staff was super!!",
+    "reviewText": "Was meeting up with old/new friends and needed a room for the night and was super happy with Comfort Inn. The first time I've stayed at one and was not disappointed. Staff was great and so was the room. Thank you",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Very Nice!",
+    "reviewText": "Was in the area on business and this was a great place to spend the night. Comfortable room. Polite staff. Really good breakfast included! Eggs, Sausage, Toast, Waffles, Yogurt, Fresh Fruit....",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasantly surprised!",
+    "reviewText": "Very happy with our stay! Easy, courteous, 24 hour check-in. The e-mail confirmation let me know there was no need for a last minute re-confirmation by me. The clean rooms had super comfortable beds we had TWO queens in the same room, which is hard to find. Rooms had everything you could need-fridge, microwave, iron + board, hair dryer. The breakfast had a full assortment of food items- everything from eggs sausage to oatmeal yoghurt waffles. They had a nice fitness room with 4 different aerobic machines a circuit weight machine-- also cold water with cups work-out towels available. It would be nice if hotels would provide a pair of scissors in the desk and an extension cord or more (accessible) outlets for all the chargers. This hotel was very close to Tassajara Estate where we went to a wedding. I would stay at any Comfort Inn if they are all like this one!",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-18T00:00:00.000Z"
+    },
+    "reviewTitle": "get away",
+    "reviewText": "I can't complain. I've stayed here before and they are always so nice accommodating.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Business Hotel",
+    "reviewText": "This is a good business hotel with all the amenities you would expect.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice comfortable place",
+    "reviewText": "Even though the hotel is near the freeway, the room was quiet and comfortable. The bed was smaller than expected, and the air in the room was rather stale on entry. The check-in - check-out staff was very friendly. Will stay here again.",
+    "reviewerCity": "Topeka",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location away from the hustle and bustle.",
+    "reviewText": "The Comfort Inn Livermore provided a perfect location for our resent business trip to the San Francisco Bay Area. In addition to a great location the service was wonderful, the room was very clean. The hot breakfast made for a great start to our busy day, When returning to this area, we will definitely choose to stay at this property.",
+    "reviewerCity": "Meridian",
+    "reviewerState": "ID",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Very conveniently located.",
+    "reviewText": "Wonderful full free breakfast. Great little dining area. Very pleasant place to saty.",
+    "reviewerCity": "Meridian",
+    "reviewerState": "ID",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Always a nice place to stay",
+    "reviewText": "The room was ready when we got there and was very clean. Easy to get to and near shopping and coffee locations. Perfect for a weekend getaway.",
+    "reviewerCity": "Sacramento",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-09-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Good overnight stay",
+    "reviewText": "Very pleasant atmosphere....very convenient location and a good breakfast",
+    "reviewerCity": "Sacramento",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay!!!",
+    "reviewText": "This was our first time staying at the Comfort Inn in Livermore..I would highly recommend it. My husband and I enjoyed our stay, the room was clean and the bed was comfortable. The breakfast was delicious, and their Staff was friendly and very accommodating...Great rate and wonderful and quiet area....",
+    "reviewerCity": "Texas",
+    "reviewerState": "CA",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4135"
+  },
+  "name": "Comfort Inn",
+  "categories": ["Hotels \u0026 Motels", "Family-Friendly Hotels", "Tourist Hotels", "Budget Hotels", "Lodging", "Business Hotels"],
+  "location": {
+    "country": "US",
+    "state": "KS",
+    "city": "Dodge City",
+    "postalCode": "67801",
+    "address": "2000 W Wyatt Earp Blvd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-100.040634, 37.754002]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Budget-conscious travelers enjoy a free, daily continental breakfast and newspaper at this worldwide chain famous for comfort. In ShortSince 1981, leisure and business travelers have enjoyed gracious service and comfortable accommodations at budget-friendly prices. Standing behind its 100 percent guest satisfaction guarantee, the property offers customers a full refund if any problem cannot be resolved. Rooms include a 25-inch TV with premium channels, in-room coffee and comfortable work space. Guests looking for an exercise fix can get their adrenaline pumping in the pool or exercise room (select locations feature both).",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4136"
+  },
+  "name": "Mirazur Luxury Inn",
+  "categories": ["Hotels \u0026 Motels", "Family-Friendly Hotels", "Budget Hotels", "Lodging", "Business Hotels", "Hotel"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Tracy",
+    "postalCode": "95376",
+    "address": "811 W Clover Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-121.435165, 37.761502]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2010-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Never Stay Here",
+    "reviewText": "I stayed at the Mirazur Luxury Hotel on November 4, 2010. I lodged a complaint about broken furniture that might have caused me an injury. The owner implied that perhaps I broke the furniture. It was a sofa bed in the front room of the suite. I was charged 120.00 for the suite. When I checked in, I was told there was wet bar. When I got in the room, there was nothing, but an empty refrigerator and cabinets, which is not the definition of a hotel wet bar. When I sat on the bed, ...view morethe frame broke. When I tried to get out, it broke again. My roommate had to come and help me get out of thebed. Then the bed could not be put back in the couch. I have had a hip replacement. Sitting on that sofa bed with a broken frame that fell in could have caused damage to my hip. And, that was not all the curtains in the room were too short to cover the entire window so there was light in the room all night. The last straw was that the room had a hair dryer that would not stay on while in use. I had to hold the on button to use the dryer, which made it totally useless. Our stay was not a good experience. I have stayed in Mirazur Hotels all over the US and never used one with this many problems. When I asked for a reduction in my charge, I was given only a 20, instead of a no charge for the room. I would not have been so disgruntled had the owner, Sarah Patel, given me a free night, but she did not. The hotel furniture was dangerous, did not have the wet bar that it promised, and did not have appropriate window coverings. Sarah Patel, owner of the establishment, provided (1) poor services, (2) unsafe equipment and (3) inoperable appliances. Her business tarnishes the image of Mirazur Hotel International and the city of Tracy.view less",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Kudos",
+    "reviewText": "This Mirazur is just the place to go to get away! The staff is so helpful and friendly. And good breakfasts too! I LOVE making my own waffels! The rooms are very, very comfortable. Better than my own bedroom! Thanks Tracy Mirazur.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Kudos",
+    "reviewText": "Budget hotel offers standard amenities and low rates to road-weary travelers. In ShortSince 1946, this Phoenix, Ariz.-based hotel chain has provided guests with comfortable accommodations. Its BestRequests program offers 16 of the most frequently requested services and amenities, including complimentary in-room tea/coffeemakers, hair dryers, iron and ironing boards, free local calls less than 30 minutes and long-distance access. Complimentary toiletries, like toothpaste, razors and sewing kits, are also available upon request. Business travelers will enjoy the computer data ports in each room and photocopying services.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4137"
+  },
+  "name": "Budget Inn",
+  "categories": ["Travel and Tourism", "Hotels", "Budget Hotels", "Hotels \u0026 Motels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "DC",
+    "city": "Owensboro",
+    "postalCode": "42303",
+    "address": "316 E 3rd St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-87.107953, 37.773652]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-03T00:00:00.000Z"
+    },
+    "reviewTitle": "BEDBUGS!!!!",
+    "reviewText": "Was working out of town had stayed at the BUdget Inn in room 134. After a week I started to notice red, itchy bumps on my arms, legs, and neck!! With further inspection I found bed bugs. I told the front desk and they said they did not have any bed bugs. They changed my room but would not refund... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Rude",
+    "reviewText": "The staff seems nice at first. I had noticed my refrigerator was unplugged and ask someone if it was okay. They said to just plug it back in and it would work just fine. I did that, and then in the morning I woke up to 20 worth of spoiled food. I told them this and they were very rude... More",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-10-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Rude",
+    "reviewText": "Editorial Review by Citysearch Editors Economy lodging features smoking and nonsmoking rooms with a hair dryer, coffeemaker, an iron and cable TV pets allowed.",
+    "reviewerCity": "Saint Louis",
+    "reviewerState": "MO",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4138"
+  },
+  "name": "Gaggan",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "San Francisco",
+    "postalCode": "94102",
+    "address": "216 Eddy St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-122.41122, 37.784122]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de4139"
+  },
+  "name": "Eleven Madison Park",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "San Francisco",
+    "postalCode": "94104",
+    "address": "222 Sansome St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-122.40091, 37.792336]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2006-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great view but not on par with the competition",
+    "reviewText": "We recently spent the weekend at the SF Mandarin Oriental. While the view and room were very nice the room service, food, and overall experience was not on par with other 5 star locations like the Ritz Carlton or St. Regis. If there were a rating for room service food I would have to give it a 1 star. I've had better food at low end hotels. The front desk staff was cordial but cold. We actually had to dig at them to ... view moreget details on the package we purchased for our stay. If all you're looking for is view and quiet, this is your place. If however you want the total 5 star experience you're better off going to the Ritz Carlton in SF or Half Moon Bay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de413a"
+  },
+  "name": "Chelsea Inn",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "San Francisco",
+    "postalCode": "94123",
+    "address": "2095 Lombard St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-122.436031, 37.799801]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-30T00:00:00.000Z"
+    },
+    "reviewTitle": "GREAT VALUE AND UNBEATABLE LOCATION",
+    "reviewText": "We just stayed here for 3 nights after a 28 day cruise and couldn't have made a better choice. The room was large the bed very comfortable the bathroom updated new large screen television fast wi-fi and great staff. We did have a first floor room on Lombard and there was street noise but relatively quiet at night. San Francisco... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Substandard, but decent location",
+    "reviewText": "Hotel staff was cold. They answered our questions curtly and seemed to want us out of the office as quickly as possible. The beds were extremely uncomfortable and the decor is old...not charming, simply old and worn. On the Saturday night of our stay there was so much noise outside we could hardly sleep. Sunday night was quieter, but we still had a hard time sleeping because we couldn't get comfortable in the beds! The internet was spotty at best. The positives for this hotel are the garage parking which is included with your stay and the location. There are lots of restaurants just a block away, you can easily walk toward the water for a great view of the bridge, Fisherman's Wharf is walkable as is the zig-zag section of Lombard Street...if you are in good shape and enjoy mountain climbing. LOL! The walk isn't actually that hard and it's all part of the San Francisco experience. This hotel could be a gem with some customer service training for the staff, new beds and an updated decor. It could easily be changed into an adorable, comfy place to stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice and good price",
+    "reviewText": "Good location to catch Big Bus. Very clean and best was free parking. Not best neighborhood down Filmore, but did not feel threatened. Post Office half block away or you can send mail from front desk. A little noisy, but turned on fan and after about 11pm not much noise.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Bedbugs!!!!!!",
+    "reviewText": "We have used the Chelsea for frequent stays over the past 11 years ago. Frankly it has been a bit sketchy at times but the location and free parking the the Chestnut Neighborhood USED to make up for the foibles. However, this last stay I got no fewer than 25 bites from Bedbugs. When I mentioned this to the manager... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-09T00:00:00.000Z"
+    },
+    "reviewTitle": "No Bikes Allowed",
+    "reviewText": "Checking in we informed the desk that my race bike had been stolen the morning we arrived and would need to rent a bike for my triathlon that weekend. Told that no bikes were allowed in the rooms. The main purpose of this trip was to race the Escape from Alcatraz Triathlon and this hotel is close to the venue.... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Not great",
+    "reviewText": "Stains on carpet were unseemly. Bed made me itch. Free parking was good though.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Fine if you can stand the noise",
+    "reviewText": "Hotel is right on HWY 101, so traffic rumbling all night. Noisy place so bring ear plugs!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Noisy Neighborhood",
+    "reviewText": "We chose this hotel as we had a good experience at same place a few years ago. Former stay was not on a weekend. The neighborhood street and bar across the street was very noisy Friday and Saturday night. We came to do the Avon 39 walk and had a early wake-up time. The noise went on to at least 3 am. Hotel and amenities are good. The street noise makes it undesirable location. Sorry, but we will not return.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-02-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Noisy Neighborhood",
+    "reviewText": "Room 308 \u0026 314 are the best in the Hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Just all right",
+    "reviewText": "There were three big black marks on carpet. Felt creepy and awkward. At least it didn't look like blood spots. And getting into the room, I must try three times to open. The location of the Inn was convenient for shopping, dining or visiting some points of interests. So made my mind to stay two nights in room number 203.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "Not clean enough. Staff is not service oriented. Would not stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Rooms are a bit dated.",
+    "reviewText": "Rooms are a bit dated, however very large and clean. Staff fixed up the room every day and restocked everything. Great location, near great dining choices. Would recommed to anyone.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Good choice with free parking, I'm glad we stayed here instead of choices at Wharf or Union Square",
+    "reviewText": "Very large room with central air so no need to worry about noise from street. The Marina district is a very good location to tour SF. We walked to the bay and over to the Wharf, picked up the trolley and made it all around without too much effort. This is a good choice if you don't want to spend... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Reasonable hotel",
+    "reviewText": "Stopped here for four nights. Good location for Fishermans Wharfe area. You can either walk if feeling energetic or it's easy to catch a bus. The Big Bus Hoho stops outside so that's a plus. Lots of options for places to eat nearby. Had breakfast at Bay Watch cafe nearby a couple of times-reasonable price, quick service, food not bad.... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Pretty nice hotel",
+    "reviewText": "The hotel staff was very friendly. The rooms were well kept. The prices were decent, not great, and the neighborhood was so so. Some good food in the area, but there's an extremely noisy bar directly next to the hotel. No options for room service, and the pillows were pretty uncomfortable. They do offer one free parking space for your vehicle, which is unusual for San Francisco. All and all, I might stay there again, but there are better options.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Wifi, slow and unstable. Rooms near street, load.",
+    "reviewText": "Wifi, slow and unstable. Rooms near the streets are loud and noisy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location, but needs updated",
+    "reviewText": "Windows were very thin and being on the 2nd floor, you could still hear everything outside. Made for difficult sleeping if you are a light sleeper.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable room.",
+    "reviewText": "Wife and I stayed one night. The room was clean and comfortable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Weekend in San Francisco",
+    "reviewText": "Room was clean and bedding was comfortable. The air unit did not work and front desk was advised. I would assume that since it was a weekend it wasn't able to be fixed. Location was convenient although there is a club across the street that becomes very loud in the evening. Close to several good restaurants and is within walking... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Older hotel that has been updated.",
+    "reviewText": "On third floor and elevator was broken for the first day of our stay. Maid service seemed to forget to do something each day: no clean towels, beds not made, no tea bags/coffee replaced. Quite accommodating to us for early check-in.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel",
+    "reviewText": "Lots of stains on carpeting. Loud people outside all night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice centrally located hotel",
+    "reviewText": "Hotel and staff were excellent but the only thing I didn't like is that it was too noisy windows are not insulated. Felt like I was sleeping on the streets.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "comfortable, basic, but very noisy",
+    "reviewText": "The motel is basic but overall nice. The only major problem is that the rooms on Lombard are very noisy. After one night with almost no sleep we asked to move, and luckily there was a room on the 2nd floor that was quieter.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Looked fresh and new, but oh the NOISE!!",
+    "reviewText": "Looks like they remodeled the place since my last visit several years ago. Great free parking, nice room overall with everything you need and clean and fresh. Of course facing Lombard you'll have road noise from the busy street, but do not NEVER EVER get a room on the Fillmore side. There is a tiny country bar across the street... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Just ok",
+    "reviewText": "Pro: free parking (yay!!!!) Nice big room with bay window Friendly staff Con: room was across the street from a bar Windows do not block out any sound so be prepared to not sleep well Street is busy and loud with cars honking all night (again see note about windows) In need of a DEEP clean. Baseboards and edge of... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great stay",
+    "reviewText": "We stayed here for 2 nights in June 2015 before driving up the coast of California Oregon. The building is older but the accommodations were great, room was clean and everything worked fine. It sits on a corner and it can get quite loud. Mohammed (at the front desk) was nice enough to get us a room that faced... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Room was nice. Old AC unit and no Fridge in room.",
+    "reviewText": "the room was very clean. staff was very good. very willing to give us info about the area. places to eat and how far we were from the pier and all the attractions on the pier. The only thing missing was a fridge. we did not ask but I think if you are going to pay over 200 per night the room should have all the comforts of home. we will more then likely try more places within that price range to see if we can find anything better.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-16T00:00:00.000Z"
+    },
+    "reviewTitle": "There are pros and cons of this place though",
+    "reviewText": "Felt safe for myself and car. Good location. Front desk was great",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Near plenty of restaurants, shops, and parking is included!",
+    "reviewText": "Stayed 3 nights. We loved that the parking was included. The staff was pleasant. The room was large and clean. The location of the hotel is one block south of Chestnut st. Plenty of restaurants and shop near by. Lombard crooked street is also walking distance. However, it is an uphill direction, if you are not use to hiking I... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Near plenty of restaurants, shops, and parking is included!",
+    "reviewText": "It was really nice and comfortable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location and free parking!",
+    "reviewText": "This was a nice little motor inn with friendly and helpful staff. The room was a nice size for being right in the heart of San Francisco, the price was reasonable, and it was very clean. As a great bonus, there was free parking if you got there early and we felt very safe leaving our car there. The hotel... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "A good place to stay",
+    "reviewText": "Comfortable, free parking is a huge plus! We had a corner unit and the street noise was a bit loud but quieted down in the late evening.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Very nice abs quaint hotel. Good breakfast.",
+    "reviewText": "Great room and comfy bed. Be aware that there is no AC, but it was cool enough to leave the windows open. There was a portable fan.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Happiness",
+    "reviewText": "Great room and location! 2nd time in 6 months we stayed at your hotel and we will be back! Thank u",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-02-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Happiness",
+    "reviewText": "They start loading trucks in the alley at 3AM. Super loud and annoying! Avoid if you sleep light.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-23T00:00:00.000Z"
+    },
+    "reviewTitle": "perfect location",
+    "reviewText": "Great time. Perfect location. Close to all tourist attractions. You can see the golden gate bridge from room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "perfect location",
+    "reviewText": "Thought it was a real nice place for the price, plenty of basic things to do within walking distance of hotel. Would stay there again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-05T00:00:00.000Z"
+    },
+    "reviewTitle": "A Little Gem!",
+    "reviewText": "When we were looking for somewhere to stay in San Francisco, we initially wanted to stay either in Fisherman's Wharf or Union Square area, but it was crazy expensive. So I looked at some motels and came across Chelsea Motor Inn. Price was reasonable and initially when we were looking at getting a car there is free parking, so quite... More",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "A Little Gem!",
+    "reviewText": "We arrived early, before 4pm check in. asked if we could check in early. Was told room would be ready 1pm. Returned 3 and room still not ready. Mentioned to hotel and they said we were early, THEN WHY TELL US IT WOULD BE READY AROUND 1PM Just say NO early check in! I would definitely stay again. Located near shopping, restaurants, public transportation. Very nice place.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "A Little Gem!",
+    "reviewText": "Nice place to stay while in San Francisco. Free parking is a plus, location is close to fisherman so wharf, lots of local restaurant nearby",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Chelsea Motor Inn - well located \u0026 good pricing",
+    "reviewText": "Been coming to the Chelsea for over 30 years and it is located in the marina district so is very convenient to everything in that area. Not fancy but well maintained.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 7
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Classy little hotel in San Fran",

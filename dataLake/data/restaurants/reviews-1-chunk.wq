@@ -1,0 +1,100 @@
+    "reviewText": "Budget hotel offers standard amenities and low rates to road-weary travelers. In ShortSince 1946, this Phoenix, Ariz.-based hotel chain has provided guests with comfortable accommodations. Its BestRequests program offers 16 of the most frequently requested services and amenities, including complimentary in-room tea/coffeemakers, hair dryers, iron and ironing boards, free local calls less than 30 minutes and long-distance access. Complimentary toiletries, like toothpaste, razors and sewing kits, are also available upon request. Business travelers will enjoy the computer data ports in each room and photocopying services.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de400a"
+  },
+  "name": "Days Inn \u0026 Suites Vicksburg",
+  "categories": ["Hotels \u0026 Motels", "travel"],
+  "location": {
+    "country": "US",
+    "state": "MS",
+    "city": "Vicksburg",
+    "postalCode": "39180",
+    "address": "4216 Washington St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-90.899151, 32.313601]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "A lodging staple for budget-minded road-trippers and business travelers. In ShortSince the Ramada brand made its debut in 1954 in Flagstaff, Ariz., the hotel franchise has been offering dependable accommodations with budget-wise perks. Families appreciate the kids-stay-free policy for children 17 and under staying with their parents. Other amenities usually include a swimming pool, full-service restaurant, lounge, in-room data ports and voice mail. Group rates--for wedding parties, corporate groups or family reunions--are available for parties requiring 10 or more rooms per night.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de400b"
+  },
+  "name": "La Posada Lodge \u0026 Casitas, An Ascend Hotel Collection Member",
+  "categories": ["Luxury Hotels", "Hotels", "Resorts Reservations", "Hotels \u0026 Motels", "Honeymoon Resorts"],
+  "location": {
+    "country": "US",
+    "state": "AZ",
+    "city": "Tucson",
+    "postalCode": "85704",
+    "address": "5900 N Oracle Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-110.977477, 32.31373]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-11-03T03:39:44.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "HORRIBLE!!! DO NOT STAY HERE!! The front desk staff and hotel management is disorganized and unprofessional. We had our wedding ceremony here and when family called to check in, the front desk had no idea what they were talking about. In the end, I had to book some of the rooms myself for family, and \"no rooms were booked under the wedding party name\" as the front fesk informed me. They double booked the bride and grooms rooms. They quoted us one rate and changed it when we checked out. When we talked to the management about it, he accused us of making up rates and offered us an insulting $10 off our rooms after we (bride and groom) had spent over $1400 there in two days, not counting the 10+ rooms booked for at least two nights each by friends and family.On a health and cleanliness note, we went to use the jacuzzi tub and brown, slimy stuff came out of the jets when we turned them on, a clear sign of an inproperly cleaned tub.BAD GUEST SERVICE!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2007-11-03T03:39:44.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 0
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de400c"
+  },
+  "name": "Staybridge Suites Tyler University Area",
+  "categories": ["Extended Stay", "Family-Friendly Hotels", "Budget Hotels", "Hotels \u0026 Motels", "Business Hotels", "Beach Hotels", "Lodging", "Weekend Getaway Hotels", "Tourist Hotels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Tyler",
+    "postalCode": "75701-6029",
+    "address": "2759 Mcdonald Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-95.265008, 32.322578]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent",
+    "reviewText": "Can't wait to stay with Staybridge on our next trip through Texas. Me and my family we're so pleased with the hospitality of the staff and our joining rooms were very clean. We couldn't have asked for a better experience. We will definitely be staying with Staybridge in the future. I recommended anyone needing a place to stay in Tyler... More",
+    "reviewerCity": "Flower Mound",
+    "reviewerState": "TX",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-21T00:00:00.000Z"

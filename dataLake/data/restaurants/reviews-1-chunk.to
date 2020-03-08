@@ -1,0 +1,100 @@
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "no Wifi, no space in lobby",
+    "reviewText": "Great place for a late overnight stop on our way to Savannah",
+    "reviewerCity": "Wexford",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Best Bang for your Buck!",
+    "reviewText": "When travelling from Maryland to Florida, we always stay at the Jacksonville Plaza Hotel. The rooms are not large, but well designed and have all the necessary amenities at a great value! The beds are very comfortable and we luv the pillows - actually looked at the tag, found the brand and bought some for use at home. The hotel is in a good neighborhood, with more expensive hotels. Close to lots of restaurants, shopping and the airport.",
+    "reviewerCity": "Wexford",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "terrible",
+    "reviewText": "had bed bugs and reimbursed the wrong person",
+    "reviewerCity": "Wexford",
+    "reviewerState": "FL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Nope",
+    "reviewText": "Booked our room months ago. Requested confirmation but never received. Called back, couldn't find reservation. Oh groan... Reservation eventually found. Reservation was on wrong date :( They wanted to charge more money then originally agreed.. Transportation is provided from airport and to cruise port. We walked approximately one mile to area Walmart and nicer restaurants. Walk easily to Waffle House... More",
+    "reviewerCity": "Wexford",
+    "reviewerState": "FL",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-31T00:00:00.000Z"
+    },
+    "reviewTitle": "They did it again!",
+    "reviewText": "After having a bad experience with a hotel I booked through CHOICE HOTELS, Jacksonville Plaza Hotel made up for it. All I can say is THANK YOU! THANK YOU! THANK YOU! We drove 4 hrs to Jacksonville and waited another 2 1/2 hrs at Quality Inn Airport Rd only to be told they don't take cash. I was disappointed and... More",
+    "reviewerCity": "aiken sc",
+    "reviewerState": "FL",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "A decent place to crash from a late fight.",
+    "reviewText": "I booked this hotel because of its good price, decent reviews and close proximity to the airport. The place is pretty easy to find as it is just off the main highway. Despite being near both airport and highway, the hotel was pretty quiet. The room was small but clean. The breakfast included was very modest, basically fruit, pastries, coffee... More",
+    "reviewerCity": "Coram",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad customer service!",
+    "reviewText": "My only complaint is that the people the check in desk charged the wrong card couldnt reverse the charges. Maybe they should train their staff on the software.",
+    "reviewerCity": "Coram",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Bad customer service!",
+    "reviewText": "Pleasant 1 night stay. Close to where we were going.",
+    "reviewerCity": "Coram",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Good accommodations for the money",
+    "reviewText": "This hotel is located close to the airport and provides free shuttle to and from the airport on a 24 hour basis. The room was clean and tidy and offered the basics. We were here for just one night and the staff were friendly and accommodating. The hotel offers a complimentary breakfast but our early flight departure time did not... More",
+    "reviewerCity": "Dartmouth",
+    "reviewerState": "NY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok for under $60 a night",
+    "reviewText": "The wifi was horrible. Not enough towels. The breakfast was a running joke each morning.",
+    "reviewerCity": "Dartmouth",
+    "reviewerState": "NY",
+    "reviewRating": 3
+  }, {

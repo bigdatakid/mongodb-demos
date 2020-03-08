@@ -1,0 +1,100 @@
+    "reviewDate": {
+      "$date": "2016-03-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel in French quarter",
+    "reviewText": "A good stay close to everything in the French quarter.",
+    "reviewerCity": "Enid",
+    "reviewerState": "OK",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel in French quarter",
+    "reviewText": "It was I really nice stay. Staff was fantastic!",
+    "reviewerCity": "Enid",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-14T00:00:00.000Z"
+    },
+    "reviewTitle": "BestWestern is the best place to stay in NOLA",
+    "reviewText": "This location in NOLA is excellent, safe, clean with great staff and services. Close enough to everything in the French Quarters and far enough away that you can get a good night's rest. NOLA tours will pick up and drop you off at the hotel.",
+    "reviewerCity": "Enid",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Excellent hotel and close to the French Quarter!",
+    "reviewText": "Nice room with all the amenities. Just blocks from the Quarter. St. Ann street is the best option for a walk to the Quarter and is well lit at night. A hot, continental breakfast was available. All family members found something they liked. Courtyard was beautiful and very peaceful to soak up the atmosphere of New Orleans.",
+    "reviewerCity": "New Orleans",
+    "reviewerState": "OK",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-15T00:00:00.000Z"
+    },
+    "reviewTitle": "A Gem",
+    "reviewText": "A find, located near the periphery of the Quarter, away from the hustle bustle yet walkable. I will stay here again and highly recommend the property to others. The staff is beyond courteous, they go out of their way to make your stay pleasurable.",
+    "reviewerCity": "Philadelphia",
+    "reviewerState": "PA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Value for the Pric",
+    "reviewText": "I have stayed multiple times because of the free breakfast (saves quite a bit of money) and the affordable rates. Book early and you can save a ton of money. I saved over 400 dollars booking 6 months out.",
+    "reviewerCity": "Cincinnati",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice room",
+    "reviewText": "Hotel was nice. But had a problem with the plumbing. Sink didn't drain and when it did the water would come up in the shower. But besides that people were very nice and helpful.",
+    "reviewerCity": "Cincinnati",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice room",
+    "reviewText": "The parking was horrible.Not enough places for guests to park was very limited.The parking was so tight that you could almost hit the poles near you.Terrible.The breakfast was good.",
+    "reviewerCity": "Cincinnati",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place for the price",
+    "reviewText": "Nice staff, very helpful and friendly. Robert at the front desk was great in directing us to the right places and keeping us on track. The rooms are clean well maintained and quiet. The courtyard is wonderful . All in all a nice place and only 5 short block from bourbon st.",
+    "reviewerCity": "Portland",
+    "reviewerState": "OR",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Blocks from the party but perfectly quiet to sleep",
+    "reviewText": "Despite checking in late, the staff that greeted us were absolutely wonderful. We had a fantastic trip and it was so amazing not having to worry about where we were staying. The location was perfect for going out, and right around the corner was an amazing restaurant called Eat New Orleans. The room was clean and just a few short blocks from Bourbon and Royale streets. Fantastic time, can't wait to come again!",
+    "reviewerCity": "Portland",
+    "reviewerState": "OR",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",

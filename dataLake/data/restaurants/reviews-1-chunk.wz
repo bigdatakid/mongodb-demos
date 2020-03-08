@@ -1,0 +1,100 @@
+    "reviewText": "No complaints. Older room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de400e"
+  },
+  "name": "La Quinta Inn and Suites Meridian",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "MS",
+    "city": "Meridian",
+    "postalCode": "39301",
+    "address": "1400 Roebuck Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-88.691659, 32.350392]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-13T00:00:00.000Z"
+    },
+    "reviewTitle": "what was that smell but all was well",
+    "reviewText": "the first room got had a smell to it not sure what it was but they quickly gave us another room and all was well.staff was very friendly and we would stay again",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-27T00:00:00.000Z"
+    },
+    "reviewTitle": "worst hotel ive ever stayed",
+    "reviewText": "room was dirty, sheets where dirty on the pull out bed. Any time we would go in the bathroom and use it, the entire room can smell your business.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst place I have ever (attempted) to stay!",
+    "reviewText": "The most horrible smell was in this room. The bed was incredibly old and worn out. My skin was crawling just being in it, and I ended up paying 120 to stay across the street. Stay away from this wretched place.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst place I have ever (attempted) to stay!",
+    "reviewText": "housekeeping had not cleaned under desk in a long time. left a note about it.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Worst place I have ever (attempted) to stay!",
+    "reviewText": "It was a stopover on our way home from a long trip. Nice facility, great price, very clean, friendly staff. Had a good nights rest before heading on road again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean and Comfortable enjoyed my stay",
+    "reviewText": "The room was comfortable and clean. We stayed overnight just passing through going to visit family in another state. Slept well and that was the main reason for the stay. Thank you for that.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick and Easy",
+    "reviewText": "Quincy is the best front desk person!! Late night booking and arrival but all was well. It is an older property but clean and great for travel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick and Easy",
+    "reviewText": "Good hotel.The only problem I had was that I reserved a smoking room,had confirmation,and when I checked in I was told they had no more and that I would have to go outside and smoke,which would not of been a problem if I didn't have confirmation and if it hadn't rained all weekend",
+    "reviewerCity": "",

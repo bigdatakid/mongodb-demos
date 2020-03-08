@@ -1,0 +1,100 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Fair",
+    "reviewText": "The pictures online did in fact match the actual room. The staff allowed us to view the room before purchasing. The room was clean but warm upon arrival. The air conditioner worked great. The beds weren't the most comfortable but doable. I was pleased.",
+    "reviewerCity": "Muskogee",
+    "reviewerState": "OK",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-23T00:00:00.000Z"
+    },
+    "reviewTitle": "great way to start a 3 wk road trip",
+    "reviewText": "every aspect of our one-night stay here was superb. cannot say enough about how helpful and attentive the young man at the desk was (Veon). we got an easy-going vibe from staff and Manager (Tammy), but everything was in order, not an easy task.",
+    "reviewerCity": "Pensacola",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-11T00:00:00.000Z"
+    },
+    "reviewTitle": "DO NOT STAY HERE!!!!",
+    "reviewText": "This was one of the worst hotels I have ever stayed in. The hotel itself wasn't too terrible but the service was horrendous. The bathroom had a musty odor but was tolerable. I notice one evening, there was a very distinct smell in the hall that, I would guess, was marijuana. Our first night there, it was hard to get... More",
+    "reviewerCity": "Shreveport",
+    "reviewerState": "LA",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Not For Me.",
+    "reviewText": "As I checked into this hotel I discovered that I accidently booked two rooms whereas I only needed one. I got a bit of a dismissive attitude from the young clerk, so I came back later to address the issue. The over booking was apparently my accident, but I think a large corporation could have reimbursed my money and... More",
+    "reviewerCity": "Fort Worth",
+    "reviewerState": "TX",
+    "reviewRating": 2
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4014"
+  },
+  "name": "Sleep Inn",
+  "categories": ["Hotels", "Motels", "Conference Centers", "Corporate Lodging", "Lodging", "Trade Shows Expositions \u0026 Fairs"],
+  "location": {
+    "country": "US",
+    "state": "AL",
+    "city": "Millbrook",
+    "postalCode": "36054",
+    "address": "2295 Cobbs Ford Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-86.38375, 32.46026]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "great accommodations friendly staff",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-20T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "very clean, friendly staff and it has free wifi",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4015"
+  },
+  "name": "Plantation Inn",
+  "categories": ["Bed \u0026 Breakfast \u0026 Inns", "Hotels", "Motels", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "CT",
+    "city": "Shreveport",
+    "postalCode": "71109",
+    "address": "4901 Greenwood Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-93.82771, 32.47119]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewTitle": "",
+    "reviewText": "",
+    "reviewerCity": "",
+    "reviewerState": "",

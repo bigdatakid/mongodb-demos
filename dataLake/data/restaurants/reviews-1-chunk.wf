@@ -1,0 +1,100 @@
+    "$oid": "5cf9dcbd433d2b44c0de4005"
+  },
+  "name": "Quality Inn",
+  "categories": ["Corporate Lodging", "Hotels", "Hotels \u0026 Motels", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "TX",
+    "city": "Carthage",
+    "postalCode": "75633",
+    "address": "2332 Se Loop",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-94.32443, 32.14769]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-22T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Nice hotel breakfast not bad...",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2008-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Budget hotel offers standard amenities and low rates to road-weary travelers. In ShortSince 1946, this Phoenix, Ariz.-based hotel chain has provided guests with comfortable accommodations. Its BestRequests program offers 16 of the most frequently requested services and amenities, including complimentary in-room tea/coffeemakers, hair dryers, iron and ironing boards, free local calls less than 30 minutes and long-distance access. Complimentary toiletries, like toothpaste, razors and sewing kits, are also available upon request. Business travelers will enjoy the computer data ports in each room and photocopying services.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4006"
+  },
+  "name": "Residence Inn By Marriott Tucson Williams Centre",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "AZ",
+    "city": "Tucson",
+    "postalCode": "85711",
+    "address": "5400 E Williams Cir",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-110.8769, 32.220226]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-21T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very clean and super nice!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Great staff, convenient location, comfortable.",
+    "reviewText": "The staff here is the best part. They are so helpful and cheery. The breakfast was wonderful, i wish I had the stomach to eat everything that was offered. Great stay! Upstairs can be a bit noisy, heard footsteps all night. Also, the bathtub's anti-slip strips have worn away, so the bathtub was quite a bit scary slippery....",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place!",
+    "reviewText": "The front desk staff went truly above and beyond. They helped me get a specific room with a great view. Everything was perfect. We couldn't have asked for a better room, stay, or all around experience!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place!",
+    "reviewText": "The front desk staff went truly above and beyond. They helped me get a specific room with a great view. Everything was perfect. We couldn't have asked for a better room, stay, or all around experience!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "convenient location for our trip close to boneyard",
+    "reviewText": "We enjoyed our stay especially the social that evening---free BBQue. The staff are all very friendly and helpful. It seems their attitude is we're here to make your stay as pleasant as possible. We will definetly stay at this hotel again.",
+    "reviewerCity": "",
+    "reviewerState": "",

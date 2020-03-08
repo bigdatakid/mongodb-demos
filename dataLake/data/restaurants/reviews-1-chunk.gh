@@ -1,0 +1,1000 @@
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Simple Clean",
+    "reviewText": "My husband and I stayed at the Four Seasons for one night with several other couples. The woman who checked us in was very cool towards members of our group and it set an unwelcome tone to our stay. I had been told what to expect at this little inn so I wasn't thinking it would be your typical bed... More",
+    "reviewerCity": "Fairfax",
+    "reviewerState": "VA",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Graduation for Bavel visit",
+    "reviewText": "We are staying here at this moment for graduation of my daughter. I read all the reviews online so I was a little anxious to see if the one negative one was true. I was completely surprised at this place. It is well maintained and very nice. Fresh paint and looks very good for a family to stay. I would... More",
+    "reviewerCity": "Williamstown",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-05-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice room, cheap breakfast",
+    "reviewText": "We had a really nice room with a large bathroom. The outside area was nice but the busy road made sitting outside less enjoyable. Not much close by and the staff person on duty could not recommend much. Breakfast was all prepackaged food and not a very good variety. Our room was next to the laundry room which appeared to... More",
+    "reviewerCity": "Virginia Beach",
+    "reviewerState": "KY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2009-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic Place to Stay",
+    "reviewText": "We really enjoyed our stay at the Four Seasons. This is a very nice, quaint, quiet place to stay. The rooms were very clean and they had a nice continential breakfast which was more then enough to fill us up. The staff was very nice and courteous. They made our stay wonderful. We also enjoyed the area. We would highly... More",
+    "reviewerCity": "Houston",
+    "reviewerState": "KY",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant Stay",
+    "reviewText": "Almost like a BB in terms of ambiance. Location was ideal for our visit, very clean and neat facility. I would without hesitation stay here again. Waited too long to reserve, got one of the last rooms available. Only thing I would do differently is stay on the second floor. Had a loud family above our first floor room, which... More",
+    "reviewerCity": "Lima",
+    "reviewerState": "KY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Honeymoon Getaway",
+    "reviewText": "This was a nice hotel/inn to stay at on our honeymoon. We received an excellent rate for the honeymoon suite. We had a couple of issues with our room that we brought to the front desk persons attention the first morning and they were addressed that day while we were gone. The breakfast selection needs some updating. All carb related... More",
+    "reviewerCity": "Lansing",
+    "reviewerState": "MI",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-09-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Relaxing Place to Stay",
+    "reviewText": "We certainly enjoyed our stay here while in Kentucky. It's away from any hustle and bustle and reminded us of our country life in Oklahoma. The rooms were a good size and clean. From the time we arrived the staff was very friendly and helpful. They had a good continental breakfast that was filling and you could sit on the... More",
+    "reviewerCity": "Oklahoma",
+    "reviewerState": "MI",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de410b"
+  },
+  "name": "Fireside Inn Santa Cruz",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "CA",
+    "city": "Santa Cruz",
+    "postalCode": "95060",
+    "address": "311 2nd St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-122.021465, 36.965324]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Acceptable but dingy",
+    "reviewText": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 6
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Terrible",
+    "reviewText": "Terrible! Old and dirty. Ugh had to sleep there because no vacancies. Not one good thing about it. The price was ridiculous. Bad!!!!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Pubic hairs in tub!",
+    "reviewText": "Please don't stay here. We ignored bad reviews and were lured by the proximity to the boardwalk. Now worth it. There were pubic hairs in the tub. The office reeked of incense. The party in front of us had the same number of people and the person working described the room as the Sam as ours and they paid 30 less than us. In addition to small, dark curly hairS in the tub, it didn't drain and was just scuzzy. There was a dowel in the window-not sure if it waddle security or what but it made us all uncomfortable. There are weird boxes on the walls for temperature control. Just yuck over all.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Disappointing Overnight",
+    "reviewText": "Arrived to some confusion about billing. Once my credit card was processed, I was told the carpet in the room was wet from a recent leak. I felt this should have been discussed before I was charged. We came upstairs to look at the room. The doors had been left open, and there were flies hanging out. The manager brought dry towels to put down on the floor. He said it was almost dry. He kept changing his story about the origin of the water. First it was from the toilet, then the tub, and finally the sink. He also was unclear if it was caused by a guest or housekeeping. I asked if there were another room available. He said the motel was booked. The room smelled musty. The furnishings were dated and damaged. They were positioned so close the the bed, it was hard to move around the room. I found a clothing price tag stuck to the bedspread. The towels were dingy. Overall, the room was a hodge podge, from the wall mount fan to the electric wall heater substituting for the broken gas unit. I read some reviews that indicated the motel wasn't great, but perfect for an overnight stay due the it's proximity to the boardwalk. Based on my experience, I can't even recommend it for that purpose. Stay a little farther away, and enjoy a slightly longer walk to the beach.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Old, run-down joke of a hotel.",
+    "reviewText": "We needed separate beds and the room we were assigned was one King and one 'sofa bed' The sofa was about 4 feet wide and was super wobbly to the touch. When turned into a bed it was about 5 inches thick and you could feel every spring. only one sheet was provided, and it wasn't even a sheet, but one of those heavier fuzzy blankets hotel sometimes use between sheets and comforter. For the cost of the hotel we were extremely disappointed, and spent a long amount of time considering whether we lose the money and just get another hotel or suffer for the night. We decided to suffer. Everything is old and dirty in the room, the bathroom wall was patched over and paint was dripping down across the baseboards. The bathtub was slow to drain so we had to shower in a couple inches of water. There was no hair dryer provided.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Beware",
+    "reviewText": "We have stayed in many places with Hotels.com and by far this was no where near our expectations from previous stays. First off, for the price we paid at 286.00 per night ( on sale ) you would expect at the very least a half decent room. The place was dirty outside and inside the room. The bath room and shower was filthy with dirt and dusty. The we were itching all night and could not get any rest because we felt things crawling and biting. Very disappointing to say the least.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the money.",
+    "reviewText": "The room was oaky, but I will never stay there again. The too had no air conditioning and the bathroom was from the 70's. In the morning we were woken up by the recycling dealer dumping cans.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Pubic hairs in tub!",
+    "reviewText": "Please don't stay here. We ignored bad reviews and were lured by the proximity to the boardwalk. Now worth it. There were pubic hairs in the tub. The office reeked of incense. The party in front of us had the same number of people and the person working described the room as the Sam as ours and they paid 30 less than us. In addition to small, dark curly hairS in the tub, it didn't drain and was just scuzzy. There was a dowel in the window-not sure if it waddle security or what but it made us all uncomfortable. There are weird boxes on the walls for temperature control. Just yuck over all.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Gross and sketchy",
+    "reviewText": "Really gross and run down and smells like urine",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Pay A Little Extra!",
+    "reviewText": "Hotel is a bit beat up. Locals renting rooms, did not feel safe with my 11 year old. Close to the Boardwalk, but I would walk a little further and pay a little more to stay somewhere a bit nicer. Front desk clerk was nice enough and hotel was clean, just not a good spot for families.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Limited options",
+    "reviewText": "The paint look fresh but it look like children painted . In the bathroom there was already a used towel hanging on the back of the door . The front office was full of clutter in disarray . There was no remote for the television and the pillows were so shallow they might as will not be there .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Uhhhh, it's okay",
+    "reviewText": "The best thing about the hotel is the location. The room was clean but bathroom is in great need of refurbishing. The walls had black marks on them and need either a really good cleaning or fresh coat of paint. The shower tiles have been painted and the paint is peeling on the windowsill so you could see the original color. The staff was very friendly and it is an old hotel but okay if you just need a place to sleep and shower.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to the Boardwalk",
+    "reviewText": "We took a trip to the Santa Cruz Boardwalk. The hotel is very close - within walking distance of the Boardwalk, which is great. The hotel itself is very old and basically a teardown. Although the room was clean, it's one of those places that gives me the creepie-crawlies.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "close to boardwalk but yuck",
+    "reviewText": "Smelled bad bathroom fixtures rusty and dirty cheap sheets dirty around the base of beds. On the plus side, there were no bugs! Location is good for boardwalk.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Flash back to 1955",
+    "reviewText": "paid 200. for a Sat night. this is 3 steps down from a motel 6. Will not return.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Okay room, but not for the price",
+    "reviewText": "Check in was fine, bed was clean, bathroom was clean. However the rest of the room was very outdated and heavily textured walls seemed very dirty. Walls were paper thin and we heard the neighbor snore all night. Location is great.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Alright.",
+    "reviewText": "Pleasant but not what not really worth the price. Oh well, though! The woman working at the front desk is very kind.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Will go back if under $120.00/night",
+    "reviewText": "Good, fair price: noisy --plumbing trouble",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Older motel has the best price and location.",
+    "reviewText": "Location, location, location. That's what this place is about. Nice of them to allow us to park starting at Noon before check-in at 3pm. Older motel. Some peeling paint on bathroom ceiling. Free wifi a plus. Good water pressure and plenty of hot water to shower after a dip in the freezing Pacific. Literally across the street from Boardwalk Bowl. Just a few steps to sand, surf and delish restaurants on the pier.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Last minute getaway!",
+    "reviewText": "Stay was good...last minute. Was pricey for one night, yet a three day weekend, would never pay that again. No breakfast, couldn't get coffee till 8:30am. The TV wouldn't come in with color...tried everything could think of. Overall great location, nothing fancy. Served the purpose. Front desk folks very nice and place was clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location but not very clean",
+    "reviewText": "Great location. Staff was friendly. Room not very clean feeling or looking.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Great location. 1 block from the beach. Extremely dated. Shower did not work. No frills, expensive, no coffee in room.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Fireside Inn",
+    "reviewText": "the hotel was in a great location the staff was very helpful friendly. Rooms were comfortable but small. I stayed for two nights but would stay any longer then that because, there was no pool very little space when you have kids. Overall I'd stay again without the kids.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent Place to Sleep, Very Close to the Boardwalk",
+    "reviewText": "Decent Place to Sleep, Very Close to the Boardwalk",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Uhhhh, it's okay",
+    "reviewText": "Older motel with terrible parking, room was dark dingy. Fine for the 8 hour sleep we stayed but we will spend the extra money next time to stay somewhere else.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Last minute booking",
+    "reviewText": "We needed a room to stay in at the beach boardwalk last minute and found the Fireside Inn. Being a last minute booking and on a Friday night the price was very reasonable. The staff was helpful and friendly. In the room itself, the bath towels were rough and scratchy and there was a cigarette burn in the comforter on the bed.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "good location",
+    "reviewText": "The owners are very nice, and the location was great. The parking lot is challenging because of the hill, but it's nice being so close to the beach. It's not that fancy, but it's about the location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Old motel right near the boardwalk and the beach",
+    "reviewText": "We were just getting back to the motel, when the manager started a conversation that led to him driving my wife and I to go whale watching from a beautiful coastal part of Santa Cruz we didn't know existed. Personal customer service doesn't get any better. Also, the room, though not fancy, had all of the essentials and they all worked find. The least expensive room we have ever had in northern California. Great value and management.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Fireside",
+    "reviewText": "Great location! 4 Beach and Boardwalk and amenities but they charged me when I booked and not when I checked in like the booking info said they would",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Flash back to 1955",
+    "reviewText": "We just wanted to see one of the bands that was playing friday night. For location I dont think you can beat this place. It literally is about 3 min walk to the board walk and you can set up and watch the show eat on the board walk and then walk back to your room. Pretty much awsome not to mention you can just leave your car parked at the hotel. So that in itself made the stay worth it. The hotel itself or should I say motel is pretty much straight out of 1955 with a couple of updates. Room was so so it was for the most part clean however just very old, reminded me more of my college dorm room. But for the price and location I would for sure stay here again if I was going to the boardwalk. If I wanted to spend a weekend in Santa Cruz though id probably look elsewhere for lodging. Id say overall experience was good though and the room had AC.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Closest you can get to boardwalk, comfortable",
+    "reviewText": "We stayed there for a couple getaway. The hotel has free parking and is literally less than a block from the boardwalk. Parking is 16 near the boardwalk so I really liked I didnt have to worry about that. The room was comfortable but dated. There was a nice new TV and the bed seemed like it might be new but the paint was coming off the walls and the shower had little water pressure. Staff was friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great value and excellent service",
+    "reviewText": "Not fancy but good bargain and service. Just a 2 minute walk to the Beach Boardwalk and much less expensive.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location",
+    "reviewText": "Clean, very basic, no frills -- rooms are very dated and rough around the edges. BUT the beds are comfortable. Towels and toilet paper are like sandpaper. Management was nice and helpful. They could do a lot better if they just took it up a notch and improved simple things. Only one car per room for parking -- which was an unpleasant surprise since a bunch of us got a family suite to share before the Wharf to Wharf race. Overall it was serviceable for our needs and we were mere blocks from the boardwalk and start line but I certainly wouldn't want to stay here if I were on a holiday. But it was great to have one king and two queen beds -- that's grad to find.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent for Santa Cruz",
+    "reviewText": "So, I am rating this based off of affordable hotels is Santa Cruz. If you want to be close to the boardwalk and the wharf this is a decent place to stay for under 200. I am pretty particular when I stay at a hotel, my favorite is holiday inn express or Mirazur plus. I totally lower my expectations when I stay in Santa Cruz because I want to walk everywhere. We really only shower and sleep in the room. It has heating and air which is nice. I was happy it had a microwave and refrigerator, which my Mirazur plus in Santa Barbara a day earlier did not.(Hard with a baby) It has free parking, just make sure your parking brake works properly! The bed was actually very, very comfortable. It's Santa Cruz, all the hotels are old and dingy unless you spring for a 500+ hotel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Fireside by the boardwalk, worth the stay.",
+    "reviewText": "The hotel staff was friendly and prompt with the reservation. He knew who I was upon arrival and was prepared with the Hotel.com quote. The hotel room was great size for the price, the beds were comfortable, one king/one full. The bedding seemed not the cleanest and the room seemed slightly run down with paint peeling slightly. It was a great room for staying the night and hanging out at the beach, right across for the beach with parking included with the stay. So much to see and do, didn't use anything in the room TV, Phone, etc. good place to crash in between hanging out at the beach.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Not worth the money.",
+    "reviewText": "Allowed pets.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Slightly more comfortable than expected",
+    "reviewText": "I was a bit turned off by the motel at first - the other visitors and room condition left a lot to be desired. Considering this was the cheapest place in town things could have been much worse, and the room was surprisingly comfortable (though we spent little time in it).",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Good Night on the Boardwalk",
+    "reviewText": "The room was pricey but that's to be expected for a Friday night in July right on the Boardwalk in Santa Cruz. Location is great of course, the room was clean and comfortable. I asked the staff member for a good view and he was able to give us a room with a view of the ocean / amusement park.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great beach area",
+    "reviewText": "Was great location",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Very good location",
+    "reviewText": "Location is about as good as it gets within the walking distance to the bowling alley and boardwalk. Arrive early to get the best parking space at the motel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Acceptable but dingy",
+    "reviewText": "I think the hotel could use some remodeling...it was acceptable, but dingy.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Cute",
+    "reviewText": "The motel was cute. Great location",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Very close to the Boardwalk",
+    "reviewText": "I really liked the lady who checked me in. She was cheerful and answered all my questions. The Boardwalk traffic was congested that night so she had her hands full with a non-stop stream of customers, and still took care of me without impatience or fluster. The place is NOT pet friendly. My room was simple and clean. It took awhile for me to learn how to use the air conditioning, but it worked great when it came on. The only minus was that the parking lot can get full and cramped quickly, and so you easily hear the people outside. It is about a two-minute walk from the Boardwalk. I could easily see the rides outside my window.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-25T00:00:00.000Z"
+    },
+    "reviewTitle": "The price is right",
+    "reviewText": "Nothing fancy here just a clean room with a comfortable bed that is 2 short blocks from the Santa Cruz Boardwalk. Our second time here. With rates getting higher in this area, this is a pretty reasonable place. Its on a hill (so park with your E brake on!) and thus affords a bit of a view.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-23T00:00:00.000Z"
+    },
+    "reviewTitle": "Will go back if under $120.00/night",
+    "reviewText": "Everything was fine inside the room except the bed as it stuck out a bit too far and we kept hitting a corner of the bed support with our feet.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Fantastic 4 day weekend!",
+    "reviewText": "Went for 3 nights and enjoyed each and every day!! Our room was small but fit us 4 just fine! View was amazing of the boardwalk and was fantastic to watch the busy traffic trying to find parking yet we had front row parking!!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Pleasant Stay",
+    "reviewText": "Overall was a pleaseant stay.. Parking is tight .Got a door ding which was very unpleasant..Coffee offered in office but nothing else ..",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, close and within budget.",
+    "reviewText": "Location was great. One block to boardwalk. Rooms were perfect for our family. Clean, freshly painted and comfortable. Not luxurious but fine for our family. Could use some new plumbing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice location. Walk to the boardwalk.",
+    "reviewText": "Nice location. Parking was a little snug. A lot of traffic noise but late at night you can hear the waves crashing and sea lions. Room was small but clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Uhhhh, it's okay",
+    "reviewText": "Old kind of funky hotel but in an amazing location just a minute from the beach and Boardwalk. It's kind of broken down but the staff were able to adapt by providing new heaters that they let us use in the rooms. Also, when we got there they gave us the option to take one big family double room instead of two separate rooms and that saved us 40/night.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Uhhhh, it's okay",
+    "reviewText": "Great location. Motel is dated but a great price and was better than I anticipated. Location is close to everything. Owners where great. So seedy looking people roaming around but it's prime location for homeless and they never bothered me or my family. Great affordable Motel.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect for a night or two",
+    "reviewText": "Pro- location You can see the rides from the room and the hotel is just a quick block away from the boardwalk and beach Very friendly and helpful staff Early check in if room is available Don't have to pay for parking Con- dud not have fitted sheets on the mattress, only flat sheets were used which slides around and you end up on the mattress itself No coffee maker in room No extra blankets or sheets for the pull out couch It would be great if they had a package deal like some of the other motels",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Last minute booking",
+    "reviewText": "Within walking distance to the boardwalk and right by a trolley stop for downtown. The parking is terrible because it is on a hill but it's free and you don't have to deal with parking around town then. It is basic, no breakfast included, and like everything there, pricy but the room was comfortable, clean, and quiet.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Loved it",
+    "reviewText": "The hotel was great it was so close to the boardwalk we saved money on parking. We just left out car at the hotel and enjoyed the beach, bowling alley and the boardwalk. The hotel staff were very friendly gave us so much info on the area since our daughter will be going to UCSC in the fall",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Fireside Inn-Great Location",
+    "reviewText": "The location is the best part. You are walking distance from the boardwalk, so you can leave your car and just walk around. I would suggest asking for a room upstairs, so that your room isn't facing the parking lot. The hosts are very nice and can provide you with information. We had an deliciouslunch at the Picnic Basket restaurant. I would definitely stay here again and recommend.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Closest you can get to boardwalk, comfortable",
+    "reviewText": "Great location, a little dated",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location. Average hotel.",
+    "reviewText": "This hotel was booked only for its location. You can't beat a hotel directly across the street from a theme park. The room was a good size and was clean. It looked like they just got new furniture and fixtures. The bathroom was a little outdated and dingy but was clean. I have nothing spectacular to say about the hotel, but also nothing awful to say. I'd probably stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to the boardwalk.",
+    "reviewText": "Older hotel shows signs of wear and tear. So close to the boardwalk you can see it, smell it, and hear it. Great location for fun at the beach.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Close to beach and Boardwalk",
+    "reviewText": "Overall was close to everything. Will definitely book again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Cute motel",
+    "reviewText": "The Fireside Inn is a great little place adjacent to the Boardwalk Bowl. You can't beat the location. We found the room (a mini suite) to be very much like its title - pretty small so not a lot of room to put baggage. We were hoping for a kitchenette but there was a mini fridge and microwave. The room was short on amenities (no soap or shampoo in the bathroom) but all the necessities were functional. Staff was super helpful and kind. A little overpriced but all of Santa Cruz is overpriced during the summer so definitely comparable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice very, close to the beach and boardwalk",
+    "reviewText": "It was great, so nice to be able to be outside and see the ocean and boardwalk",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Good bed \u0026 excellent location",
+    "reviewText": "LOCATION! Very close to the Boardwalk. Excellent bed. No coffee maker or hairdryer. No breakfast. Did have a refrigerator microwave. Overpriced at 180/night, but it was Friday of Labor Day weekend, and they are so close to the beach, they can charge anything. Good place to stay if you can afford it and want to walk to the beach.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-11T00:00:00.000Z"
+    },
+    "reviewTitle": "NICE PLACE TO STAY",
+    "reviewText": "GREAT PLACE TO STAY,JUST 1 BLOCK FROM SANTA CRUZ BOARDWALK, BEACH AND PIER.FRIENDLY STAFF.SAVE MONEY ON PARKING FEES. SLOW WIFI CONNECTION THOUGH.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Great",
+    "reviewText": "Friendly staff nice old school motel",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Fireside Inn Great Place",
+    "reviewText": "It was awesome",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-22T00:00:00.000Z"
+    },
+    "reviewTitle": "The best",
+    "reviewText": "The stuff was get. We were right next the the pier and the price was amazing.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Fireside by the beach",
+    "reviewText": "Excellent price.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-01-04T00:00:00.000Z"
+    },
+    "reviewTitle": "WHAT IT IS ADVERTISED TO BE",
+    "reviewText": "This is the second time I've stayed at the FI. This stay, I was there for six nights. The FI, is what it is advertised to be. Basic, clean, safe and comfortable. Extremely close to the beach (one of the closest hotels to the beach). The staff have always been good and attentive. I have no complaints and when I need or want to stay in Santa Cruz, this will be my home away from home until.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice getaway",
+    "reviewText": "They lady at the front was so nice she let us check in early told us where the food and shopping was ... And was really nice!! The hotel/motel is a block and a half from the beach and the boardwalk!! Parking was right at my door which made it cool. The man that checked us out was super cool even though they have a huge sign that states you can't park after checking out he gave me a hour to explore the boardwalk before heading back home ... Overall I will definitely come back!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-10-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Very happy with our stay and will return",
+    "reviewText": "Very close to board walk",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Perfect location reasonable prices",
+    "reviewText": "Now this isn't a5* hotel whatsoever. .but the location is perfect ( less that a5 min walk to boardwalk) the staff is really friendly. .I've stayed 2 separate times and will definitely try them 1st on my next trip out there",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de410c"
+  },
+  "name": "Comfort Inn",
+  "categories": ["Hotels And Motels", "Lodging"],
+  "location": {
+    "country": "US",
+    "state": "DC",
+    "city": "Glasgow",
+    "postalCode": "42141",
+    "address": "210 Calvary Dr",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-85.9343, 36.985054]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Glad we chose this hotel",
+    "reviewText": "We recently visited Mammoth Cave. We chose to stay here becasue a lot of the places near the cave were either sold out, too expensive, or not very nice. It was about 20 away from the national park. The area was very nice, a lot nicer than Cave City area. There was a lot of restaurants and stores (our favorite... More",
+    "reviewerCity": "Independence",
+    "reviewerState": "KY",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Thanks for the tip",
+    "reviewText": "The desk clerk suggested A Little Taste of Texas Caf for dinner. We tried it and were very pleasantly pleased! Thanks for the suggestion. We found our room to be very clean and the beds were comfortable. We did find a bug on one bed and a couple crawling on the ceiling. My wife wasn't pleased with that!",
+    "reviewerCity": "Corry",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Motel with good business accomodations",
+    "reviewText": "I stayed at Comfort Inn while in town for business. The motel offered everything that I needed for an enjoyable stay. The motel offers exterior corridor room access, smoking and non-smoking rooms, clean basic swimming pool, ample parking, and great proximity to 5-6 nearby restaurants. The rooms offered flat-panel TVs, free wifi, comfortable bedding, microfridge, coffee maker, safe, work desk,... More",
+    "reviewerCity": "Indianapolis",
+    "reviewerState": "PA",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Desk staff was friendly but rooms are old and very worn",
+    "reviewText": "I was there for a week on business so I wasn't looking for plush but I didn't feel comfortable walking on the carpet without socks on. The mattress was very hard and resulted in constant pain from pinched nerve in my hip. The front desk staff was very helpful and nice, though, and when I checked out, there was not... More",
+    "reviewerCity": "Roseville",
+    "reviewerState": "IL",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay.",
+    "reviewText": "We had to travel to Glasgow on a last minute basis and booked the Comfort Inn. Staff was nice and the hotel was accommodating for a decent place to stay. Would recommend for the small amount of places to stay. Bed was comfortable and the bathroom was above average in size, but we did have a handicapped room (not requested).... More",
+    "reviewerCity": "Johnson City",
+    "reviewerState": "TN",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Customer Service",
+    "reviewText": "I had nice stay here this week, the room was older but clean, the bed was great, the pillows were fantastic, and the pool area was inviting. What made this stay extra special was the warmth and friendliness of the staff. Pat was there when I checked in and made me feel very welcome....like she was truely glad I was... More",
+    "reviewerCity": "St Charles",
+    "reviewerState": "TN",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-29T00:00:00.000Z"
+    },
+    "reviewTitle": "Filthy and Smells",
+    "reviewText": "Room was disgusting. Dirty and had strong chemical odor. We were supposed to stay two nights but left after one. Front desk could have cared less. Would not recommend. Did not feel safe. Police were here in the evening about a fight between two individuals. Noisy all night.",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Really nice place to stay",
+    "reviewText": "We had to travel to Glasgow for a family wedding and got a room at the Comfort Inn. Staff was nice and the hotel was really nice place to stay. Nice bedding. Had a comfortable nights sleep. Alot of restaurants nearby. Staff called to see if we got settled in okay. Loved the small town hospitality. Very impressed.",
+    "reviewerCity": "Chicago",
+    "reviewerState": "IL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-07-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean Place to Spend a Night",
+    "reviewText": "This motel is easy to access off of a main highway in Glasgow. There are a number of restaurants nearby with easy access. The staff was very friendly and accommodating. This is not a new motel by any means , with no elevator. The king room we occupied was small, as was the vanity and bathroom. The room was clean... More",
+    "reviewerCity": "Raleigh",
+    "reviewerState": "NC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-05T00:00:00.000Z"
+    },
+    "reviewTitle": "So. Loud.",
+    "reviewText": "I was in town for an exercise with work at Barren River State Park. The location was nice and the staff were helpful. Room was average. The worst part, BY FAR, was how incredibly loud it was!!! I was awoken at 3:00AM by a crowd of people talking loudly outside my door and I am a heavy sleeper!!",
+    "reviewerCity": "Kentucky",
+    "reviewerState": "NC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Clean, Comfortable and Quiet",
+    "reviewText": "It doesn't look too exciting when you drive up, but our room was very nice and very clean. I never heard a sound from other guests. The breakfast was good. The desk clerk even went out of her way to make us fresh eggs. We would definitely stay here again!",
+    "reviewerCity": "Hanover",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay.",
+    "reviewText": "Clean, comfortable, reasonable price, older style, staff friendly. We were given a list of local restaurants that gave a discount for Comfort Inn customers. Chose Gondelier. Good Italian. Warning. Verizon does not work in this part of KY.",
+    "reviewerCity": "Hanover",
+    "reviewerState": "NC",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbe433d2b44c0de410d"
+  },
+  "name": "Comfort Inn \u0026 Suites",
+  "categories": ["Corporate Lodging", "Hotels", "Lodging", "Motels"],
+  "location": {
+    "country": "US",
+    "state": "MO",
+    "city": "Joplin",
+    "postalCode": "64804",
+    "address": "3400 S Range Line Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-94.47845, 37.05198]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-06-26T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Don't take the elevator. I got stuck in it for 45 minutes.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Recently Updated. Friendly Staff.",
+    "reviewText": "New carpeting throughout and electronic locks (RFID tap, not magnetic swipe) on all doors are highlights of what must have been a fairly new construction or remodeling. Staff was friendly and responsive. Great location near shopping and a variety of chain reataurants. Close (but not too close) to I-44.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Recently Updated. Friendly Staff.",
+    "reviewText": "not home, but it will do when away from home.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Good place to stay for a business trip",
+    "reviewText": "5 of us stayed at the Comfort Inn Sept. 2015 as the result of having business in Joplin. Check in was quick and the clerk was very helpful. Our rooms were clean and the beds comfortable. The breakfast bar had the usual items to include biscuits and gravy and the food was about what you get at most other places... More",
+    "reviewerCity": "Olathe",
+    "reviewerState": "KS",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-03-16T00:00:00.000Z"
+    },

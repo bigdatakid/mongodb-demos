@@ -1,0 +1,100 @@
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Estupendo",
+    "reviewText": "Estupendo hotel muy tranquilo",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Ottimo",
+    "reviewText": "Ottima struttura a 2 passi dal mare, posizione ottima a 6 km dall aeroporto, pulizia ottima ,personale gentile,",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "primera y.. ��ltima.....",
+    "reviewText": "Nos dieron la habitacin detrs del escenario del saln de espectculos, con todos los ruidos de las diversas actuaciones. Adems tambin estaba junto a la maquinaria del aire acondicionado, con el ruido aadido durante toda la noche y todo el da.... Esta habitacin tendran que utilizarla como camerino de los espectculos o cuarto trastero y no dedicarla a los huspedes..... Adems, no haba hamacas suficientes para todos los huspedes. Y, todas las maanas hay que asistir al bochornoso espectculo de los huspedes pendientes como buitres para colocar sus toallas en las hamacas antes incluso que el personal del hotel las extienda alrededor del hotel (hablamos de las 8 de la maana), cuando el personal de limpieza del hotel est trabajando, y a eso de las 8:30 todas las hamacas extendidas estn reservadas con las toallas, sin la presencia de ningn husped.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Relaxing break",
+    "reviewText": "Check in was quick and reception were welcoming with a drink on arrival. We only stayed on a BB basis, but the breakfasts were good with plenty of choice. Our room was on the second floor and we had a good size room and balcony. The bathroom was a bit tired and some of the tiles around the bath were cracked. The floor was very dirty throughout our week stay. The entertainment was really good - it wasn't in your face and you could choose to join in if you wanted but could also be in your room and not hear any noise from the music etc. The location of the hotel is next to a small shopping mall. Although the sea is just in front of the hotel, the beach is not great here but if you walk a bit further down to the Elba Carlotta, it is much better with loungers and umbrellas available. Although there are two pools in the hotel, the water was too cold to swim in the pools, even the heated one. Overall, we would stay here again if we came to Caleta for a relaxing break.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Hotel in una buona posizione.",
+    "reviewText": "Hotel in buona posizione per poter visitare l'isola e con suites all'altezza delle aspettative sia per lo spazio sia per la pulizia. Personale disponibile e gentile.Peccato per il ristorante che a pranzo e a cena propone quasi sempre le stesse cose con un men prettamente per inglesi e con molto fritto presente soprattutto nel men per i bambini.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Tolles Hotel, gern wieder!",
+    "reviewText": "Sehr Gutes Hotel mit netten Mitarbeitern die man immer Fragen konnte wenn es was gab! Das Essensbuffet war sehr gut ( Viel Obst, Fisch, Fleisch und Live-Cooking! Zimmer war sehr gut",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Absolutely Amazing!",
+    "reviewText": "The most amazing feat this hotel has accomplished is the number of returning customers. I met a few while play volley and ping pong with the excellent animation crew, all guests complementary of food, staff and ocean view spacious rooms. Oh the beach, 5 meters away, plus the hot water pool, total relax. Bus stop facing the shopping center, 50 meters away and 1.40 euros fare from airport. I love you Elba!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Absolutely Amazing!",
+    "reviewText": "Posto incantevole staff gentilissimo. Ottima colazione . Le stanze sono grandi e spaziose, nonch dotate di bidet . Da consigliare... La piscina bellissima con il personale gentilissimo e disponibile .",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Absolutely Amazing!",
+    "reviewText": "Excelente hotel en todos los sentidos, instalaciones,comidas y bebidas del ti pero sobre todo el trato de todo el personal del hotel. Muy recomendable",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Fant��stico",
+    "reviewText": "El hotel en general est muy bien. El personal es encantador (recepcionistas, camareros/as, cocineros/as, limpiadoras, animadores, etc...). La habitacin amplia y muy limpia con camas muy cmodas. El buffet est bien pero un poco repetitivo despus de dos o tres das. Lo peor son los horarios que estn muy adaptados al turismo extranjero pero tampoco es un problema. La piscina la cierran a las 18:00 horas y recogen las hamacas aunque te puedes quedar ms tiempo. Los horarios de animacin tambin estn pensados para extranjeros. Si llegas ms tarde de las 21:30 olvdate de ver el espectculo de turno. No te dejan sacar platos del restaurante de la piscina para que te los lleves a las hamacas. Y el todo incluido termina a las 23:00 horas. La playa est muy cerquita aunque es artificial pero est bastante bien, sobre todo para los nios. Por lo dems, la estancia ha sido muy agradable. No me importara repetir.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5

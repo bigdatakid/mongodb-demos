@@ -1,0 +1,100 @@
+    "state": "AZ",
+    "city": "Tucson",
+    "postalCode": "85711",
+    "address": "102 N Alvernon Way",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-110.909418, 32.223615]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great staff!",
+    "reviewText": "We found the hotel very nice and recently renovated. The room was very clean and spacious with everything we needed. The staff was exceptionally polite, friendly and helpful. Everyone from the desk clerks to the cleaning staff and breakfast staff went out of their way to make our stay enjoyable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-05T00:00:00.000Z"
+    },
+    "reviewTitle": "I'd stay here any time in Tucson",
+    "reviewText": "The staff was exceptionally friendly and helpful!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-10T00:00:00.000Z"
+    },
+    "reviewTitle": "Thanks Tucson",
+    "reviewText": "The staff was very friendly. The nearby park is incredible! Breakfast was very good! We really enjoyed our stay.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Staff at Clean Hotel with Standard Amenities",
+    "reviewText": "Very friendly staff who were helpful. Clean, well organized hotel. The room had fairly old carpet, with a few stains, but didn't feel dirty - just old. Otherwise the room was well kept, sheets were very clean. The hotel in general was well maintained and clean. The free breakfast was good and the WiFi signal was strong and data came through quickly. The TV had a few basic channels, standard HBO was Spanish only, but that was fine. The pool is clean and centrally located. I loved that it offered free stay for our dog, but there is almost zero places to walk your dog so they may do their business. The only places were a few gravel medians and side areas, but it worked out okay. The location isn't great - not much to walk to directly next to the hotel, but a 8 minute drive does get you to Reid Park. Traffic was terrible in the area though, which made leaving the hotel to the south very difficult. I would stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Staff at Clean Hotel with Standard Amenities",
+    "reviewText": "Despite keeping my expectations low I was very disappointed. In my opinions the ratings are not justified and deceiving. This place is not the best. Rooms are dirty. Starting from the carpets to the bedsheets. I don't think they even replace the sheets. The shower curtain in my room smelled awful, towels were not the cleanest and bathroom and living area were dusty. At least the AC was working well otherwise I would have left on arrival. I gave one star for the fridge/microwave in the rooms and the complementary breakfast, which is one of the better ones, You can make fresh waffles, biscuits and gravy, hard boiled eggs, cereal, muffins, coffee, etc... Need to get there early though. Overall, I'm a very dissatisfied customer.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice Place",
+    "reviewText": "Very nice staff and good clean facility.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Great location- clean hotel w/ or w/out your pet",
+    "reviewText": "This is a great hotel! I love that it's not in the heart of UofA but not too far out of town either. I have stayed here several times. Rooms have been upgraded, but it looks like they saved costs by skimping out on new bathtubs. Not a big deal, just an observation. It's the only thing that's old in there.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay Here if you get a chance!",
+    "reviewText": "The hotel was up to date and modern. Rooms were nice sized and comfortable. The free breakfast was a great bonus. The best part was the staff. They were very friendly and helped anytime I asked. We stayed over the July 4th weekend so they had poolside cookouts and music which was really nice.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-24T00:00:00.000Z"
+    },
+    "reviewTitle": "Tucson AZ stay",
+    "reviewText": "Nice stay overall. The staff is very friendly and helpful. The rooms are clean and comfortable. The breakfast was relatively good. I would stay again without hesitation.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {

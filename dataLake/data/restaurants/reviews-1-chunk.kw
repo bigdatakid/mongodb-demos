@@ -1,0 +1,100 @@
+    "reviewTitle": "Great little hotel.",
+    "reviewText": "No good smell in the room",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "Very nice. Folks were very friendly",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-08-01T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "A quiet and comfortable stay -- but I prefer the top floor. That makes a difference!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "It was good and the desk was very friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "This was an overnight to pick up our daughter from college. The location was perfect and the room was small but comfortable. The breakfast was fair.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "This has been by far the best experience I've ever had at a hotel. I would recommend 10/10 to stay here if you're in the area of planning a trip here. Staff is accommodating and friendly, hotel remodeling us bringing it back to life.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice stay",
+    "reviewText": "They were redoing the pool and the paving the road . The pool was ready the next day. The breakfast was good for a comfort inn.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent Room for 6 on a budget",
+    "reviewText": "Spent night on the way to Disney. It's a little further off I95 than preferred. Front desk ladies were amazing. Clean for an older hotel. Tub is a bit funky...good for showering.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-03T00:00:00.000Z"
+    },
+    "reviewTitle": "We were very comfortable",
+    "reviewText": "Good house keeping, comfortable bed and lots of hot water for shower.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-15T00:00:00.000Z"
+    },
+    "reviewTitle": "We were very comfortable",
+    "reviewText": "Jennifer an the staff are awesome.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-11T00:00:00.000Z"
+    },

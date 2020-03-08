@@ -1,0 +1,100 @@
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "������",
+    "reviewText": "I was a little worried that this hotel allowed dogs thinking that the barking would keep me up, however, never heard a single dog and one was staying across the hall. Great hotel and location.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-01-29T00:00:00.000Z"
+    },
+    "reviewTitle": "������",
+    "reviewText": "Rooms at the end have full size stove.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay for extended time.",
+    "reviewText": "when I arrived, the front desk was very helpful with directions, room access and upcoming events. All the staff at breakfast was kind and friendly.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay for extended time.",
+    "reviewText": "Keira at the front desk was delightful. Wish her luck in graduating from Radiology Tech school.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-19T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay for extended time.",
+    "reviewText": "The hotel was good for a business traveler. We thought we were closer to the University! So I would recommend this to a business traveler who was doing business nearby.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-09-04T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay for extended time.",
+    "reviewText": "Great hotel, friendly staff. Would definitely stay here again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay for extended time.",
+    "reviewText": "The thermostats are crazy",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-11-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay for extended time.",
+    "reviewText": "The staff is amazing here!!! Food is great!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-02-28T00:00:00.000Z"
+    },
+    "reviewTitle": "Great place to stay for extended time.",
+    "reviewText": "Check out Rob's pizza and wing night!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4007"
+  },
+  "name": "La Quinta Inn and Suites Tucson - Reid Park",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",

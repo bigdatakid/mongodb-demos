@@ -1,0 +1,1000 @@
+    },
+    "reviewTitle": "",
+    "reviewText": "VERY slow check-n",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-01T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "very slow check-n",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Very had bed and very noisy AC! Had a very bad night. If you are in the region for work, skip this place",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "I would not recommend this hotel at all. My room had a large roach in it when I checked in. Also, the AC unit didn't function properly.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "covered parking. nice.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Show up at 9:10 for breakfast, try take everything away at 9:30 precisely.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-14T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "Covered parking. Nice.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-17T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "very had bed and very noisy ac! had a very bad night. if you are in the region for work, skip this place",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2011-07-23T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "show up at 9:10 for breakfast, try take everything away at 9:30 precisely.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-07-18T00:00:00.000Z"
+    },
+    "reviewTitle": "",
+    "reviewText": "i would not recommend this hotel at all. my room had a large roach in it when i checked in. also, the ac unit didn't function properly.",
+    "reviewerCity": "",
+    "reviewerState": ""
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4071"
+  },
+  "name": "Sand's Motel",
+  "categories": ["Hotels \u0026 Motels"],
+  "location": {
+    "country": "US",
+    "state": "WA",
+    "city": "Portales",
+    "postalCode": "88130",
+    "address": "1130 W 1st St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-103.346036, 34.181306]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-08-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice, clean and what we needed",
+    "reviewText": "We needed a place soon, as we were in town for a funeral. They did there best to accommodate us in getting us close together, and when we needed to extend, they were very helpful and pleasant. The rooms were very clean, both when we checked in and when we extended. The room with the 3 beds and a sofa... More",
+    "reviewerCity": "Las Cruces",
+    "reviewerState": "NM",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2012-12-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Graduation weekend",
+    "reviewText": "We needed a pet friendly hotel for graduation weekend. I found hurry, only one room left for 71.00 on booking.com. It was only available for Friday night. I booked it, then two days later, while checking the reservation, they had 4-51.00 rooms available for Friday and Saturday night. I called customer service, cancelled the 71.00 room and booked a 51.00... More",
+    "reviewerCity": "Moriarty",
+    "reviewerState": "NM",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Really Great Stay",
+    "reviewText": "I stayed here June 15th to the 20th for my 10 year high school reunion and it was nothing short of fantastic. The room is what you expect for the price that you pay (I was in a king) It was clean and quiet, stuff has been updated, not like some of these pictures I see on here. Staff was... More",
+    "reviewerCity": "Port Orchard",
+    "reviewerState": "WA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Yuck!",
+    "reviewText": "Stayed here before and the room was decent. Looked to have been recently remodeled with updated bathroom and flat screen TV. When I checked in this time, I requested the same room and told it was unavailable and put into another room. I did inquire if the room was the same and as clean in which the lady responded yes.... More",
+    "reviewerCity": "Sachse",
+    "reviewerState": "TX",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4072"
+  },
+  "name": "Websters Manor",
+  "categories": ["Bed \u0026 Breakfasts", "Hotels \u0026 Motels", "B\u0026bs / Inns"],
+  "location": {
+    "country": "US",
+    "state": "DE",
+    "city": "Mullins",
+    "postalCode": "29574",
+    "address": "115 E James St",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-79.254744, 34.207755]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-05T00:00:00.000Z"
+    },
+    "reviewTitle": "Did not enjoy it.",
+    "reviewText": "Food was not fresh. Seemed like it was sitting there for a long time.it looked old and musty.almost moldy...no care for hygiene here. Stuff was laid out and sitting out for a long time. Weird location. We read the good reviews and decided to stop by. never again.",
+    "reviewerCity": "Mullins",
+    "reviewerState": "SC",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-12T00:00:00.000Z"
+    },
+    "reviewTitle": "***An Unexpected Gem of a BB!",
+    "reviewText": "Departing from my normal business travel habits, I had the extraordinary opportunity to stay three nights at Webster Manor in Mullins, SC. I found this charming 1909 Inn quite by accident as I was looking for a place nearby on Google Maps (bookings aren't available on hotel search engines). I called a couple of days prior and spoke to the... More",
+    "reviewerCity": "New Port Richey",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Nothing bad about Webster Manor",
+    "reviewText": "The food, atmosphere, service and prices are just awesome. Have been here quite a few times and have never been disappointed. If you are looking for good country food, this is definitely worth the trip.",
+    "reviewerCity": "New Port Richey",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-01T00:00:00.000Z"
+    },
+    "reviewTitle": "REAL Food for Lunch",
+    "reviewText": "Mullens is a small village and I don't think it has a fast food outlet anyway. Regardless, if you want real Southern food with an excellent selection, and inexpesive, this is the place to go. Everything in the buffet is delicious, even the deep fried gizzards (I didn't know what they were!) Best fried chicken I have ever had. They... More",
+    "reviewerCity": "Prince Edward County",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Great Southern Food, Great Atmosphere, Surprising Low Prices",
+    "reviewText": "This is a combo of server and buffet style restaurant. One price gets all you want of surprisingly good down-home cooking in a converted old southern home. Good selection to choose from.",
+    "reviewerCity": "Prince Edward County",
+    "reviewerState": "FL",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Southern Hospitality",
+    "reviewText": "While I have eaten at Webster Manor for lunch many times, I have not had the opportunity to stay at the Bed and Breakfast until just recently. What a wonderful experience! The manor itself is a very large circa 1906 house that includes the dining facilities downstairs and bedrooms upstairs. The decor of the rooms reflects the era in which... More",
+    "reviewerCity": "Athens",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "Home Cooking",
+    "reviewText": "This was my second visit to Webster Manor. For southern home cooking, it's pretty good. I've had the fried chicken both times. My mom loves the chicken but frankly hers is better - she doesn't have a restaurant though. The desert table is better than the main course, I think. Everyone I have meet thinks it's great and that is... More",
+    "reviewerCity": "Houston",
+    "reviewerState": "TX",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Sensational Southern Lunch Buffet!!",
+    "reviewText": "My wife and I stopped here for their buffet lunch yesterday. What a great place!! First off, it's decorated beautifully for the holiday season, and walking through the front door just puts you in a good mood. As we had figured, there was a line of guests, right out the door and down the front porch. Clearly, the staff is... More",
+    "reviewerCity": "Conway",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-11T00:00:00.000Z"
+    },
+    "reviewTitle": "The best southern luncheon buffet I have ever had.",
+    "reviewText": "Visited Webster Manor today with 2 other couples. One couple had never been there and we had taken the other couple there before. This had been our 4th visit there and I am sure we will make many more trips back. Food delicious, service great. Cannot wait to go back.",
+    "reviewerCity": "Myrtle Beach",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Glad we finally made it to Webster Manor!",
+    "reviewText": "I have had two magazine articles about Webster Manor that I have held onto for years, hoping to have lunch there. Finally, we made the 90+ mile drive on a miserably cold February day with friends and relatives to celebrate a couple of birthdays. We all ate light breakfasts and thought we would never arrive! It was very easy to... More",
+    "reviewerCity": "SC",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Lunch",
+    "reviewText": "Excellent food. Friendly staff. Good variety and includes desserts. Everything is buffet and all you can eat.",
+    "reviewerCity": "edenton",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Delicious!",
+    "reviewText": "Really excellent food. Especially enjoyed the fried chicken. Great food, comfortable environment and very friendly folks.",
+    "reviewerCity": "shelby",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Next time you drive to Myrtle Beach, take the shortest route and have lunch at Webster Manor!",
+    "reviewText": "We decided to take the shortest route to Myrtle Beach for Valentine's Day weekend and drove through the town of Mullins. We asked a shop keeper about a good place to eat and they gave us rave reviews about the Webster Manor in Mullins, SC. I have to agree with them. We walked in the front door and were welcomed... More",
+    "reviewerCity": "Charlotte",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Southern Home Cooking",
+    "reviewText": "Most popular with the locals. A huge buffet selection of home cooking, southern style. The fried chicken is fabulous. They skin the chicken, then marinate overnight in butter milk before breading and deep frying. So there is no unhealthy chicken skin to deal with and the batter and chicken melt in your mouth. (You may wish to be careful with... More",
+    "reviewerCity": "Prince Edward County",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-16T00:00:00.000Z"
+    },
+    "reviewTitle": "had a great meal",
+    "reviewText": "After visiting my aunt in Myrtle Beach, she wanted to take us here on the way home. We were more interested in getting on with our 6 hour drive, but reluctantly we agreed to have lunch with her. Boy are we glad! Home cooked meals never tasted so good!! Everyone was so nice to us and attentive to our needs.... More",
+    "reviewerCity": "Mechanicsville",
+    "reviewerState": "VA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-12-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Southern Charm",
+    "reviewText": "We stayed at the Webster Manor for a wedding weekend. It is truly stepping back in time. An old house converted into a BB and food service at other times. The wedding attendees occupied the whole house for the weekend. Rooms are spacious but bathrooms were worked in however they would fit. That means the bathrooms tended to be small... More",
+    "reviewerCity": "Cincinnati",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-02-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Worth the 40 min drive!",
+    "reviewText": "Made a 40 min trip to visit Webster Manor for a special lunch. We arrived at 11:55 on a Monday and the large parking lot was filled already. They have a full buffet that differs each day, but always includes their wonderful fried chicken, with other meat items. Real Southern cooking! The selection of vegetables is terrific - my favorite!... More",
+    "reviewerCity": "Conway",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-03-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Delicious Fried Chicken",
+    "reviewText": "We arrived around 11:00 on Thursday so there was no line. Paid our 9/pp (cash or credit) and followed locals in line. I wish they had signs near the food telling you the options. Also the white dark gravy were in a section prior to the turkey located 3' away. The small 's' shaped rolls were crunchy on the... More",
+    "reviewerCity": "West Chester",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfort Food At It's Best",
+    "reviewText": "This is an old house that serves great comfort food at a reasonable price. It is one of the best kept secrets of a small southern town.",
+    "reviewerCity": "Mullins",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-23T00:00:00.000Z"
+    },
+    "reviewTitle": "You gotta go!!!",
+    "reviewText": "If you like down home southern cooking, then you have to go to this place. Excellent buffet with so many choices plus a great desert table in a beautiful old home. When the weather is nice you can eat out on the front porch. This place is Clean, the staff friendly and the food is awsome!!! I live in New... More",
+    "reviewerCity": "New Jersey",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-09-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Delicious Buffet Lunch",
+    "reviewText": "Webster's has been in business a long time for good reason. The lunch buffet 5 days a week offers the very best in Southern home-style cooking. The fried chicken is absolutely life-altering--there's none better. None of the food is greasy everything is cooked perfectly, and the buffet provides a balance of meats, vegetables, starches, and breads. The dessert buffet is... More",
+    "reviewerCity": "Athens",
+    "reviewerState": "GA",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-25T00:00:00.000Z"
+    },
+    "reviewTitle": "Just like grandma!!yummy!",
+    "reviewText": "The food is amazing and always consistently great!! Love the Mac and cheese! The old house is gorgeous and the staff is so friendly!! Love it. It is my favorite reason to visit Mullins!! As close to home cooking without cooking!!",
+    "reviewerCity": "Myrtle Beach",
+    "reviewerState": "SC",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-30T00:00:00.000Z"
+    },
+    "reviewTitle": "Never again........the worst experience EVER!",
+    "reviewText": "The hostess, Anne, is nothing more than a money-hungry, un-Christian, belligerent,, verbally aggressive bully. She demanded payment according to her time, not as previously agreed upon, and when she was kindly reminded of the initial payment arrangement, she became overtly hostile and rudely confrontational. She quickly became argumentative and demeaning in her articulations, instructing me to gather my belongings and... More",
+    "reviewerCity": "Nichols",
+    "reviewerState": "SC",
+    "reviewRating": 1
+  }]
+} {
+  "_id": {
+    "$oid": "5cf9dcbd433d2b44c0de4073"
+  },
+  "name": "Days Inn North Columbia Ft. Jackson",
+  "categories": ["Hotels"],
+  "location": {
+    "country": "US",
+    "state": "DE",
+    "city": "Blythewood",
+    "postalCode": "29016-8425",
+    "address": "114 Blythewood Rd",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-80.97437, 34.21438]
+    }
+  },
+  "reviews": [{
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-04-23T00:00:00.000Z"
+    },
+    "reviewTitle": "clean and comfortable.",
+    "reviewText": "Room was clean and neat. Bed was fairly comfortable. Pool had no water but it has been cold and rainy spring. Staff was very nice and cooperative. GPS took me on scenic route, but I found it. I would stay again.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-02T00:00:00.000Z"
+    },
+    "reviewTitle": "Quick stay",
+    "reviewText": "Older Hotel, but my room was clean and staff were super!",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-19T00:00:00.000Z"
+    },
+    "reviewTitle": "15 minutes from Fort Jackson",
+    "reviewText": "This is not the most up to date hotel, but the friendly staff more than made up for the newness. Our room was clean and that was what was important to me. I would absolutely stay here again. Convenient to Fort Jackson, about 15 minutes away.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Not a family place to stay.",
+    "reviewText": "Luckily we were only here overnight. We had 2 rooms for 6 people. We asked for adjoining rooms but did not even get rooms on the same floor. When we went to our rooms the first thing we noticed were 3 fellows sitting on the side of the parking lot at a picnic table drinking beer from a cooler. Then when I took our girls to the pool, one is 7 and one is 14, there were 3 young men in the pool who supposedly did not speak English. There were some teenage girls leaving the pool as we came in. We later found out they were so uncomfortable by the mens stares they left until a parent could come out with them They stared at our girls until it was uncomfortable. They waited until our 14 year old went under to swim and then one dove into the pool and accidently ran into her. My husband finally came and sat by the pool so we would feel safe. Needless to say we did not swim long. Our phone did not work in our room. They finally switched the phone and the second one did not work either and they basically told us sorry about your luck there is nothing we can do. My husband messed around with the connection until he got it working. The air conditioner didn't work real well either. The room was not the cleanest, not totally filthy, but could have definately used a good scrub. The door in one room did not seem to lock tight and we moved a chair in front of it to make sure no one could get in. We asked for one room to be switched but was told no the owner would not want to.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Recreational Stay",
+    "reviewText": "The counter lady at checkin was great, very knowledgable of the area providing suggestions..even hand written directions to a few locations. However, the counter guy at checkout was not friendly at all. The room and bathroom wasn't as clean as I would like but was tolerable and sleepable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Recreational Stay",
+    "reviewText": "The counter lady at checkin was great, very knowledgable of the area providing suggestions..even hand written directions to a few locations. However, the counter guy at checkout was not friendly at all. The room and bathroom wasn't as clean as I would like but was tolerable and sleepable.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Poor service",
+    "reviewText": "Lobby not open at 6:30 am. Desk clerk had to unlock. No coffee or breakfast prepared yet. J will",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Poor service",
+    "reviewText": "The person that checked me in was great and gave me an upgrade because of a misunderstanding when I booked. The hotel is older hit rooms were clean.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Not Great",
+    "reviewText": "This hotel is not worth the money they charge. But it was close to my job site. This hotel is out dated.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Decent for an inexpensive stay",
+    "reviewText": "Some of the rooms can be updated, but nice to have the refrigerator microwave at hand. Being 12 miles from Fort Jackson is a bit misleading to call itself that.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-12T00:00:00.000Z"
+    },
+    "reviewTitle": "I recommand it for a short weekend",
+    "reviewText": "I liked it a lot. It was very convenient to where I had to go. It is surrounded by fast food restaurants, so no need to search. Internet works great. For those who are looking for Sunday morning church services I recommend to visit Immanuel House of Worship, McNulty Plaza. Service starts at 12.00 noon",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-15T00:00:00.000Z"
+    },
+    "reviewTitle": "I recommand it for a short weekend",
+    "reviewText": "The stay was fine except neither the TV or clock radio worked and the breakfast offered was minimal.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-09T00:00:00.000Z"
+    },
+    "reviewTitle": "I recommand it for a short weekend",
+    "reviewText": "The stay was fine except neither the TV or clock radio worked and the breakfast offered was minimal.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-11-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Would not stay again",
+    "reviewText": "The rooms are outdated. The heater unit makes a lot of noise. The toilet seat was cracked. And finally there are train tracks right outside with trains all night rolling through.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Get what you pay for but good customer service.",
+    "reviewText": "The room was adequate but old and dated. The neighborhood is a little sketchy. That being said, it was good customer service and worth the price paid.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-10-31T00:00:00.000Z"
+    },
+    "reviewTitle": "clean and comfortable but no tv",
+    "reviewText": "i arrived late at night about 11:30 as this was the halfway point on a trip after being up since 430 that am and working all day and then leaving for my trip. all i wanted was a good clean room to sleep and this room fit the bill. the only downside was that the tv reception was horrible in the room in fact all you could do was hear the sound and not see the pic on any channell. this did not matter to me since all i wanted to do was go to sleep anyway. i did mention it to the from desk when leaving in the am and hopefully the tv has been fixed and this is not a reception problem for the entire facility. my room number as i recall was 115 so avoid that room or at least ask to see the room and check the tv reception. breakfast was the usual continental and was ok",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-05-26T00:00:00.000Z"
+    },
+    "reviewTitle": "A place to crash, just don't arrive too late!",
+    "reviewText": "Just a quick stay for the night, but couldn't get anyone at desk for check in at 1:45AM, took 20 minutes to get someone to get the room I booked online.",
+    "reviewerCity": "",
+    "reviewerState": "",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-06T00:00:00.000Z"
+    },
+    "reviewTitle": "Hair dryer cord broken, it worked but seemed to be a fire...",
+    "reviewText": "Hair dryer cord broken, it worked but seemed to be a fire hazard. Cable tv didnt work correctly. Room had a nasty smell.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-06T00:00:00.000Z"
+    },
+    "reviewTitle": "weak wifi",
+    "reviewText": "Nice not bad for the price but i had to go outside to use wifi i was at end of hotel and didnt reach us. breakfast was sparce",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok hotel for one night but not for longer stay.",
+    "reviewText": "Hotel was clean but decor was outdated. Staff was pleasant. Luckily we had room to park truck camper. Breakfast was just OK. Stay was average for the price.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-19T00:00:00.000Z"
+    },
+    "reviewTitle": "On the way home",
+    "reviewText": "A good place to sleep.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Cheap rates for a reason",
+    "reviewText": "I did not feel safe at all during my stay. The hotel staff was less than friendly and there is no elevator to the second floor. There was a gap you could easily see through when the door closed. A male I did not know tried to follow me into my room one night. I set the dead bolt each night and pushed desk and chair up against the door, since I did not feel safe with just the locks on the door. I had to stay 4 nights since my booking was non refundable. It was hard to know while booking online what type of hotel this would be. Next time I will read the reviews more carefully and spend the extra money to feel safe.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Cheap rates for a reason",
+    "reviewText": "cheep, Non- smoking smelled like smoke. Bath room door handle fell off, bed was hard. Breakfast had no coffee and no milk so, we had to go out.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Holiday stay",
+    "reviewText": "Have stayed at this Days Inn before and will keep coming back. Good experience",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Twas all a lie!",
+    "reviewText": "I chose this hotel because a customer commented that it was very close to Fort jackson. It turned out that it was 30 mins away from fort jackson and 40 mins away from the airport. Why would people lie about the comments and rating Anyway the place was a dump! My son saw syrienge needles by the bush near the parking!!! Ewww ghetto, although my son said that the staff were nice. This is dissapointing. I dont know if i will ever believe rating comments from supposed to be previous customer. I just hope expedia do really verify that the comments are from real guest.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Twas all a lie!",
+    "reviewText": "Okay. It felt like a dungeon. Couldn't regulate temperature",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Cleanliness",
+    "reviewText": "Shower curtain had mildew on it. They did bring a new one in the morning. Don't check in very late. Service late at night is not prompt. The day staff was great. The beds and rest of room was fine.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-01T00:00:00.000Z"
+    },
+    "reviewTitle": "About right",
+    "reviewText": "Nothing fancy. If you want somewhere to stay without spendin a lot...this is good. People were nice.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-31T00:00:00.000Z"
+    },
+    "reviewTitle": "About right",
+    "reviewText": "Nothing fancy. If you want somewhere to stay without spendin a lot...this is good. People were nice.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel close to Ft Jackson, kinda...",
+    "reviewText": "We were in South Carolina for our son's graduation from boot camp. My husband and I had never been there and Cheryl made our stay and AWESOME one! She was definitely the definition of southern hospitality. She made our experience so personable and she was such a delight. If we ever go back to South Carolina, I would stay there just because of her! :)",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-08T00:00:00.000Z"
+    },
+    "reviewTitle": "nice price for good comfort",
+    "reviewText": "Overall enjoyed the hotel, the only issue I had was that the fridge that was in the room was extremely loud and kept me awake for part of the night until I unplugged it. But other than that was a good deal for nice quality.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Comfortable and inexpensive",
+    "reviewText": "It was comfortable and inexpensive the breakfast should be called a snack only had bread and bagels to toast and cereal. oj, apple juice and coffee. But other than that very nice stay",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Fine for a overnight stay",
+    "reviewText": "This hotel is just ok. Clean but just ok, breakfast is nothing do not bother.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-08-20T00:00:00.000Z"
+    },
+    "reviewTitle": "Graduating Soldier",
+    "reviewText": "I went to see my son graduate from bootcamp with the Army. He had to be back on base by 7:45 p.m. so this hotel being 15 minutes away was perfect. The drive to and from the base was quick and easy. Slept great. All was good",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Bed Bug Nightmare!",
+    "reviewText": "This was a nightmare, bedbugs found in the bed at midnight and my wife was bitten. Ran out of there and kept driving all night on our way to reach Florida. The countless loads of laundry to make sure they didn't travel with us and my kids are so scared they are sleeping with their mother. Called hotel manager next day and was told sometimes these things happen. What!! It is their job to make sure it doesn't happen! This hotel was totally misrepresented on hotels.com, the room was dated, smelled of smoke, dirty and disgusting. Called to complain at hotels.com on Saturday March 14th and still waiting for a reply. UNACCEPTABLE!",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-15T00:00:00.000Z"
+    },
+    "reviewTitle": "Days inn",
+    "reviewText": "Convenient to restaurants and gas stations and interstate. Nice hotel",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-01-31T00:00:00.000Z"
+    },
+    "reviewTitle": "Days inn",
+    "reviewText": "Convenient to restaurants and gas stations and interstate. Nice hotel",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-07-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Days Inn Fort Jackson",
+    "reviewText": "I arrived late around 10pm. There was a loud party on the balcony above me. It was very unnerving. There was construction noise that started around midnight and finished at 4am across the parking lot from my room. I got up 8am went to get breakfast, where I learned a nice older couple were furious, because someone had peed in their freshly made bed, I had complained about being up all night with the noise, just got back to my room with first morning cup of coffee yogurt, when someone knocked on my door. It was a hooker knocking on the wrong door. I left quickly without a shower or second cup of coffee.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-11T00:00:00.000Z"
+    },
+    "reviewTitle": "Days Inn Fort Jackson",
+    "reviewText": "I arrived late around 10pm. There was a loud party on the balcony above me. It was very unnerving. There was construction noise that started around midnight and finished at 4am across the parking lot from my room. I got up 8am went to get breakfast, where I learned a nice older couple were furious, because someone had peed in their freshly made bed, I had complained about being up all night with the noise, just got back to my room with first morning cup of coffee yogurt, when someone knocked on my door. It was a hooker knocking on the wrong door. I left quickly without a shower or second cup of coffee.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Nice hotel at a great price..",
+    "reviewText": "Had a great time at this hotel. The staff was very friendly and helpful. The condition of the hotel was very good and clean and well maintained.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-09-18T00:00:00.000Z"
+    },
+    "reviewTitle": "Sorry not too happy on stay this hotel",
+    "reviewText": "Half of the hotel has been leased to trunk drivers who talks through very later, not remember what time exactly, probably over 12:00AM. One light on the wall was bad one, not working the window air conditioner is old and noisy whole night. Hotel staff are fine, answer questions we asked, thank you. I initially try to find a quiet and clean Day-inns in nearby Columbia, but feel disappointed that it just looks inside city.",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-16T00:00:00.000Z"
+    },
+    "reviewTitle": "You get what you pay for.",
+    "reviewText": "We were looking for a Hotel that is cheap and nice. We were going to our nephew basic training graduation at fort Jackson. It seems like every hotel that is close by are booked. So we had to look a little bit out ...at least 10 miles from base. We wanted something decent and cheap. We just needed a room to lay our heads and rest. .,,, nothing more. The best part is the staff! Excellent service!",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2013-10-04T00:00:00.000Z"
+    },
+    "reviewTitle": "This location gives Days Inn a bad name",
+    "reviewText": "The sheets would not stay on the bed....The mattress was very uncomfortable...Everything on the bed was old and cheap....When I say cheap...I mean prison cheap...The quality of the t.v was poor....The screen was dark and the channels were unclear...The continental breakfast was sorry....I paid for 2 nights but was ready to leave after the first night...If it was not for the game being in town and limited hotel availability...I would have left....The hotel is in bad need of updating...",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-12-31T00:00:00.000Z"
+    },
+    "reviewTitle": "This location gives Days Inn a bad name",
+    "reviewText": "The sheets would not stay on the bed....The mattress was very uncomfortable...Everything on the bed was old and cheap....When I say cheap...I mean prison cheap...The quality of the t.v was poor....The screen was dark and the channels were unclear...The continental breakfast was sorry....I paid for 2 nights but was ready to leave after the first night...If it was not for the game being in town and limited hotel availability...I would have left....The hotel is in bad need of updating...",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Funeral trip",
+    "reviewText": "Very nice stay, pleasant desk manager",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-06-13T00:00:00.000Z"
+    },
+    "reviewTitle": "Funeral trip",
+    "reviewText": "Very nice stay, pleasant desk manager",
+    "reviewerCity": "Akron",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-05-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Passing thru",
+    "reviewText": "Friendly service desk...recommended a good restaurant...reasonable price...room needs a thorough cleaning...tub had someone's hair in it, carpet needs cleaning desperately...looked like it hasn't had a vacuum cleaner on it for a while, especially by the bed and night stands...just passing thru from Florida to Ohio by myself, so don't need a 5 star hotel, but being clean is Important! Top... More",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-03-27T00:00:00.000Z"
+    },
+    "reviewTitle": "average hotel off the highway",
+    "reviewText": "Clean nice hotel off the highway. Bed was comfortable and room was too. works well for those traveling which we were.",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-04-12T00:00:00.000Z"
+    },
+    "reviewTitle": "Stop Over",
+    "reviewText": "This hotel was in very poor condition. There were wires hanging from a light that were taped together. The vent in the bathroom was very dirty. The baseboard areas were all very dirty. We did not need a night light as the light shown in around the door that was not very tight fitting. I would not recommend this hotel.",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-11-22T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok Stay",
+    "reviewText": "I only stayed for one night. I was very happy with everything but the breakfast they have which was free. But all they had was toast an cereal, water cost extra. Saw no juice and the coffee cups were in 6oz cups.",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok Stay",
+    "reviewText": "I only stayed for one night. I was very happy with everything but the breakfast they have which was free. But all they had was toast an cereal, water cost extra. Saw no juice and the coffee cups were in 6oz cups.",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-26T00:00:00.000Z"
+    },
+    "reviewTitle": "Ok Stay",
+    "reviewText": "I only stayed for one night. I was very happy with everything but the breakfast they have which was free. But all they had was toast an cereal, water cost extra. Saw no juice and the coffee cups were in 6oz cups.",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2015-03-16T00:00:00.000Z"
+    },
+    "reviewTitle": "Room was dirty!",
+    "reviewText": "Hotel staff were the rudest people I've ever met! Asked for a room upgrade and was denied because I booked through Expedia! Asked for a roll away bed and was told they didn't have any! Will NEVER stay at a Days Inn because of my experience with this hotel!",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 1
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-08-27T00:00:00.000Z"
+    },
+    "reviewTitle": "Nette hilfsbereite Frau an der Reception",
+    "reviewText": "Gut, schnes Zimmer, Pool. Gutes Preis-Leistungsverhltnis",
+    "reviewerCity": "Columbus",
+    "reviewerState": "OH",
+    "reviewRating": 5
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-03T00:00:00.000Z"
+    },
+    "reviewTitle": "Poor",
+    "reviewText": "The room looked dirty. There was broken appliances in it. You could hear everything going on outside from inside the room with the door shut and locked. We were very disappointed.",
+    "reviewerCity": "Pittsburgh",
+    "reviewerState": "PA",
+    "reviewRating": 2
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-17T00:00:00.000Z"
+    },
+    "reviewTitle": "Property Review",
+    "reviewText": "Overall it was a good stay. I did appreciate that the Business overall did not try to increase their rates too much just because occupancy was high in the area.",
+    "reviewerCity": "Lake City",
+    "reviewerState": "SC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-05-07T00:00:00.000Z"
+    },
+    "reviewTitle": "Property Review",
+    "reviewText": "Overall it was a good stay. I did appreciate that the Business overall did not try to increase their rates too much just because occupancy was high in the area.",
+    "reviewerCity": "Lake City",
+    "reviewerState": "SC",
+    "reviewRating": 3
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2016-04-14T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay at Days Inn",
+    "reviewText": "We were very pleased with our stay at Days Inn. We travel to and from Florida twice per year and we always stay here. Would recommend it to anyone who wants a good place to stay. The breakfast could be expanded a little. We have stayed in other Days Inns that have a much better breakfast choice.",
+    "reviewerCity": "Bridgeville",
+    "reviewerState": "SC",
+    "reviewRating": 4
+  }, {
+    "reviewId": "",
+    "reviewDate": {
+      "$date": "2014-06-21T00:00:00.000Z"
+    },
+    "reviewTitle": "Stay at Days Inn",
+    "reviewText": "We were very pleased with our stay at Days Inn. We travel to and from Florida twice per year and we always stay here. Would recommend it to anyone who wants a good place to stay. The breakfast could be expanded a little. We have stayed in other Days Inns that have a much better breakfast choice.",
+    "reviewerCity": "Bridgeville",
+    "reviewerState": "SC",
+    "reviewRating": 3
