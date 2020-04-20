@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.5.4"
+    "crypto": "^1.0.1",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.5.4",
+    "mongodb-client-encryption": "^1.0.1",
+    "uuid-base64": "^1.0.0"
   }
 }

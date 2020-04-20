@@ -1,6 +1,4 @@
-The Second part of this session will be presented in a following week, the aim of the sesion will be for you to build your own RDBMS migration 
-
-
+T
 egpnadata01.alldata.com:27017
 
 const docArray= [ { "_id": 1, "pet": "cat", "age":2}
@@ -17,14 +15,13 @@ async function main(){
      * See https://docs.mongodb.com/ecosystem/drivers/node/ for more details
      */
 
-    mongodb+srv://mongodev:secret973@atlanta-workshop-7tmzl.mongodb.net/test?retryWrites=true&w=majority
- 
-
+    let conn_string = process.env.MONGODB_CONNECTION_STRING;
+  
     const client = new MongoClient(uri);
  
     try {
         // Connect to the MongoDB cluster
-        await client.connect();
+        await client.connect(conn_string);
  
         // Make the appropriate DB calls
         await  listDatabases(client);
