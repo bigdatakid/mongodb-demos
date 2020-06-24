@@ -9,3 +9,5 @@ security/mongodb-keyfile
 security/mongodb-key-file
 field-level-encryption/node_modules/
 field-level-encryption/sec/
+field-level-encryption/jay-example/
+field-level-encryption/mongocryptd.pid

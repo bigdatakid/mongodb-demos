@@ -4,48 +4,42 @@ const fs = require('fs');
 const path = './sec/master-key.txt';
 
 
-const docArray= [ { "custom_id": 1, "pet": "cat", "age":2}
-            ,{ "custom_id": 2, "pet": "dog", "age":4}
-            ,{ "custom_id": 3, "pet": "iguana", "age":3}
-            ,{ "custom_id": 4, "pet": "guinea pig", "age":3}
-            ,{ "custom_id": 5, "pet": "snake", "age":12} ];
+const docArray= [ 
+             { "custom_id": "0", "pet": "cat", "age":2}
+            ,{ "custom_id": "1", "pet": "snake", "age":12}
+            ,{ "custom_id": "2", "pet": "dog", "age":4}
+            ,{ "custom_id": "3", "pet": "iguana", "age":3}
+            ,{ "custom_id": "4", "pet": "guinea pig", "age":15}
+            ,{ "custom_id": "5", "pet": "lion", "age":7}
+            ,{ "custom_id": "6", "pet": "hippo", "age":9}
+                ];
 
 
 
 
-const extraOptions = {
-        mongocryptdSpawnPath: '/usr/local/bin/mongocryptd',
-        mongocryptdBypassSpawn: true,
-        mongocryptdSpawnArgs: ["--port", "30000"],
-         mongocryptdURI: 'mongodb://localhost:30000',
-         mongocryptdSpawnArgs: ["--idleShutdownTimeoutSecs", "75"]
-      }
+//const extraOptions = {
+//        mongocryptdSpawnPath: '/usr/local/bin/mongocryptd',
+//        mongocryptdBypassSpawn: true,
+//        mongocryptdSpawnArgs: ["--port", "30000"],
+//         mongocryptdURI: 'mongodb://localhost:30000',
+//         mongocryptdSpawnArgs: ["--idleShutdownTimeoutSecs", "75"]
+//      }
 
 const jsonSchema= {
-    "bsonType": "object",
-    "encryptMetadata": {
-        "keyId": [
-        {
-            "$binary": {
-            "base64": "OePCTpUhQ0mmYtakcAqzkQ==",
-            "subType": "04"
-            }
-        }
-        ]
-    },
-    "properties": {
+    "bsonType": "object"
+   , "properties": {
         "pet": {
-        "bsonType": "object",
-        "properties": {
-            "policyNumber": {
-            "encrypt": {
-                "bsonType": "int",
-                "algorithm": "AEAD_AES_256_CBC_HMAC_SHA_512-Deterministic"
-            }
-            }
+        "encrypt":     {
+            "bsonType": "string"
+          // ,"algorithm": "AEAD_AES_256_CBC_HMAC_SHA_512-Deterministic"
+           ,"algorithm":  "AEAD_AES_256_CBC_HMAC_SHA_512-Random"
+           ,"keyId": "/custom_id"
+                        }
+               }
+        ,"custom_id":{
+            "bsonType": "string"
         }
-        }
-    }
+                    }
     };
     
 const petSchema = {
@@ -56,6 +50,7 @@ const petSchema = {
 
 const dbName = "testDB";
 const collectionName = "petsColl";
+const collectionOpenName = "petsOpenColl";
 
 async function main(){
     /**
@@ -92,8 +87,8 @@ async function main(){
             const autoEncryption= {
                 keyVaultNamespace,
                 kmsProviders,
-                schemaMap: petSchema,
-                extraOptions: extraOptions
+                schemaMap: petSchema
+                //,extraOptions: extraOptions
               }
          
             const secureClient = new MongoClient(connectionString, {
@@ -103,20 +98,24 @@ async function main(){
              autoEncryption: {
                keyVaultNamespace,
                kmsProviders,
-               schemaMap: petSchema,
-               extraOptions: extraOptions,
+               schemaMap: petSchema
+              // ,extraOptions: extraOptions,
              }
                 });
          
-        // Connect to the MongoDB cluster
+        // Connect to the MongoDB clusterß
         await client.connect();
 
         await secureClient.connect();
 
-        //insert a doc
-        await createMdbDoc(secureClient, dbName, collectionName, docArray[0]);
+        for (i = 0; i < 6; i++) {
 
-        await createMdbDoc(client, dbName, "petsOpen", docArray[0]);
+             //insert a doc
+            await createMdbDoc(secureClient, dbName, collectionName, docArray[i]);
+
+            await createMdbDoc(client, dbName, collectionOpenName, docArray[i]);
+
+        }
 
  
         // Make the appropriate DB calls
@@ -142,5 +141,5 @@ async function listDatabases(client){
 
 async function createMdbDoc(client, dbName, collectionName, mdbDoc){
     const result = await client.db(dbName).collection(collectionName).insertOne(mdbDoc);
-    console.log(`New MongoDB document created with following id: ${result.insertedId}`);
+    console.log(`New MongoDB document created with following id: ${result.inserted_id}`);
 }
